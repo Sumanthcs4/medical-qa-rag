@@ -1,0 +1,1030 @@
+Nocturnal noninvasive positive pressure
+ventilation in stable COPD: A systematic
+review and individual patient data meta-
+analysis
+F.M. Struik a,b,*, Y. Lacasse c, R.S. Goldstein d,
+H.A.M. Kerstjens a,b, P.J. Wijkstra a,b
+a Department of Pulmonology, Center for Home Mechanical Ventilation, University of Groningen,
+Groningen University Medical Center Groningen (UMCG), Groningen, The Netherlands
+b Groningen Research Institute for Asthma and COPD (GRIAC), University of Groningen,
+Groningen University Medical Center Groningen (UMCG), Groningen, The Netherlands
+c Centre de Pneumologie, Institute Universitaire de Cardiologie et de Pneumologie de Que´bec,
+Hoˆpital Laval, Que´bec, Canada
+d Division of Respiratory Medicine, West Park Healthcare Centre, University of Toronto, Toronto,
+Canada
+Received 18 September 2013; accepted 6 October 2013
+Available online 14 October 2013
+KEYWORDS
+COPD;
+Meta-analysis;
+Non-invasive
+ventilation;
+Systematic review
+Summary
+Introduction: The effects of nocturnal noninvasive positive pressure ventilation (NIPPV) in pa-
+tients with stable chronic obstructive pulmonary disease (COPD) remain controversial.
+Methods: The Cochrane Airways group Register of Trials, MEDLINE, EMBASE and CINAHL were
+searched up to August 2012. Individual patient data from randomised controlled trials on NIPPV
+outcomes were selected for two separate meta-analyses: the ﬁrst with follow-up of 3 months
+and the second with 12 months of follow-up. Additionally, subgroup analyses within the NIPPV
+group comparing IPAP levels, compliance and levels of hypercapnia on change in PaCO2 after 3
+months were performed.
+Results: Seven trials (245 patients) were included. All studies were considered of moderate to
+high quality. No signiﬁcant difference was found between NIPPV and control groups after 3 or
+12 months of follow-up when looking at PaCO2 and PaO2, 6-minute walking distance, health-
+related quality-of-life, forced expiratory volume in 1 s, forced vital capacity, maximal inspira-
+tory pressure and sleep efﬁciency. Signiﬁcant differences in change in PaCO2 after 3 months
+* Corresponding author. University Medical Center Groningen, Department of Pulmonary Diseases/Home Mechanical Ventilation, Triade
+gebouw AA62, 9713 GZ Groningen, The Netherlands. Tel.: þ31 (0) 50 3613200; fax: þ31 (0) 50 3613900.
+E-mail addresses: f.m.struik@umcg.nl, fransienstruik@hotmail.com (F.M. Struik).
+0954-6111/$ - see front matter ª 2013 Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.rmed.2013.10.007
+Available online at www.sciencedirect.com
+ScienceDirect
+journal homepage: www.elsevier.com/locate/rmed
+Respiratory Medicine (2014) 108, 329e337
+were found for patients ventilated with IPAP levels of at least 18 cm H2O, for patients who used
+NIPPV for at least 5 h per night as well as for patients with baseline PaCO2 of at least 55 mm Hg
+when compared to patients with lower IPAP levels, poorer compliance or lower levels of hyper-
+capnia.
+Discussion: At present, there is insufﬁcient evidence to support the application of routine
+NIPPV in patients with stable COPD. However, higher IPAP levels, better compliance and higher
+baseline PaCO2 seem to improve PaCO2.
+ª 2013 Elsevier Ltd. All rights reserved.
+Introduction
+Chronic
+Obstructive
+Pulmonary
+Disease
+(COPD)
+is
+an
+important cause of morbidity and mortality world-wide [1].
+There is a wide range of therapeutic approaches to this
+disease, but to date, only smoking cessation and the pro-
+vision of long term oxygen therapy to hypoxemic patients
+have been shown to prolong life [2]. Other treatment op-
+tions which can be considered when pharmacological
+therapy is optimal include pulmonary rehabilitation [3],
+lung volume reduction surgery [4] and in extreme cases lung
+transplantation [5]. Currently, several studies are ongoing
+in the ﬁeld of severe emphysema, looking at the possibil-
+ities of bronchoscopic lung volume reduction [6].
+In COPD patients with chronic hypercapnic respiratory
+failure nocturnal noninvasive positive pressure ventilation
+(NIPPV) might be beneﬁcial. NIPPV is currently applied as
+evidence based therapy in COPD patients admitted to
+hospital with acute hypercapnic respiratory failure due to
+an exacerbation. It has been shown that it reduces hospital
+deaths and complications associated with treatment and
+length of hospital stay [7]. However, studies and systematic
+reviews on the effects of chronic NIPPV in stable hyper-
+capnic COPD have been contradictory [8,9] due to small
+number of patients, uncontrolled designs and different
+levels of inspiratory pressures delivered by the ventilator.
+Several theories exist as to why chronic NIPPV might be
+beneﬁcial. Firstly, NIPPV has been shown to improve sleep
+time and efﬁciency [10]. Secondly, NIPPV during sleep may
+ameliorate nocturnal hypoventilation and allows the res-
+piratory centre to be reset and reduce daytime hypercapnia
+[11]. Thirdly, NIPPV might rest the chronically fatigued
+muscles, leading to recovery of the inspiratory muscle
+function [12]. Lastly it has been suggested that NIPPV de-
+creases hyperinﬂation leading to an improvement in respi-
+ratory mechanics, such as an increase in forced expiratory
+volume in 1 s (FEV1) and a decrease in residual volume (RV)
+[11,13].
+Over the last few years, several non randomised un-
+controlled trials have reported on a new approach to NIPPV
+aimed at maximally reducing arterial carbon dioxide pres-
+sure (PaCO2) levels by means of high inspiratory positive
+airway pressure (IPAP) and high backup rates [14]. These
+studies, all with a mean IPAP of around 30 cm H2O have
+shown improvements in blood gases during spontaneous
+breathing as well as improvements in lung function and
+health-related
+quality-of-life
+(HRQL).
+A
+randomised
+controlled crossover trial [15] comparing 6 weeks of high-
+intensity NIPPV (Hi-NIPPV) (mean IPAP 29 cm H2O in
+controlled mode) to 6 weeks of low-intensity NIPPV (mean
+IPAP 15 cm H2O in assist mode) found signiﬁcant improve-
+ments compared to baseline only in the Hi-NIPPV group in
+arterial carbon dioxide tension (PaCO2), FEV1, forced vital
+capacity (FVC) and HRQL. Interestingly, patients showed a
+higher compliance in the high-intensity NPPV group.
+To give an update of the current literature we per-
+formed a meta-analysis based on individual patient data
+from all included studies. First results of this analysis have
+already been reported in the Cochrane Database of Sys-
+tematic Reviews [16].
+Our objectives were to:
+1) Assess the between group effects among stable COPD
+patients with and without NIPPV on blood gasses, 6-
+minute walking distance (6MWD), health-related qual-
+ity-of-life, lung function, respiratory muscle function,
+sleep efﬁciency (SE) and dyspnoea.
+2) Perform sub analyses within the NIPPV group to explore
+the effects of IPAP levels, compliance, as well as level
+of hypercapnia on PaCO2.
+Methods
+Search strategy
+A search was done up to August 2012 in all records in the
+Airways register of the Cochrane Institute coded as ‘COPD’
+using the following search string:/(nasal OR mechanical OR
+noninvasive OR non-invasive or “noninvasive” or positive OR
+intermittent OR bi-level OR “bi level” OR airway* OR
+controlled OR pressure OR support AND (ventilat*)) OR
+(NIPPV)/. This contains records downloaded from MEDLINE,
+EMBASE and CINAHL, as well as records identiﬁed through
+hand searching and abstracts from meetings of the Amer-
+ican Thoracic Society, British Thoracic Society and Euro-
+pean Respiratory Society. In addition, we searched the
+bibliographies of each RCT for additional papers that may
+contain RCTs.
+Selection criteria
+We included randomised controlled trials in stable patients
+with
+COPD,
+comparing
+non-invasive
+positive
+pressure
+ventilation (NIPPV) plus standard therapy with standard
+therapy alone. The intervention in the treatment group
+was NIPPV applied through nasal or face mask, for at least
+330
+F.M. Struik et al.
+ﬁve hours during the night, for at least three consecutive
+weeks. Participants also received their usual standard
+COPD therapy which could comprise supplemental oxygen,
+bronchodilators, theophylline and inhaled and/or oral
+steroids.
+Data extraction and quality assessment
+Two investigators (PJW and FMS) independently assessed all
+titles and abstracts to identify and select potentially rele-
+vant articles. When abstracts were selected, full papers
+were retrieved and read in detail by both reviewers. After
+identiﬁcation
+of studies,
+authors were contacted
+for
+permission to share anonymised individual patient data.
+Supplied data were ﬁrst checked against study publications
+after which raw data from all included studies was copied
+to one main database.
+The quality of the eligible studies was assessed by
+criteria for assessment of risk of bias provided in the
+Cochrane
+Handbook
+for
+Systematic
+Reviews
+of
+In-
+terventions [17]. The risk of bias of each study was assessed
+by addressing the following domains: sequence generation,
+allocation concealment, blinding of participants, personnel
+and outcome measures, incomplete outcome data, selec-
+tive outcome reporting, other sources of bias.
+Outcome measures
+Primary outcome measures were arterial blood gas tensions
+(PaCO2, PaO2), 6-minute walking distance (6MWD) and
+health
+status
+(health-related
+quality-of-life
+measure-
+ments). Secondary outcomes were lung function (forced
+expiratory volume in 1 s (FEV1) and forced vital capacity
+(FVC)),
+respiratory
+muscle
+function
+(muscle
+strength,
+including maximal inspiratory pressure (PImax)), sleep ef-
+ﬁciency (time asleep as percentage of total time in bed
+(SE)) and dyspnoea.
+Data synthesis and statistical analysis
+The principal investigators of the trials included in the
+meta-analysis kindly provided the individual data for each
+of their study subjects. We therefore conducted an indi-
+vidual data meta-analysis. In the case of crossover trials,
+we considered only the ﬁrst study period (prior to the
+crossover). For each individual and for each outcome, we
+calculated an absolute difference in score that deﬁned
+treatment effect. An overall treatment effect (and associ-
+ated 95% conﬁdence interval) was obtained from the dif-
+ference in scores under each study condition (NIPPV minus
+controls). A linear mixed model was used to compare the
+treatment effects. Treatment and time of follow-up (3 and
+12 months) were analysed with interaction terms as ﬁxed
+factors.
+To consider the homogeneity among trials, a random
+factor was deﬁned in the statistical models. Statistical
+signiﬁcance (p < 0.05) in the test of homogeneity suggested
+that the observed difference in the treatment effects was
+in part attributable to the study effect.
+Subgroup analysis
+Subgroup analyses were considered if sufﬁcient studies and
+a large enough sample size were to be included in the
+analysis and if signiﬁcant heterogeneity was found among
+the outcomes of the trials. We identiﬁed a priori potential
+sources of heterogeneity among the primary and secondary
+outcomes:
+1) The higher the level of IPAP, the higher the improve-
+ment in PaCO2
+2) The better the compliance of NIPPV, the greater the
+improvement in PaCO2
+3) The higher the level of hypercapnia at baseline, the
+higher the improvement PaCO2
+Differences between subgroups were analysed by using
+an independent samples t-test when variables were nor-
+mally distributed.
+The division in levels of IPAP was based on results from
+the study by Meecham Jones et al., [10] the only included
+study presenting signiﬁcant effects of NIPPV when looking
+at daytime PaCO2. As the median IPAP setting in this study
+was 18 cm H2O, subjects were divided into 2 groups with
+levels of <18 cm H2O or 18 cm H2O.
+For exploration of the effects of compliance with NIPPV
+(hours of ventilation per night) on PaCO2, the NIPPV group
+was divided into 2 groups based on less than or equal to at
+least 5 h of ventilation per night. This was based on our
+Figure 1
+CONSORT ﬂow diagram.
+Noninvasive ventilation in stable COPD
+331
+inclusion criteria that studies needed to have the intention
+to ventilate patients for at least 5 h per night. Compliance
+was measured in all studies by built-in time counters on the
+NIPPV devices.
+The division in PaCO2 at baseline into 2 groups of
+<55 mm Hg and 55 mm Hg was made based on guidelines
+from a consensus conference report [18].
+Results
+Study selection and characteristics
+The process for selection of reviews and trials for this re-
+view is shown in Fig. 1. Seven papers met all inclusion
+criteria and were included in the meta-analysis [10,19e24].
+Five studies were excluded for following reasons: duration
+of NIPPV too short (NIV protocol less than 4 h per night and
+at daytime) [25,26]; training of NIPPV too short (less than
+three weeks [27] and two studies were not randomised
+[28,29].
+Of the seven studies included (Table 1), ﬁve had a length
+of follow-up of at least 3 months [10,19,21,23,24], here
+classiﬁed as short term group, and two had measurements
+of at least 12 months of NIPPV, classiﬁed as long term group
+[20,22].
+Five
+studies
+applied
+NIPPV
+through
+a
+nasal
+mask
+[10,19e21,24] and two by either a nasal or full face mask
+[22,23]. Patients were recruited from Pulmonary Clinics
+and admitted in ﬁve studies [10,19e22] as in-patients for
+several days for training with NIPPV. In the two remaining
+studies, patients were observed for several hours of
+training (2e4) before going home with NIPPV the same day
+[23,24].
+Individual patient data was gathered from all studies
+with in total 245 patients (Table 2).
+Table 1
+Characteristics of included studies.
+Trial
+Study design
+(compared to
+treatment)
+IPAP/
+EPAP
+Study population
+Outcomes
+Short term
+Casanova (2000) [19]
+Parallel group
+(LTOT)
+12/4
+52 randomised patients,
+36 completers. PaCO2
+51 mmHg, FEV1 0.84 L
+Blood gasses, lung function,
+PImax/PEmax, dyspnoea
+after 3 months. Exacerbation
+rate, hospital admissions,
+intubations and mortality
+after 12 months
+Clini (2002) [20]
+Parallel-group
+(LTOT)
+14.4/3.8
+90 randomised patients,
+78 completers. PaCO2
+56 mm Hg, FEV1 0.75 L
+Blood gasses and hospitalisations
+after 3 months
+Gay (1996) [21]
+Parallel-group
+(sham)
+10/2
+13 randomised patients,
+10 completers. PaCO2
+52 mm Hg, FEV1 0.68 L
+Blood gasses, 6MWD, lung
+function, PImax/PEmax and
+sleep study
+Meecham Jones
+(1995) [10]
+Cross-over
+(LTOT)
+18/2
+18 randomised patients,
+14 completers. PaCO2
+56 mm Hg, FEV1 0.84 L
+Blood gasses, 6MWD, HRQL,
+lung function and sleep study
+Sin (2007) [23]
+Parallel-group
+(sham)
+20/4
+23 randomised patients,
+17 completers. PaCO2
+43 mm Hg, FEV1 0.88 L
+Blood gasses, 6 MWD, lung
+function, HRV þ natriuretic
+peptide measurements
+Strumpf (1991) [24]
+Cross-over
+(standard care)
+15/2
+19 randomised patients,
+7 completers. PaCO2
+46 mm Hg, FEV1 0.54 L
+Blood gasses, walking test,
+lung function, PImax/PEmax,
+sleep study, dyspnoea
+Long term
+Clini (2002) [20]
+Parallel-group
+(LTOT)
+14.6/3.9
+90 randomised patients,
+57 completers. PaCO2
+56 mm Hg, FEV1 0.75 L
+Blood gasses, 6MWD, HRQL,
+lung function, PImax, sleep
+study, dyspnoea, hospitalisations,
+mortality
+McEvoy (2009) [22]
+Parallel-group
+(LTOT)
+12.8/5.1
+144 randomised patients,
+81 completers. PaCO2
+54 mm Hg, FEV1 0.65 L
+Blood gasses, HRQL, lung
+function, sleep study (only in
+NIPPV group), hospitalisation
+rates, survival
+EPAP, expiratory positive airway pressure; FEV1, forced expiratory volume in 1 s; HRQL, health-related quality-of-life; HRV, heart rate
+variability; IPAP, inspiratory positive airway pressure ; LTOT, long term oxygen therapy; NIPPV, noninvasive positive pressure ventilation;
+PaCO2, arterial carbon dioxide tension while breathing room air; PImax, maximal inspiratory pressure; PEmax, maximal expiratory
+pressure; 6MWD, 6-minute walking distance.
+332
+F.M. Struik et al.
+Risk of bias in individual studies
+Overall all studies were considered of moderate to high
+quality. All 7 studies described how randomisation was
+performed and described adequate allocation conceal-
+ment. Blinding of participants is difﬁcult given the nature
+of the intervention, but two studies managed to use a sham
+device [21,23]. Blinding for physiological measurements
+was done in 3 studies [19,20,24] but we judged outcome
+measurement was not likely to be inﬂuenced by lack of
+blinding for personnel. All studies had drop-outs in both
+groups due to intercurrent illnesses but with a slightly
+higher percentage in the NIPPV groups also due to intoler-
+ance to NIPPV. Two studies [21,24] were therefore classiﬁed
+as high risk of attrition bias due to high dropout rates
+(incomplete data Risk of bias for selective reporting was
+unclear for all studies, but no other potential sources of
+bias were found).
+Meta-analyses
+Table 3 shows the results of the meta-analysis using indi-
+vidual patient data per outcome measurement. No signiﬁ-
+cant differences were found between NIPPV and control
+groups after 3 or 12 months of follow-up. Treatment effects
+for blood gasses and 6MWD after 3 months were modest
+(2.5 mm Hg for PaCO2, 27.7 m for 6MWD) but conﬁdence
+intervals exceeded zero. PI and PEmax after 3 months
+showed small treatment effects. Small negative effects
+were calculated for PaO2 and HRQL after 12 months, FEV1
+after both 3 and 12 months and for sleep efﬁciency after 3
+months.
+Heterogeneity was found for 3 outcome measures:
+HRQL, PEmax and sleep efﬁciency, probably due to small
+number of studies and therefore participants. For this
+reason subgroup analysis for these outcomes was not
+considered appropriate.
+Subgroup analysis
+Subgroup analyses within the NIPPV group (n Z 78)
+comparing levels of IPAP, different number of hours of
+ventilation and different levels of baseline hypercapnia on
+Table 2
+Demographic proﬁle based on individual patient
+data.
+Control n Z 127
+NIPPV n Z 118
+Age (yrs)
+68.4 (6.5)
+64.6 (7.1)
+Male n (%)
+75
+80
+PaCO2 (kPa)
+52.4 (6.8)
+53.9 (8.3)
+PaO2 (kPa)
+54.6 (8.3)
+55.7 (13.1)
+FEV1 (L)
+0.72 (0.23)
+0.76 (0.31)
+FVC (L)
+2.01 (0.67)
+2.02 (0.66)
+IPAP (cm H2O)
+e
+14.2 (3.1)
+EPAP (cm H2O)
+4.0 (1.0)
+Compliance
+(hours/day)
+e
+6.7 (2.2)
+Data presented as mean  SD unless otherwise stated.
+NIPPV; noninvasive positive pressure ventilation; PaCO2, arte-
+rial carbon dioxide tension while breathing room air; PaO2,
+arterial oxygen tension while breathing room air; FEV1, forced
+expiratory volume in one second, post-bronchodilator; FVC,
+forced vital capacity, post-bronchodilator; IPAP, inspiratory
+positive airway pressure; EPAP, expiratory positive airway
+pressure. Compliance in all studies was measured by built-in
+time counters on the NIPPV devices.
+Table 3
+Individual patient data meta-analysis per outcome.
+Outcomes
+Reference no. of
+contributing trials
+No. of (NIPPV/
+control)
+Treatment
+effect
+95% CI
+Homogeneity of
+treatment effect,
+p Value
+Short term (3 months)
+PaO2, mm Hg
+[10,19e21,23,24]
+79/83
+1.30
+0.71; 3.30
+0.4787
+PaCO2, mm Hg
+[10,19e21,23,24]
+79/83
+2.50
+5.28; 0.29
+0.2607
+6MWD, m
+[10,21,23]
+21/19
+27.7
+11.0; 66.3
+0.5662
+FEV1, L
+[10,19,21,23,24]
+42/41
+0.01
+0.09; 0.07
+0.2413
+FVC, L
+[10,19,21,23,24]
+42/40
+0.00
+0.13; 0.14
+0.9570
+PImax, cm H2O
+[19,21,24]
+24/24
+4.87
+1.48; 11.21
+0.5538
+PEmax, cm H2O
+[19,21,24]
+24/24
+22.09
+23.53; 67.70
+0.0002
+Sleep Efﬁciency %
+[10,21,24]
+13/11
+9.11
+38.09; 19.86
+0.0022
+Long term (12 months)
+PaO2, mm Hg
+[20,22]
+62/56
+1.77
+8.60; 5.07
+0.2412
+PaCO2, mm Hg
+[20,22]
+62/56
+0.96
+3.55; 1.64
+0.8290
+SGRQ, score
+[20,22]
+50/53
+0.90
+19.21; 21.01
+0.0288
+FEV1, L
+[20,22]
+63/62
+0.01
+0.07; 0.04
+0.7445
+FVC, L
+[20,22]
+63/62
+0.04
+0.12; 0.20
+0.4510
+PaO2: arterial oxygen pressure; PaCO2: arterial carbon dioxide pressure; FEV1: forced expiratory volume in 1 s, post-bronchodilator; FVC:
+forced vital capacity, post-bronchodilator; PImax: maximal inspiratory pressure; PEmax: maximal expiratory pressure; 6MWD: six minute
+walking distance; SGRQ: St. George Respiratory Questionnaire; NIPPV: noninvasive positive pressure ventilation; 95% CI: 95% conﬁdence
+interval.
+Noninvasive ventilation in stable COPD
+333
+change in PaCO2 after 3 months were performed (Fig. 2).
+Signiﬁcant
+differences
+were
+found
+between
+patients
+ventilated with IPAP levels of 18 cm H2O and higher and
+patients ventilated with levels of below 18 cm H2O (PaCO2
+change MD 3.24, 95% CI 5.83 to 0.64). Also, a signiﬁ-
+cant difference in change in PaCO2 after 3 months of NIPPV
+was found between patients who used NIPPV for at least
+5 h per night and those who used it for less than 5 h per
+night (PaCO2 change MD 4.16, 95% CI 7.06 to 1.26).
+Lastly, we found a signiﬁcant difference between patients
+with baseline PaCO2 of less than or equal to 55 mm Hg
+(PaCO2 change MD4.02, 95% CI 6.25 to 1.79).
+Discussion
+This systematic review on nocturnal NIPPV in stable COPD
+included 7 studies and provided meta-analyses on the ef-
+fects of NIPPV after 3 months and after 12 months of follow
+up. Based on individual patient data of in total 245 patients
+with stable hypercapnic COPD we did not ﬁnd statistically
+signiﬁcant between group differences after 3 months of
+NIPPV for gas exchange, exercise tolerance, lung function,
+respiratory muscle strength and sleep efﬁciency. Meta-
+analysis of long term data of 2 studies, did not show sig-
+niﬁcant improvement in gas exchange, HRQL or lung func-
+tion after NIPPV when compared to standard treatment
+[16].
+Individual patient data permitted subgroup analysis
+within the NIPPV group, and we found that improvements in
+PaCO2 after 3 months were statistically greater in patients
+who received IPAP levels of 18 cm H2O and higher.
+Furthermore, when exploring the effects of compliance of
+NIPPV on change in PaCO2 after 3 months, we found a sig-
+niﬁcant drop in PaCO2 in patients who used ventilation on
+average for more than 5 h per night compared to those who
+used it for less than 5 h per night. Additionally, patients
+with baseline hypercapnia levels of over 55 mm Hg, showed
+a signiﬁcantly bigger improvement in PaCO2 after 3 months
+than those who started NIPPV with PaCO2 levels below
+55 mm Hg.
+Although meta-analysis did not show any signiﬁcant
+differences on any of the outcome measures, the treatment
+effect in PaCO2 improvement of 2.5 mm Hg after 3 months
+of NIPPV could be of clinical importance. The conﬁdence
+intervals only just exceeded zero. The small sample size
+precludes a deﬁnitive statement regarding the clinical im-
+plications of NIPPV, other than stating that at present there
+is insufﬁcient evidence to support its widespread use.
+When interpreting the results for the 6MWD, the high
+upper limit of the conﬁdence interval could be promising.
+With an upper limit of 66 m, NIPPV probably has a beneﬁcial
+effect on walking distance at least in a subgroup of pa-
+tients. Along these lines, a long term study comparing the
+effects of NIPPV plus pulmonary rehabilitation [13] versus
+rehabilitation alone showed signiﬁcant differences in 6MWD
+after 24 months in the NIPPV þ rehabilitation group but not
+in the rehabilitation group alone.
+The levels of IPAP used in the included studies were on
+the low side (8e24 cm H2O). Although the median level of
+IPAP in the short term group was only 14 cm H2O, given the
+current debate on level of IPAP pressures we chose not to
+Figure 2
+Change in PaCO2 after 3 months of noninvasive
+positive pressure ventilation (NIPPV). Change in PaCO2 after 3
+months of NIPPV (PaCO2 baseline e PaCO2 after 3 months) for
+A) high and low inspiratory positive airway pressure (<18 and
+18 IPAP), B) high and low compliance (<5 and 5 ventilation
+hours per night) and C) high and low baseline PaCO2 (<55 and
+55 mm Hg). Figures display mean change scores and 95%
+conﬁdence intervals. Signiﬁcant difference: *: p < 0.05,
+**p < 0.01.
+334
+F.M. Struik et al.
+use this level as a cut-off point for our subgroup analysis.
+Based on results from the study by Meecham Jones [10] an
+IPAP cut-off point of 18 cm H2O was chosen. In line with
+those results, we found signiﬁcant differences between
+groups ventilated with IPAP levels of less than or equal to at
+least 18 cm H2O. This raises the question as to whether Hi-
+NIPPV pressures of around 30 cm H2O are required to
+improve gas exchange during the day. The study by Dui-
+verman et al. [13] comparing the effects of NIPPV in addi-
+tion to rehabilitation showed a signiﬁcant decrease in
+PaCO2 after 3 and 24 months in the NIPPV þ rehabilitation
+group as compared to the rehabilitation group. Although
+mean levels of IPAP after 3 months were 20 cm H2O and
+after 2 years 23 cm H2O, they found no relationship be-
+tween the level of IPAP and change in PaCO2.
+However, two recently published trials do advocate the
+more aggressive forms of NIPPV using higher IPAP levels.
+Dreher et al. [15]showed that the considerably higher
+amount of air leakage which accompanies high-intensity
+NIPPV does not reduce sleep quality when compared to
+low-intensity NIPPV [30]. In addition, this form was even
+better tolerated and they show that high-intensity NIPPV
+with a mean of 29 mm H2O and high backup rate was su-
+perior in controlling nocturnal hypoventilation. The study
+by Murphy et al. [31] however challenges the need for the
+accompanying high backup rates alongside high IPAP levels
+in the high-intensity NIPPV form. They compared high-
+intensity NIPPV with high-pressure NIPPV (high pressure
+and low backup rate) and found no differences in mean
+nocturnal ventilator usage, gas exchange or sleep quality.
+However, high-intensity NPPV has raised some concerns
+when focusing on cardiac output [32],as shown in a recent
+randomised cross-over study [33] assessing the acute
+physiological effects of low-intensity (Li-) NPPV and Hi-
+NPPV in 15 patients with stable COPD. While both forms
+signiﬁcantly improved gas exchange compared to sponta-
+neous breathing, Hi-NPPV induced a marked lowering in
+cardiac output [34].
+Even though this is speculative, this ﬁnding might
+however not necessarily be negative as a reduction in
+cardiac output may simply reﬂect that the heart is more
+“rested” because of reduced oxygen consumption that
+results from rested respiratory muscles. Nevertheless
+cardiac function should be focused on in future trials with
+Hi-NPPV in COPD.
+Our ﬁnding of signiﬁcant differences in PaCO2 after 3
+months between patients with ‘low’ and ‘higher’ compli-
+ance of NPPV was similar to results from the study by Dui-
+verman et al. [35] who found that change in PaCO2 after 3
+months correlated with the number of hours of NIPPV use
+per day. This supports our inclusion criteria that only
+studies with the intention to ventilate patients for at least
+5 h per night were to be included in this meta-analysis.
+Because of our access to individual patient data, we
+noticed a subgroup that however was not able to achieve
+5 h of ventilation per night making this comparison
+possible. Remarkably, PaCO2 deteriorated after 3 months of
+NIPPV for those patients with compliance of less than 5 h,
+whilst it improved in the group of patients who used NIPPV
+for more than 5 h per night. As the subgroup analyses were
+performed within the NIPPV group with 78 patients in total,
+these
+outcomes
+should
+be
+classiﬁed
+as
+hypothesis-
+generating and need further in-depth investigation in new
+larger studies. An additional subgroup analysis could be
+based on body mass index (BMI) (with assumed additional
+sleep-related breathing disorders). Unfortunately we did
+not have access to these data to explore the possible
+beneﬁt provided by NIPPV.
+We were unable to comment on the symptom of dysp-
+noea as different scales were used to assess it, including
+the Borg scale, the Baseline and Transitional Dyspnea Index
+and the MRC scale [19,20,24] and the length of follow up
+varied among the studies.
+Similar limitations were noted for HRQL, but we were
+able to combine HRQL data from the 2 long-term studies
+[20,22] who used the St. George Respiratory Questionnaire.
+The absence of signiﬁcant differences may reﬂect the St.
+George questionnaire not being applicable for patients with
+severe COPD and respiratory failure. The Maugeri Respira-
+tory Failure questionnaire-28 (MRF-28) [36] and the Severe
+Respiratory Insufﬁciency questionnaire (SRI) [37] were each
+designed for patients with respiratory failure. Both have
+been found to be reliable and valid in this population
+[38,39].
+Our study has several limitations. The quality of studies
+was inconsistent: The 5 short term RCT’s [10,19,21,23,24]
+included only small numbers of patients making it difﬁcult
+to assess the real beneﬁt of NIPPV in stable COPD. For long
+term outcomes only 2 RCT’s met all inclusion criteria
+[20,22]. We performed meta-analysis only with patients
+who completed the study. In 2 of the short term studies
+[21,24], patients dropped out due to intolerance of NIPPV,
+possibly introducing selection bias when only reporting
+the completers. The 2 long term RCT’s [20,22], looking at
+effects of NIPPV after 12 months also reported drop outs,
+but a crucial difference compared to the short term
+studies were the reasons for dropping out: this was mainly
+due to progression of the disease and reluctance to return
+to hospital for repeated measurements. These studies
+highlight the difﬁculties researchers encounter when
+including patients who are often in the end stage of their
+disease.
+Another study limitation is the absence of data on
+exacerbation rate, hospital admissions or survival. Although
+two both long-term studies [20,22] and 1 short term study
+[19] did report some of these outcomes, the information
+was insufﬁcient to draw conclusions. Future studies that
+include the above outcomes over an extended period will
+enable
+conclusions
+to
+be
+made
+regarding
+the
+cost-
+effectiveness of this treatment regimen.
+In conclusion, this meta-analysis found no signiﬁcant
+effect of NIPPV after 3 or 12 months on gas exchange, ex-
+ercise tolerance, quality of life, lung function, respiratory
+muscle strength or sleep efﬁciency in stable COPD. As in-
+dividual patient data was collected, this meta-analysis
+enabled hypothesis generating subgroup analyses showing
+that higher IPAP levels, more ventilation hours and higher
+baseline PaCO2 seem to improve PaCO2 after 3 months of
+NIPPV. Nevertheless there is currently insufﬁcient evidence
+to support the broader application of NIPPV in patients with
+stable COPD. Despite the lack of positive results in this
+meta-analysis further studies should focus on HI-NPPV as
+these did show positive outcomes however, mainly ach-
+ieved in uncontrolled studies.
+Noninvasive ventilation in stable COPD
+335
+Funding source
+The Dutch Lung Foundation, Philips/Respironics, Mediq
+TEFA and Stichting Astma Bestrijding (AF 3.4.06.044 and
+2010/10).
+Conﬂict of interest
+F. Struik, H. Kerstjens and P. Wijkstra are involved in a trial
+of NIPPV funded by Philips/Respironics and Mediq/TEFA. Dr.
+P. Wijkstra reports grants and personal fees from Philips
+Respironics, RESMED, VIVISOL, and grants from EMDAMED,
+Air LIQUIDE and Goedegebeure outside the submitted work.
+Y. Lacasse and R. Goldstein have reported that no potential
+conﬂicts of interest exist with any companies/organizations
+whose products or services may be discussed in this article.
+Acknowledgements
+We are very grateful to all authors of the included studies;
+Ciro Casanova, Enrico Clini, Peter Gay, Doug McEvoy, Jef-
+frey Meecham Jones, Don Sin and David Strumpf (Carol
+Carlisle & Nicholas Hill) who provided individual patient
+data for this meta-analysis. We also thank Serge Simard for
+statistical help and the Cochrane Airways Review group.
+References
+[1] Rabe KF, Hurd S, Anzueto A, Barnes PJ, Buist SA, Calverley P,
+et al. Global strategy for the diagnosis, management, and
+prevention of chronic obstructive pulmonary disease: GOLD
+executive summary. Am J Respir Crit Care Med 2007;176:
+532e55.
+[2] Crockett AJ, Cranston JM, Moss JR, Alpers JH. A review of
+long-term oxygen therapy for chronic obstructive pulmonary
+disease. Respir Med 2001;95:437e43.
+[3] Lacasse Y, Goldstein R, Lasserson TJ, Martin S. Pulmonary
+rehabilitation for chronic obstructive pulmonary disease.
+Cochrane Database Syst Rev 2006;(4):CD003793.
+[4] Cooper JD. The history of surgical procedures for emphysema.
+Ann Thorac Surg 1997;63:312e9.
+[5] Orens JB, Estenne M, Arcasoy S, Conte JV, Corris P, Egan JJ,
+et al. International guidelines for the selection of lung
+transplant candidates: 2006 updateea consensus report from
+the Pulmonary Scientiﬁc Council of the International Society
+for Heart and Lung Transplantation. J Heart Lung Transplant
+2006;25:745e55.
+[6] Slebos DJ, Klooster K, Ernst A, Herth FJ, Kerstjens HA. Bron-
+choscopic lung volume reduction coil treatment of patients
+with severe heterogeneous emphysema. Chest 2012;142:
+574e82.
+[7] Ram FS, Picot J, Lightowler J, Wedzicha JA. Non-invasive
+positive pressure ventilation for treatment of respiratory
+failure due to exacerbations of chronic obstructive pulmonary
+disease. Cochrane Database Syst Rev 2004;(3):CD004104.
+[8] Kolodziej MA, Jensen L, Rowe B, Sin D. Systematic review of
+noninvasive positive pressure ventilation in severe stable
+COPD. Eur Respir J 2007;30:293e306.
+[9] Wijkstra PJ, Lacasse Y, Guyatt GH, Casanova C, Gay PC,
+Meecham JJ, et al. A meta-analysis of nocturnal noninvasive
+positive pressure ventilation in patients with stable COPD.
+Chest 2003;124:337e43.
+[10] Meecham Jones DJ, Paul EA, Jones PW, Wedzicha JA. Nasal
+pressure support ventilation plus oxygen compared with oxy-
+gen therapy alone in hypercapnic COPD. Am J Respir Crit Care
+Med 1995;152:538e44.
+[11] Elliott MW, Mulvey DA, Moxham J, Green M, Branthwaite MA.
+Domiciliary nocturnal nasal intermittent positive pressure
+ventilation in COPD: mechanisms underlying changes in arte-
+rial blood gas tensions. Eur Respir J 1991;4:1044e52.
+[12] Ambrosino N, Montagna T, Nava S,
+Negri A, Brega S,
+Fracchia C, et al. Short term effect of intermittent negative
+pressure ventilation in COPD patients with respiratory failure.
+Eur Respir J 1990;3:502e8.
+[13] Duiverman ML, Wempe JB, Bladder G, Vonk JM, Zijlstra JG,
+Kerstjens HA, et al. Two-year home-based nocturnal nonin-
+vasive ventilation added to rehabilitation in chronic obstruc-
+tive pulmonary disease patients: a randomized controlled
+trial. Respir Res 2011;12:112.
+[14] Windisch W, Haenel M, Storre JH, Dreher M. High-intensity
+non-invasive positive pressure ventilation for stable hyper-
+capnic COPD. Int J Med Sci 2009;6:72e6.
+[15] Dreher M, Storre JH, Schmoor C, Windisch W. High-intensity
+versus low-intensity non-invasive ventilation in patients with
+stable hypercapnic COPD: a randomised crossover trial. Tho-
+rax 2010;65:303e8.
+[16] Struik FM, Lacasse Y, Goldstein R, Kerstjens HM, Wijkstra PJ.
+Nocturnal non-invasive positive pressure ventilation for stable
+chronic obstructive pulmonary disease. Cochrane Database
+Syst Rev 2013. Art. No.: CD002878.
+[17] Higgins JPT, Green S. Cochrane handbook for systematic re-
+views of interventions Version 5.1.0. The Cochrane Collabo-
+ration; 2011.
+[18] Clinical indications for noninvasive positive pressure ventila-
+tion in chronic respiratory failure due to restrictive lung dis-
+ease, COPD, and nocturnal hypoventilationea consensus
+conference report. Chest 1999;116:521e34.
+[19] Casanova C, Celli BR, Tost L, Soriano E, Abreu J, Velasco V,
+et al. Long-term controlled trial of nocturnal nasal positive
+pressure ventilation in patients with severe COPD. Chest 2000;
+118:1582e90.
+[20] Clini E, Sturani C, Rossi A, Viaggi S, Corrado A, Donner CF,
+et al. The Italian multicentre study on noninvasive ventilation
+in chronic obstructive pulmonary disease patients. Eur Respir
+J 2002;20:529e38.
+[21] Gay PC, Hubmayr RD, Stroetz RW. Efﬁcacy of nocturnal nasal
+ventilation in stable, severe chronic obstructive pulmonary
+disease during a 3-month controlled trial. Mayo Clin Proc 1996;
+71:533e42.
+[22] McEvoy RD, Pierce RJ, Hillman D, Esterman A, Ellis EE,
+Catcheside PG, et al. Nocturnal non-invasive nasal ventilation
+in stable hypercapnic COPD: a randomised controlled trial.
+Thorax 2009;64:561e6.
+[23] Sin DD, Wong E, Mayers I, Lien DC, Feeny D, Cheung H, et al.
+Effects of nocturnal noninvasive mechanical ventilation on
+heart rate variability of patients with advanced COPD. Chest
+2007;131:156e63.
+[24] Strumpf
+DA,
+Millman
+RP,
+Carlisle
+CC,
+Grattan
+LM,
+Ryan SM, Erickson AD, et al. Nocturnal positive-pressure
+ventilation
+via
+nasal
+mask
+in
+patients
+with
+severe
+chronic obstructive pulmonary disease. Am Rev Respir Dis
+1991;144:1234e9.
+[25] Diaz O, Ramos J, Gallardo J, Torrealba B, Lisboa C. Non-
+invasive mechanical ventilation in patients with severe stable
+COPD. Rev Med Chil 1999;127:647e54.
+[26] Renston JP, DiMarco AF, Supinski GS. Respiratory muscle rest
+using nasal BiPAP ventilation in patients with stable severe
+COPD. Chest 1994;105:1053e60.
+[27] Lin CC. Comparison between nocturnal nasal positive pressure
+ventilation
+combined
+with
+oxygen
+therapy
+and
+oxygen
+336
+F.M. Struik et al.
+monotherapy in patients with severe COPD. Am J Respir Crit
+Care Med 1996;154:353e8.
+[28] Clini E, Sturani C, Porta R, Scarduelli C, Galavotti V, Vitacca M,
+et al. Outcome of COPD patients performing nocturnal
+non-invasive mechanical ventilation. Respir Med 1998;92:
+1215e22.
+[29] Kamei
+M.
+Effectiveness
+of
+noninvasive
+positive-pressure
+ventilation for patients with chronic stable hypercapnic res-
+piratory failure. Nihon Kokyuki Gakkai Zasshi 1999;37:886e92.
+[30] Dreher
+M,
+Ekkernkamp
+E,
+Walterspacher
+S,
+Walker
+D,
+Schmoor C, Storre JH, et al. Noninvasive ventilation in COPD:
+impact of inspiratory pressure levels on sleep quality. Chest
+2011;140:939e45.
+[31] Murphy PB, Brignall K, Moxham J, Polkey MI, Davidson AC,
+Hart N. High pressure versus high intensity noninvasive
+ventilation in stable hypercapnic chronic obstructive pulmo-
+nary disease: a randomized crossover trial. Int J Chron
+Obstruct Pulmon Dis 2012;7:811e8.
+[32] Esquinas AM, Scala R, Nasilowski J. Inspiratory pressure during
+noninvasive ventilation in stable COPD: help the lungs, but do
+not forget the heart. Eur Respir J 2013;41:764e5.
+[33] Lukacsovits J, Carlucci A, Hill N, Ceriana P, Pisani L,
+Schreiber A, et al. Physiological changes during low- and high-
+intensity
+noninvasive ventilation.
+Eur
+Respir
+J
+2012;39:
+869e75.
+[34] Lukacsovits J, Nava S. Inspiratory pressure during noninvasive
+ventilation in stable COPD: help the lungs, but do not forget
+the heart. Eur Respir J 2013;41:765e6.
+[35] Duiverman
+ML,
+Bladder
+G,
+Wempe
+JB,
+Kerstjens
+HAM,
+Zijlstra JG, Wijkstra PJ. Chronic ventilatory support improves
+the outcomes of rehabilitation in hypercapnic COPD patients.
+Am J Respir Crit Care Med 2008;177:A557.
+[36] Carone M, Bertolotti G, Anchisi F, Zotti AM, Donner CF,
+Jones PW. Analysis of factors that characterize health
+impairment in patients with chronic respiratory failure.
+Quality of Life in Chronic Respiratory Failure Group. Eur Respir
+J 1999;13:1293e300.
+[37] Windisch W, Budweiser S, Heinemann F, Pfeifer M, Rzehak P.
+The Severe Respiratory Insufﬁciency Questionnaire was valid
+for COPD patients with severe chronic respiratory failure. J
+Clin Epidemiol 2008;61:848e53.
+[38] Duiverman
+ML,
+Wempe
+JB,
+Bladder
+G,
+Kerstjens
+HA,
+Wijkstra PJ. Health-related quality of life in COPD patients
+with
+chronic
+respiratory
+failure.
+Eur
+Respir
+J
+2008;32:
+379e86.
+[39] Struik FM, Kerstjens HA, Bladder G, Sprooten R, Zijnen M,
+Asin J, et al. The Severe Respiratory Insufﬁciency Question-
+naire scored best in the assessment of health-related quality
+of life in chronic obstructive pulmonary disease. J Clin Epi-
+demiol 2013;66:1166e74.
+Noninvasive ventilation in stable COPD
+337

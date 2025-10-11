@@ -1,0 +1,1079 @@
+Mortality in non-cystic ﬁbrosis
+bronchiectasis: A prospective cohort
+analysis*
+P.C. Goeminne a,*, T.S. Nawrot b, D. Ruttens a, S. Seys c,
+L.J. Dupont a
+a University Hospital of Gasthuisberg, Department of Respiratory Disease, Leuven, Belgium
+b Center for Environmental Sciences Hasselt University, Hasselt, Belgium
+c Laboratory of Clinical Immunology, Catholic University of Leuven, Leuven, Belgium
+Received 2 September 2013; accepted 27 December 2013
+Available online 8 January 2014
+KEYWORDS
+Chronic colonization;
+Pseudomonas
+aeruginosa;
+COPD;
+Bronchiectasis;
+Survival;
+Mortality
+Summary
+Introduction: There is limited data on mortality and associated morbidity in non-cystic ﬁbrosis
+bronchiectasis (NCFB). Our aim was to analyze the overall mortality for all newly diagnosed
+patients from June 2006 onwards and to evaluate risk factors for mortality in this cohort.
+Methods: 245 patients who had a new diagnosis of NCFB between June 2006 and October 2012
+at the University Hospital of Leuven, Belgium, were included in the analysis. Death was
+analyzed until end of November 2013. All patients had chest HRCT scan conﬁrming the pres-
+ence of bronchiectatic lesions and had symptoms of chronic productive cough. Univariate
+and multivariate Cox proportional hazard survival regression analysis was used to estimate haz-
+ard ratios (HR) and their 95% conﬁdence intervals (CI) of variables possibly predicting mortal-
+ity.
+Results: Overall mortality in NCFB patients who had a median follow-up of 5.18 years was
+20.4%. Patients with NCFB and associated chronic obstructive pulmonary disease (COPD) had
+a mortality of 55% in that period. Univariate analysis showed higher mortality according to
+age, gender, smoking history, Pseudomonas aeruginosa status, spirometry, radiological extent,
+total number of sputum bacteria and underlying etiology. Multivariate analysis showed signif-
+icant higher mortality with increasing age (HR Z 1.045; p Z 0.004), with increasing number of
+lobes affected (HR Z 1.53; p Z 0.009) and when patients had COPD associated NCFB
+(HR Z 2.12; p Z 0.038). The majority of the 50 deaths were respiratory related (n Z 29; 58%).
+*Prior abstract presentation: Data were presented in an oral presentation at the American Thoracic Society congress 2013 Philadelphia.
+* Corresponding author. University Hospital Gasthuisberg, Department of Lung Disease, Herestraat 49, B-3000 Leuven, Belgium. Tel.: þ32
+16 346805; fax: þ32 16 346803.
+E-mail address: pieter.goeminne@student.kuleuven.be (P.C. Goeminne).
+0954-6111/$ - see front matter ª 2014 Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.rmed.2013.12.015
+Available online at www.sciencedirect.com
+ScienceDirect
+journal homepage: www.elsevier.com/locate/rmed
+Respiratory Medicine (2014) 108, 287e296
+Conclusion: NCFB patients with associated COPD disease had the highest mortality rates
+compared to the other NCFB patients. Additional risk factors for lower survival were increasing
+age and number of lobes affected.
+ª 2014 Elsevier Ltd. All rights reserved.
+Background
+Bronchiectasis is deﬁned as permanently dilated airways
+due to chronic bronchial inﬂammation caused by inappro-
+priate clearance of various microorganisms and recurrent or
+chronic infection [1]. With the exception of cystic ﬁbrosis
+(CF), there is a lack of research into bronchiectasis.
+Recently, De Soyza et al. proposed several research prior-
+ities in non-cystic ﬁbrosis bronchiectasis (NCFB). They state
+that from an epidemiological point of view, more pro-
+spective data are needed on mortality and associated
+morbidity [2].
+Several retrospective analyses have already been per-
+formed. In England and Wales, just under 1000 people die
+from bronchiectasis with the number increasing 3% per
+year [3]. In a hospital setting, mainly older age (>65
+years), male gender, smoking history, mechanical venti-
+lation, socioeconomic status (SES) and lower lung function
+show higher mortality [4e7]. In a cross-sectional retro-
+spective analysis of patients known with a radiological
+diagnosis
+of
+bronchiectasis
+(including
+asymptomatic
+interstitial lung disease and thoracic tumor patients), we
+previously showed a 41-month death rate of 10.6% [8].
+These data are in line with the long term prospective
+analysis by Loebinger et al. They found that over a 13-
+year period, 29.7% of the 91 patients died, and male
+gender, older age, lung function and Pseudomonas aeru-
+ginosa (PA) were correlated with higher mortality [9].
+Another prospective analysis from Turkey showed an even
+poorer outcome with 4-year survival of only 58%. They
+suggest that the presence of hypoxemia, hypercapnia,
+dyspnea levels and radiographic extent lead to higher
+mortality [10].
+Our primary aim was to analyze the overall mortality for
+all newly diagnosed patients from June 2006 onwards. We
+assessed the known risk factors such as age, gender,
+smoking history, number of lobes affected, type of bron-
+chiectasis and PA and evaluated the impact on mortality of
+etiology, number of different bacteriological species in
+retrospective and prospective sputa, azithromycin and
+other long-term antibiotic use and presence/development
+of pulmonary hypertension (PH).
+Materials and methods
+Patient selection
+Patients who had a new diagnosis of bronchiectasis be-
+tween June 2006 and October 2012 at the University Hos-
+pital of Leuven, Belgium, were included in the analysis.
+Death was analyzed until end of November 2013. Patients
+with clinically signiﬁcant and radiologically proven bron-
+chiectasis were included in the analysis.
+Bronchiectasis diagnosis
+All patients had a chest high resolution computed tomog-
+raphy (HRCT) scan conﬁrming the presence of bron-
+chiectatic lesions and had symptoms of chronic productive
+cough. HRCT scans were evaluated by two experienced in-
+dependent radiologists. Images obtained using 1 mm colli-
+mation at full inspiration were reviewed and bronchiectasis
+was deemed to be present if there was one or more of the
+following criteria: a bronchoarterial ratio greater than 1,
+lack of tapering of the bronchi and visualization of bronchi
+within 1 cm of costal or paravertebral pleura or abutting
+the mediastinal pleura [11]. Exclusion criteria were pa-
+tients with a diagnosis of CF (CF transmembrane regulator
+sequences present on genotyping), an underlying tumoral
+problem causing the bronchiectatic lesions (post-radiation,
+secondary
+immunodeﬁciency due to chemotherapy or
+postinfectious due to tumoral obstruction) and patients
+with traction bronchiectasis caused by interstitial lung
+disease or sarcoidosis. Each patient with a diagnosis of
+NCFB was further evaluated for an underlying cause with
+serum protein electrophoresis, immunoglobulines (IgA, IgE,
+IgM, IgG, IgG1-3), speciﬁc IgE to Aspergillus fumigatus,
+speciﬁc IgG to A. fumigatus, nasal NO measurement,
+sputum microbiology and ororhinolaryngological evalua-
+tion. Spirometry and plethysmography were performed to
+evaluate impact on lung function. Additional investigations
+were guided by clinical indication. Postinfectious NCFB was
+deﬁned as NCFB where there is a clear medical history of a
+respiratory infection with a distinct isolated pathogen that
+meant the start of the chronic respiratory complaints or
+(when no such pathogen could be isolated), a history of
+recurrent childhood respiratory infections that meant the
+start of the chronic respiratory complaints. If patients with
+a primary diagnosis of idiopathic NCFB also had concomi-
+tant COPD, they were categorized in the COPD associated
+NCFB group. COPD was deﬁned using the deﬁnition sug-
+gested by the Global Initiative for Chronic Obstructive Lung
+Disease (GOLD). More precisely, patients needed to have
+symptoms of shortness of breath, chronic cough or sputum
+production, and a history of exposure to smoke. Patients
+also needed persistent airﬂow limitation deﬁned as the
+presence of a post-bronchodilator FEV1/FVC ratio lower
+than 0.7 (www.goldcopd.org). The initial diagnosis of COPD
+was made by the general practitioner, the referring respi-
+ratory physician or by the outpatient clinic of COPD at the
+University Hospital of Leuven.
+Data collection
+The following patient data were collected at inclusion: age,
+gender, smoking habits (four categories: active, former,
+passive or never smoker), PA infection status according to
+the criteria deﬁned by Lee et al. [12], total number of
+288
+P.C. Goeminne et al.
+different bacterial species in retrospective and prospective
+sputa, presence of PH (deﬁned as a systolic pulmonary
+arterial
+pressure
+of
+36
+mmHg
+on
+echocardiography
+assuming normal right atrial pressure of 5 mmHg) [13],
+exacerbation rate (deﬁned as the use of antibiotic treat-
+ment due to two or more of the following symptoms: in-
+crease in sputum volume, increase of sputum purulence,
+dyspnea, cough, hemoptysis or fever more than 38 C),
+azithromycin use (a minimum dose of 250 mg three times a
+week during at least 3 consecutive months), other long-
+term antibiotic use (antibiotic treatment longer than 3
+months), SES (based on education level and/or occupation
+of the head of household and divided by low, middle or high
+status), spirometry (according to the ATS/ERS guidelines
+[14,15]), number of lobes affected and type of bronchiec-
+tasis (based on the worst type present on HRCT: cylindrical,
+varicous or cystic). For all patients, sputum culture results,
+therapy use and death were assessed each six months. If
+death occurred, the patient ﬁle was reassessed to identify
+cause of death mentioned in the patient ﬁle.
+Ethical committee
+Approval was obtained from the local ethical committee of
+UZ Leuven, Belgium (B51060 e B32220084152) and was
+registered at ClinicalTrial.gov (NCT01792427).
+Statistics
+Data were expressed as mean with standard deviation (SD)
+or median with 25%e75% interquartile range (IQR) based on
+the distribution of the data. For percent survival and pre-
+sentation of the ﬁgures on total mortality and etiology
+mortality subanalysis, a KaplaneMeier analysis was per-
+formed with a log-rank test to compared different etiology
+subgroups and the curves presented using GraphPad Prism
+5. For the univariate mortality analysis, Cox proportional
+hazard regression analysis was used to estimate hazard
+ratios (HR) and their 95% conﬁdence intervals (CI) of several
+parameters possibly predicting NCFB mortality. For multi-
+variate analysis of factors associated with mortality, a
+multivariate Cox regression analysis was performed. Vari-
+ables that were signiﬁcant in the univariate model were
+included in the multivariate analysis. Analysis was per-
+formed using SAS 9.3 and GraphPad Prism 5. P-values were
+considered to be signiﬁcant if lower than 0.05 and two-
+tailed testing was performed.
+Results
+Patient characteristics
+In total 245 patients with a median follow-up of 5.18 years
+(IQR 4.17e6.38) were included. Patient characteristics are
+shown in Table 1.
+Univariate mortality analysis
+Overall mortality in NCFB patients who had a median follow-
+up of 5.18 years was 20.4% (50 deaths, 195 survivors; Fig. 1).
+Etiology subanalysis showed signiﬁcant differences between
+the different causes (Fig. 2). Patients with bronchiectasis
+who had associated chronic obstructive pulmonary disease
+(COPD) had the worst outcome of all NCFB patients. During
+the median follow-up of 5.18 years, 55% of the COPD asso-
+ciated NCFB died. Over the median 5.18-year follow-up, 14%
+of the patients with idiopathic NCFB and 16% of the post-
+infectious NCFB died. In the miscellaneous group 12% died
+over the follow-up period. This group includes anatomic
+malformations, immunodeﬁciencies, rheumatic disease,
+primary ciliary dyskinesia (PCD), allergic bronchopulmonary
+aspergillosis (ABPA), a1-antitrypsin deﬁciency, vasculitis and
+inﬂammatory bowel disease. For the larger subgroups in the
+miscellaneous group (rheumatic disease, ABPA and immu-
+nodeﬁciency), we found that 20% of the patients with rheu-
+matic disease, 11% of the patients with an underlying
+immunodeﬁciency and 13% of the ABPA NCFB patients died
+over the median follow-up period of 5.18 years.
+Subanalysis
+showed
+signiﬁcantly
+different
+mortality
+curves in patients with different age, gender, smoking
+habits, chronic PA colonization (PACC) status (using the
+criteria deﬁned by Lee et al.) [12], increased total number
+of different bacterial species in all collected sputa, spiro-
+metric values, radiological severity and extent of disease
+(Table 2). A trend was seen for SES, PH and long-term
+antibiotic use but no signiﬁcance for exacerbation rate
+(Table 2). When we accounted for the duration of azi-
+thromycin use, results remained not signiﬁcant (p Z 0.97).
+Multivariate analysis
+Multivariate Cox regression analysis could identify three
+signiﬁcant factors associated with higher mortality (Table 3).
+Age was associated with a higher mortality (HR Z 1.045; 95%
+CI 1.01e1.08; p Z 0.004) with a parameter estimate of 0.044.
+Increasing number of lobes affected were also signiﬁcantly
+associated with mortality (HR Z 1.53; 95% CI 1.11e2.09;
+p Z 0.009) with a parameter estimate of 0.42. A third sig-
+niﬁcant factor for higher mortality in the multivariate anal-
+ysis was the presence of COPD associated NCFB (HR Z 2.12;
+95% CI 1.04-4.30; p Z 0.038) as compared to other etiologies,
+even when omitting spirometric values from the analysis (as
+they might interact with COPD) (HR Z 2.20; 95% CI
+1.15e4.21; p Z 0.017). Finally, a trend was seen when never
+smokers were compared to active smokers (HR Z 2.55; 95% CI
+0.96e6.79; p Z 0.06).
+Causes of death
+The majority of deaths were respiratory related (58%;
+n Z 29; respiratory failure, most frequently due to respi-
+ratory infection) or cardiovascular (16%; n Z 8; acute
+myocardial infarction, rupturing aneurysm, arrhythmia,
+cardiac failure). For some patients (12%; n Z 6) no clear
+cause of death was noted in the clinical records. Other
+causes were neurological (4%; n Z 2; craniocerebral trauma
+and stroke), gastrointestinal (2%; n Z 1; pancreatic tumor),
+nephrological (2%; n Z 1; acute kidney failure), haemato-
+logical (2%; n Z 1; leukemia), euthanasia (2%; n Z 1) and
+intoxication (2%; n Z 1; alcohol).
+Mortality in non-cystic ﬁbrosis bronchiectasis
+289
+Table 1
+Patient characteristics: For socio-economic status (n Z 189) and PH (n Z 117) we did not have data from all patients.
+Data are expressed as median with IQR or mean with standard deviation. All antibiotic treatment was given for at least 3
+months. Colistimethate was inhaled. The bacteria isolated in sputa mentioned in the table are the most relevant bacteria with a
+prevalence of more than 5%. The postinfectious causes were tuberculosis (n Z 23), childhood recurrent infections without a
+clear pathogen (n Z 18), Mycobacterium avium complex (n Z 3), invasive aspergillosis (n Z 2), HIV (n Z 1), childhood measles
+pneumonia (n Z 1) and severe childhood diphtheria (n Z 1). The ‘miscellanous’ group includes a1-antitrypsin deﬁciency
+(n Z 2), vasculitis (n Z 3), inﬂammatory bowel disease (n Z 5), anatomic malformations (n Z 3), PCD (n Z 8), rheumatic
+disease (n Z 25), immunodeﬁcient (n Z 18) and ABPA (n Z 15). ABPA Z Allergic Broncho-Pulmonary Aspergillosis;
+COPD Z chronic obstructive pulmonary disease; F Z Female; FEV1 Z Forced Expiratory Volume in one second; FVC Z Forced
+Vital Capacity; IQR Z Interquartile range; M Z Male; NCFB Z Non-cystic ﬁbrosis bronchiectasis; PCD Z Primary Ciliary Dis-
+kinesia; PH Z Pulmonary Hypertension; TMP/SMX Z trimethoprim/sulfamethoxazole. Pseudomonas aeruginosa status was
+categorized according to the criteria by Lee et al. [12].
+Gender M/F
+49%/51%
+Median age (years)
+68 (IQR 56e78)
+Total n of different bacterial species
+in retrospective sputa
+1 (IQR 0e2)
+Number of exacerbations
+1 (IQR 0e3)/year
+Smoking history
+Never smokers 48.9%
+Former smokers 30.3%
+Passive smokers 3.2%
+Active smokers 17.6%
+Socio-economic status (n Z 189)
+Low 52.9%
+Middle 42.3%
+High 4.8%
+PH in echocardiography (n Z 117)
+45.3%
+Etiology
+Idiopathic 32%
+Postinfectious 20%
+Miscellanous 31%
+COPD associated NCFB 17%
+Pseudomonas aeruginosa status
+Never 78.8%
+Free 9.4%
+Intermittent 3.6%
+Chronic 8.2%
+n of lobes affected
+One lobe 17.1%
+Two lobes 25.3%
+Three lobes 24.9%
+Four lobes 16.8%
+Five lobes 15.9%
+Type of bronchiectatic lesion
+Cilyndrical 62%
+Varicous 30%
+Cystic 8%
+FEV1%
+70%  27%
+FVC%
+87%  25%
+Bacteria isolated in sputa
+- Haemophilus inﬂuenzae
+- Streptococcus pneumonia
+-Staphylococcus aureus
+- Aspergillus spp.
+- Moraxella catarrhalis
+- Stenotrophomonas maltophilia
+18.8%
+14.6%
+13.5%
+11.4%
+7.8%
+6.9%
+Long-term antibiotic use
+- Azithromycin use
+- Other
+38%
+clarithromycin (n Z 10),
+itraconazole (n Z 7),
+voriconazole (n Z 2),
+colistimethate (n Z 6),
+rifampicin (n Z 5),
+pyrazinamide (n Z 2),
+290
+P.C. Goeminne et al.
+Discussion
+Our results show that during the analyzed period, 20.4% of
+the patients died, with more deaths amongst NCFB patients
+with associated COPD. The majority of deaths were due to
+respiratory
+failure.
+Univariate
+analysis
+showed
+higher
+mortality according to age, gender, smoking history, PA
+status,
+spirometry,
+radiological
+extent/severity,
+total
+number of sputum bacteria and underlying etiology. Multi-
+variate analysis resulted in the following risk factors asso-
+ciated with higher mortality: age, number of lobes affected
+and COPD associated NCFB.
+Our analysis with a median follow-up of 5.18 years
+showed a mortality of 20.4%. These percentages are in line
+with our previous cross-sectional retrospective analysis
+and slightly higher than results from the prospective
+analysis by Loebinger et al. where the 4-year mortality
+was 9% and the 8.8-year mortality 16.5% [9]. However, the
+population studied by Loebinger and colleagues shows a
+low prevalence of COPD as 77% were never-smokers and
+less than 4% had emphysema on HRCT [9]. When we
+analyze the survival curves
+of the idiopathic, post-
+infectious and other etiologies, we can perceive that
+these are in line with the data of Loebinger et al. Mortality
+of our NCFB patients (even the best performing etiological
+subgroups) is still higher than the general population in
+Belgium, where a mortality of 9.66& and 9.51& was seen
+in 2006 and 2007 respectively [16]. We speculate that the
+vicious cycle of inﬂammation, infection and structural
+damage with inappropriate mucus clearance increases the
+chances that an infection can lead up to severe respiratory
+insufﬁciency as compared to the general population,
+causing excess mortality.
+The higher mortality in older, male and smoking patients
+was previously acknowledged by several authors [4e7,9].
+One possible explanation is the fact that the COPD patients
+were predominantly male. We also found that active and
+ex-smokers
+were
+predominantly
+male
+whereas
+never
+smokers were predominantly female. After multivariate
+correction, age was still signiﬁcant a factor associated with
+higher mortality. Apart from the logic increase in mortality
+with increasing age, another contributing factor might be
+the overall lower compliance in older patients [17,18].
+Whether closer follow-up or better patient education might
+improve compliance and therefore decrease mortality re-
+quires further research.
+Loebinger et al. could not assess differences in mortality
+rates among the different etiologies as the numbers in the
+several subgroups were too small [9]. Our larger group
+allowed subanalysis, showing higher mortality rates for
+patients with associated COPD, even after multivariate
+analysis. Whether COPD associated bronchiectasis is a
+distinct COPD phenotype, cannot be concluded from our
+study as we did not compare COPD patients without bron-
+chiectasis. However, our data add to previous research
+suggesting that COPD with bronchiectasis is different from
+Figure 2
+KaplaneMeier log-rank test survival curve per NCFB
+etiology over the study period: There was a median follow-up
+time of 5.18 years and the study period started in June 2006
+and ended in November 2013. COPD Z Chronic Obstructive
+Pulmonary Disease; NCFB Z Non-cystic ﬁbrosis bronchiectasis.
+Figure 1
+KaplaneMeier survival curve of the NCFB cohort
+over the study period: a mortality of 20.4% was seen over a
+median follow-up time of 5.18 years.
+Table 1 (continued)
+ethambutol (n Z 7),
+TMP/SMX (n Z 5),
+amoxicillin clavulanate (n Z 1),
+moxiﬂoxacin (n Z 4),
+isoniazid (n Z 5)
+Mortality in non-cystic ﬁbrosis bronchiectasis
+291
+bronchiectasis in other circumstances [19e21]. The higher
+mortality might be attributed to the fact that these pa-
+tients have more severe and more frequent exacerbations,
+higher degree of airway inﬂammation, lower lung function
+and increased colonization [19,22,23]. It is also possible
+that the diagnosis of bronchiectasis is delayed in NCFB
+patients with COPD as the COPD itself can explain the
+majority of their symptoms. Many less severe COPD pa-
+tients will be managed in the community but still may have
+bronchiectasis and COPD [22]. Recent work by Martinez-
+Garcia and colleagues evaluated the impact of bronchiec-
+tasis on COPD, approaching this problem from a COPD
+population perspective. They clearly show that bronchi-
+ectasis was associated with an independent risk of all-
+cause mortality in patients with COPD. In their analysis,
+COPD alone had a mortality of 9.3% whereas our NCFB
+patients without concomitant COPD had a mortality of
+13.3%. More importantly, the combination of COPD and
+NCFB had similar high mortality rates as our data with a
+death rate of 37.8% in their study and 55% in our analysis.
+This suggests that it is not the NCFB or the COPD alone that
+causes excess mortality, but the combination of both [24].
+These high mortality rates and the diagnostic delay often
+seen in NCFB with concomitant COPD imply that COPD
+patients with symptoms suggestive of bronchiectasis, such
+as frequent infectious exacerbations or chronic mucopur-
+ulent/purulent expectorations, need further investigation
+via HRCT.
+Multivariate analysis also underlined that the extent of
+the disease is a risk factor for higher mortality. Extent of
+the bronchiectasis was a very signiﬁcant factor in the paper
+by Loebinger and colleagues but they did not assess HRCT
+scored in a multivariate way [9].
+NCFB patients with an underlying rheumatological dis-
+ease also had a high mortality of 20% as opposed to most
+other NCFB etiologies, with the exception of COPD associ-
+ated NCFB. Swinson et al. previously found that the pres-
+ence of bronchiectasis in rheumatological disease may be
+clinically relevant. Patients with rheumatological disease
+and bronchiectasis were 7.3 times more likely to die during
+Table 2
+Univariate analysis of factors associated with survival: For socio-economic status (n Z 189) and PH (n Z 117) we did
+not have data from all patients. For non-continuous data, we displayed the classes how they were analyzed. Therefore the
+hazard ratio reﬂects the increase for each class increase. M/H Z Middle/High; n Z number; V/C Z Varicous/Cystic;
+vs Z versus.
+Hazard ratio
+95% Conﬁdence interval
+Number of patients
+dead versus alive
+p-Value
+Age (years)
+1.06
+1.04e1.09
+NA
+p < 0.0001
+Gender
+Female vs Male
+4.16
+2.13e8.13
+Female
+Male
+11/124
+39/121
+p < 0.0001
+Smoking
+Never vs Passive vs Ex vs Active
+1.61
+1.27e2.05
+Non
+Passive
+Ex
+Active
+12/120
+2/8
+21/74
+15/43
+p < 0.0001
+Socio-economic status
+Low vs Middle/High
+0.59
+0.30e1.14
+Low
+M/H
+Unknown
+24/100
+14/89
+12/56
+p Z 0.11
+Pulmonary hypertension
+Absence vs presence
+1.59
+0.87e2.90
+Absent
+Present
+Unknown
+19/64
+24/53
+7/128
+p Z 0.13
+Pseudomonas aeruginosa status
+Never vs free vs intermittent
+vs chronic
+1.60
+1.27e2.00
+Never
+Free
+Intermittent
+Chronic
+29/193
+8/23
+3/9
+10/20
+p < 0.0001
+FEV1 (%)
+0.97
+0.96e0.99
+NA
+p < 0.0001
+FVC (%)
+0.98
+0.97e0.99
+NA
+p Z 0.001
+n of exacerbations/year
+1.01
+0.88e1.15
+NA
+p Z 0.94
+n of different bacteria in sputum
+1.38
+1.23e1.54
+NA
+p < 0.0001
+Type
+Cylindrical vs varicous/cystic
+2.55
+1.46e4.48
+Cylindrical
+V/C
+21/153
+29/92
+p Z 0.001
+n of lobes affected
+1.95
+1.54e2.48
+One
+Two
+Three
+Four
+Five
+0/42
+6/62
+12/61
+13/41
+19/39
+p < 0.0001
+Long-term azithromycin use
+0.61
+0.33e1.13
+Yes
+No
+14/152
+36/93
+p Z 0.11
+Long-term antibiotic treatment
+0.54
+0.29e1.00
+Yes
+No
+14/146
+36/99
+p Z 0.0513
+292
+P.C. Goeminne et al.
+a 5-year follow-up period than the general population, ﬁve
+times more likely to die than those with rheumatological
+disease alone and 2.4 times more likely to die than those
+with bronchiectasis alone [25]. One explanation may be the
+increased risk for respiratory infections associated with
+immunomodulatory therapy [26,27]. Another explanation
+might be the lower FEV1 in coexisting NCFB and rheuma-
+tological disease as opposed to other NCFB patients [25].
+This is in line with our previous data, suggesting that
+rheumatological disease severity scores inversely correlate
+with lung functional parameters [26].
+The lack of association between mortality and SES in the
+univariate analysis is somewhat hampered by the lack of
+data. We only had sufﬁcient SES data from 196 patients.
+There is however a trend towards signiﬁcance comparing
+low to middle class status. This is in line with bronchiectasis
+data from New Zealand, showing that socio-economic
+deprivation had a negative impact on survival [6].
+We further found a higher mortality in patients with
+PACC and in patients with number of different bacterio-
+logical species present in sputum in the univariate analysis.
+We know from literature that PA infection is more prevalent
+in patients with more severe bronchiectatic disease and
+causes lower quality of life and worse lung function [27,28].
+PACC is linked with accelerated decline in lung function,
+more severe exacerbations and higher systemic inﬂamma-
+tion [29,30]. Although PACC was not signiﬁcant in our
+multivariate
+model
+(possibly
+due
+to
+an
+overadjusted
+model), PA infection and PACC are important in NCFB. Our
+univariate analysis showed a parameter estimate of 0.47 for
+each increase in Pseudomonas colonization class using the
+criteria of Lee et al. [12] The importance of PACC was
+recently conﬁrmed by Martı´nez-Garcı´a and colleagues,
+using PACC as an element of their bronchiectasis FACED
+severity score [31]. This was simultaneously conﬁrmed by
+Chalmers et al. in their Bronchiectasis Severity Index [32].
+It is therefore important to stay vigilant for the appearance
+of PA in sputa using regular sputum cultures and timely
+eradication. It is not clear if ﬁrst acquisition of PA in NCFB is
+different from CF, but recent research by De Soyza and
+colleagues suggests that (in contrast to CF) cross-infection
+is rare in NCFB patients [33].
+Recently, two scoring systems were published addressing
+the severity of bronchiectasis. The FACED score is an easy
+tool that scores 7 points using 5 dichotomized variables to
+predict mortality and includes FEV1, age, PACC, number of
+lobes affected and shortness of breath [31]. The Bronchi-
+ectasis Severity Index predicts both the chance of future
+hospitalization and mortality and has been validated in
+other centers around Europe. For mortality they found that
+older age, lower FEV1, prior hospitalization and three or
+more exacerbations were of signiﬁcant importance [32].
+Both models show that the majority of the factors we found
+in our univariate analysis play a role in predicting mortality
+and they are excellent tools to use in daily clinical practice.
+However, both studies did not investigate the importance
+of the underlying etiology or associated conditions into
+their model. We add that associated COPD might play a
+pivotal role in predicting mortality, but further research
+with larger populations is needed.
+Table 3
+Multivariate Cox regression analysis of factors associated with survival: Signiﬁcant factors associated with higher
+mortality in the multivariate analysis are age, number of lobes affected and COPD associated non-cystic ﬁbrosis bronchiectasis.
+A trend towards signiﬁcance was seen for active smokers. To account for the interaction between spirometry and COPD we
+performed both multivariate analyses with and without spirometric data. COPD Z Chronic Obstructive Pulmonary Disease;
+FEV1 Z Forced Expiratory Volume in one second; FVC Z Forced Vital Capacity; vs Z versus; NCFB Z Non-Cystic-Fibrosis
+Bronchiectasis; n Z Number.
+Multivariate cox regression variable
+Hazard ratio for death
+95% Conﬁdence interval
+p-Value
+Age (years)
+1.045
+1.01e1.08
+p Z 0.004
+Gender
+Male vs female
+1.75
+0.70e4.35
+p Z 0.23
+Smoking
+Ex vs never
+Passive vs never
+Active vs never
+1.04
+3.25
+2.55
+0.40e2.68
+0.63e16.87
+0.96e6.79
+p Z 0.94
+p Z 0.16
+p Z 0.06
+Pseudomonas aeruginosa status
+Chronic colonization vs non-chronic
+1.35
+0.61e2.97
+p Z 0.46
+Total different bacterial species in all sputa
+1.10
+0.96e1.25
+p Z 0.18
+Type
+Varicous/cystic vs cylindrical
+1.44
+0.69e2.98
+p Z 0.33
+n of lobes affected
+1.53
+1.11e2.09
+p Z 0.009
+FEV1 (%)
+0.99
+0.97e1.01
+p Z 0.41
+FVC (%)
+1.01
+0.99e1.03
+p Z 0.46
+Etiology
+COPD associated NCFB vs other
+2.12
+1.04e-4.30
+p Z 0.038
+Multivariate cox regression without FEV1 and FVC
+Hazard ratio for death
+95% conﬁdence interval
+p-Value
+Etiology
+COPD associated NCFB vs other
+2.20
+1.15e4.21
+p Z 0.017
+Mortality in non-cystic ﬁbrosis bronchiectasis
+293
+Although PH is a known risk factor for mortality and the
+percentages of deaths were higher in the patients with PH
+(42%) versus without PH (28%), there was no signiﬁcant
+difference in terms of mortality [34]. This might be
+hampered by the lack of echocardiographic data in 130
+patients. Not only has research shown a high prevalence of
+PH in COPD patients [35,36], but PH is also known to be of
+importance in NCFB as right ventricular dysfunction and
+right ventricular dimensions are greater in cystic NCFB and
+are positively correlated with systolic pulmonary artery
+pressure and negatively correlated with partial pressure of
+oxygen in arterial blood. In more severe NCFB, there is an
+impaired perfusion with more capillary bed destruction and
+left-to-right shunt, leading to impaired cardiac function
+and pulmonary gas exchange [37].
+There was no signiﬁcant difference in mortality whether
+NCFB patients were taking azithromycin or not. To our
+knowledge, the effect of azithromycin on mortality has not
+been assessed previously. An improvement of exacerbation
+rate, HRCT score and lung function were observed in
+retrospective studies [38,39], which was recently conﬁrmed
+by several double-blind, placebo-controlled trials [40,41].
+The low number of patients, duration of therapy and lack of
+a control population in our study limits this subanalysis.
+More research is needed to establish the effect of azi-
+thromycin on mortality in NCFB.
+Although women are usually predominant in NCFB series,
+we saw an equal distribution between men and women.
+This equal distribution is caused by the predominantly male
+COPD group, whereas the idiopathic and postinfectious
+bronchiectasis were predominantly female.
+One limitation of our study might be the overadjusted
+multivariate model as we included all univariate signiﬁcant
+results in the multivariate model, adding ten variables to
+the model having only 50 events. To analyze stability of the
+signiﬁcant and non-signiﬁcant variables, we have omitted
+certain variables in a second analysis (data not shown). The
+omission of spirometric values (as they might have an
+interaction with COPD) and number of bacteria in sputum,
+showed no change in signiﬁcance of the variables in the
+multivariate Cox regression model and little change in HR
+of the variables. Nonetheless, overadjustment is possible
+and might underestimate the number of multivariate sig-
+niﬁcant variables.
+Another limitation is the absence of a severe respiratory
+condition in a large percentage of our population, given the
+rather low number of exacerbations and an overall good
+lung function. This might account for the absence of
+multivariate signiﬁcance of PACC, number of exacerbations
+and FEV1 in the mortality analysis, whereas other groups
+have found these factors to be of signiﬁcant importance
+[31,32]. Another reason for the absence of PACC in the
+multivariate analysis is the signiﬁcant association we found
+between number of lobes and PA status (data not shown).
+A third limitation might be the fact that some of the
+patients
+needed
+long-term
+antibiotic
+treatment
+for
+several reasons (treatment for ABPA, Aspergillus or (non)-
+tuberculous Mycobacteria). Univariate analysis showed
+that adding these patients to the patients receiving
+chronic azithromycin therapy, showed a near-signiﬁcant
+trend towards a lower mortality. We did not exclude
+these patients in our cohort as these patients were in a
+clinically stable state and exclusion of these patients
+might give a selected view of the overall NCFB population.
+These results suggest that adequate antibiotic treatment
+based on underlying infectious cause or adequate use of
+long-term macrolide treatment may have an impact on
+mortality, but more prospective research is needed to
+conﬁrm these ﬁndings.
+In conclusion, our 5.18-year mortality analysis showed a
+mortality rate of 20.4%. Variables associated with an
+increased probability of mortality in patients with NCFB
+were age, gender, smoking habits, PACC status, increased
+total number of different bacterial species in all collected
+sputa, spirometric values, radiological severity, extent of
+disease and COPD associated NCFB. Multivariate risk factors
+associated with lower survival are increasing age, number
+of lobes affected and COPD associated NCFB.
+Conﬂict of interest
+All authors have read and approved the contents of the
+manuscript and they all contributed importantly to the
+preparation of the ﬁnal manuscript. The manuscript,
+including related data, ﬁgures and tables has not been
+previously published and is not under consideration else-
+where. Finally, none of the authors has a ﬁnancial rela-
+tionship with a commercial entity that has an interest in the
+subject of the presented manuscript.
+Funding
+Lieven J Dupont is a senior research fellow of the FWO.
+Financial disclosure
+None of the authors has a ﬁnancial relationship with a
+commercial entity that has interest in the subject of the
+presented manuscript.
+Consent
+Each patient gave his or her written consent for the
+collection and use of their clinical data.
+Acknowledgment
+PG contributed to the acquisition of the data, analyzed the
+data and wrote the manuscript. TN performed the statis-
+tical analyses. DR contributed to the analysis of the data
+and
+critically
+reviewed
+the
+manuscript.
+SS
+critically
+reviewed the manuscript. LD contributed to the acquisition
+of the data and critically reviewed the manuscript. Both PG
+and LD are the guarantors of the paper, taking re-
+sponsibility for the work.
+References
+[1] Goeminne P, Dupont L. Non-cystic ﬁbrosis bronchiectasis:
+diagnosis and management in 21st century. Postgrad Med J
+2010;86:493e501.
+294
+P.C. Goeminne et al.
+[2] De Soyza A, Brown JS, Loebinger MR. Research priorities in
+bronchiectasis. Thorax 2013;68:695e6.
+[3] Roberts HJ, Hubbard R. Trends in bronchiectasis mortality in
+England and Wales. Respir Med 2010;104:981e5.
+[4] Dupont M, Gacouin A, Lena H, et al. Survival of patients with
+bronchiectasis after the ﬁrst ICU stay for respiratory failure.
+Chest 2004;125:1815e20.
+[5] Finklea JD, Khan G, Thomas S, Song J, Myers D, Arroliga AC.
+Predictors of mortality in hospitalized patients with acute
+exacerbation of bronchiectasis. Respir Med 2010;104:816e21.
+[6] Roberts ME, Lowndes L, Milne DG, Wong CA. Socioeconomic
+deprivation, readmissions, mortality and acute exacerbations
+of bronchiectasis. Intern Med J 2012;42:e129e36.
+[7] Keistinen T, Saynajakangas O, Tuuponen T, Kivela SL. Bron-
+chiectasis: an orphan disease with a poorly-understood prog-
+nosis. Eur Respir J 1997;10:2784e7.
+[8] Goeminne PC, Scheers H, Decraene A, Seys S, Dupont LJ. Risk
+factors for morbidity and death in non-cystic ﬁbrosis bron-
+chiectasis: a retrospective cross-sectional analysis of CT
+diagnosed bronchiectatic patients. Respir Res 2012;13:21.
+[9] Loebinger MR, Wells AU, Hansell DM, et al. Mortality in bron-
+chiectasis: a long-term study assessing the factors inﬂuencing
+survival. Eur Respir J 2009;34:843e9.
+[10] Onen ZP, Gulbay BE, Sen E, et al. Analysis of the factors
+related to mortality in patients with bronchiectasis. Respir
+Med 2007;101:1390e7.
+[11] Brody AS, Klein JS, Molina PL, Quan J, Bean JA, Wilmott RW.
+High-resolution computed tomography in young patients with
+cystic ﬁbrosis: distribution of abnormalities and correlation
+with pulmonary function tests. J Pediatr 2004;145:32e8.
+[12] Lee TW, Brownlee KG, Conway SP, Denton M, Littlewood JM.
+Evaluation of a new deﬁnition for chronic Pseudomonas aer-
+uginosa infection in cystic ﬁbrosis patients. J Cyst Fibros 2003;
+2:29e34.
+[13] Galie N, Hoeper MM, Humbert M, et al., ESC Committee for
+Practice Guidelines (CPG). Guidelines for the diagnosis and
+treatment of pulmonary hypertension: the task force for the
+diagnosis and treatment of pulmonary hypertension of the Eu-
+ropean Society of Cardiology (ESC) and the European Respiratory
+Society (ERS), endorsed by the International Society of Heart and
+Lung Transplantation (ISHLT). Eur Heart J 2009;30:2493e537.
+[14] Miller MR, Crapo R, Hankinson J, et al. General considerations
+for lung function testing. Eur Respir J 2005;26:153e61.
+[15] Miller MR, Hankinson J, Brusasco V, et al. Standardisation of
+spirometry. Eur Respir J 2005;26:319e38.
+[16] Federale Overheidsdienst Economie (FOD), Algmene Directie
+Statistiek en Economische Informatie (ADSEI) http://statbel.
+fgov.be/nl/statistieken/cijfers/bevolking/sterfte_leven/
+sterfte/.
+[17] Barat I, Andreasen F, Damsgaard EM. Drug therapy in the
+elderly: what doctors believe and patients actually do. Br J
+Clin Pharmacol 2001;51:615e22.
+[18] Wong MC, Lau RK, Jiang JY, Grifﬁths SM. Discontinuation of
+angiotensin-converting enzyme inhibitors: a cohort study. J
+Clin Pharm Ther 2012;37:335e41.
+[19] Martinez-Garcia MA, Soler-Cataluna JJ, Donat SY, et al. Fac-
+tors associated with bronchiectasis in patients with COPD.
+Chest 2011;140:1130e7.
+[20] Novosad SA, Barker AF. Chronic obstructive pulmonary disease
+and bronchiectasis. Curr Opin Pulm Med 2013;19:133e9.
+[21] O’Donnell AE. Bronchiectasis in patients with COPD: a distinct
+COPD phenotype? Chest 2011;140:1107e8.
+[22] O’Brien C, Guest PJ, Hill SL, Stockley RA. Physiological and
+radiological
+characterisation
+of
+patients
+diagnosed
+with
+chronic obstructive pulmonary disease in primary care. Thorax
+2000;55:635e42.
+[23] Patel IS, Vlahos I, Wilkinson TM, et al. Bronchiectasis, exac-
+erbation indices, and inﬂammation in chronic obstructive
+pulmonary disease. Am J Respir Crit Care Med 2004;170:
+400e7.
+[24] Martinez-Garcia MA, de la Rosa Carrillo D, Soler-Cataluna JJ,
+et al. Prognostic value of bronchiectasis in patients with
+moderate-to-severe chronic obstructive pulmonary disease.
+Am J Respir Crit Care Med 2013;187:823e31.
+[25] Swinson DR, Symmons D, Suresh U, Jones M, Booth J.
+Decreased survival in patients with co-existent rheumatoid
+arthritis and bronchiectasis. Br J Rheumatol 1997;36:689e91.
+[26] Goeminne PC, Verschueren P, Scheers H, Dupont LJ. Safety of
+immunomodulatory therapy in patients with bronchiectasis
+associated with rheumatic disease and IBD: a retrospective
+and cohort analysis. Clin Rheumatol 2012;31:367e73.
+[27] Davies G, Wells AU, Doffman S, Watanabe S, Wilson R. The
+effect of Pseudomonas aeruginosa on pulmonary function
+in patients
+with
+bronchiectasis.
+Eur
+Respir
+J
+2006;28:
+974e9.
+[28] Wilson CB, Jones PW, O’Leary CJ, Hansell DM, Cole PJ,
+Wilson R. Effect of sputum bacteriology on the quality of life
+of
+patients
+with
+bronchiectasis.
+Eur
+Respir
+J
+1997;10:
+1754e60.
+[29] Martinez-Garcia MA, Soler-Cataluna JJ, Perpina-Tordera M,
+Roman-Sanchez P, Soriano J. Factors associated with lung
+function decline in adult patients with stable non-cystic
+ﬁbrosis bronchiectasis. Chest 2007;132:1565e72.
+[30] Goeminne PC, Vandooren J, Moelants EA, et al. The sputum
+colour chart as a predictor of lung inﬂammation, proteolysis
+and damage in non-cystic ﬁbrosis bronchiectasis: a case-
+control
+analysis.
+Respirology
+2013.
+http://dx.doi.or-
+g/10.1111/resp.12219 [Epub ahead of print].
+[31] Martı´nez-Garcı´a MA, de Gracia J, Vendrell Relat M, et al.
+Multidimensional approach to non-cystic ﬁbrosis bronchiec-
+tasis. The FACED score. Eur Respir J. http://dx.doi.org/10.
+1183/09031936.00026313 [Epub ahead of print].
+[32] Chalmers JD, Goeminne P, Aliberti S, et al. The bronchiectasis
+severity Index: an international derivation and validation
+study.
+Am
+J
+Respir
+Crit
+Care
+Med
+2013.
+http:
+//dx.doi.org/10.1164/rccm.201309-1575OC [Epub ahead of
+print].
+[33] De Soyza A, Perry A, Hall AJ, et al. Molecular epidemiological
+analysis suggests cross infection with Pseudomonas aeruginosa
+is rare in non-cystic ﬁbrosis bronchiectasis. Eur Respir J 2013.
+http://dx.doi.org/10.1183/09031936.00167813 [Epub ahead
+of print].
+[34] Devaraj A, Wells AU, Meister MG, Loebinger MR, Wilson R,
+Hansell DM. Pulmonary hypertension in patients with bron-
+chiectasis: prognostic signiﬁcance of CT signs. AJR Am J
+Roentgenol 2011;196:1300e4.
+[35] Minai
+OA,
+Fessler
+H,
+Stoller
+JK,
+et
+al.
+Clinical
+characteristics and prediction of pulmonary hypertension
+in
+severe
+emphysema.
+Respir
+Med
+2013.
+http:
+//dx.doi.org/10.1016/j.rmed.2013.11.006
+[Epub
+ahead
+of
+print].
+[36] Minai OA, Chaouat A, Adnot S. Pulmonary hypertension in
+COPD: epidemiology, signiﬁcance, and management. Chest
+2010;137:39Se51S.
+[37] Alzeer AH, Al-Mobeirek AF, Al-Otair HA, Elzamzamy UA,
+Joherjy IA, ShafﬁAS. Right and left ventricular function and
+pulmonary artery pressure in patients with bronchiectasis.
+Chest 2008;133:468e73.
+[38] Anwar GA, Bourke SC, Afolabi G, Middleton P, Ward C,
+Rutherford RM. Effects of long-term low-dose azithromycin in
+patients with non-CF bronchiectasis. Respir Med 2008;102:
+1494e6.
+[39] Goeminne PC, Soens J, Scheers H, De Wever W, Dupont LJ.
+Effect of macrolide on lung function and computed tomogra-
+phy (CT) score in non-cystic ﬁbrosis bronchiectasis. Acta Clin
+Belg 2012;67:338e46.
+Mortality in non-cystic ﬁbrosis bronchiectasis
+295
+[40] Wong C, Jayaram L, Karalus N, et al. Azithromycin for pre-
+vention of exacerbations in non-cystic ﬁbrosis bronchiectasis
+(EMBRACE): a randomised, double-blind, placebo-controlled
+trial. Lancet 2012;380:660e7.
+[41] Altenburg J, de Graaff CS, Stienstra Y, et al. Effect of azi-
+thromycin maintenance treatment on infectious exacerba-
+tions among patients with non-cystic ﬁbrosis bronchiectasis:
+the BAT randomized controlled trial. JAMA 2013;309:1251e9.
+296
+P.C. Goeminne et al.

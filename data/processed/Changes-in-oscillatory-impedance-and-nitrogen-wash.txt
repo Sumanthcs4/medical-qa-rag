@@ -1,0 +1,816 @@
+Changes in oscillatory impedance and
+nitrogen washout with combination
+ﬂuticasone/salmeterol therapy in COPD*
+Sophie C. Timmins a,b,c,d,*, Chantale Diba a,d,
+Robin E. Schoeffel a,b,c, Cheryl M. Salome a,c,d,
+Gregory G. King a,b,c,d, Cindy Thamrin a
+a The Woolcock Institute of Medical Research, Glebe, NSW 2037, Australia
+b Department of Respiratory Medicine Royal North Shore Hospital, St Leonards, NSW 2065, Australia
+c The Sydney Medical School, The University of Sydney, NSW 2006, Australia
+d Cooperative Research Centre for Asthma and Airways, Glebe, NSW 2037, Australia
+Received 10 June 2013; accepted 1 October 2013
+Available online 10 October 2013
+KEYWORDS
+COPD;
+Physiology;
+Forced oscillation
+technique;
+Therapy
+Summary
+Introduction: Combination inhaled corticosteroid/long-acting bronchodilator (ICS/LABA) ther-
+apy reduces the exacerbation rate and improves spirometry and quality of life in COPD. We hy-
+pothesized that ICS/LABA therapy also improves small airway function measured by FOT.
+Methods: 14 subjects with COPD were commenced on combination ﬂuticasone propionate/sal-
+meterol therapy for 3 months. At baseline, subjects completed the St George Respiratory
+Questionnaire (SGRQ) and underwent standard pulmonary function tests as well as forced
+oscillation technique (FOT) and single and multiple breath nitrogen washouts. All tests were
+repeated at the completion of 3 months of therapy.
+Results: Subjects were of mean (SD) age 65.9 years (8.4), BMI 30.0 (5.6), pack years 51.4
+(21.1), post-bronchodilator FEV1% predicted 62.7 (20). At baseline, mean SGRQ total was
+39.0 (17.7) and FRC% predicted 125.4 (31.3). From FOT, Rrs-total was 5.69 (1.29) cmH2O/L/
+s, Xrs-total 3.48 (2.16) cmH2O/L/s, EFL Index 3.51 (2.45) cmH2O/L/s. After 3 months of ther-
+apy, there were signiﬁcant improvements in SGRQ score (13.81, p < 0.0001) despite no
+change in FEV1 (þ40 mL, p Z 0.14). From FOT, total resistance (0.63 cmH2O/L/s,
+p Z 0.0004), reactance (þ1.2 cmH2O/L/s, p Z 0.013), and expiratory ﬂow limitation
+* Institution: All work for this paper was conducted at Royal North Shore Hospital, St Leonards, Sydney, NSW, Australia.
+* Corresponding author. Airway Physiology and Imaging Group, The Woolcock Institute of Medical Research, PO Box M77, Missenden Rd,
+Camperdown, NSW 2050, Australia. Tel.: þ61 413536767; fax: þ61 2 9114 0014.
+E-mail addresses: stimmins@med.usyd.edu.au, sophtimmins@yahoo.com.au (S.C. Timmins), chantale@woolcock.org.au (C. Diba),
+rschoeff@nssachs.health.nsw.gov.au (R.E. Schoeffel), cms@woolcock.org.au (C.M. Salome), ggk@woolcock.org.au (G.G. King), cindy.
+thamrin@woolcock.org.au (C. Thamrin).
+0954-6111/$ - see front matter ª 2013 Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.rmed.2013.10.004
+Available online at www.sciencedirect.com
+ScienceDirect
+journal homepage: www.elsevier.com/locate/rmed
+Respiratory Medicine (2014) 108, 344e350
+(1.21 cmH2O/L/s, p Z 0.02) also improved. There were no signiﬁcant changes in ventilation
+heterogeneity indices.
+Conclusion: Combination therapy is associated with improvements in small airways function in
+COPD, despite an absence of change in FEV1. FOT may be a clinically useful marker of small
+airway function in COPD that is responsive to treatment.
+ª 2013 Elsevier Ltd. All rights reserved.
+Introduction
+Chronic Obstructive Pulmonary Disease (COPD) is associ-
+ated with signiﬁcant morbidity, mortality, and economic
+burden. International guidelines recommend prescription
+of long-acting bronchodilators (long-acting beta-agonists
+(LABA) or muscarinic antagonists (LAMA)) for symptomatic
+COPD patients with moderate airﬂow obstruction [1],
+while inhaled corticosteroids (ICS) are recommended
+when the FEV1 is less than 50% of predicted and acute
+exacerbations are present [1]. ICS/LABA combination
+treatment improves symptoms, quality of life, and exac-
+erbation rate [2e4] as well as physiological measures such
+as spirometry, inspiratory capacity (IC) and dynamic hy-
+perinﬂation [5,6]. Treatment responses in terms of more
+detailed physiological measures such as airway resistance
+and nitrogen washout have not been assessed. These are
+advantageous and may add complementary information
+since they generally represent lung function during normal
+tidal breathing.
+Forced
+oscillation
+technique
+(FOT)
+is
+an
+effort-
+independent method for measuring lung mechanics. The
+FOT parameters of resistance (Rrs) and reactance (Xrs)
+are indices of airway calibre and of the elastic properties
+of the respiratory system, respectively, and reﬂect both
+small and large airway properties. Xrs is sensitive and
+speciﬁc to the presence of expiratory ﬂow limitation
+(EFL) in COPD [7] and to change during recovery from
+acute exacerbations of COPD [8]. Rrs and Xrs are also
+sensitive to changes following bronchodilator inhalation
+in COPD [9,10]. Although Rrs and Xrs improve in asth-
+matic subjects following ICS and ICS/LABA combination
+therapy [11,12], there are no comparable studies in
+COPD.
+The nitrogen washout tests provide indices of airway
+closure and heterogeneity in ventilation distribution. A
+single breath nitrogen washout (SBNW) measures closing
+volume (CV) and the phase III slope, which correlate
+with small airway pathology in smokers [13]. There is
+evidence that CV reﬂects small airway dysfunction in
+COPD that is due to inﬂammation and remodelling,
+separately from the effects of reduced parenchymal
+support due to emphysema [14] The multiple breath
+nitrogen washout (MBNW) allows partitioning of venti-
+lation distribution into the convection dependent air-
+ways
+(Scond)
+and
+convection-diffusion
+dependent
+airways (Sacin) [15]. The MBNW parameters are sensitive
+to early small airways disease in smokers [16] but do not
+change in response to bronchodilator administration in
+severe COPD [17].
+In this study, we aimed to determine and interpret
+changes in small airway function measured by FOT during
+ICS/LABA treatment in COPD over a 3-month period. We
+measured changes in Rrs, Xrs and EFL derived from FOT; in
+closing capacity (CC) and phase III slope from SBNW; and
+in Scond and Sacin from MBNW. We hypothesized that
+signiﬁcant improvements in FOT variables would occur
+following the commencement of therapy in the absence
+of
+signiﬁcant
+change
+in
+spirometry
+or
+ventilation
+heterogeneity.
+Abbreviations
+CC
+closing capacity
+CC/TLC% closing capacity/total lung capacity%
+CV
+closing volume
+DLCO
+diffusing capacity
+EFL Index expiratory ﬂow limitation index
+FEV1
+forced expiratory volume 1 s
+FOT
+forced oscillation technique
+FRC
+functional residual capacity
+FVC
+forced vital capacity
+IC
+inspiratory capacity
+ICS
+inhaled corticosteroids
+%LAA
+low attenuation area as % of TLC
+LABA
+long-acting beta-agonists
+Rrs
+respiratory system resistance
+Rrs-total whole breath Rrs
+Rrs-insp inspiratory component of Rrs
+RV
+residual volume
+RV/TLC% residual volume/total lung capacity%
+SD
+standard deviation
+SBNW
+single breath nitrogen washout
+SGRQ
+St George Respiratory Questionnaire
+TLC
+total lung capacity
+VC
+vital capacity
+Xrs
+respiratory system reactance
+Xrs-total whole breath Xrs
+Xrs-insp inspiratory component of Xrs
+Changes in FOT and nitrogen washout with combination therapy in COPD
+345
+Methods
+Subject characteristics
+Subjects were recruited from a volunteer database at Royal
+North Shore Hospital and advertisements in a local news-
+paper. Inclusion criteria were age 40 years or older, a
+physician diagnosis of COPD, smoking history of greater
+than 10 pack years, post-bronchodilator FEV1/FVC <0.7, no
+regular inhaled steroid use in the past 3 months and
+symptoms of shortness of breath on exertion or chronic
+cough for at least 12 months. Subjects were excluded if
+they had a coexistent diagnosis of asthma or other respi-
+ratory disease, or an exacerbation of COPD within the last 6
+weeks deﬁned as an increase in COPD symptoms for 3 or
+more days that necessitated an increase in treatment.
+Written informed consent was obtained from each subject
+prior
+to
+enrolment.
+The
+experimental
+protocol
+was
+approved by the Hawkesbury/Harbour Human Research
+Ethics Committee of Northern Sydney Central Coast Health
+(0903-050M).
+Study design
+This was a longitudinal, open label, observation study of
+inhaled ﬂuticasone/salmeterol treatment in COPD over 3
+months. Combination ﬂuticasone/salmeterol 250/25 mg
+(Seretide Metered Dose Inhaler, GlaxoSmithKline) 2 puffs
+twice daily through an E-Chamber 500 mL Spacer (Bird
+Healthcare) was commenced the next day after their ﬁrst
+visit. Subjects attended a total of 4 visits; at the start of the
+study and every month for 3 months. The dose counters of
+the ﬂuticasone/salmeterol inhalers were noted at each visit
+to provide an indication of adherence. Subjects did not
+withhold their usual COPD medication prior to all testing.
+At the ﬁrst visit, subjects completed a questionnaire
+about respiratory symptoms, medication use, and smoking
+history. Health related quality of life was assessed using the
+St George’s Respiratory Questionnaire (SGRQ) with a 3-
+month recall period [18]. Baseline dyspnoea index (BDI) was
+also calculated [19]. Lung function tests were performed in
+the following order: FOT, spirometry, diffusing capacity,
+SBNW, MBNW, and lung volume measurements by body
+plethysmography.
+Subjects
+then
+performed
+post-
+bronchodilator
+spirometry
+15
+min
+after
+400
+mcg
+of
+inhaled salbutamol. Subjects completed FOT and spirom-
+etry only at the 1- and 2-month visits. At the end of 3
+months’ of treatment, subjects repeated the baseline tests
+in the same order. SGRQ was again completed, and change
+in dyspnoea was assessed by the transitional dyspnoea
+index (TDI) [19].
+Forced oscillation technique (FOT)
+Respiratory system resistance (Rrs) and reactance (Xrs)
+were measured at an oscillation frequency of 6 Hz. The
+FOT device was developed in house [20] and conforms to
+the general design and speciﬁcations for FOT machines
+[21]. Oscillations were generated by a loudspeaker with
+ﬂow and pressure measured at the airway opening by a
+screen
+pneumotachograph
+and
+solid-state
+pressure
+transducer. Three separate measurements were made
+during tidal breathing for 60 s. Data were processed using
+a complete breath method where breaths with extreme
+and negative Rrs values or artifacts were excluded from
+any subsequent processing [22]. After processing, the
+mean Rrs or Xrs value within the whole breath (Rrs-total
+and Xrs-total) as well as those corresponding to the
+inspiratory component only (Rrs-insp and Xrs-insp) were
+calculated over all included breaths. The Rrs-insp and Xrs-
+insp are theoretically measurements of respiratory me-
+chanics that are unaffected by the presence of expiratory
+ﬂow limitation [7]. Predicted values for Rrs and Xrs were
+those of Brown et al. [23].
+To assess expiratory ﬂow limitation, the EFL Index was
+calculated as the mean difference between the mean
+inspiratory (Xrs-insp) and expiratory (Xrs-exp) reactance
+values of each breath [7]. Although a threshold value of
+>2.8 cmH2O/L/s was shown to indicate the presence of
+expiratory ﬂow limitation in COPD, the index was treated as
+a continuous variable in data analyses.
+Spirometry, body plethysmography, and diffusing
+capacity
+Spirometry and diffusing capacity were performed accord-
+ing to American Thoracic Society/European Respiratory
+Society using a Medgraphics system (MedGraphics Ultima
+Series,
+Medical
+Graphics
+Corporation
+Minnesota
+USA)
+[24,25]. Lung volumes were measured by body plethys-
+mography using a Sensormedics Vmax BodyBox (Sensor-
+medics Corporation, Yorba Linda, CA, USA). Results are
+reported as absolute and percent of predicted values
+[26e28].
+Single breath nitrogen washout (SBNW)
+Closing volume (CV) and slope of phase III were measured
+using the same Medgraphics system. Pure oxygen was
+inhaled at a ﬂow rate <50 L/min from residual volume (RV)
+to total lung capacity (TLC), followed by exhalation at a
+ﬂow rate of 30 L/min from TLC to RV. A plot of exhaled N2
+concentration versus lung volume was used to calculate the
+alveolar slope (slope of phase III) and closing volume, CV.
+Closing capacity (sum of CV and plethysmographic RV) was
+calculated as a fraction of plethysmographic total lung
+capacity (CC/TLC).
+Multiple breath nitrogen washout (MBNW)
+Ventilation heterogeneity was measured by the multiple
+breath nitrogen washout as previously described [29].
+Brieﬂy, a closed-circuit, bag-in-box breathing system was
+used to deliver 100% oxygen, which subjects breathed at a
+tidal volume of 1.0e1.3 L, at a respiratory frequency of
+9e12 breaths/min, until end-tidal nitrogen concentration
+was 1/40th of the starting alveolar nitrogen concentration.
+The indices of ventilation heterogeneity determined pre-
+dominantly by convection dependent (Scond) and by
+diffusion-convection dependent (Sacin) mechanisms were
+derived as previously described [15].
+346
+S.C. Timmins et al.
+Statistical analysis
+Statistical analyses was performed using Analyse-it for
+Excel (Analyse-It Software Ltd, Leeds, England) and IBM(R)
+SPSS(R) Statistics version 20.0 (Armonk, NY, USA). Data are
+presented as means with standard deviations (SD) unless
+otherwise speciﬁed. p Values of <0.05 were considered
+statistically signiﬁcant. ShapiroeWilk test was used to
+assess normality of data variables.
+Changes in small airways function
+Changes in FOT variables from baseline over 3 months
+treatment were examined using a 1-way repeated measures
+analysis of variance (ANOVA). Dunnett’s posthoc test was
+used to assess pairwise differences between individual
+visits.
+Changes in spirometry, FRC, MBNW variables, SBNW
+variables, and SGRQ from baseline to 3 months were
+compared using paired t test for parametric variables and
+Wilcoxon test for nonparametric variables.
+Results
+14 COPD subjects completed 12 weeks of combination
+therapy. The baseline demographic characteristics and
+lung function data of the study subjects are provided in
+Table 1. Overall, the subjects had moderate airﬂow
+obstruction, a mild increase in resistance, and severely
+abnormal reactance values. Seven of the 14 subjects had
+an EFL Index >2.8 cmH2O/L/s, a previously used cut-off
+for presence of expiratory ﬂow limitation [7]. 6 subjects
+were hyperinﬂated at baseline, as assessed by FRC. 8
+subjects were on no medication, while 6 subjects were
+taking LAMA therapy. 12 subjects were ICS naı¨ve, while 2
+had tried ICS more than 1 year ago. The impairment of
+quality of life, measured by SGRQ, across the group was
+fairly mild, although there was a broad range of impact
+(9.83e74.49). At baseline, SGRQ total score correlated
+with Scond (r-0.62, p0.02) and SGRQ impact score corre-
+lated with Scond (r-0.61, p0.02) and Sacin (rs 0.53, p
+0.05).
+Small airway measurements
+Table 2 contains the baseline and end of study measure-
+ments of small airways function. Signiﬁcant improvements
+were seen in all FOT parameters: Rrs-total, Xrs-total, EFL
+Index, Rrs-insp, and Xrs-insp. No signiﬁcant changes in
+ventilation heterogeneity or closure were identiﬁed. Like-
+wise, no signiﬁcant change in the spirometric parameters
+was seen. From the ANOVA, no signiﬁcant differences were
+seen for Rrs-total (p Z 0.332) and Rrs-insp (p Z 0.51).
+Signiﬁcant differences between the 4 study visits were seen
+for Xrs-insp (p Z 0.025), Xrs-total (p Z 0.003), and EFL
+Index (p Z 0.002).
+The mean FOT parameters at each of the 4 study visits
+are displayed in Fig. 1(a)e(e). No signiﬁcant differences
+could be seen at any of the study visits in comparison to
+visit 1 for Rrs-total or Rrs-insp. In comparison to visit 1,
+signiﬁcant changes could be seen in Xrs-total at visit 2
+(p Z 0.02), visit 3 (p Z 0.06), and visit 4 (p Z 0.09).
+Signiﬁcant differences in Xrs-insp compared to visit 1
+could be seen at visit 2 (p Z 0.015) and visit 4 (p Z 0.032)
+but not visit 3 (p Z 0.232). In comparison to visit 1, sig-
+niﬁcant differences in EFL Index could be seen at each
+study visit: visit 2 (p Z 0.002), visit 3 (p Z 0.002), visit 4
+(p Z 0.014).
+Quality of life, dyspnoea, and hyperinﬂation
+Quality of life assessed by SGRQ (n Z 13) improved signif-
+icantly from 39.85 (18.16) at baseline to 27.22 (13.67) at
+the completion of the study (mean difference 12.63 (7.91),
+p < 0.0001). There was a signiﬁcant change in dyspnoea as
+Table 1
+Baseline demographic data of the study group.
+Mean (SD)
+Age
+65.9 (8.4)
+BMI (kg/m2)
+30.0 (5.6)
+Pack years
+51.4 (21.1)
+SGRQ
+39.0 (17.7)
+BDI
+7.23 (1.24)
+FEV1 post-bronchodilator% predicted
+62.7 (20)
+FEV1/FVC post-bronchodilator
+57.8 (11.6)
+Xrs-total% predicted
+673.6 (338.5)
+Rrs-total% predicted
+170.9 (46.0)
+DLCO (mL CO/min/mmHg)
+61.3 (15.7)
+FRC% predicted
+116.4 (27.8)
+LAMA
+8
+Smoking
+2
+Table 2
+Baseline and 3 month results of small airways
+function, hyperinﬂation, and quality of life.
+Baseline
+3 months
+p Value
+FEV1 (L)
+1.67 (0.57)
+1.71 (0.57)
+0.57
+FVC (L)
+3.13 (0.82)
+3.13 (0.7)
+0.99
+FEF25e75 (L/s)
+0.75 (0.41)
+0.86 (0.52)
+0.14
+Rrs-total
+(cmH20/L/s)
+5.685 (1.29)
+5.052 (1.24) 0.0004
+Xrs-total
+(cmH20/L/s)
+L3.477 (2.16) L2.451 (1.31) 0.0129
+EFL Index
+(cmH20/L/s)
+3.508 (2.45)
+2.295 (1.52) 0.0173
+Rrs-insp
+(cmH20/L/s)
+4.788 (1.19)
+4.280 (1.05) 0.0058
+Xrs-insp
+(cmH20/L/s)
+L1.394 (0.64) L1.094 (0.46) 0.0188
+Sacin (n 13) L1
+0.365 (0.09)
+0.378 (0.1)
+0.62
+Scond (n 13) L1
+0.043 (0.02)
+0.046 (0.03)
+0.38a
+Phase III slope%
+predicted
+791.79
+(333.22)
+808.38
+(152.52)
+0.54
+CC/TLC%
+62.85 (9.15)
+61.03 (7.92)
+0.28
+SGRQ (n 13)
+36.77 (15.1)
+27.22 (13.7) 0.0007
+FRC pleth (L)
+4.04 (1.28)
+3.78 (1.16) 0.0054
+The parameters in bold represent the underwent signiﬁcant
+change over the study period.
+a Wilcoxon test.
+Changes in FOT and nitrogen washout with combination therapy in COPD
+347
+measured by a TDI of 1.0 (0.71). While FRC measured by
+plethysmograph improved signiﬁcantly (0.26 L, p 0.0054),
+no signiﬁcant improvement was seen in IC (0.068 L, p 0.51)
+or RV/TLC (1.7% p 0.165).
+Discussion
+Summary of ﬁndings
+This small proof of concept study showed that parameters
+of small airways function measured by FOT were sensitive
+to modest change with therapy in COPD, in contrast to
+ventilation heterogeneity, closure and spirometry. All FOT
+parameters showed signiﬁcant change with combination
+ICS/LABA therapy. Signiﬁcant changes in quality of life and
+dyspnoea score also occurred after 3 months of ICS/LABA
+therapy.
+Comparison with other studies
+While several studies have examined acute response to
+bronchodilator with FOT parameters [9,30], there are no
+published studies examining changes in oscillatory imped-
+ance in response to therapy in COPD over months. In asth-
+matics however, there are two published studies that have
+conﬁrmed the sensitivity of impedance measured by im-
+pulse oscillometry to detect changes in small airways me-
+chanics in response to therapy [11,12]. Serial MBNW
+measures of ventilation heterogeneity after the introduc-
+tion of tiotropium in COPD subjects demonstrated that
+subjects with hyperinﬂation had a signiﬁcant increase in
+pre-dose FEV1 and inspiratory capacity in the absence of
+changes in ventilation heterogeneity [17]. Although we
+used an alternative bronchodilator, a long-acting beta-
+agonist, we also found that bronchodilation did not change
+ventilation heterogeneity parameters.
+In comparison to large randomized control trials of
+combination therapy in COPD [2], the change in SGRQ
+quality of life seen in this study was greater than expected,
+however it is in keeping with results from other small
+mechanistic
+studies
+[31].
+The
+reason
+for
+the
+large
+improvement in quality of life in our group is likely to be
+multi-factorial but contributing factors would include the
+education they received as part of the study regarding
+COPD and their lung function, the social nature of the study
+visits, as well as any treatment effects from the ICS/LABA
+therapy. By the nature of study design and recruitment of
+steroid naı¨ve patients, most subjects knew very little about
+the nature of their disease prior to study commencement
+and had the opportunity to ask questions of the study
+investigator during the visits.
+Figure 1
+Changes in FOT parameters: (a) total respiratory resistance (Rrs-total), (b) inspiratory respiratory resistance (Rrs-insp),
+(c) total respiratory reactance (Xrs-total), (d) inspiratory respiratory reactance (Xrs-insp), and (e) expiratory ﬂow limitation index,
+over the course of the study. Symbols and error bars indicate mean and standard deviation, respectively.
+348
+S.C. Timmins et al.
+Possible mechanisms for improvement in FOT with
+therapy
+LABA gives rise to smooth muscle relaxation even in the
+presence of normal or increased muscle tone, which re-
+sults in an increase in airway diameter and improved
+airﬂow{Rossi, 2008 #38}. Both LABA and LAMA therapy
+improve expiratory capacity by shortening the time con-
+stants for lung emptying, with a resultant reduction in
+end-expiratory lung volume (EELV) and increase in inspi-
+ratory capacity (IC) [32e34]. These changes lead to im-
+provements in exertional dyspnoea and exercise capacity
+[33].
+Inhaled
+corticosteroid
+therapy
+reduces
+airway
+inﬂammation, which may in turn improve airﬂow by
+reducing airway wall thickness [35]. Therefore, one might
+expect ICS/LABA to reduce Rrs (improve airway calibre)
+and
+improve
+Xrs
+and
+EFL
+(reduced
+expiratory
+ﬂow
+limitation).
+Lack of improvement with washout indices
+Heterogeneity and closure were not affected by ICS/LABA
+therapy in this small group. FOT at 6 Hz reﬂects the
+contribution of both large and small airways [21], so the
+improvements in the FOT parameters may be reﬂecting
+improvement in larger airway calibre. In comparison,
+ventilation heterogeneity and closure are more closely
+related to peripheral airway function [13,15]. Given the
+particle size of ICS/LABA therapy, it is likely that any
+changes in airway calibre detected by FOT occurred pre-
+dominantly in the larger airways resulting in fairly ho-
+mogenous improvements in airﬂow, with little effect on
+peripheral airway closure or ventilation heterogeneity.
+EFL is very sensitive to closure so improvement in closure
+measured
+by
+SBNW
+would
+be
+expected.
+CC/TLC%
+improved, however this change was not statistically sig-
+niﬁcant (p 0.28). Improvement in CC alone was 0.21 L (p
+0.055).
+Strengths and limitations of the study
+As we needed to recruit COPD subjects not already taking
+inhaled corticosteroids, the group overall had moderate
+airﬂow obstruction, GOLD stage II. International guide-
+lines would not recommend inhaled corticosteroids in
+general for moderate airﬂow obstruction in the absence
+of exacerbations [1]. Despite the small sample size, we
+were able to detect changes in FOT where this was not
+possible with the other measures. High doses of inhaled
+corticosteroid were used in keeping with the TORCH study
+[2]. We do not know if lower doses of inhaled cortico-
+steroid or in fact single agent therapy, with either inhaled
+steroid or LABA, would produce a similar effect. Our
+subjects were compliant and had complete study atten-
+dance, enabling us to collect detailed physiological in-
+formation about small airway function, and the effects of
+a commonly prescribed medication on these measures.
+This is the ﬁrst study to examine the effects of therapy on
+small airway mechanics, ventilation heterogeneity, and
+airway closure.
+Conclusions
+In this small proof of concept study we have shown that FOT
+is sensitive to modest change in small airway mechanics
+with ICS/LABA combination therapy that are not detectable
+with the standard outcome measure of clinical trials, FEV1.
+Xrs-total, Xrs-insp, and EFL Index improved signiﬁcantly
+with ICS/LABA treatment. Measures of the very peripheral
+small airway function, closure and ventilation heteroge-
+neity, were not effected by ICS/LABA treatment. FOT has
+been used to monitor recovery from acute exacerbations
+[8,36] and is being evaluated as a home monitoring tool in
+COPD [14,37]. The results of our study conﬁrm another
+potential use as a treatment monitoring tool, and lends
+support to the incorporation of FOT into a randomized
+control trial of therapy in COPD to conﬁrm the changes we
+have observed.
+Support
+The TSANZ/ALF COPD Fellowship (SCT), NH&MRC Practi-
+tioner Fellowship (GGK), The Cooperative Research Centre
+for Asthma and Airways (SCT, CD, CT, CEF), NH&MRC Proj-
+ect Grant #632793, Boehringer Ingelheim (CMS).
+Conﬂicts of interest
+Dr Timmins has received honoraria from GlaxoSmithKline
+and travel sponsorships from Boehringer Ingelheim and
+Pﬁzer; Mrs Farrow has no conﬂicts of interest to disclose;
+Mrs Schoeffel has no conﬂicts of interest to disclose; Prof
+Berend serves on advisory boards for GlaxoSmithKline,
+AstraZeneca, Boehringer Ingelheim, Pﬁzer and Nycomed
+and has accepted travel grants from GSK, AstraZeneca,
+Boehringer Ingelheim, Pﬁzer, Bayer and Nycomed; Dr King
+has received travel sponsorship from Boehringer Ingelheim,
+Pﬁzer, AstraZeneca and GlaxoSmithKline; Dr Diba has no
+conﬂicts of interest to disclose; Dr Salome has received
+travel grants and research funding from AstraZeneca,
+Boehringer Ingelheim, and GlaxoSmithKline; Dr King has
+received
+various
+travel
+sponsorships
+from
+Boehringer
+Ingelheim, Pﬁzer, AstraZeneca and GlaxoSmithKline; the
+Woolcock Institute of Medical Research receives unre-
+stricted grants from Boehringer Ingelheim, AstraZeneca and
+GlaxoSmithKline, and has current and past consultancy
+agreements with Pﬁzer, Boehringer Ingelheim, AstraZeneca
+and GlaxoSmithKline.
+Research funded by The Australian Lung Foundation
+Webster Memorial Award and the Cooperative Research
+Centre for Asthma and Airways Project 2.1.
+References
+[1] Global strategy for the diagnosis, management and prevention
+of COPD, global initiative for chronic obstructive lung disease
+(GOLD) 2011. Available from: http://www.goldcopd.org/.
+[2] Calverley PM, Anderson JA, Celli B, Ferguson GT, Jenkins C,
+Jones PW, et al. Salmeterol and ﬂuticasone propionate and
+survival in chronic obstructive pulmonary disease. N Engl J
+Med 2007 Feb 22;356(8):775e89.
+Changes in FOT and nitrogen washout with combination therapy in COPD
+349
+[3] Szafranski W, Cukier A, Ramirez A, Menga G, Sansores R,
+Nahabedian S, et al. Efﬁcacy and safety of budesonide/-
+formoterol in the management of chronic obstructive pulmo-
+nary disease. Eur Respir J 2003 Jan;21(1):74e81.
+[4] Wedzicha JA, Calverley PM, Seemungal TA, Hagan G, Ansari Z,
+Stockley RA. The prevention of chronic obstructive pulmonary
+disease exacerbations by salmeterol/ﬂuticasone propionate
+or tiotropium bromide. Am J Respir Crit Care Med 2008 Jan 1;
+177(1):19e26.
+[5] Hanania NA, Crater GD, Morris AN, Emmett AH, O’Dell DM,
+Niewoehner DE. Beneﬁts of adding ﬂuticasone propionate/-
+salmeterol to tiotropium in moderate to severe COPD. Respir
+Med 2012 Jan;106(1):91e101.
+[6] Guenette JA, Raghavan N, Harris-McAllister V, Preston ME,
+Webb KA, O’Donnell DE. Effect of adjunct ﬂuticasone propi-
+onate on airway physiology during rest and exercise in COPD.
+Respir Med 2011 Dec;105(12):1836e45.
+[7] Dellaca RL, Santus P, Aliverti A, Stevenson N, Centanni S,
+Macklem PT, et al. Detection of expiratory ﬂow limitation in
+COPD using the forced oscillation technique. Eur Respir J 2004
+Feb;23(2):232e40.
+[8] Johnson MK, Birch M, Carter R, Kinsella J, Stevenson RD.
+Measurement of physiological recovery from exacerbation of
+chronic obstructive pulmonary disease using within-breath
+forced oscillometry. Thorax 2007 Apr;62(4):299e306.
+[9] Borrill ZL, Houghton CM, Woodcock AA, Vestbo J, Singh D.
+Measuring bronchodilation in COPD clinical trials. Br J Clin
+Pharmacol 2005 Apr;59(4):379e84.
+[10] Dellaca RL, Pompilio PP, Walker PP, Duffy N, Pedotti A,
+Calverley PMA. Effect of bronchodilation on expiratory ﬂow
+limitation and resting lung mechanics in COPD. Eur Respir J
+June 1, 2009;33(6):1329e37.
+[11] Houghton CM, Lawson N, Borrill ZL, Wixon CL, Yoxall S,
+Langley SJ, et al. Comparison of the effects of salmeterol/-
+ﬂuticasone propionate with ﬂuticasone propionate on airway
+physiology in adults with mild persistent asthma. Respir Res
+2007;8:52.
+[12] Yamaguchi M, Niimi A, Ueda T, Takemura M, Matsuoka H,
+Jinnai M, et al. Effect of inhaled corticosteroids on small
+airways in asthma: investigation using impulse oscillometry.
+Pulm Pharmacol Ther 2009 Aug;22(4):326e32.
+[13] Cosio M, Ghezzo H, Hogg J, Corbin R, Loveland M, Dosman J,
+et al. The relations between structural changes in small air-
+ways and pulmonary-function tests. N Engl J Med June 8,
+1978;298(23):1277e81.
+[14] Timmins SC, Coatsworth N, Palnitkar G, Thamrin C, Farrow CE,
+Schoeffel RE, et al. Day-to-day variability of oscillatory
+impedance and spirometry in asthma and COPD. Respir Physiol
+Neurobiol 2013 Jan 15;185(2):416e24.
+[15] Verbanck S, Schuermans D, Van Muylem A, Melot C, Noppen M,
+Vincken W, et al. Conductive and acinar lung-zone contribu-
+tions to ventilation inhomogeneity in COPD. Am J Respir Crit
+Care Med May 1, 1998;157(5):1573e7.
+[16] Verbanck S, Schuermans D, Meysman M, Paiva M, Vincken W.
+Noninvasive assessment of airway alterations in smokers: the
+small airways revisited. Am J Respir Crit Care Med 2004 Aug
+15;170(4):414e9.
+[17] Verbanck S, Schuermans D, Vincken W. Small airways venti-
+lation heterogeneity and hyperinﬂation in COPD: response to
+tiotropium bromide. Int J Chron Obstruct Pulmon Dis 2007;
+2(4):625e34.
+[18] Jones PW, Quirk FH, Baveystock CM. The St George’s respi-
+ratory questionnaire. Respir Med 1991 Sep;85(Suppl. B):25e31
+[discussion 3e7].
+[19] Mahler DA, Weinberg DH, Wells CK, Feinstein AR. The mea-
+surement of dyspnea. Contents, interobserver agreement,
+and physiologic correlates of two new clinical indexes. Chest
+1984 Jun;85(6):751e8.
+[20] Brown NJ, Xuan W, Salome CM, Berend N, Hunter ML,
+Musk
+AW,
+et
+al.
+Reference
+equations
+for
+respiratory
+system resistance and reactance in adults. Respir Physiol
+Neurobiol
+2010;172(3):162e8.
+http://dx.doi.org/10.1016/
+j.resp.2010.05.013.
+[21] Oostveen E, MacLeod D, Lorino H, Farre R, Hantos Z,
+Desager K, et al. The forced oscillation technique in clinical
+practice: methodology, recommendations and future de-
+velopments. Eur Respir J 2003 Dec;22(6):1026e41.
+[22] Robinson PD, Turner M, Brown NJ, Salome C, Berend N,
+Marks GB, et al. Procedures to improve the repeatability of
+forced oscillation measurements in school-aged children.
+Respir Physiol Neurobiol 2011;177(2):199e206.
+[23] Brown NSC, King G, Hunter M, Musk AW, James AL. Reference
+equations for impedence parameters measured by the forced
+oscillation technique. Respirology 2009;14(Suppl. 1):A45.
+[24] Miller MR, Hankinson J, Brusasco V, Burgos F, Casaburi R,
+Coates A, et al. Standardisation of spirometry. Eur Respir J
+2005 Aug;26(2):319e38.
+[25] Macintyre N, Crapo RO, Viegi G, Johnson DC, van der
+Grinten CP, Brusasco V, et al. Standardisation of the single-
+breath determination of carbon monoxide uptake in the
+lung. Eur Respir J 2005 Oct;26(4):720e35.
+[26] Hankinson JL, Odencrantz JR, Fedan KB. Spirometric Refer-
+ence values from a sample of the general U.S. Population. Am
+J Respir Crit Care Med January 1, 1999;159(1):179e87.
+[27] Crapo RO, Morris AH. Standardized single breath normal
+values for carbon monoxide diffusing capacity. Am Rev Respir
+Dis 1981 Feb;123(2):185e9.
+[28] Crapo RO, Morris AH, Gardner RM. Reference spirometric
+values using techniques and equipment that meet ATS rec-
+ommendations. Am Rev Respir Dis 1981 Jun;123(6):659e64.
+[29] Downie SR, Salome CM, Verbanck S, Thompson B, Berend N,
+King GG. Ventilation heterogeneity is a major determinant of
+airway hyperresponsiveness in asthma, independent of airway
+inﬂammation. Thorax 2007 Aug;62(8):684e9.
+[30] Borrill ZL, Houghton CM, Tal-Singer R, Vessey SR, Faiferman I,
+Langley SJ, et al. The use of plethysmography and oscillom-
+etry to compare long-acting bronchodilators in patients with
+COPD. Br J Clin Pharmacol 2008 Feb;65(2):244e52.
+[31] John M, Bosse S, Oltmanns U, Schumacher A, Witt C. Effects of
+inhaled HFA beclomethasone on pulmonary function and
+symptoms in patients with chronic obstructive pulmonary
+disease. Respir Med 2005 Nov;99(11):1418e24.
+[32] Lindberg A, Szalai Z, Pullerits T, Radeczky E. Fast onset of
+effect
+of
+budesonide/formoterol
+versus
+salmeterol/-
+ﬂuticasone and salbutamol in patients with chronic obstruc-
+tive pulmonary disease and reversible airway obstruction.
+Respirology 2007 Sep;12(5):732e9.
+[33] O’Donnell DE, Fluge T, Gerken F, Hamilton A, Webb K,
+Aguilaniu B, et al. Effects of tiotropium on lung hyperinﬂation,
+dyspnoea and exercise tolerance in COPD. Eur Respir J 2004
+Jun;23(6):832e40.
+[34] Celli B, ZuWallack R, Wang S, Kesten S. Improvement in
+resting inspiratory capacity and hyperinﬂation with tiotropium
+in COPD patients with increased static lung volumes. Chest
+2003 Nov;124(5):1743e8.
+[35] Johnson M, Rennard S. Alternative mechanisms for long-acting
+beta(2)-adrenergic agonists in COPD. Chest 2001 Jul;120(1):
+258e70.
+[36] Stevenson NJ, Walker PP, Costello RW, Calverley PM. Lung
+mechanics and dyspnea during exacerbations of chronic
+obstructive pulmonary disease. Am J Respir Crit Care Med
+2005 Dec 15;172(12):1510e6.
+[37] Dellaca RL, Gobbi A, Pastena M, Pedotti A, Celli B. Home
+monitoring of within-breath respiratory mechanics by a simple
+and automatic forced oscillation technique device. Physiol
+Meas 2010 Apr;31(4):N11e24.
+350
+S.C. Timmins et al.

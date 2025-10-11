@@ -1,0 +1,886 @@
+Impact of patients’ satisfaction with their
+inhalers on treatment compliance and
+health status in COPD
+Henry Chrystyn a,*, Mark Small b, Gary Milligan b,
+Victoria Higgins b, Esther Garcia Gil c, Jordi Estruch d
+a Division of Pharmacy and Pharmaceutical Sciences, University of Huddersﬁeld, Queensgate,
+Huddersﬁeld HD1 3DH, UK
+b Adelphi Real World, Adelphi Mill, Grimshaw Lane, Macclesﬁeld SK10 5JB, UK
+c Almirall, Sant Feliu R&D Centre, Laurea`-Miro´, 408-410, 08980 Sant Feliu de Llobregat, Barcelona,
+Spain
+d Almirall, Ronda General Mitre, 151, 08022 Barcelona, Spain
+Received 8 May 2013; accepted 23 September 2013
+Available online 2 October 2013
+KEYWORDS
+Chronic obstructive
+pulmonary disease
+(COPD);
+Compliance;
+Exacerbations;
+Inhaler devices;
+Satisfaction
+Summary
+Objective: To examine the relationships between inhaler satisfaction, treatment compliance
+and health status in patients with chronic obstructive pulmonary disease (COPD).
+Methods: In a large, multinational, cross-sectional, real-world survey, respiratory specialists
+and primary care physicians provided information on six consecutive patients with COPD,
+who were then asked to complete a questionnaire. Physician-assessed compliance was scored
+(5-point Likert scale) and patients rated overall satisfaction with their maintenance inhaler
+(7-point Likert scale). Health status assessments included frequency of exacerbations and hos-
+pitalizations due to exacerbations in the past 12 months.
+Results: The analysis included 1443 patients (71.8% male; mean age 65.2 years). Patients’
+overall satisfaction with their inhaler was signiﬁcantly associated with treatment compliance
+(c2  df Z 89.7; p < 0.001). Male gender (c2  df Z 2.9; p < 0.05) and fewer maintenance
+drugs (c2  df Z 17.7; p < 0.001) were also associated with compliance; age and breathless-
+ness severity were not. Attributes inﬂuencing inhaler satisfaction mainly related to durability,
+ergonomics and ease of use. Small but statistically signiﬁcant associations were observed be-
+tween increasing treatment compliance and fewer exacerbations (R2 Z 0.037; p < 0.001) and
+fewer hospitalizations due to exacerbations (R2 Z 0.025; p < 0.001). There was a direct asso-
+ciation between inhaler satisfaction and fewer exacerbations (R2 Z 0.03; p < 0.001).
+* Corresponding author. Tel.: þ44 1484 472 783; fax: þ44 1484 472 182.
+E-mail addresses: h.chrystyn@hud.ac.uk, h.chrystyn@gmail.com (H. Chrystyn).
+0954-6111/$ - see front matter ª 2013 Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.rmed.2013.09.021
+Available online at www.sciencedirect.com
+ScienceDirect
+journal homepage: www.elsevier.com/locate/rmed
+Respiratory Medicine (2014) 108, 358e365
+Conclusions: Treatment compliance appears to be modestly associated with inhaler satisfac-
+tion, better health status and less frequent COPD exacerbations, although other factors are
+also likely to be involved. Durability, ergonomics and ease-of-use are inhaler attributes that
+inﬂuence patient satisfaction.
+ª 2013 Elsevier Ltd. All rights reserved.
+Introduction
+Chronic obstructive pulmonary disease (COPD) is a com-
+mon, usually progressive respiratory disease characterized
+by persistent airﬂow limitation [1]. COPD is a major cause
+of morbidity and mortality globally and is associated with
+signiﬁcant economic and social burden [1].
+Inhaled medications, including short- and long-acting
+bronchodilators and corticosteroids, are central to COPD
+therapy [1]; however, in order to achieve maximal clinical
+beneﬁt, it is important that patients are able to use their
+inhaler devices correctly and that they adhere to pre-
+scribing instructions [2e5]. In common with other chronic
+diseases, adherence to or compliance with prescribed
+therapies has been widely reported to be suboptimal in
+patients with COPD [2,4e8]. Between 40% and 60% of pa-
+tients with COPD do not adhere to their prescribed medi-
+cations and between 4% and 95% of patients fail to use their
+inhalers correctly, depending on inhaler type and assess-
+ment method [3,5,9].
+Patients with COPD may be prescribed a number of
+separate inhalers for the delivery of short-term relief
+medications and maintenance therapy, each requiring
+different techniques. Ensuring that patients are able to use
+their different inhaler types correctly may be an important
+strategy to increase patient satisfaction and, consequently,
+improve treatment compliance and clinical outcomes in
+COPD. However, whilst compliance has been reported to be
+positively inﬂuenced by inhaler satisfaction in patients with
+asthma [10e13], there is a lack of data demonstrating a
+causal relationship in COPD [14].
+Using data from the Adelphi Respiratory Disease Speciﬁc
+Programme (DSP; Adelphi, Macclesﬁeld, UK), the objec-
+tives of the analysis reported in this paper were to identify
+the factors, including patient characteristics and patient-
+reported inhaler satisfaction, which are signiﬁcantly asso-
+ciated with treatment compliance, to examine the inﬂu-
+ence of speciﬁc inhaler attributes that contribute to overall
+inhaler satisfaction, to report on the relationships between
+compliance and health status and resource use, and to
+explore the direct association of inhaler satisfaction with
+health status.
+Methods
+Study design
+The Respiratory DSP was a large, cross-sectional survey of
+real-world clinical practice that was conducted in France,
+Germany, Italy, Spain and the UK between June and
+September 2009, as reported in detail elsewhere [15].
+Respiratory specialists and primary care physicians were
+identiﬁed locally, from public lists of healthcare pro-
+fessionals, to provide a sample of physicians that was
+representative of healthcare professionals managing pa-
+tients with COPD in each participating country. A pragmatic
+sample size was used, consistent in each country. Propor-
+tional stratiﬁcation sampling was not implemented. In
+order to avoid selection bias, a proportionately larger
+sample of physicians was identiﬁed in areas of high popu-
+lation density than in areas of low population density.
+Eligibility was determined based on specialty, personal
+responsibility for treatment decisions and number of pa-
+tients with COPD seen in a typical week. Eligible physicians
+who accepted an invitation to participate in the study were
+asked, via patient record forms, to provide information on
+their next six consecutive patients consulting with COPD (as
+conﬁrmed by participating physicians), who had airﬂow
+obstruction, were aged at least 40 years and had a history
+of smoking. These patients were then invited by the
+physician to independently and voluntarily complete a
+conﬁdential questionnaire (patient self-completed form),
+which was returned in a sealed envelope.
+The Respiratory DSP was conducted in accordance with
+the European Pharmaceutical Market Research Association
+(EphMRA) code of conduct for international healthcare
+market research [16], and all participating patients pro-
+vided informed consent. Ethical approvals were, therefore,
+not required. To ensure compliance with data protection
+laws, all data were de-identiﬁed and aggregated prior to
+receipt by Adelphi Real World.
+Physician-reported variables
+Physician-reported data included patient demographics and
+disease characteristics. COPD severity was reported based
+on physicians’ clinical judgment, which may have consid-
+ered other information in the patients’ medical records in
+addition to spirometry ﬁndings. Additionally, the modiﬁed
+Medical Research Council (mMRC) dyspnea scale [17] was
+used to measure the level of patient breathlessness on a
+scale from 0 (‘only gets breathless after exercising heavily’)
+to 4 (‘too breathless to leave the house’). The number of
+COPD exacerbations experienced by patients in the past 12
+months was also recorded with details of where they were
+managed (primary care, emergency room or hospitaliza-
+tion). For the purposes of this study, an exacerbation was
+deﬁned as a worsening of COPD symptoms that could not be
+brought under control by relief medication.
+Treatment compliance was deﬁned as the extent to
+which patients were assessed by their physician to follow
+their prescribing instructions and advice. It was rated by
+physicians, based on perceived frequency of medication
+administrations per day, using a 5-point Likert scale,
+Inhaler satisfaction and compliance in COPD
+359
+whereby 1 indicated ‘not at all compliant’ and 5 indicated
+‘fully compliant’.
+Patient-reported variables
+Patients were asked to rate their overall level of satisfac-
+tion with their COPD maintenance inhaler, and with 13
+speciﬁc inhaler attributes (Table 1), using a 7-point Likert
+scale, whereby a score of 1 indicated ‘not at all satisﬁed’
+and a score of 7 indicated ‘very satisﬁed’.
+Health-related quality of life (HRQoL) was assessed using
+a component of the EuroQoL-5 dimensions (EQ-5D) instru-
+ment [18], in which generic health status was assessed
+across ﬁve domains (mobility, self-care, usual activities,
+pain/discomfort and anxiety/depression) and responses
+were converted to a corresponding utility index score
+(range 0.594 [worst possible] to 1.0 [best possible]).
+Sleep quality was evaluated using the Jenkins Sleep
+Questionnaire, [19] which recorded how often patients had
+trouble falling asleep, woke several times during the night,
+had trouble staying asleep and woke after a usual amount
+of sleep feeling tired. The frequency of sleep disruptions
+experienced by patients during the past 4 weeks was
+measured on a scale from 0 (0 days) to 5 (22e28 days) for all
+four items and an overall score (range 0 [best possible] to
+20 [worst possible]) was calculated.
+Statistical analysis
+Physician- and patient-reported variables were summarized
+descriptively. Patient responses were matched to physicians
+via patient/physician study numbers and the relationship
+between
+patient-reported
+inhaler
+satisfaction
+and
+physician-assessed compliance was analyzed using ordinary
+least-squares regression.
+This relationship was
+further
+investigated using a generalized additive model with no
+assumptions
+made
+for
+the
+shape
+of
+the
+association.
+Furthermore, sequential regression with average over or-
+derings and bootstrap conﬁdence intervals [20] was used to
+investigate the relationship between overall inhaler satis-
+faction and speciﬁc inhaler attributes. This method was
+considered appropriate for a situation where the variables
+in the regression were likely to be highly correlated.
+The relationships between treatment compliance and
+outcomes data were analyzed using generalized additive
+models, with no assumptions made about the shape of the
+relationship. Additive multinomial logistic regression was
+also used to investigate the association of compliance with
+level of breathlessness, as measured using the mMRC dys-
+pnea scale. Additionally, the direct link between inhaler
+satisfaction and certain outcomes (EQ-5D utility index and
+number of exacerbations in the past 12 months) was also
+explored using generalized additive models.
+Results
+Study population
+A total of 679 physicians participated in the survey,
+providing record forms on 2922 patients. Of these, 1718
+patients returned a patient self-completed form and 1443
+patients were included in the analysis. Records from the
+remaining 275 patients were excluded from the analysis as
+a result of missing data or patients self-reporting that they
+did not use a maintenance inhaler. The sample analyzed
+included a similar proportion of primary care physicians and
+respiratory specialists (Table 2).
+Demographics and characteristics of the study popula-
+tion are summarized in Table 2. Patients with COPD ranging
+in physician-observed severity from mild (approximately
+25%) to very severe (approximately 6%) were included;
+almost 50% of patients were reported to have moderate
+disease. The majority of patients were male (71.8%) and
+aged over 55 years (83.4%); mean age was 65.2 years. In
+total, 1706 exacerbations were reported by 714 patients;
+376 of these exacerbations resulted in hospitalization.
+Relationship between inhaler satisfaction and
+treatment compliance
+The majority of patients were more satisﬁed with their
+inhaler than not: 75% reported an overall satisfaction score
+of at least 5 on the 7-point scale (1 Z ‘not at all satisﬁed’;
+7 Z ‘very satisﬁed’) (Table 3). Almost 10% were ‘very
+satisﬁed’ with their inhaler and only 1 patient (0.1%) was
+‘not at all satisﬁed’. The principal inhaler attributes inﬂu-
+encing overall patient satisfaction were whether it was
+built to last and would not break easily, whether it was easy
+to hold and carry, and whether the instructions were simple
+and easy to follow (Fig. 1).
+Physicians assigned a treatment compliance score of at
+least 3 points on the 5-point scale (1 Z ‘not at all
+Table 1
+Speciﬁc inhaler attributes rated by patients.
+Number
+Attribute
+1
+It is built to last and will not break easily
+2
+It is easy to hold and carry
+3
+The instructions are simple and easy to follow
+4
+No need for me to put the drug into the inhaler
+before I use it
+5
+I do not need to breath in at the same time as
+I press my inhaler
+6
+I do not need to breath in hard to inhale my
+medication
+7
+I get the same amount of medication delivered
+to my lungs each time
+8
+It tells me when my dose of medication has
+been inhaled correctly
+9
+It tells me how many doses of my medication
+I have left
+10
+It does not need to be cleaned
+11
+The inhaler locks when it is empty so I cannot
+use it anymore
+12
+I can throw the inhaler away and get a new
+one with each prescription
+13
+I keep the inhaler and reﬁll it myself with
+each prescription
+Patient satisfaction with thirteen speciﬁc inhaler attributes was
+rated using a 7-point Likert scale (1 Z ‘not at all satisﬁed’;
+7 Z ‘very satisﬁed’).
+360
+H. Chrystyn et al.
+compliant’; 5 Z ‘fully compliant’) for the majority of pa-
+tients (Table 3). Approximately one-third of patients were
+assessed as being ‘fully compliant’ whilst less than 1% was
+‘not at all compliant’. Findings were similar when analyzed
+by physician specialty, although a slightly greater propor-
+tion of patients were considered to be ‘not at all compliant’
+by respiratory specialists (n Z 8/674, 1.19%) than by pri-
+mary care physicians (n Z 2/754, 0.27%). There was no
+signiﬁcant difference between primary care physician-
+assessed and respiratory specialist-assessed compliance
+(p Z 0.914).
+As shown in Fig. 2, multiple regression analysis demon-
+strated
+a
+statistically
+signiﬁcant
+association
+between
+patient-reported overall satisfaction with their mainte-
+nance inhaler and treatment compliance (c2  df Z 89.7;
+R2 Z 0.087, p < 0.001). Other factors associated with
+higher compliance scores, though to a lesser degree, were
+lower number of maintenance drugs (c2  df Z 17.7;
+p < 0.001) and male gender (c2 df Z 2.9; p < 0.05). No
+signiﬁcant associations with compliance were observed for
+either level of breathlessness or age.
+Relationship between treatment compliance and
+measures of health status and resource utilization
+Higher treatment compliance scores were modestly asso-
+ciated with fewer total exacerbations in the previous 12
+months (p < 0.001) and fewer hospitalizations due to ex-
+acerbations in the previous 12 months, as indicated by low
+but statistically signiﬁcant R2 values (R2 Z 0.037 and
+R2 Z 0.025, respectively; p < 0.001 for both; Fig. 3).
+Similarly, patients with higher compliance scores re-
+ported better HRQoL and sleep quality, as demonstrated by
+weak yet statistically signiﬁcant associations with higher
+EQ-5D utility index scores (R2 Z 0.035; p < 0.0001) and
+lower Jenkins Sleep Index (R2 Z 0.064; p < 0.0001).
+Increasing compliance was also associated with lower
+mMRC dyspnea scores (R2 Z 0.031; p < 0.0001), including
+greater probability of only getting breathless after exer-
+cising heavily (p Z 0.0028) and lower probability of stop-
+ping for breath after walking a few minutes, even on level
+ground (p < 0.0001) (Table 4). There was no signiﬁcant
+association between compliance and walking slower than
+most people of the same age. Patients with greater
+compliance tended to see their respiratory specialist phy-
+sicians more frequently but not their primary care physi-
+cians (Table 4).
+In addition, greater patient satisfaction with their
+inhaler device was found to be directly associated with
+higher EQ-5D utility index score (R2 Z 0.03, p < 0.001) and
+with signiﬁcantly fewer COPD exacerbations in the previous
+12 months (Fig. 4).
+Table 2
+Patient distribution, demographics and disease
+characteristics.
+Patients
+Country, n (%), N Z 1443
+France
+379 (26.3)
+Germany
+432 (29.9)
+Italy
+245 (17.0)
+Spain
+307 (21.3)
+United Kingdom
+80 (5.5)
+Physician speciality, n (%), N Z 1443
+Primary care physician
+760 (52.7)
+Respiratory specialista
+683 (47.3)
+Mean age (range), years, N Z 1443
+65.2 (40e90)
+Male gender, n (%), N Z 1442
+1035 (71.8)
+Race, n (%), N Z 1427
+Caucasian
+1352 (94.7)
+Afro-Caribbean
+25 (1.8)
+Hispanic
+39 (2.7)
+Other
+11 (0.8)
+Current smokers, n (%), N Z 1423
+497 (34.9)
+Post-bronchodilator FEV1, mean
+% predicted (SD), N Z 582
+6.3. (17.0)
+Physician-observed COPD severity,
+n (%), N Z 1417
+Mild
+350 (24.7)
+Moderate
+658 (46.4)
+Severe
+328 (23.1)
+Very severe
+81 (5.7)
+mMRC dyspnea scale scoreb,
+mean (SD), N Z 1434
+1.7 (1.2)
+Jenkins Sleep Indexc, mean (SD),
+N Z 1426
+5.4 (4.3)
+EQ-5D scored, mean (SD), N Z 1437
+0.7 (0.3)
+COPD, chronic obstructive pulmonary disease; EQ-5D, EuroQoL-
+5 dimensions; FEV1, forced expiratory volume in 1 second;
+mMRC,
+modiﬁed
+Medical
+Research
+Council;
+SD,
+standard
+deviation.
+a Pulmonologist or equivalent in each country.
+b Scale: 0 Z ‘only gets breathless after exercising heavily’ to
+4 Z ‘too breathless to leave the house’.
+c Range: 0 (best possible) to 20 (worst possible).
+d Range: 0.594 (worst possible) to 1.0 (best possible).
+Table 3
+Patient-reported overall inhaler satisfaction and
+physician-assessed compliance scores.
+Patients, n (%)
+Patient-reported level of overall inhaler satisfaction,
+N Z 962
+1 (not at all satisﬁed)
+1 (0.1)
+2
+8 (0.8)
+3
+49 (5.1)
+4
+182 (18.9)
+5
+333 (34.6)
+6
+294 (30.6)
+7 (very satisﬁed)
+95 (9.9)
+Physician-assessed compliance, N Z 1428
+1 (not at all compliant)
+10 (0.7)
+2
+95 (6.6)
+3
+292 (20.4)
+4
+551 (38.6)
+5 (fully compliant)
+480 (33.6)
+Patient-reported overall inhaler satisfaction was rated using a
+7-point Likert scale.
+Physician-assessed compliance was rated using a 5-point Likert
+scale.
+Inhaler satisfaction and compliance in COPD
+361
+Discussion
+Effective management of COPD to control symptoms and
+reduce exacerbations is partly dependent on patient
+compliance with, or adherence to, inhaled medications
+[4,5]. However, incorrect inhaler technique and poor
+adherence have been widely reported among patients with
+COPD [2e9]. In patients with asthma, regular use of medi-
+cations and adequate adherence have been shown to be
+associated with improved symptom control and health
+status compared with irregular use or suboptimal adher-
+ence [21,22]. Additionally, patient adherence has been
+reported to be positively inﬂuenced by ease-of-use and
+patient satisfaction with their treatments [10e13]. How-
+ever, to date the impact of inhaler preference or patient
+satisfaction with their inhaler on adherence and clinical
+outcomes in COPD has been less well investigated. This
+analysis of real-world data from the Respiratory DSP
+aimed to examine the relationships between patient-
+reported
+satisfaction
+with
+their
+COPD
+maintenance
+inhaler,
+physician-assessed
+treatment
+compliance
+and
+health status.
+Our ﬁndings demonstrate an association between overall
+inhaler satisfaction and treatment compliance but do not
+exclude the role of other numerous and interplaying factors
+that have the potential to inﬂuence compliance in patients
+with COPD. These may include patient-related factors, such
+as cognitive ability, perceived efﬁcacy and conscientious-
+ness; societal factors, such as patienteprescriber rela-
+tionship, inhaler instruction and follow-up; and treatment-
+related factors, such as method of administration, dosing
+regimen
+and side
+effects [4,5,14,23,24]. Additionally,
+compared with asthma, patients with COPD are typically
+older and more likely to suffer from impaired mental or
+physical functioning, and multiple comorbidities, such as
+arthritis, osteoporosis, cardiovascular disease, diabetes
+and depression [25e27], which can necessitate complex
+medication regimens and contribute to poor adherence.
+Our ﬁndings also suggest that there are modest re-
+lationships between greater treatment compliance and
+improved health status and outcomes in patients with
+COPD, including less frequent exacerbations and hospitali-
+zations due to exacerbations, improved dyspnea and
+HRQoL, and fewer sleep interruptions. However, these
+ﬁndings should be interpreted with caution given the weak
+nature of the associations observed. As this analysis
+included patients with COPD of any severity (as determined
+by physicians), it is possible that better compliance among
+patients with mild disease, i.e. who are likely to have
+Figure 1
+Association of overall inhaler satisfaction with speciﬁc inhaler attributes.
+Figure 2
+Relationship between patient-rated inhaler satis-
+faction and physician assessed treatment compliance.
+362
+H. Chrystyn et al.
+required fewer medications and to have experienced fewer
+exacerbations, may have contributed to our results. Simi-
+larly, while overall inhaler satisfaction was found to be
+directly associated with better health status in this anal-
+ysis, namely improved EQ-5D utility index score and fewer
+exacerbations, this ﬁnding is considered likely to have been
+inﬂuenced by the frequency of exacerbations experienced
+by the patient, as well as other factors such as patient-
+ephysician relationship.
+The possibility of unmeasured or unrecognized con-
+founding factors is a typical limitation of observational
+studies and, in the case of this analysis, the role of factors
+such as inhaler technique and treatment efﬁcacy were
+also not considered. As the concepts of satisfaction with
+an inhaled therapy and satisfaction with an inhaler device
+may seem interchangeable to some patients, perceived
+treatment efﬁcacy is likely to have inﬂuenced both
+inhaler satisfaction and compliance to some degree.
+Other limitations of this study are typical of observational
+studies and include the potential bias introduced by a
+reliance on participating physicians to select patients and
+their judgment in the assessment of disease characteris-
+tics and outcomes, and an inability to demonstrate a
+causal effect of compliance on health status due to
+the cross-sectional design of the survey. Furthermore,
+assessing treatment compliance or adherence in chronic
+diseases, including COPD, is rendered challenging by the
+lack of an accepted deﬁnition and agreement on what
+constitutes an acceptable level of adherence to maintain
+therapeutic efﬁcacy [4,14]. As the cross-sectional, real-
+world nature of the Respiratory DSP did not allow for
+compliance to be measured prospectively, it was deﬁned
+in this analysis as the extent to which patients were
+assessed by their physician to follow their prescribing in-
+structions and advice, as measured using a 5-point Likert
+scale. The ﬁndings reported here in patients with COPD
+are consistent with a similar analysis in patients with
+asthma, where inhaler satisfaction was also found to be
+positively associated with better health status via its
+relationship
+with
+improved
+compliance
+[11].
+This
+approach has the advantage of allowing physicians to
+compare compliance in a real-world setting relative to
+their other patients. However, physician estimates of
+adherence, which are subject to bias, have been reported
+to be unreliable elsewhere [24,28] and this is acknowl-
+edged to be another limitation of the present analysis.
+Nevertheless, observational studies provide useful infor-
+mation to supplement randomized, controlled trials and
+the real-world, cross-sectional study reported in this
+paper provides a robust, independent and impartial
+portrait of current treatment practice and our ﬁndings
+provide an objective perspective on the role of inhaler
+satisfaction on treatment compliance in patients with
+COPD.
+Our results indicate that patient satisfaction with their
+maintenance inhaler device is an important factor driving
+treatment compliance in COPD, with a greater inﬂuence
+than number of concomitant maintenance drugs, age or
+severity of breathlessness. Consistent with observations
+from other studies which evaluated patient preference for
+different inhaler types [29e33], the inhaler features that
+were most important in determining patient satisfaction in
+the present analysis related to durability, ergonomics and
+ease of use.
+The prevalence of COPD is expected to increase in
+coming years and, by 2030, it is predicted that COPD will be
+the third-leading cause of death globally [34]. As a
+cornerstone of COPD maintenance therapy, it will be
+increasingly
+important
+to
+identify
+and
+address
+poor
+compliance and adherence with inhaled respiratory medi-
+cations. In addition to other strategies, such as simplifying
+treatment regimens, patient education and enhanced
+physician instruction and communication [4], this analysis
+highlights the importance of considering patient prefer-
+ences and ensuring patient satisfaction with the inhaler
+used to deliver respiratory medications in order to improve
+clinical outcomes.
+Figure 3
+Relationship between physician-assessed compli-
+ance and (a) total number of chronic obstructive pulmonary
+disease
+exacerbations
+and
+(b)
+hospitalizations
+due
+to
+exacerbations.
+Inhaler satisfaction and compliance in COPD
+363
+Conclusions
+The ﬁndings of this real-world analysis suggest that, for
+patients with COPD, inhaler durability, ergonomics and
+ease of use are key features associated with overall main-
+tenance inhaler satisfaction, and that there is a relation-
+ship
+between
+inhaler
+satisfaction
+and
+treatment
+compliance. These results also suggest that, among other
+factors, there is a modest relationship between greater
+treatment
+compliance
+and
+improved
+health
+status,
+including fewer exacerbations and better HRQoL.
+Statement of interests
+Henry Chrystyn has received sponsorship to carry out
+studies, together with some consultancy fees and hono-
+raria, from several pharmaceutical companies that market
+inhaled products. These include Abdilbrahim, Almirall S.A.,
+AstraZeneca, Boehringer Ingelheim, Chiesi, GlaxoSmithK-
+line, Innovata Biomed, Meda, Mundipharma, Omron, San-
+doz, Teva, Truddell and UCB. Research sponsorship has also
+been received from grant awarding bodies (EPSRC and
+MRC).
+Mark Small, Gary Milligan and Victoria Higgins are full-
+time employees of Adelphi Real World. Esther Garcia Gil
+and Jordi Estruch are full-time employees of Almirall.
+Acknowledgments
+This study was sponsored by Almirall S.A., Barcelona, Spain.
+We thank Caglar Karakurum (formerly of Almirall) for his
+contributions to data interpretation and initial drafting of
+this manuscript. Medical writing support was provided by
+Lynsey Stevenson of Complete Medical Communications,
+and was funded by Almirall S.A.
+References
+[1] Global Initiative for Chronic Obstructive Lung Disease. Global
+strategy for the diagnosis, management, and prevention of
+chronic
+obstructive
+pulmonary
+disease.
+Available
+from:
+http://www.goldcopd.org/guidelines-global-strategy-for-
+diagnosis-management.html; 2013 [accessed 28.02.13].
+[2] Haupt D, Krigsman K, Nilsson JL. Medication persistence
+among patients with asthma/COPD drugs. Pharm World Sci
+2008;30:509e14.
+[3] Lavorini F, Magnan A, Dubus JC, Voshaar T, Corbetta L,
+Broeders M, et al. Effect of incorrect use of dry powder in-
+halers on management of patients with asthma and COPD.
+Respir Med 2008;102:593e604.
+Table 4
+Relationship between increasing physician-assessed compliance scores and health status, sleep quality and
+breathlessness.
+Outcome
+Association with increasing compliance
+score
+N
+R2
+p-value
+Higher EQ-5D utility index scorea
+1422
+0.035
+<0.0001
+Lower Jenkins Sleep Indexa
+1402
+0.064
+<0.0001
+Lower mMRC dyspnea scale scoreb
+1419
+0.031
+<0.0001
+‘Only gets breathless after exercising heavily’
+1419
+e
+0.0028
+‘Gets breathless when hurrying on level ground or walking up slight incline’
+1419
+e
+0.0522
+‘Walks slower than most people of the same age’
+1419
+e
+0.2458
+‘Stops for a breath after walking a few minutes, even on level ground’
+1419
+e
+<0.0001
+‘Too breathless to leave the house’
+1419
+e
+0.00016
+Higher number of visits to primary care physician in past 3 monthsa
+1428
+0.002
+0.014
+Higher number of visits to specialists in past 3 monthsa
+1428
+0.031
+<0.001
+Coefﬁcient of determination (R2) derived from generalized additive models.
+EQ-5D, EuroQoL-5 dimensions; mMRC, modiﬁed Medical Research Council.
+a Patient-reported.
+b Physician-reported.
+Figure 4
+Relationship between inhaler satisfaction and
+number of chronic obstructive pulmonary disease exacerba-
+tions in the past 12 months.
+364
+H. Chrystyn et al.
+[4] Lareau SC, Yawn BP. Improving adherence with inhaler ther-
+apy in COPD. Int J Chron Obstruct Pulmon Dis 2010;5:401e6.
+[5] Restrepo
+RD,
+Alvarez
+MT,
+Wittnebel
+LD,
+Sorenson
+H,
+Wettstein R, Vines DL, et al. Medication adherence issues in
+patients treated for COPD. Int J Chron Obstruct Pulmon Dis
+2008;3:371e84.
+[6] Krigsman K, Moen J, Nilsson JL, Ring L. Reﬁll adherence by the
+elderly for asthma/chronic obstructive pulmonary disease
+drugs dispensed over a 10-year period. J Clin Pharm Ther
+2007;32:603e11.
+[7] Krigsman K, Nilsson JL, Ring L. Reﬁll adherence for patients
+with asthma and COPD: comparison of a pharmacy record
+database
+with
+manually
+collected
+repeat
+prescriptions.
+Pharmacoepidemiol Drug Saf 2007;16:441e8.
+[8] Jung E, Pickard AS, Salmon JW, Bartle B, Lee TA. Medication
+adherence and persistence in the last year of life in COPD
+patients. Respir Med 2009;103:525e34.
+[9] Souza ML, Meneghini AC, Ferraz E, Vianna EO, Borges MC.
+Knowledge of and technique for using inhalation devices
+among asthma patients and COPD patients. J Bras Pneumol
+2009;35:824e31.
+[10] Gamble J, Fitzsimons D, Lynes D, Heaney LG. Difﬁcult asthma:
+people’s perspectives on taking corticosteroid therapy. J Clin
+Nurs 2007;16:59e67.
+[11] Small M, Anderson P, Vickers A, Kay S, Fermer S. Importance
+of inhaler-device satisfaction in asthma treatment: real-world
+observations
+of
+physician-observed
+compliance
+and
+clinical/patient-reported
+outcomes.
+Adv
+Ther
+2011;28:
+202e12.
+[12] Foster JM, Smith L, Bosnic-Anticevich SZ, Usherwood T,
+Sawyer SM, Rand CS, et al. Identifying patient-speciﬁc beliefs
+and behaviours for conversations about adherence in asthma.
+Intern Med J 2011;42:e136e44.
+[13] Weiss KB, Paramore LC, Liljas B, Revicki DA, Luce BR. Patient
+satisfaction with budesonide Turbuhaler versus triamcinolone
+acetonide administered via pressurized metered-dose inhaler
+in a managed care setting. J Asthma 2005;42:769e76.
+[14] Charles MS, Blanchette CM, Silver H, Lavallee D, Dalal AA,
+Mapel
+D.
+Adherence
+to
+controller
+therapy
+for
+chronic
+obstructive pulmonary disease: a review. Curr Med Res Opin
+2010;26:2421e9.
+[15] Anderson P, Benford M, Harris N, Karavali M, Piercy J. Real-
+world physician and patient behaviour across countries:
+disease-speciﬁc programmes e a means to understand. Curr
+Med Res Opin 2008;24:3063e72.
+[16] European Pharmaceutical Market Research Association. The
+EphMRA code of conduct for international healthcare market
+research.
+Available
+from:
+http://www.ephmra.org/
+professional-standards.aspx; 2010 [accessed 10.09.10].
+[17] Mahler DA, Wells CK. Evaluation of clinical methods for rating
+dyspnea. Chest 1988;93:580e6.
+[18] Rabin R, de Charro F. EQ-5D: a measure of health status from
+the EuroQol Group. Ann Med 2001;33:337e43.
+[19] Jenkins CD, Stanton BA, Niemcryk SJ, Rose RM. A scale for the
+estimation of sleep problems in clinical research. J Clin Epi-
+demiol 1998;41:313e21.
+[20] Gro¨mping U. Relative importance for linear regression in R:
+the package relaimpo. J Stat Soft 2006;17:1e27.
+[21] Suissa S, Ernst P, Kezouh A. Regular use of inhaled cortico-
+steroids and the long term prevention of hospitalisation for
+asthma. Thorax 2002;57:880e4.
+[22] Murphy AC, Proeschal A, Brightling CE, Wardlaw AJ, Pavord I,
+Bradding P, et al. The relationship between clinical outcomes
+and medication adherence in difﬁcult-to-control asthma.
+Thorax 2012;67:751e3.
+[23] George J, Kong DC, Stewart K. Adherence to disease man-
+agement programs in patients with COPD. Int J Chron Obstruct
+Pulmon Dis 2007;2:253e62.
+[24] Bourbeau J, Bartlett SJ. Patient adherence in COPD. Thorax
+2008;63:831e8.
+[25] Schnell K, Weiss CO, Lee T, Krishnan JA, Leff B, Wolff JL, et al.
+The prevalence of clinically-relevant comorbid conditions in
+patients with physician-diagnosed COPD: a cross-sectional
+study using data from NHANES 1999e2008. BMC Pulm Med
+2012;12:26e34.
+[26] Lin PJ, Shaya FT, Scharf SM. Economic implications of co-
+morbid conditions among medicaid beneﬁciaries with COPD.
+Respir Med 2010;104:697e704.
+[27] Jordan N, Lee TA, Valenstein M, Weiss KB. Effect of care
+setting on evidence-based depression treatment for veterans
+with COPD and comorbid depression. J Gen Intern Med 2007;
+22:1447e52.
+[28] Jerant A, DiMatteo R, Arnsten J, Moore-Hill M, Franks P. Self-
+report adherence measures in chronic illness: retest reliability
+and predictive validity. Med Care 2008;46:1134e9.
+[29] van der Palen J, Eijsvogel MM, Kuipers BF, Schipper M,
+Vermue NA. Comparison of the Diskus inhaler and the Handi-
+haler regarding preference and ease of use. J Aerosol Med
+2007;20:38e44.
+[30] Moore AC, Stone S. Meeting the needs of patients with COPD:
+patients’ preference for the Diskus inhaler compared with the
+HandiHaler. Int J Clin Pract 2004;58:444e50.
+[31] Hass C, Engdahl K, Albert W, Setyawan J, Mateo N. Patient
+preferences and perceived ease of use in inhaler features:
+Genuair vs other inhalers. Chest 2010;138:484A.
+[32] Hodder R, Price D. Patient preferences for inhaler devices in
+chronic
+obstructive
+pulmonary
+disease:
+experience
+with
+Respimat Soft Mist inhaler. Int J Chron Obstruct Pulmon Dis
+2009;4:381e90.
+[33] Schulte M, Osseiran K, Betz R, Wencker M, Brand P, Meyer T,
+et al. Handling of and preferences for available dry powder
+inhaler systems by patients with asthma and COPD. J Aerosol
+Med Pulm Drug Deliv 2008;21:321e8.
+[34] World Health Organization. Chronic obstructive pulmonary
+disease
+(COPD).
+Available
+from:
+http://www.who.int/
+respiratory/copd/en/index.html; 2012 [accessed 19.10.12].
+Inhaler satisfaction and compliance in COPD
+365

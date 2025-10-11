@@ -1,0 +1,652 @@
+Disease associations in alpha-1-antitrypsin
+deﬁciency
+H. Stone a, A. Pye a,b, R.A. Stockley a,*
+a ADAPT Project, Lung Function and Sleep Department, Queen Elizabeth Hospital Birmingham,
+Mindelsohn Way, Edgbaston, Birmingham B15 2WB, UK
+b University of Birmingham, Edgbaston, Birmingham B15 2TT, UK
+Received 8 May 2013; accepted 6 October 2013
+Available online 14 October 2013
+KEYWORDS
+Alpha-1-antitrypsin
+deﬁciency;
+Inﬂammatory bowel
+disease;
+Hypothyroidism;
+Neutrophilic
+inﬂammation
+Summary
+Introduction: In addition to emphysema alpha-1-antitrypsin deﬁciency (AATD) has been shown
+to be associated with several inﬂammatory conditions, including bronchiectasis, vasculitis, (in
+particular Wegener’s granulomatosis), and panniculitis, suggesting neutrophil proteinases also
+play a role in their pathophysiology. However, it remains unknown whether other inﬂammatory
+diseases are also more prevalent in AATD than the general population. The current study de-
+scribes the prevalence of other co-morbidities in AATD with particular emphasis on inﬂamma-
+tory bowel disease.
+Methods and results: The case notes of 651 PiZZ or PiZnull patients attending the UK national
+centre for AATD between 1996 and 2011 were reviewed. The prevalence of inﬂammatory bowel
+disease (1.5%) was higher than that predicted in the UK (0.4%). Ten patients had a conﬁrmed
+diagnosis of ulcerative colitis, and 1 had Crohn’s disease. In 2 cases there was a family history
+of inﬂammatory bowel disease and all but 1 patient were ex or never smokers. There was also a
+higher prevalence of hypothyroidism in this patient group than expected for the UK population
+e 26 cases (7.2% of females and 1.3% of males).
+Conclusions: The current study of the UK cohort of patients with AATD conﬁrmed a higher prev-
+alence of ulcerative colitis than would be expected in the general population, providing
+further evidence of a potential link between these 2 conditions. In addition, the data sug-
+gested a potential link between hypothyroidism and AATD.
+ª 2013 Elsevier Ltd. All rights reserved.
+* Corresponding author. Tel.: þ44 121 371 3885; fax: þ44 121 371 3887.
+E-mail addresses: hmstone2k@hotmail.com (H. Stone), anita.pye@uhb.nhs.uk (A. Pye), rob.stockley@uhb.nhs.uk (R.A. Stockley).
+0954-6111/$ - see front matter ª 2013 Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.rmed.2013.10.006
+Available online at www.sciencedirect.com
+ScienceDirect
+journal homepage: www.elsevier.com/locate/rmed
+Respiratory Medicine (2014) 108, 338e343
+Introduction
+Co-morbidities are becoming increasingly recognised in
+patients with usual COPD. Cardiovascular disease, the
+metabolic syndrome and osteoporosis all occur more
+frequently than expected and may have a common in-
+ﬂammatory pathway [1].
+Alpha-1-antitrypsin deﬁciency (AATD) of the PiZZ geno-
+type has a prevalence of 1 in 2500 in the UK and is the only
+widely recognised genetic factor that increases suscepti-
+bility to develop COPD [2]. This severe form of the deﬁ-
+ciency results in a critically low level of AAT that reduces
+the ability to protect tissues from the bystander damage
+caused
+by
+proteolytic
+enzymes
+from
+the
+neutrophil,
+including neutrophil elastase and proteinase 3 [3,4]. This
+excessive damage may be central to the processes seen in
+panniculitis and arteritis which are both neutrophilic con-
+ditions [5] and more frequent in subjects with AATD [6]
+suggesting cause and effect.
+Little is known about other co-morbidities in AATD that
+have a neutrophilic pathophysiology although there has
+been a suggested link with inﬂammatory bowel disease [7].
+The UK registry for AATD has comprehensive physiolog-
+ical
+and
+radiological
+data
+but
+also
+documents
+co-
+morbidities and their temporal relationship to the diag-
+nosis of AATD. The current project was undertaken to
+determine the frequency of other co-morbidities with an
+inﬂammatory basis in patients with AATD.
+Methods
+The ADAPT programme is the UK national centre for pa-
+tients with AATD, established in 1996, which documents the
+patients in detail, including past and present medical
+history.
+A retrospective review was undertaken of the ﬁrst 651
+consecutive patients joining the registry with the PiZZ or
+PiZnull phenotypes from 1996 to September 2011. AATD
+phenotype and genotype was conﬁrmed in all patients
+based on dried blood spots by a single laboratory (Hered-
+ilab, Salt Lake City, Utah).
+Data on all co-morbidities was extracted from the case
+notes for each of the patients. It was noted that 2 co-
+morbidities appeared to be more prevalent than antici-
+pated; namely inﬂammatory bowel disease and hypothy-
+roidism, therefore they were selected for further analysis
+for the current report. In those in whom a diagnosis of IBD
+was recorded, conﬁrmation was sought from the individ-
+ual patients’ primary care physician, together with the
+date of diagnosis, where the diagnosis was made, and
+whether any family history of inﬂammatory bowel disease
+was known.
+In the patients in whom a diagnosis of hypothyroidism
+had been recorded, conﬁrmation of the diagnosis was also
+sought from the patients’ primary care physician, including
+date of diagnosis and the presence or absence of thyroid
+autoantibodies. Where autoantibodies were not docu-
+mented thyroid peroxidase (TPO) autoantibodies were
+measured in the patients’ stored plasma using a ﬂuores-
+cence enzyme immunoassay (FEIA e a sandwich immuno-
+assay) and expressed as a value in arbitrary units (au).
+Other demographic data for patients with IBD or thyroid
+disease was extracted directly from the registry database.
+Data analysis was undertaken using Microsoft Excel 2007
+and SPSS version 17 (Chicago Ill). Ethical approval for the
+study was approved by the South Birmingham Ethics Com-
+mittee (LREC number 3359), and all patients gave written
+informed consent.
+Results
+IBD
+There were 11 patients from this UK cohort who had a diag-
+nosis of IBD documented in the casenotes (2 of whom also had
+a family history of IBD). The diagnosis was of UC in 10 pa-
+tients, and Crohn’s disease in the remaining patient. In each
+case, the patients’ primary care physician conﬁrmed both
+the diagnosis and the date of diagnosis. There was one
+further patient who had a diagnosis of IBD made in secondary
+care, and had undergone a surgical resection of the large
+bowel, but in whom the deﬁnitive diagnosis of UC or Crohn’s
+was not made. Data from this individual was therefore
+excluded from the UC series, in the current study. The de-
+mographic data for the 10 patients with conﬁrmed UC and
+AATD are presented in Table 1.
+There were 4 male and 6 female patients, which is
+consistent with the even sex distribution of UC in the general
+population. The overall prevalence rate of UC in this patient
+cohort was 1.5% (10 of 651 patients), which is equivalent to
+Table 1
+Demographic data for the 10 patients with AATD
+and UC.
+Male (%)
+4 (40)
+Age at UC diagnosis
+37.4 (5.1)
+Age at AATD diagnosis
+35.1 (6.4)
+AAT level (mm)
+4.1 (1.2)
+FEV1 (L)
+2.7 (1.8)
+FEV1% predicted
+98.0 (45.8e117.8)
+FVC (L)
+4.9 (3.94e6.0)
+FVC% predicted
+123.2 (22.8)
+FEV1/FVC ratio
+56.3 (23.2)
+TLC (L)
+6.8 (1.7)
+TLC% predicted
+120.9 (8.2)
+KCO mmol/min/kPa/L
+1.2 (0.3)
+KCO% predicted
+73.3 (15.8)
+RV/TLC%
+41.9 (1.8)
+Smokers (%)
+7 (70)
+Pack year history
+9.5 (3.7)
+CT emphysema alone (%)
+3 (30)
+CT bronchiectasis (%)
+1 (10)
+CT emphysema and bronchiectasis (%)
+3 (30)
+SGRQ impact
+28.7 (9.3e42.5)
+SQRG activity
+50.4 (18.1e80.9)
+SGRQ symptoms
+62.8 (41.8e61.2)
+SGRQ total
+42.7 (19.5e58.6)
+Data are shown as mean values with SD in parentheses or me-
+dian with IQR in parentheses, apart from the proportion of
+males, smokers and those with CT abnormalities shown as
+number and % in parentheses.
+Disease associations in AATD
+339
+1536 in 100,000, and exceeds the expected prevalence of
+400 per 100,000 in the general UK population [8].
+The 10 patients were subdivided into those in whom the
+diagnosis of UC was made before or after the diagnosis of
+AATD in order to reduce any potential selection bias (due to
+a more comprehensive health assessment because AATD
+had been identiﬁed). In 6, a diagnosis of UC (0.9% preva-
+lence) preceded that of AATD, which still equates to 921
+cases per 100,000, more than 2 times higher than expected
+in the adult UK population.
+The patients in general had airﬂow obstruction (mean
+FEV1/FVC ratio of 56.3%), air trapping with a raised RV/TLC
+ratio (mean 41.9%) or hyperinﬂation with a raised TLC
+(mean Z 120.9% predicted) and reduced gas transfer (mean
+KCO Z 73.3% predicted). Eight of the patients were index
+cases, 6 having presented with respiratory symptoms
+before the diagnosis of AATD was made. However, 2 of the
+patients were non-index having been identiﬁed by family
+screening and had normal lung function.
+The CT ﬁndings for the 8 index patients with UC are
+shown in Table 1. All of the scans were performed at the
+same centre, and reported by a single thoracic radiologist.
+One patient had a normal scan, and of the remaining 7, 6
+had demonstrable emphysema and 4 had bronchiectasis (3
+with emphysema) e see Table 1.
+Seven patients had a smoking history, (1 patient was a
+current smoker) and the mean pack year smoking history
+was 9.5 pack years (SD 8.7). The 6 former smokers had
+stopped smoking before the diagnosis of UC had been
+made, consistent with presentation of UC in the general
+population [9].
+Thyroid disease
+There were 26 patients within the cohort with a conﬁrmed
+diagnosis of hypothyroidism, all receiving thyroxine (4% of
+the cohort). A further 3 patients had hypothyroidism (1
+following treatment with amiodarone and 2 following thy-
+roid surgery for hyperthyroidism) and were excluded from
+further analysis. The demographic data for the 26 patients
+is presented in Table 2.
+Twenty-one were female, consistent with the sex dis-
+tribution of hypothyroidism in the general population,
+where the anticipated prevalence is up to 1.2% of women
+and 0.4% of men [10].
+Amongst the total cohort of AATD patients included in
+this analysis, there were 272 females (42%) and 379 males
+(58%). Based on this number, the prevalence of hypothy-
+roidism amongst females was 7.7% and 1.3% amongst males,
+both being higher than predicted in the UK population.
+Again, in order to reduce any selection bias, the group was
+divided
+into
+patients
+diagnosed
+with
+hypothyroidism
+before, and those in whom the diagnosis was made after
+the diagnosis of AATD. Fifteen patients (14 female 1 male)
+had a diagnosis of hypothyroidism made before AATD was
+diagnosed giving adjusted prevalence rates of 5.2% for fe-
+male and 0.5% of male patients, again being higher than
+expected though only for female patients.
+Thyroid autoantibodies were measured in 21 of the 26 pa-
+tients and were positive in 8 patients (38% of those in whom
+they were measured e with a range of 136 au to 2312 au).
+The lung function parameters for this group of patients
+again demonstrated airﬂow obstruction with a reduced
+FEV1/FVC ratio of 53.3%, an average TLC of 114.3% pre-
+dicted consistent with hyperinﬂation. The KCO% was also
+reduced on average to 74.5% predicted in keeping with
+emphysema secondary to alpha-1-antitrypsin deﬁciency.
+Other recognised disease associations
+Of the other previously described disease associations of
+AATD, in the UK cohort of patients, 26 (4.0%) had a primary
+diagnosis of liver cirrhosis, with 8 having undergone liver
+transplantation, and a further 12 patients had abnormal
+basic liver function tests (including bilirubin, transaminases
+and alkaline phosphatase) and were under regular liver
+follow up. Five patients (0.8%) had a diagnosis of Wegener’s
+granulomatosis and 6 (0.9%) had panniculitis.
+Discussion
+This unique dataset, from the only extensive registry of
+AATD patients in the UK, provides further evidence to
+support a possible link between AATD and other inﬂam-
+matory and autoimmune conditions. The data consolidates
+the association with UC as previously suggested [7,11] but
+uniquely identiﬁes an association with thyroid disease,
+which has not been reported previously.
+UC
+A potential link between AATD and IBD was suggested from
+the Swedish cohort where it was reported that 1.2% of
+patients with the PiZ phenotype of AATD also had UC [11].
+Table 2
+Demographic data for the 26 patients with A1ATD
+and hypothyroidism.
+Female (%)
+21 (81)
+Male (%)
+5 (19)
+Age at hypothyroidism diagnosis
+46.6 (1.9)
+Age at A1ATD diagnosis
+51.2 (2.4)
+FEV1 (L)
+2.0 (0.8)
+FEV1% predicted
+73.3 (26.6)
+FVC (L)
+3.7 (0.9)
+FVC% predicted
+114.3 (21.9)
+FEV1/FVC ratio
+53.3 (16.5)
+TLC (L)
+5.7 (4.9e7.3)
+TLC% predicted
+114.2 (15.6)
+KCO mmol/min/kPa/L
+1.2 (0.4)
+KCO% predicted
+74.5 (24.6)
+SGRQ impact
+53.7 (19.7)
+SGRQ activity
+60.3 (27.2)
+SGRQ symptoms
+30.0 (8.8)
+SGRQ total
+43.2 (19.5)
+Female and male are the number of patients included in the
+analysis with % in parentheses. Age at hypothyroid/AATD diag-
+nosis is the mean in years with SD in parentheses. Lung function
+is given as the mean or median absolute values or as % predicted
+with SD or IQR in parentheses.
+340
+H. Stone et al.
+This relationship was explored further, testing 141 patients
+on a Swedish registry of UC for AATD; 8.4% were found to be
+MZ heterozygotes, which is higher than the expected
+prevalence of 4.2% in the general Swedish population [11].
+Since MZ subjects also have reduced levels of AAT the data
+suggested that severity of UC related in part to a reduced
+ability to inhibit serine proteinase related bowel damage
+[11].
+The Mayo clinic published a series of 10 patients iden-
+tiﬁed over a 20-year period who had AATD and IBD listed as
+concurrent diagnoses [7]. Of these, 7 had UC, 3 of whom
+were heterozygotes for AATD (MZ phenotype), and 3 had
+CD. They reported a higher then expected number of these
+patients required surgical intervention following a failure of
+medical therapy, again suggestive of a worse clinical course
+amongst AATD deﬁcient individuals [7].
+The observed prevalence of UC reported here did not
+include or study MZ heterozygotes (because of the nature
+of the database) but was still 4 times greater than expected
+for a UK population in subjects with severe (PiZZ or PiZnull)
+AATD. The reasons for the association are not well under-
+stood. It has previously been postulated that a link between
+IBD and respiratory diseases in general may, in part, be
+explained by the common embryonic origins of the lung and
+bowel (both originate from the endoderm) [12] and due to
+similarities in the structure of the lumen of the airway and
+bowel (both contain goblet cells and submucosal glands).
+Both the lung and bowel have an important role in the
+immune system and host defence, and contain lymphoid
+tissue [12]. The interactions between the immune system
+and these 2 organs is complex; case reports have suggested
+that a proportion of patients with IBD who underwent sur-
+gical interventions including colectomy, developed respi-
+ratory
+symptoms
+postoperatively,
+suggestive
+of
+bronchiectasis [12]. In the series reported by Kelly et al.,
+which included 5 patients with UC and 5 with Crohn’s, the
+presentation of respiratory symptoms was variable, and the
+timescale of onset ranged from 2 weeks to 30 years [12].
+The prevalence of respiratory disease in the cohort
+presented here was high as would be expected in AATD
+(especially smokers). However, it should be noted that most
+(5 of the 7 smokers) had stopped smoking before UC was
+diagnosed consistent with the natural history of UC in the
+general population [9].
+The underlying pathophysiology of colitis complex;
+however there is data to support the role of the neutrophil
+in both host defence of the GI tract under healthy condi-
+tions, although in the presence of pathological conditions,
+such as in inﬂammatory bowel disease, their response may
+result in mucosal injury [13]. In inﬂammatory disease it
+might be predicted that UC in patients with reduced AAT
+levels would be less protected from damage by neutrophil
+serine proteinase especially during acute episodes, than
+those with normal levels of AAT. Indeed, this was inferred
+by the paper by Yang et al. in established UC in subjects
+with partial deﬁciency due to the heterozygote state who
+had a more severe clinical course [7].
+The current study had no control group with which to
+compare the severity of UC in AATD. However, the preva-
+lence was high suggesting the low AAT level may in itself be
+a risk factor. Minor degrees of bowel inﬂammation may lead
+to excessive neutrophil mediated damage in AATD subjects,
+precipitating the symptoms, signs and pathology of UC.
+Whether augmentation therapy to normalise the AAT
+plasma concentration would decrease the severity or
+prevalence of UC in subjects with AATD is worthy of
+exploration
+in
+other
+cohorts
+where
+such
+therapy
+is
+available.
+In IBD, several genes have been implicated in the path-
+ogenesis of UC, including those on chromosomes 1, 3, 5,
+6,7,12, 14 and 19 [14]. None of these loci have been found
+to be consistently at fault, and thus there has been no
+suggestion of a common underlying genetic defect to link
+AATD with UC [14]. Therefore, the association described
+here is more likely to have arisen as a result of excessive
+damage by neutrophilic inﬂammation as a result of AATD
+itself. The increased incidence may therefore reﬂect the
+reduction in protection from initial damage in AATD thereby
+amplifying the pathophysiology.
+The combination of inﬂammatory disease in 2 organs
+may possibly reﬂect an ‘overspill’ phenomenon [15] which
+could provide a mechanism of both lung disease and IBD as
+well as for other co-morbidities in usual COPD. However,
+further studies in well described and large cohorts of both
+diseases will be needed to elucidate the precipitating
+mechanism(s) and whether the systemic inﬂammation in
+these with co-morbidities exceeds or differs from that
+reﬂecting the severity of the lung disease alone.
+Hypothyroidism
+Work describing a potential link between usual COPD and
+thyroid disease has been less well described than that for
+inﬂammatory bowel disease, and with conﬂicting results.
+Okutan et al. [16] found an association between PaCO2
+and free T3 in 32 patients with stable COPD. Conversely,
+Gow and colleagues found no association between blood
+gas measurements and thyroid function tests [17]. A link
+between treated hypothyroidism, airway inﬂammation
+and airﬂow obstruction has been suggested in non-
+smoking individuals [18,19] however no previous data ex-
+ists on the prevalence of thyroid disease in patients with
+AATD.
+Our study shows an increased prevalence of hypothy-
+roidism compared to the general UK population (6 fold for
+females and 3 fold for males). Again, to reduce any diag-
+nostic bias, patients were divided into those diagnosed with
+thyroid disease prior to a diagnosis of AATD and there was
+still an increased prevalence amongst female patients at
+5.2%, although the prevalence amongst male patients was
+no longer different to that expected in the general popu-
+lation. The overall observation is consistent with a role of
+autoimmunity as autoimmune conditions in general are
+more common amongst females.
+Thirty eight % of our patients had positive thyroid au-
+toantibodies. In a previous study in non-smoking COPD 96%
+of the hypothyroid patients had positive antibody results,
+from which they concluded that autoimmunity was likely to
+be the basis [18]. In the AATD group of patients, both male
+and female patients were included in the analysis, whereas
+all of the 26 patients included in the Birring series were
+female [18]. As autoimmune diseases in general are more
+common in females, this may account for the difference in
+Disease associations in AATD
+341
+autoantibody prevalence between the 2 studies. Never-
+theless, when we analysed the females alone, the preva-
+lence of autoantibodies remained less than that observed
+by Birring and colleagues [19] suggesting an alternative
+mechanism in AATD.
+The reasons for an association between respiratory dis-
+ease and hypothyroidism are not well understood, although
+autoimmunity has been suggested in the pathogenesis of
+COPD [20]. In AATD lung disease, autoimmunity is not
+considered to play a signiﬁcant role [21] and thus the
+pathophysiological processes may differ from usual COPD.
+Birring et al. discovered that sputum levels of IL8 and
+neutrophil counts were higher in patients with hypothy-
+roidism compared to healthy control subjects [18], again
+suggesting
+an
+inﬂammatory
+link,
+and
+certainly
+lung
+inﬂammation is even more likely to be high in patients with
+AATD [22]. Therefore the potential association between
+patients with AATD and hypothyroidism may be more
+complex involving both autoimmunity and neutrophilic in-
+ﬂammatory processes.
+Other disease associations
+The number of patients with established liver disease
+amongst our cohort was low (26 or 4%) and less than that
+described recently by Dawwas and colleagues where 63%
+had a history suggestive of liver disease [23]. This disparity
+likely represents selection bias of the patients recruited to
+each centre, where referral to ADAPT is primarily for res-
+piratory reasons rather than AATD alone. Only 3 of the
+patients referred to the centre with respiratory symptoms
+have developed progressive liver failure to date.
+Panniculitis prevalence in our cohort was higher than the
+previously suggested value of 1 in 1000 patients with AATD
+[24]. There were 6 patients in the ADAPT database with
+panniculitis recorded as co-morbidity, equivalent to 9 pa-
+tients per 1000. Of these 6 individuals, 4 had severe pan-
+niculitis with previous ulceration of the lesions, requiring
+augmentation therapy with pooled human AAT. Although
+this is a licensed indication for intravenous AAT in the UK,
+the patients with severe panniculitis had been referred
+speciﬁcally to obtain advice on this treatment strategy and
+thus the higher incidence reported here than in other series
+[24] likely reﬂects this referral bias.
+An overall potential limitation of our study is that the
+results reﬂect a diagnostic, selection and referral bias.
+Recognition of one illness (especially AATD) may lead to
+more awareness and exploration of other health prob-
+lems. For these reasons, we analysed data from in-
+dividuals who were diagnosed with either UC or thyroid
+disease before the diagnosis of AATD was made. Even
+following this adjustment, the rates of UC and thyroid
+disease remained greater than expected in the general
+population of the UK, providing ﬁrmer evidence to link
+both IBD and thyroid disease with respiratory disease
+related to AATD. Patients with the AATD PiZZ genotypes
+are deemed most at risk of developing lung disease, and
+hence are followed up at this National Centre, together
+with those with other rare genotypes. Patients with the
+PiMZ genotype account for 2e3% of the population [23],
+and such individuals have 60% of the normal level of
+circulating AAT, and therefore are not deemed at risk of
+developing lung disease. Heterozygotes are not routinely
+followed up at our centre, and thus we were unable to
+conﬁrm whether these co-morbidities are also increased
+in the MZ patients as suggested previously [7].
+Conclusion
+Our observations have conﬁrmed an association between
+AATD and UC, and identiﬁed a link with hypothyroidism. UC
+would be an important diagnosis to exclude in patients with
+AATD who present with gastrointestinal symptoms, and
+conversely, patients with IBD should be tested routinely for
+AATD, especially if respiratory symptoms are also present.
+Acknowledgments
+This work was carried out using an unrestricted educational
+grant from Grifols.
+Conﬂict of interest
+RAS has acted as an advisor to several pharmaceutical
+companies including GSK, AZ, Almirall, Novartis, Schering
+Plough, Boehringer Ingelheim, Pﬁzer, MSD, Baxter Bi-
+ologicals, CSL Behring and Grifols. He has lectured on COPD
+and received fees from Takeda, GSK, Pﬁzer, AZ and Grifols
+and travel funding to attend International meetings from
+Boehringer, GSK and Grifols. He has received unconditional
+research funding from AZ, GSK and Grifols. HS and AP have
+no conﬂicts of interest.
+References
+[1] Sevenoaks MJ, Stockley RA. Chronic obstructive pulmonary
+disease, inﬂammation and co-morbidity e a common inﬂam-
+matory type? Respir Res 2006;7(70):1e9.
+[2] Fregonese L, Stolk J. Hereditary alpha-1-antitrypsin deﬁ-
+ciency and its clinical consequences. Orphanet J Rare Dis
+2008;3(16). 1750e1172.
+[3] Sandhaus RA, Turino GM. Neutrophil elastase mediated lung
+disease. COPD 2013;10(S1):60e3.
+[4] Sinden NJ, Stockley RA. Proteinase 3 activity in sputum from
+subjects with alpha-1-antitrypsin deﬁciency and COPD. Eur
+Respir J 2013;41(5):1042e50.
+[5] Silverman EK, Sandhaus RA. Alpha-1 antitrypsin deﬁciency. N
+Engl J Med 2009;360:2749e57.
+[6] Elzouki AN, Segelmark M, Wieslander J, Eriksson S. Strong link
+between the alpha-1 antitrypsin PiZ allele and Wegener’s
+granulomatosis. J Intern Med 1994;236(5):543e8.
+[7] Yang P, Tremaine WJ, Meyer RL, Prakash UB. Alpha 1-
+antitrypsin deﬁciency and
+inﬂammatory bowel diseases.
+Mayo Clin Proc 2000;75(5):450e5.
+[8] Carter MJ, Lobo AJ, Travis SP. Guidelines for the management
+of inﬂammatory bowel disease in adults. Gut 2004;53(Suppl.
+5):V1e16.
+[9] Bastida G, Beltran B. Ulcerative colitis in smokers, non-
+smokers and ex-smokers. World J Gastroenterol 2011;17(22):
+2740e7.
+[10] Tunbridge WM, Evered DC, Hall R, Appleton D, Brewis M,
+Clark F, Evans JG, Young E, Bird T, Smith PA. The spectrum of
+342
+H. Stone et al.
+thyroid disease in a community: the Whickham survey. Clin
+Endocrinol 1977;7:481e93.
+[11] Elzouki AN, Eriksson S, Lofberg R, Nassberger L, Weislander J,
+Lindgren S. The prevalence and clinical signiﬁcance of alpha
+1-antitrypsin deﬁciency (PiZ) and ANCA speciﬁcities (Protein-
+ase 3, BPI) in patients with ulcerative colitis. Inﬂamm Bowel
+Dis 1999;5(4):246e52.
+[12] Kelly MG, Frizelle FA, Thornley PT, Beckert L, Epton M,
+Lynch AC. Inﬂammatory bowel disease and the lung: is there a
+link between surgery and bronchiectasis? Int J Colorectal Dis
+2006;21:754e7.
+[13] Fournier MB, Parkos CA. The role of neutrophils in intestinal
+inﬂammation. Mucosa Immunol 2012;5(4):354e66.
+[14] Baumgart DC, Carding SR. Inﬂammatory bowel disease: cause
+and immunobiology. Lancet 2007;369(9573):1627e40.
+[15] Sinden NJ, Stockley RA. Systemic inﬂammation and comor-
+bidity in COPD: a result of ‘overspill’ of inﬂammatory medi-
+ators from the lung? Review of the evidence. Thorax 2010;
+65(10):930e6.
+[16] Okutan O, Kartaloglu Z, Onde ME, Bozkanat E, Kunter E. Pul-
+monary function tests and thyroid hormone concentrations in
+patients with chronic obstructive pulmonary disease. Med
+Principles Pract 2004;13:126e8.
+[17] Gow SM, Seth J, Beckett GJ, Douglas G. Thyroid function
+and endocrine abnormalities in elderly patients with se-
+vere chronic obstructive lung disease. Thorax 1987;42:
+520e5.
+[18] Birring SS, Morgan AJ, Prudon B, McKeever TM, Lewis SA,
+Falconer Smith JF, Robinson RJ, Britton JR, Pavord ID.
+Respiratory symptoms in patients with treated hypothy-
+roidism and inﬂammatory bowel disease. Thorax 2003;58:
+533e6.
+[19] Birring SS, Patel RB, Parker D, Mckenna S, Hargardon B,
+Monteiro WR, Falconer Smith JF, Pavord ID. Airway function
+and markers of airway inﬂammation in patients with treated
+hypothyroidism. Thorax 2005;60:249e53.
+[20] Agusti A, MacNee W, Donaldson K, Cosio M. Does COPD have an
+autoimmune component? Thorax 2003;58:832e4.
+[21] Wood AM, de Pablo P, Buckley CD, Ahmad A, Stockley RA.
+Smoke exposure as a determinant of autoantibody titre in
+a1-antitrypsin deﬁciency and COPD. Eur Respir J 2011;37:
+32e8.
+[22] Stockley RA, Hill AT, Hill SL, Campbell EJ. Bronchial inﬂam-
+mation: its relationship to colonising microbial load and
+alpha(1)-antitrypsin
+deﬁciency.
+Chest
+2000;117(Suppl.):
+291Se3S.
+[23] Dawwas MF, Davies SE, Grifﬁths WJ, Lomas DA, Alexander GJ.
+Prevalence and risk factors for liver involvement in individuals
+with PiZZ-related lung disease. Am J Respir Crit Care Med
+2013;187(5):502e8.
+[24] Kelly E, Greene CM, Carroll T, McElvaney NG, O’Neill SJ. Alpha
+1-antitrypsin deﬁciency. Respir Med 2010;104(6):763e72.
+Abbreviations
+AAT: alpha-1-antitrypsin;
+AATD: alpha 1-antitrypsin deﬁciency;
+COPD: chronic obstructive pulmonary disease;
+FEV1: Forced expiratory volume in 1 s;
+FVC: forced vital capacity;
+IL8: interleukin 8;
+IBD: inﬂammatory bowel disease;
+UC: ulcerative colitis
+Disease associations in AATD
+343

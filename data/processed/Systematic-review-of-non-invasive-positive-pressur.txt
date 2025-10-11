@@ -1,0 +1,1584 @@
+REVIEW
+Systematic review of non-invasive positive
+pressure ventilation for chronic respiratory
+failure
+Liam M. Hannan a,b,c,*, Giulio S. Dominelli c, Yi-Wen Chen d,
+W. Darlene Reid d, Jeremy Road c
+a Institute for Breathing and Sleep, Austin Hospital, Heidelberg, Victoria, Australia
+b University of Melbourne, Medicine, Dentistry and Health Sciences, Melbourne, Victoria, Australia
+c University of British Columbia, Respiratory Division and Department of Medicine, Vancouver,
+British Columbia, Canada
+d University of British Columbia, Department of Physical Therapy, Vancouver, British Columbia, Canada
+Received 30 August 2013; accepted 12 November 2013
+Available online 20 November 2013
+KEYWORDS
+Non-invasive
+ventilation;
+Ventilation;
+Chronic respiratory
+failure;
+Quality of life
+Summary
+Background: This systematic review examined the effect of non-invasive positive pressure
+ventilation (NIPPV) on patient reported outcomes (PROs) and survival for individuals with or
+at risk of chronic respiratory failure (CRF).
+Methods: Randomised controlled trials (RCTs) and prospective non-randomised studies in those
+treated with NIPPV for CRF were identiﬁed from electronic databases, reference lists and grey
+literature. Diagnostic groups included in the review were amyotrophic lateral sclerosis/motor
+neuron disease (ALS/MND), Duchenne muscular dystrophy (DMD), restrictive thoracic disease
+(RTD) and obesity hypoventilation syndrome (OHS).
+Results: Eighteen studies were included and overall study quality was weak. Those with ALS/
+MND had improved somnolence and fatigue as well as prolonged survival with NIPPV. For OHS,
+improvements in somnolence and fatigue, dyspnoea and sleep quality were demonstrated,
+while for RTD, measures of dyspnoea, sleep quality, physical function and health, mental
+and emotional health and social function improved. There was insufﬁcient evidence to form
+conclusions regarding the effect of NIPPV for those with DMD.
+* Corresponding author. C/o Institute for Breathing and Sleep, Austin Hospital, PO Box 5555, Heidelberg, Victoria 3084, Australia.
+E-mail addresses: liamhannan1@yahoo.com.au (L.M. Hannan), dominell@alumni.ubc.ca (G.S. Dominelli), yiwenchen@alumni.ubc.ca
+(Y.-W. Chen), wdreid@mail.ubc.ca (W. Darlene Reid), Jeremy.Road@vch.ca (J. Road).
+0954-6111/$ - see front matter ª 2013 Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.rmed.2013.11.010
+Available online at www.sciencedirect.com
+ScienceDirect
+journal homepage: www.elsevier.com/locate/rmed
+Respiratory Medicine (2014) 108, 229e243
+Conclusions: This review has demonstrated that NIPPV inﬂuences PROs differently depending
+on the underlying cause of CRF. These ﬁndings may provide assistance to patients and clini-
+cians to determine the relative costs and beneﬁts of NIPPV therapy and also highlight areas
+in need of further research.
+ª 2013 Elsevier Ltd. All rights reserved.
+Contents
+Introduction
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 230
+Methods
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 231
+Search for relevant studies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 231
+Search strategy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 231
+Study selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 231
+Data abstraction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 232
+Study outcomes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 232
+Quality assessment of studies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 232
+Data analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 232
+Results . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 233
+Quality assessment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 233
+Patient reported outcomes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 233
+Amyotrophic lateral sclerosis/motor neuron disease . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 233
+Randomised studies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 233
+Non-randomised prospective studies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 233
+Duchenne muscular dystrophy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 233
+Randomised studies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 233
+Non-randomised prospective studies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 233
+Restrictive thoracic disease . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 238
+Randomised studies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 238
+Prospective cohort studies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 238
+Obesity hypoventilation syndrome . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 238
+Randomised studies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 238
+Prospective cohort studies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 238
+Discussion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 240
+Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 241
+Conflict of interest
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 241
+Acknowledgements
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 241
+Supplementary data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 241
+References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 241
+Introduction
+Non-invasive positive pressure ventilation (NIPPV) is an
+established, effective long-term treatment for individuals
+with or at risk of chronic hypercapnic respiratory failure
+due to a number of heterogeneous conditions. Most
+commonly,
+these
+conditions
+include
+obesity
+hypo-
+ventilation syndrome (OHS), restrictive thoracic diseases
+(RTD), chronic obstructive pulmonary disease (COPD) as
+well as amyotrophic lateral sclerosis/motor neuron disease
+(ALS/MND) and other neuromuscular diseases [1,2] Rapid
+expansion in the use of domiciliary NIPPV has been
+described in a number of countries [3,4], and it is a
+preferred method of providing long-term ventilatory sup-
+port (in comparison to negative pressure methods or inva-
+sive mechanical ventilation) due to a variety of factors
+including cost and patient preference as well as a possible
+reduction in ventilator associated complications [5e7].
+Increasingly, investigators who have evaluated domicil-
+iary NIPPV therapy have recognised and emphasised the
+reporting of patient reported outcomes (PROs). These
+outcome measures generally evaluate the presence or
+severity of symptoms and/or determine health-related
+quality of life (HRQoL). In general, instruments that eval-
+uate HRQoL attempt to measure those aspects of overall
+quality of life that can clearly be shown to affect health e
+either physical or mental [8]. PROs are considered to be
+useful outcome measures in studies involving NIPPV e
+particularly where a mortality beneﬁt is unlikely to be
+identiﬁed. This focus on PROs contrasts earlier studies that
+more frequently evaluated physiologic outcome measures,
+such as daytime carbon dioxide tension (PaCO2), pulmonary
+230
+L.M. Hannan et al.
+function, or sleep parameters. Unfortunately, the large
+range of instruments used in NIPPV studies has made com-
+parison of outcomes difﬁcult. In addition, it is likely that
+only speciﬁc facets of an individual’s health and wellbeing
+are inﬂuenced
+by NIPPV, and that these will differ
+depending on the underlying disease process that has led to
+respiratory failure. This review therefore attempts to
+clarify the impact of NIPPV therapy by synthesising sub-
+scales of PROs in order to better describe how this therapy
+inﬂuences speciﬁc components of health and wellbeing.
+Three previous systematic reviews and a further review
+of randomised controlled trials have examined NIPPV for
+individuals with hypercapnic respiratory failure secondary
+to COPD [9e12]. We conducted a targeted search of elec-
+tronic databases from the conclusion of the most recent
+review and did not identify additional RCTs that could be
+included in a meta-analysis. We therefore elected not to
+perform a further evaluation of NIPPV for the treatment of
+individuals with COPD.
+Two previous systematic reviews have evaluated the role
+of long-term NIPPV for individuals with neuromuscular and
+chest wall disorders [13], and for ALS/MND [14], but neither
+included non-randomised studies, thereby omitting a sig-
+niﬁcant number of the studies performed in this area.
+Annane et al. concluded that weak but consistent evidence
+supports the use of NIPPV to relieve symptoms of chronic
+hypoventilation in the short-term for individuals with
+neuromuscular and chest wall disorders, while Radunovic
+et al. concluded that NIPPV improves or maintains quality of
+life in people with ALS/MND. Both reviews concluded that
+NIPPV signiﬁcantly prolongs survival in people with ALS/MND.
+In spite of a bias towards a positive treatment effect
+[15,16],
+non-randomised
+studies
+are
+able
+to
+provide
+important data that can assist clinicians. Provided their
+limitations are understood, data from well conducted non-
+randomised studies evaluating therapy may be similar to
+that obtained from RCTs in similar populations [17].
+Consideration of non-randomised studies is further neces-
+sitated in situations when the likelihood of further RCTs is
+low [16]. This is particularly relevant to NIPPV therapy (most
+notably for individuals with progressive neuromuscular dis-
+eases such as Duchenne muscular dystrophy (DMD) and ALS/
+MND) where it may be considered unethical to perform an
+RCT when subjects in the control arm would have a poten-
+tially life-prolonging treatment withheld [18e20]. Further-
+more, no previous review has evaluated the impact of NIPPV
+on dyspnoea, sleep quality or examined how therapy in-
+ﬂuences speciﬁc components of HRQoL. This is signiﬁcant,
+given that many of these outcomes may be perceived by
+patients to be more important than survival or physiological
+endpoints [21]. We have therefore included both RCTs (for
+survival and PRO data) and non-randomised prospective
+studies with a repeated measures design (for PRO data) to
+examine whether NIPPV improves survival and PROs in in-
+dividuals with or at risk of developing chronic respiratory
+failure due to ALS/MND, DMD, RTD and OHS.
+Methods
+A systematic review was performed using the methodology
+outlined by the Centre for Reviews and Dissemination [22].
+Search for relevant studies
+Databases were searched from the date of their inception
+until
+December
+3rd
+2012.
+These
+included:
+MEDLINE,
+EMBASE, CINAHL, the Centre for Reviews and Dissemina-
+tion, The Cochrane Database of Systematic Reviews and the
+Cochrane Central Register of Controlled Trials, ACP Journal
+Club, Database of Abstracts and Reviews of Effects (DARE),
+Health Technology Assessment, and the NHS Economic
+Evaluation. We also searched grey literature including:
+Proceedings First, Papers First, National Guideline Clearing
+House, ProQuest Dissertations and Theses (PDQT). The
+electronic searches were supplemented by manually scan-
+ning the reference lists from included articles to identify
+additional studies that may have been missed during the
+search of databases.
+Search strategy
+Population (disease) speciﬁc search terms (obesity hypo-
+ventilation syndrome, kyphoscoliosis, muscular dystrophy
+and amyotrophic lateral sclerosis) were combined with
+intervention speciﬁc terms (positive pressure respiration,
+artiﬁcial respiration, mechanical ventilation, non-invasive)
+together with modiﬁcations to meet the requirements of
+particular databases in all our searches. For a detailed
+description
+of
+the
+search
+strategy
+please
+refer
+to
+Supplementary File 1. A ﬂow chart that illustrates the
+search strategy and study selection is shown in Fig. 1. Two
+researchers reviewed all abstracts and titles identiﬁed in
+the electronic and manual search independently. Full text
+articles were also independently reviewed by two re-
+searchers. Disagreements were resolved at each stage of
+the search by consensus.
+Study selection
+Studies were included if they; (1) described participants
+with or at risk of respiratory failure due to ALS/MND, DMD,
+RTD, or OHS with an indication to commence NIPPV therapy
+according to published criteria [23,24]; (2) were an RCT or
+prospective study with a repeated measures design; (3)
+examined NIPPV (deﬁned as any form or mode of positive
+pressure ventilation delivered via a non-invasive interface
+[ie nasal, oronasal, total face mask or mouthpiece] for a
+minimum of 4 weeks); (4) reported survival or PROs using
+standardised instruments evaluating HRQoL, symptoms,
+sleep quality, mental health and physical health.
+Studies were excluded if they; (1) did not report out-
+comes according to diagnostic groups; (2) included partic-
+ipants with obstructive lung diseases (COPD, asthma, cystic
+ﬁbrosis, bronchiectasis), spinal cord injury, stable (or non-
+progressive) neuromuscular diseases, muscular dystrophies
+other than Duchenne type and congenital or acquired
+central alveolar hypoventilation syndromes, and obstruc-
+tive sleep apnoea (except that co-existing in individuals
+fulﬁlling diagnostic criteria for OHS); (3) utilised continuous
+positive airway pressure (CPAP), negative pressure venti-
+lation, diaphragm or phrenic nerve pacing or invasive
+ventilation (delivered via an endotracheal tube or trache-
+ostomy); (5) reported only the presence or absence of
+NIPPV for chronic respiratory failure
+231
+symptoms or did not use a standardised PRO instrument or;
+(6) appeared to report on similar groups of patients
+[25,26].
+Data abstraction
+From each selected article, the following information was
+abstracted; author, journal, year of publication, study
+design,
+participant
+characteristics,
+exclusion
+criteria,
+comparison group (if present for RCTs), use of supplemental
+oxygen therapy, other concurrent interventions, method of
+NIPPV titration, mode and method of NIPPV, treatment
+period, change in PaCO2, drop-outs, compliance (useage),
+PRO outcomes, and survival. PRO data were abstracted
+from RCTs and prospective studies with a repeated mea-
+sures design whereas survival data was only abstracted
+from studies with a parallel group RCT design comparing
+NIPPV with an appropriate ‘standard care’ (deﬁned as any
+or all of; oxygen therapy, medications, supportive care and
+lifestyle interventions). When studies reported outcomes at
+multiple time-points, we preferentially used data from
+between 1 and 6 months (deﬁned as short-term treatment).
+A number of authors were approached for additional data
+[19,25,27e35], and this was received to complement
+several reports [19,34,35].
+Study outcomes
+Quality assessment of studies
+All articles were assessed using the Quality Assessment Tool
+for Quantitative Studies by two investigators indepen-
+dently. Discrepancies were resolved by consensus. This tool
+provides a global rating and component scores for six
+components (selection bias, study design, confounders,
+blinding, data collection method and withdrawals and
+dropouts) [36,37].
+Data analysis
+Meta-analyses could not be performed on the included
+studies due to the heterogeneity of study design and out-
+comes. Two reviewers (LMH and YWC) grouped appropriate
+domains (subscales) of PROs independently into 6 discreet
+categories; dyspnoea, sleep quality, somnolence and fa-
+tigue, mental and emotional health, social functioning, and
+Figure 1
+Flow diagram of included and excluded studies (PRISMA).
+232
+L.M. Hannan et al.
+physical function and health. The methodology has been
+described previously [38], and is detailed in Supplementary
+File 2. Not all instruments/domains were able to be
+assigned into the categories devised.
+Only studies that presented repeated measures data for
+PROs (mean and standard deviation) were able to be
+included in our calculation of effect sizes. These were
+calculated for each of the PRO domains as the difference
+between the means of the baseline and post-treatment
+scores (change from baseline) divided by the standard de-
+viation of change. Composite effect sizes and 95% conﬁ-
+dence intervals (CI) for each of the combined categories
+were
+then
+calculated.
+We
+used
+Cohen’s
+categories
+for classifying effect sizes; 0.80 Z large, 0.50 Z medium,
+and
+0.20
+Z
+small.
+Further
+details
+are
+provided
+in
+Supplementary File 2.
+Results
+Our systematic search identiﬁed 1533 records after the
+removal of duplicates (Fig. 1). After screening titles and
+abstracts, 178 studies were retrieved in full text version
+and of these, 18 studies were included in our synthesis.
+Excluded full-text articles are listed in Supplementary File
+3 and reasons for exclusions are summarised in Fig. 1.
+The included studies and an overview of study attributes
+are displayed in Tables 1 and 2.
+Quality assessment
+A summary table of the quality assessment of the included
+studies is provided in Table 3.
+Table 2 demonstrates the number of studies with a
+particular design for each condition; only three studies
+were RCTs with the remaining being multi-centre (n Z 2) or
+single centre prospective cohort studies (n Z 13). Most
+included studies rated as strong for data collection methods
+and for reporting of withdrawals and dropouts. Selection
+bias (10/18), controlling for confounders (15/18) and
+blinding (15/18) were frequently rated as weak with the
+large number of non-randomised study designs contributing
+signiﬁcantly to these ratings. Global ratings of studies were
+most often weak (13/18).
+Patient reported outcomes
+Twenty-three PROs were used across the included studies
+(Table 1 and Supplementary Data File 2). These included
+instruments that evaluated sleepiness, dyspnoea, fatigue,
+morning headache, mood, anxiety, depression and generic-
+and disease-speciﬁc health-related quality of life.
+Fig. 2(a)e(c) e Forest plots.
+Amyotrophic lateral sclerosis/motor neuron disease
+Randomised studies
+The study by Bourke et al. randomised individuals with ALS/
+MND to NIPPV or standard care and demonstrated: median
+survival in the NIPPV group of 219 days (range 75e1382
+days) vs 171 days (range 1e878 days), improved mental
+component summary (MCS) of the SF-36 and all domains of
+the Sleep Apnea Quality of Life Index (SAQLI) and Chronic
+Respiratory Questionnaire. Repeated measures data for
+PROs was unavailable for this study.
+Non-randomised prospective studies
+Five studies reported outcomes for individuals with ALS/
+MND after commencing NIPPV [18,28,30,39,40], and addi-
+tional data was provided by one author who originally
+grouped their subjects with ALS/MND in a combined
+‘neuromuscular disease’ group [35].
+Fig. 2(a) summarises the composite effect size according
+to our combined categories for PROs. A consistent beneﬁ-
+cial effect of NIPPV on somnolence and fatigue was
+demonstrated across the included studies. There was no
+apparent effect on physical function and health associated
+with NIPPV therapy, and dyspnoea, mental and emotional
+health and social function were inconsistently inﬂuenced
+across studies. No data from included studies was available
+to evaluate the effect of NIPPV on sleep quality for in-
+dividuals with ALS/MND.
+Duchenne muscular dystrophy
+Randomised studies
+One randomised controlled trial was identiﬁed that re-
+ported outcomes for individuals with Duchenne muscular
+dystrophy (DMD). Raphael et al. reported results from a
+multicentre randomised controlled trial conducted in
+France from 1986 until 1991 [41]. The randomly allocated
+individuals with DMD and preserved lung function (forced
+vital capacity between 20 and 50% of predicted) to
+either
+‘conventional
+treatment’
+or
+‘conventional
+treatment þ NIPPV’. The primary outcome was overall
+survival and three secondary endpoints (time to occur-
+rence of hypercapnia >45 mmHg, time to decrease FVC
+below 20% of the value obtained at randomisation, time to
+necessary NIPPV ventilation for respiratory failure) were
+also examined. Changes in symptoms or HRQoL were not
+evaluated in this study. Results were reported for 70
+participants (n Z 35 per group) due to a planned interim
+analysis demonstrating signiﬁcantly more deaths in the
+NIPPV group. At ‘the reference date’ 8 deaths were
+observed in the NIPPV group compared with 2 deaths in
+the conventional treatment group. 2-year survival rates
+(77% vs 96%) and 3-year survival rates (65% vs 89%)
+demonstrated persistent differences between the two
+groups. There were no signiﬁcant differences between the
+groups with regard to secondary endpoints.
+Non-randomised prospective studies
+Only one prospective study including individuals with
+DMD and with a repeated measures design evaluating
+PROs was identiﬁed that reported outcomes speciﬁc to
+diagnosis. The study by Guilleminault et al. reported pre-
+and post- treatment values for the Epworth Sleepiness
+Scale (ESS) in only one of three included participants with
+DMD. This participant with DMD (who received supple-
+mental oxygen in addition to NIPPV treatment) demon-
+strated an ESS of 15/24 (at baseline) that fell to 9/24 (at
+1 month).
+NIPPV for chronic respiratory failure
+233
+Table 1
+Studies included in the systematic review.
+Author
+Study designa
+Diagnostic
+groupb
+n
+Gender
+(F:M)
+Comparisonc
+Survivald
+PROs reported
+Bourke* 2006
+RCT(single centre,
+parallel groups)
+ALS/MND
+NIPPV Z 22
+Control Z 19
+8:14
+9:10
+“Standard care”
+Yes
+SF-36, CRDQ
+SAQLI
+Mustfa 2006
+PC(single centre)
+ALS/MND
+26
+6:20
+SF-36, CRDQ, SAQLI
+ESS, McGill HRQoL
+HADS
+Lyall 2001
+PC(single centre)
+ALS/MND
+16
+1:15
+SF-36
+ESS
+Newsom-Davis 2001
+PC(single centre)
+ALS/MND
+9
+0:9
+ESS, HAD Anxiety score
+HAD Depression score
+Butz* 2003
+PC(single centre)
+ALS/MND
+36
+N/R
+ESS, PSQI
+VAS- Sleep quality,
+Fatigue scale, Beck’s
+Depression Inventory,
+von Zersen Mood Scale
+Bourke* 2003
+PC(single centre)
+ALS/MND
+17
+5:12
+SF-36, CRDQ, SAQLI, ESS
+Raphael 1994
+RCT (multicentre,
+parallel groups)
+DMD
+NIPPV Z 35
+Control Z 35
+0:35
+0:35
+“Conventional
+treatment”
+Yes
+Ferris 2000
+PC(single centre)
+RTD
+16
+N/R
+Sadoul Dyspnoea Scale
+VAS e Dyspnoea, Morning
+headache,
+Fatigue, Diurnal drowsiness,
+Sleep quality
+Borel 2012
+RCT(single centre,
+parallel groups)
+OHS
+NIPPV Z 19
+Control Z 18
+11:8
+11:7
+“Lifestyle
+counselling”
+No
+ESS
+Murphy 2012
+PC(multicentre)
+OHS
+25
+14:11
+SRI, ESS, FSS
+VAS e Fatigue, Sleep
+comfort, Physical activity
+Piper 2008
+PC(single centre)
+OHS
+18
+9:9
+SF-36, ESS, PSQI
+Storre 2006
+PC(single centre)
+OHS
+14
+2:8
+SRI
+Windisch 2008
+PC(multicentre)
+Mixed
+(OHS)
+(RTD)
+135
+(9)
+(29)
+2:7
+19:10
+SF-36, SRI
+Tsolaki 2011
+PC(single centre)
+Mixed
+(OHS)
+(RTD)
+(ALS/MND)
+101
+(28)
+(17)
+(10)
+10:18
+6:11
+N/R
+SF-36, ESS
+MRC Dyspnoea Scale
+234
+L.M. Hannan et al.
+Nauffal 2002
+PC(single centre)
+Mixed
+(RTD)
+62
+(35)
+14:21
+SF-36
+Borg Dyspnoea scale
+Domenech-Clar* 2003
+PC(single centre)
+Mixed
+(RTD)
+67
+(36)
+11:17
+SF-36
+Nickol 2005
+PC(single centre)
+Mixed
+(RTD
+20
+(8)
+4:4
+ESS
+Guilleminault* 1998
+PC(single centre)
+Mixed
+(DMD)
+20
+(3)
+0:3
+ESS
+* These studies fulﬁlled the inclusion criteria for the review however missing or unavailable data have not allowed incorporation into the calculation of composite effect sizes.
+RCT e randomised controlled trial, PC e prospective cohort, NIPPV e non-invasive positive pressure ventilation, AVAPS e average volume assured pressure support, CPAP e continuous
+positive airway pressure, M e male, F e female, PRO e patient reported outcome, ALS/MND e amyotrophic lateral sclerosis/motor neurone disease, OHS e obesity hypoventilation
+syndrome, RTD e restrictive thoracic disease, DMD e Duchenne muscular dystrophy, S mode e spontaneous mode, T mode e timed mode, S/T mode e spontaneous/timed mode, A/C
+mode e assist/control mode, SRI e Severe Respiratory Insufﬁciency Questionnaire, SF-36 e Medical Outcomes Study Short Form Health Survey, SAQLI e Calgary Sleep Apnea Quality of Life
+Index, FSS e Fatigue Severity Score, PSQI e Pittsburgh Sleep Quality Index, SSS e Stanford Sleepiness Score, ESS e Epworth Sleepiness Scale, FSS e Fatigue Severity Scale, CRDQ e Chronic
+Respiratory Disease Questionnaire, HADS e Hospital Anxiety Depression Score, MRC e Medical Research Council, McGill HRQoL e McGill Quality of Life Questionnaire, VAS e Visual
+Analogue Scale.
+a Study design was determined by the reviewers and is reported according to the method in which the data from the study was analysed in this review (and not necessarily how the
+authors of the study reported the study design) e for example; the study by Murphy et al. was reported by the authors to be a randomised controlled trial however in order to attempt to
+answer this review question, the data was analysed as a prospective cohort study (with repeated measures) and therefore has been reported in this manner.
+b Diagnostic groups listed include only those where results were reported according to speciﬁc diagnosis e for example if a study reported results for a group with ‘neuromuscular
+disease’ but did not separate outcomes according to a speciﬁc diagnosis (ie Duchenne muscular dystrophy or amyotrophic lateral sclerosis), these groups/diagnoses were not included in
+our analysis.
+c Only comparison group data that is included in this review is reported.
+d Only randomised controlled trials were evaluated for survival analysis.
+NIPPV for chronic respiratory failure
+235
+Table 2
+Overview of study attributes by diagnostic group.
+Author
+n
+% Not analyseda
+NIPPV
+Titration method (site;
+technique)b
+Co-interventionsc
+Treatment
+intervald
+ALS/MND
+Bourke* 2006
+NIPPV Z 22
+0
+Pressure; S/T mode
+Inpatient; ABG, Overnight
+monitoring
+Riluzole, Vaccinations, Airway
+clearance techniques,
+Palliative care
+Control Z 19
+Mustfa 2006
+26
+33.3%
+Pressure; mode not
+described
+Inpatient; ABG, Overnight
+monitoring
+Phone support
+3 months
+Lyall 2001
+16
+6.3%
+Pressure; mode not
+described
+Uncertain; ABG
+Airway clearance techniques
+1-month
+Tsolaki 2011
+10
+9.9%#
+Pressure; S/T mode
+Inpatient, Clinical, ABG
+Inpatient training, home visits
+3 months
+Newsom-Davis 2001
+9
+0
+Not described
+Inpatient; not described
+Clinic visits
+1.5 months
+Butz* 2003
+36
+47.2%
+Pressure; various
+Uncertain; Clinical, ABG
+1-month
+Bourke* 2003
+17
+41.2%
+Pressure; S/T mode
+Inpatient; ABG, Overnight
+monitoring
+Airway clearance techniques
+N/R
+DMD
+Raphael 1994
+NIPPV Z 35
+0
+Volume; A/C mode
+Inpatient; ABG
+Antibiotics, Physiotherapy
+Control Z 35
+Guilleminault* 1998
+3
+0#
+Pressure; T mode
+Uncertain; PSG
+Supplemental oxygen (n Z 1),
+Home visits
+1-month
+RTD
+Nauffal 2002
+35
+0#
+Pressure;
+Inpatient; ABG
+Supplemental oxygen (n Z 19),
+Phone support, Clinic visits
+3 months
+Windisch 2008
+29
+37.0%#
+Pressure and Volume;
+A/C mode
+Inpatient; Clinical, ABG
+Inpatient re-assessments
+1-month
+Tsolaki 2011
+17
+9.9%#
+Pressure; S/T mode
+Inpatient, Clinical, ABG
+Inpatient training, home visits
+3 months
+Domenech-Clar* 2003
+36
+32.8%#
+Pressure;
+Inpatient; ABG
+Supplemental oxygen (n Z 11),
+Phone support
+3 months
+Nickol 2005
+8
+0#
+Pressure;
+Inpatient; ABG, Overnight
+monitoring
+Supplemental oxygen (n Z ?)
+3 months
+Ferris 2000
+16
+0
+Pressure; T mode Volume;
+A/C mode
+Inpatient; Clinical, ABG,
+Overnight monitoring
+Supplemental oxygen (n Z 6),
+Phone support
+6 months
+OHS
+Borel 2012
+NIPPV Z 19
+5.4%
+Pressure; S/T mode
+Inpatient; not described
+1-month
+Control Z 18
+236
+L.M. Hannan et al.
+Murphy 2012
+25
+8.0%
+Pressure; S/T mode
+Inpatient; Overnight
+monitoring
+3 months
+Piper 2008
+18
+0
+Pressure; S mode
+Uncertain; PSG
+Supplemental oxygen (n Z 4)
+3 months
+Storre 2006
+14
+28.6%
+Pressure; S/T mode
+Uncertain; Clinical,
+Overnight
+monitoring
+1.5 months
+Tsolaki 2011
+28
+9.9%#
+Pressure; S/T mode
+Inpatient, Clinical, ABG
+Inpatient training, home visits
+3 months
+Windisch 2008
+9
+37.0%#
+Pressure and Volume;
+A/C mode
+Inpatient; Clinical, ABG
+Inpatient re-assessments
+1-month
+* These studies fulﬁlled the inclusion criteria for the review however missing or unavailable data have not allowed incorporation into the calculation of composite effect sizes.
+# For studies with mixed cohorts, the % not analysed is the value for the overall study population and is not speciﬁc for diagnosis.
+NIPPV e non-invasive positive pressure ventilation, AVAPS e average volume assured pressure support, CPAP e continuous positive airway pressure, M e male, F e female, PRO e patient
+reported outcome, ALS e amyotrophic lateral sclerosis Z motor neurone disease, OHS e obesity hypoventilation syndrome, RTD e restrictive thoracic disease, DMD e Duchenne muscular
+dystrophy, S mode e spontaneous mode, T mode e timed mode, S/T mode e spontaneous/timed mode, A/C mode e assist/control mode, SRI e Severe Respiratory Insufﬁciency
+Questionnaire, SF-36 e Medical Outcomes Study Short Form Health Survey, SAQLI e Calgary Sleep Apnea Quality of Life Index, FSS e Fatigue Severity Score, PSQI e Pittsburgh Sleep Quality
+Index, SSS e Stanford Sleepiness Score, ESS e Epworth Sleepiness Scale, FSS e Fatigue Severity Scale, CRDQ e Chronic Respiratory Disease Questionnaire, HADS e Hospital Anxiety
+Depression Score, MRC e Medical Research Council, McGill HRQoL e McGill Quality of Life Questionnaire, VAS e Visual Analogue Scale.
+a % Not analysed includes those not analysed due to reported deaths, drop-outs or ‘lost to follow-up’ at the treatment interval examined in this review (where analysis not intention-to-
+treat).
+b Site; Inpatient (Zhospital admission), Outpatient (Zcommunity), Technique; Clinical (Zclinical assessment of symptoms and comfort but may include additional simple daytime
+monitoring (using pulse oximetry or transcutaneous CO2 alone or in combination); ABG (Zadjustment using PaCO2  PaO2 from arterial sampling (includes arterialised ear lobe samples);
+Overnight monitoring (Zuse of limited overnight monitoring such as pulse oximetry, transcutaneous CO2, respiratory polygraphy); PSG (Zuse of full polysomnography).
+c As identiﬁed in this review.
+d Some studies reported outcomes at multiple time points, the treatment intervals listed here are those that have been used in the analysis and generally represent ‘short-term’
+treatment periods.
+NIPPV for chronic respiratory failure
+237
+Restrictive thoracic disease
+Randomised studies
+No randomised controlled trials were identiﬁed that re-
+ported outcomes according to diagnosis for individuals with
+RTD.
+Prospective cohort studies
+We included the study by Ferris et al. in addition to four
+studies with mixed cohorts that reported outcomes ac-
+cording to diagnostic group in our calculation of composite
+effect sizes [19,35,42,43] Additional data was forthcoming
+for two reports to enable their inclusion in the calculations
+[19,35].
+Fig. 2(b) summarises the composite effect size according
+to our combined categories for PROs. A consistent beneﬁ-
+cial effect of NIPPV on dyspnoea, sleep quality, physical
+function and health, mental and emotional health and so-
+cial function was demonstrated across included studies.
+Somnolence and fatigue also improved in most studies
+where it was evaluated. There appeared to be a relation-
+ship between effect size and study quality with ‘weaker’
+studies tending to report larger effect sizes although it
+should be noted that all studies evaluating individuals with
+RTD were rated as weak.
+Obesity hypoventilation syndrome
+Randomised studies
+The review identiﬁed one parallel group RCT including in-
+dividuals
+with
+OHS.
+Borel
+et
+al.
+randomly
+allocated
+individuals with ‘mild OHS’ to treatment with NIPPV or a
+comparison group that received lifestyle counseling [44].
+The
+study
+evaluated
+ambulatory
+obese
+individuals
+(BMI>30 kg/m2) with a screening daytime arterial blood gas
+sample to identify those with hypercapnia (initially deﬁned
+as PaCO2  45 mmHg, however the investigators altered the
+protocol to include those with PaCO2 43e45 mmHg) and
+invited these individuals to participate. Despite random-
+isation, the NIPPV group was older (58  11 years vs 54  6
+years) and had a higher baseline PaCO2 (48.0  4.5 mmHg vs
+45  3.0 mmHg) than the control group. Pressure-limited
+NIPPV therapy in spontaneous-timed (S/T) mode was
+commenced during an inpatient stay for all those in the NIPPV
+group. After 1 month of NIPPV there was a greater reduction
+in daytime PaCO2, AHI and severity of overnight disturbances
+in SpO2 in the NIPPV group compared with control, however
+there was no signiﬁcant difference in daytime somnolence
+according to the ESS (control mean difference 2.1 (4.5 to
+0.4) vs NIPPV mean difference 3.4 (6.0 to 0.8)).
+Other included studies evaluated the effect of NIPPV on
+individuals with OHS in comparison to continuous positive
+airway pressure (CPAP) [34], and average volume assured
+pressure support (AVAPS) NIPPV [45,46] While treatment
+allocation was randomly assigned in these studies (parallel
+group, and crossover), it was determined to analyse these
+studies using only the conventional (ﬁxed) NIPPV data as a
+prospective cohort with repeated measures in order to best
+address the review question.
+Prospective cohort studies
+In addition to these three studies [34,45,46], two others
+with
+mixed
+cohorts
+(previously
+described)
+included
+Table 3
+Quality assessment.
+Study
+Selection
+bias
+Study
+design
+Confounders
+Blinding
+Data
+collection
+method
+Withdrawals
+and dropouts
+Total
+18 Z Weakest
+possible
+6 Z Strongest
+possible
+Global
+rating
+Bourke 2006
+Moderate
+Strong
+Strong
+Weak
+Strong
+Strong
+9
+Moderate
+Mustfa 2006
+Moderate
+Moderate
+Weak
+Weak
+Strong
+Strong
+12
+Weak
+Lyall 2001
+Weak
+Moderate
+Weak
+Weak
+Strong
+Strong
+13
+Weak
+Newsom-Davis 2001
+Weak
+Moderate
+Weak
+Weak
+Strong
+Strong
+13
+Weak
+Butz 2003
+Weak
+Moderate
+Weak
+Weak
+Strong
+Moderate
+14
+Weak
+Bourke 2003
+Weak
+Moderate
+Weak
+Weak
+Strong
+Weak
+15
+Weak
+Raphael 1994
+Strong
+Strong
+Strong
+Weak
+Strong
+Strong
+8
+Moderate
+Ferris 2000
+Weak
+Moderate
+Weak
+Weak
+Weak
+Strong
+15
+Weak
+Borel 2012
+Moderate
+Strong
+Moderate
+Moderate
+Strong
+Strong
+9
+Strong
+Murphy 2012
+Moderate
+Moderate
+Weak
+Moderate
+Strong
+Strong
+11
+Moderate
+Piper 2008
+Moderate
+Moderate
+Weak
+Weak
+Strong
+Strong
+12
+Weak
+Storre 2006
+Moderate
+Moderate
+Weak
+Moderate
+Strong
+Moderate
+12
+Moderate
+Windisch 2008
+Moderate
+Moderate
+Weak
+Weak
+Strong
+Moderate
+13
+Weak
+Tsolaki 2011
+Weak
+Moderate
+Weak
+Weak
+Strong
+Strong
+13
+Weak
+Nauffal 2002
+Weak
+Moderate
+Weak
+Weak
+Strong
+Strong
+13
+Weak
+Domenech-Clar 2003
+Weak
+Moderate
+Weak
+Weak
+Strong
+Moderate
+14
+Weak
+Nickol 2005
+Weak
+Moderate
+Weak
+Weak
+Moderate
+Strong
+14
+Weak
+Guilleminault 1998
+Weak
+Moderate
+Weak
+Weak
+Strong
+Weak
+15
+Weak
+Total score is the sum of the six component scores where Weak Z 3 points, Moderate Z 2 points and Strong Z 1 point. Global ratings are
+determined according to the following schema; no Weak ratings Z Strong, 1 Weak rating Z Moderate, 2 or more Weak ratings Z Weak.
+238
+L.M. Hannan et al.
+Figure 2
+Forest plots of composite effect sizes (with 95% conﬁdence intervals) for PROs in studies evaluating the effect of NIPPV
+in individuals with (a) ALS/MND; (b) RTD and; (c) OHS.
+NIPPV for chronic respiratory failure
+239
+individuals with OHS and reported outcomes speciﬁc to
+diagnosis [19,35].
+Fig. 2(c) summarises the composite effect size according
+to our combined categories for PROs. There was a consis-
+tent beneﬁcial effect of NIPPV on somnolence and fatigue
+demonstrated across all included studies. Other PRO cate-
+gories inconsistently improved in association with NIPPV
+therapy. It should be noted that the study by Storre et al.
+enrolled those who had ‘failed CPAP therapy’ based on
+physiological parameters and therefore a partial treatment
+effect on PROs may have inﬂuenced the baseline assess-
+ments in this study.
+Discussion
+This review has demonstrated considerable differences in
+the manner in which NIPPV inﬂuences the health and
+wellbeing of individuals that require this therapy. Most
+striking is the ﬁnding that of the categories deﬁned in this
+review, only somnolence and fatigue were demonstrated to
+consistently improve across studies involving individuals
+with ALS/MND. Composite effect sizes were generally large
+but ranged from 0.44 to 1.91. While previous reviews have
+concluded that “NIPPV signiﬁcantly improves and maintains
+quality of life” for those with ALS/MND [14], our results
+suggest that the spectrum of beneﬁts from NIPPV is in fact
+much narrower. The apparent lack of a consistent beneﬁt in
+other categories deﬁned in this review may be reﬂection of
+the rapidly progressive nature of ALS/MND, in which any
+initial gains in these areas are quickly negated by disease
+progression, or alternatively this may indeed indicate a lack
+of beneﬁt of NIPPV on these domains. We speculate that
+the presence of somnolence and fatigue may identify an
+individual that is more likely to notice the beneﬁts of
+NIPPV, and this may have important implications in deter-
+mining adherence and tolerability with ongoing NIPPV
+therapy. Regarding survival outcomes, our ﬁndings are
+consistent with those in previous reviews, with the study by
+Bourke et al. convincingly demonstrating that overall there
+is prolonged survival associated with NIPPV therapy for
+those with ALS/MND [29]. For the subgroup with severe
+bulbar involvement, a survival beneﬁt was not demon-
+strated in this study, however there were beneﬁts in PRO
+outcomes associated with NIPPV therapy.
+Also notable in our review was the paucity of prospec-
+tive studies evaluating NIPPV for individuals with DMD, with
+the study by Raphael et al. remaining the largest prospec-
+tive study in this population [41]. The excess mortality
+demonstrated
+with
+early
+NIPPV
+in
+this
+study
+is
+not
+adequately explained by differences in the proportion of
+left ventricular dysfunction between groups as most of the
+deaths appeared to be related to retention of tracheo-
+bronchial secretions. The authors suggested that the use of
+NIPPV may have created a false sense of security for this
+group and thus a less urgent response to deteriorations. It is
+certainly likely that there were differences between the 17
+centres
+in
+the
+management
+and
+support
+of
+those
+commencing NIPPV and this may have contributed to the
+excess mortality. We wonder whether a similar study uti-
+lising current NIPPV therapy, community supports and
+airway clearance techniques would replicate the amount of
+harm associated with early NIPPV therapy. Despite this
+negative study for NIPPV therapy in DMD, it remains widely
+accepted that NIPPV does in fact improve survival in in-
+dividuals with DMD once hypercapnic respiratory failure
+develops, and current guideline recommendations are in
+keeping with this [23,47] Indeed there may be a role for
+earlier institution of NIPPV for those with DMD, with the
+study reported by Ward et al. demonstrating in a mixed
+cohort with congenital neuromuscular and chest wall dis-
+orders that evidence of nocturnal hypoventilation appears
+to identify individuals that are at high risk of developing
+daytime hypercapnia [27]. These individuals warrant at
+least close clinical assessment and observation, and a low
+threshold for commencement of NIPPV. Unfortunately, due
+to its mixed population, this study is limited in its ability to
+guide speciﬁc recommendations for individuals with DMD.
+Of the groups included in this review, those with RTD
+appear to obtain the widest spectrum of beneﬁt in PRO
+categories after short-term therapy with NIPPV. Dyspnoea,
+sleep quality, physical function and health, mental and
+emotional health and social function were demonstrated to
+improve in all included studies. Somnolence and fatigue
+also appeared to improve in most studies where it was
+evaluated. These results for individuals with RTD, who are
+more likely to have a stable disease process, provide an
+interesting contrast to those with ALS/MND. However, while
+the composite effect sizes in these studies were generally
+large, it did appear that ‘weaker’ studies tended to report
+larger effect sizes, which suggests that these may over-
+estimate the true magnitude of effect.
+Although less consistent than RTD, those with OHS also
+appear able to beneﬁt across a relatively wide spectrum of
+PRO categories after commencing NIPPV. Somnolence and
+fatigue consistently improved in studies involving in-
+dividuals with OHS and dyspnoea and sleep quality also
+improved, with the exception of the study by Storre et al.
+that may have included participants partially treated with
+CPAP. Mention should be made however, of the study by
+Borel et al. which did not demonstrate a signiﬁcant dif-
+ference in the Epworth Sleepiness Scale after 1 month of
+NIPPV [44]. This apparent lack of beneﬁt on somnolence
+may reﬂect the population studied which had relatively
+‘mild’ OHS based on a lower threshold for hypercapnia
+(43 mmHg) and recruitment of ambulatory outpatients
+from a newspaper advertisement. In contrast, the other
+studies evaluating individuals with OHS included partici-
+pants who were more hypercapnic [19,34,35,46] or who had
+‘failed’ CPAP therapy [45]. The shorter treatment interval
+in the study by Borel et al. may also have contributed to the
+apparent lack of effect. Although a 1 month period of NIPPV
+therapy is sufﬁcient to alter ABG parameters in those with
+OHS [48,49] changes in PROs may require a longer period of
+acclimatisation to NIPPV.
+This review has a number of limitations that require
+consideration. We have touched on the issues of evaluating
+non-randomised studies previously and we again highlight
+the risks of drawing concrete conclusions from these
+studies due to the likelihood of bias. Overall, the quality of
+studies in this area was weak, with studies limited pre-
+dominantly by selection bias, presence of confounders and
+lack
+of
+blinding.
+In
+particular,
+we
+suspect
+that
+co-
+interventions
+such
+as
+the
+method
+of
+initial
+NIPPV
+240
+L.M. Hannan et al.
+titration, access to 24-h telephone support, use of home
+visits and provision of airway clearance techniques may
+have an inﬂuence on some PRO measures. Many of these co-
+interventions are routinely applied during the transition to
+domiciliary NIPPV therapy, yet the variation in practice
+demonstrated across the studies included in this review
+hints at a lack of robust evidence to support their routine
+use.. Their impact on the reported outcomes is therefore
+unknown but may have been signiﬁcant and further studies
+are required to clarify the magnitude of any effect. In
+addition to study quality, we acknowledge that the exclu-
+sion of non-English language articles was not optimal,
+however, cost and logistical constraints limited our ability
+to perform translations. Finally, our method of producing
+composite effect sizes required the review team to make a
+number of judgements and assumptions regarding the
+grouping of instruments that we felt measured similar
+constructs. In calculating our composite effect sizes we
+used conservative measures of correlation between in-
+struments in addition to the small amount of published data
+comparing instruments in our study populations. We have
+provided a detailed description of the process for producing
+the composite effect sizes in Supplementary File 2 in order
+that our methods are available for review.
+Conclusion
+The data regarding the effects of NIPPV on individuals with
+or at risk of chronic respiratory failure is generally weak.
+However, there is consistent evidence of beneﬁt for in-
+dividuals with ALS/MND for both survival and measures of
+somnolence and fatigue. For those with OHS, NIPPV also
+appears likely to improve measures of somnolence and fa-
+tigue, dyspnoea and sleep quality, while for those with
+RTD, measures of dyspnoea, sleep quality, physical function
+and health, mental and emotional health and social func-
+tion were consistently reported to improve. There was
+insufﬁcient data to form conclusions regarding DMD, how-
+ever based on published data, there remains no prospective
+evidence to support NIPPV therapy for DMD in those without
+evidence of hypoventilation.
+This review has identiﬁed areas for further research.
+Previous authors have suggested that further RCTs in this
+area are required [13], however ethical considerations are
+likely to be a signiﬁcant barrier. We would encourage pro-
+spective studies examining how the presence of somno-
+lence and fatigue may inﬂuence the tolerability and
+compliance with NIPPV for those with ALS/MND in order to
+better clarify the signiﬁcance of these symptoms. There is
+also a need for more rigorous efforts to prospectively
+evaluate NIPPV for individuals with DMD in order to better
+deﬁne and reﬁne this therapy. In addition, an examination
+of
+the
+role
+that
+co-interventions
+may
+play
+towards
+improving outcomes for individuals using long-term NIPPV is
+necessary. Speciﬁcally, evaluating the roles of airway
+clearance
+techniques,
+advanced
+care
+planning
+and
+nocturnal monitoring (including polysomnography) in the
+provision of NIPPV therapy should be a research priority in
+this area. Finally, investigators considering the use of PROs
+in studies involving NIPPV are encouraged to carefully
+examine the instruments they choose in order to ensure
+appropriate domains are included that can best identify a
+treatment effect, if present.
+Conﬂict of interest
+All authors contributed to this systematic review and there
+are no conﬂicts of interest.
+Acknowledgements
+LMH was supported by a National Health and Medical
+Research Council Postgraduate Scholarship and additional
+support was provided by The Dr H.M. (Bill) Foreman Me-
+morial Fund.
+Appendix A. Supplementary data
+Supplementary data related to this article can be found at
+http://dx.doi.org/10.1016/j.rmed.2013.11.010.
+References
+[1] Garner DJ, Berlowitz DJ, Douglas J, Harkness N, Howard M,
+McArdle N, Naughton MT, Neill A, Piper A, Yeo A, Young A.
+Home mechanical ventilation in Australia and New Zealand.
+Eur Respir J May 2013;41(1):39e45.
+[2] Lloyd-Owen SJ, Donaldson GC, Ambrosino N, Escarabill J,
+Farre R, Fauroux B, Robert D, Schoenhofer B, Simonds a K,
+Wedzicha J a. Patterns of home mechanical ventilation use in
+Europe: results from the Eurovent survey. Eur Respir J Jun.
+2005;25(6):1025e31.
+[3] R. Hong Kong Home VentilationS. Hong Kong Thoracic. Home
+mechanical ventilation in Hong Kong. Eur Respir J 2004;23(1):
+136e41.
+[4] Laub M, Berg S, Midgren B. Home mechanical ventilation in
+Swedeneinequalities within a homogenous health care sys-
+tem. Respir Med 2004;98(1):38e42.
+[5] Elliott M, Ambrosino N. Noninvasive ventilation: a decade of
+progress. Eur Respir J 2002;19(4):587e9.
+[6] Bach JR. A comparison of long-term ventilatory support al-
+ternatives from the perspective of the patient and care giver.
+Chest 1993;104(6):1702e6.
+[7] Kollef MH. Avoidance of tracheal intubation as a strategy to
+prevent ventilator-associated pneumonia. Intensive Care Med
+Jun. 1999;25(6):553e5.
+[8] Health-related quality of life (HRQoL). Centre for Disease
+Control and Prevention; 2011 [Online]. Available: http://
+www.cdc.gov/hrqol/concept.htm#six [accessed 08.02.13].
+[9] Chen H, Liang B, Xu Z, Tang Y, Wang K, Xiao J, Yi Q, Sun J,
+Feng Y. Long-term non-invasive positive pressure ventilation
+in severe stable chronic obstructive pulmonary disease: a
+meta-analysis. Chin Med J (Engl) 2011;124(23):4063e70.
+[10] COPD Working Group. Noninvasive positive pressure ventilation
+for chronic respiratory failure patients with stable chronic
+obstructive pulmonary disease (COPD): an evidence-based
+analysis. Ont Health Technol Assess Ser Jan. 2012;12(9):1e51.
+[11] Kolodziej MA, Jensen L, Rowe B, Sin D. Systematic review of
+noninvasive positive pressure ventilation in severe stable
+COPD. Eur Respir J 2007;30(2):293e306.
+[12] Struik FM, Duiverman ML, Bladder G, Wijkstra PJ. Effects of
+non-invasive positive pressure ventilation (NIPPV) in stable
+NIPPV for chronic respiratory failure
+241
+chronic obstructive pulmonary disease (COPD). Respir Med
+2008;4:94e100.
+[13] Annane D, Orlikowski D, Chevret S, Chevrolet JC, Raphael JC,
+Jc C, Jc R. Nocturnal mechanical ventilation for chronic
+hypoventilation in patients with neuromuscular and chest wall
+disorders. Cochrane Database Syst Rev 2009;3(2):1941.
+[14] Radunovic A, Annane D, Jewitt K, Mustfa N. Mechanical
+ventilation for amyotrophic lateral sclerosis/motor neuron
+disease. Cochrane Database Syst Rev 2009;128(4):CD004427.
+[15] Wood L, Egger M, Gluud LL, Schulz KF, Ju¨ni P, Altman DG,
+Gluud C, Martin RM, Wood AJG, Sterne J a C. Empirical evi-
+dence of bias in treatment effect estimates in controlled trials
+with
+different
+interventions
+and
+outcomes:
+meta-
+epidemiological study. BMJ Mar. 2008;336(7644):601e5.
+[16] Reeves B, Deeks J, Higgins J, and Wells G. Chapter 13:
+including non-randomized studies. Cochrane Handb Syst Rev
+Interv., vol. Available .
+[17] Mckee M, Britton A, Black N, Mcpherson K, Sanderson C, Bain C.
+Interpreting the evidence: choosing between randomised and
+non-randomised studies. Br Med J 1999;319:312e5. no. July.
+[18] Mustfa N, Walsh E, Bryant V, Lyall RA, Addington-Hall J,
+Goldstein LH, Donaldson N, Polkey MI, Moxham J, Leigh PN.
+The effect of noninvasive ventilation on ALS patients and their
+caregivers. Neurology 2006;66(8):1211e7.
+[19] Windisch W. Impact of home mechanical ventilation on health-
+related quality of life. Eur Respir J 2008;32(5):1328e36.
+[20] Benditt JO, Boitano LJ. Pulmonary issues in patients with
+chronic neuromuscular disease. Am J Respir Crit Care Med
+2013 May 15;187(10):1046e55.
+[21] Guyatt DJ, Cook GH. Health status, quality of life, and the
+individual. JAMA 1994;272(8):630e1.
+[22] Centre for Reviews and Dissemination. Systematic reviews:
+CRD’s guidance for undertaking systematic reviews in health
+care; 2009. p. 292.
+[23] McKim DA, Road J, Avendano M, Abdool S, Cote F, Duguid N,
+Fraser J, Maltais FF, Morrison DL, O’Connell C, Petrof BJ,
+Rimmer K, Skomro R. Home mechanical ventilation: a Cana-
+dian thoracic society clinical practice guideline. Can Thorac
+Soc 2011;18(C):197e215.
+[24] Goldberg A, Leger P. Clinical indications for noninvasive pos-
+itive pressure ventilation in chronic respiratory failure due to
+restrictive lung disease, COPD, and nocturnal hypoventilation.
+Chest 1999;116(2):521e34.
+[25] Ferris G, Servera-Pieras E, Vergara P, Tzeng AC, Perez M,
+Marin J, Bach JR. Kyphoscoliosis ventilatory insufﬁciency:
+noninvasive management outcomes. Am J Phys Med Rehabil
+2000;79(1):24e9.
+[26] Gonzalez C, Ferris G, Diaz J, Fontana I, Nunez J, Marin J.
+Kyphoscoliotic ventilatory insufﬁciency: effects of long-term
+intermittent
+positive-pressure
+ventilation.
+Chest
+2003;
+124(3):857e62.
+[27] Ward S, Chatwin M, Heather S, Simonds AK. Randomised
+controlled trial of non-invasive ventilation (NIV) for nocturnal
+hypoventilation in neuromuscular and chest wall disease pa-
+tients with daytime normocapnia. Thorax Dec. 2005;60(12):
+1019e24.
+[28] Bourke SC, Bullock RE, Williams TL, Shaw PJ, Gibson GJ.
+Noninvasive ventilation in ALS: indications and effect on
+quality of life. Neurology 2003;61(2):171e7.
+[29] Bourke SC, Tomlinson M, Williams TL, Bullock RE, Shaw PJ,
+Gibson GJ. Effects of non-invasive ventilation on survival and
+quality of life in patients with amyotrophic lateral sclerosis: a
+randomised controlled trial. Lancet Neurol 2006;5(2):140e7.
+[30] Butz M, Wollinsky KH, Wiedemuth-Catrinescu U, Sperfeld A,
+Winter S, Mehrkens HH, Ludolph AC, Schreiber H. Longitudinal
+effects of noninvasive positive-pressure ventilation in patients
+with amyotrophic lateral sclerosis. Am J Phys Med Rehabil
+2003;82(8):597e604.
+[31] Domenech-Clar R, Nauffal-Manzur D, Perpina-Tordera M,
+Compte-Torrero
+L,
+Macian-Gisbert
+V.
+Home
+mechanical
+ventilation for restrictive thoracic diseases: effects on patient
+quality-of-life and hospitalizations. Respir Med 2003;97(12):
+1320e7.
+[32] Guilleminault C, Philip P, Robinson A. Sleep and neuromus-
+cular disease: bilevel positive airway pressure by nasal mask
+as a treatment for sleep disordered breathing in patients with
+neuromuscular disease. J Neurol Neurosurg Psychiatry 1998;
+65(2):225e32.
+[33] Jackson CE, Rosenfeld J, Moore DH, Bryan WW, Barohn RJ,
+Wrench M, Myers D, Heberlin L, King R, Smith J, Gelinas D,
+Miller RG. A preliminary evaluation of a prospective study of
+pulmonary function studies and symptoms of hypoventilation
+in ALS/MND patients. J Neurol Sci Oct. 2001;191(1e2):75e8.
+[34] Piper a J, Wang D, Yee BJ, . Barnes DJ, Grunstein RR. Rand-
+omised trial of CPAP vs bilevel support in the treatment of
+obesity hypoventilation syndrome without severe nocturnal
+desaturation. Thorax May 2008;63(5):395e401.
+[35] Tsolaki V, Pastaka C, Kostikas K, Karetsi E, Dimoulis A, Zikiri A,
+Koutsokera A, Gourgoulianis KI. Noninvasive ventilation in
+chronic respiratory failure: effects on quality of life. Respi-
+ration 2011;81(5):402e10.
+[36] Armijo-Olivo
+S,
+Stiles
+CR,
+a
+Hagen
+N,
+Biondo
+PD,
+Cummings GG. Assessment of study quality for systematic
+reviews: a comparison of the cochrane collaboration risk of
+bias tool and the effective public health practice project
+quality assessment tool: methodological research. J Eval Clin
+Pract Feb. 2012;18(1):12e8.
+[37] Ju¨ni P, Witschi a, Bloch R, Egger M. The hazards of scoring the
+quality of clinical trials for meta-analysis. JAMA Sep. 1999;
+282(11):1054e60.
+[38] Busse J, VM M, Krasnik C, Patelis-Siotis I, Guyatt G. Psycho-
+logical intervention for premenstrual syndrome: a meta-
+analysis of randomized controlled trials. Psychother Psycho-
+som 2009;78:6e15.
+[39] Lyall RA, Donaldson N, Fleming T, Wood C, Newsom-Davis I,
+Polkey MI, Leigh PN, Moxham J. A prospective study of quality
+of life in ALS patients treated with noninvasive ventilation.
+Neurology 2001;57(1):153e6.
+[40] Newsom-Davis
+IC,
+Lyall
+R
+a,
+Leigh
+PN,
+Moxham
+J,
+Goldstein LH. The effect of non-invasive positive pressure
+ventilation (NIPPV) on cognitive function in amyotrophic
+lateral sclerosis (ALS): a prospective study. J Neurol Neurosurg
+Psychiatry Oct. 2001;71(4):482e7.
+[41] Raphael J-CC, Chevret S, Chastang C, Bouvet F. Randomised
+trial of preventive nasal ventilation in Duchenne muscular
+dystrophy. Lancet 1994;343(8913):1600e4.
+[42] Nickol AH, Hart N, Hopkinson NS, Moxham J, Simonds A,
+Polkey MI. Mechanisms of improvement of respiratory failure
+in patients with restrictive thoracic disease treated with non-
+invasive ventilation. Thorax Sep. 2005;60(9):754e60.
+[43] Nauffal D, Domenech R, Martinez Garcia MA, Compte L,
+Macian V, Perpina M, Dome´nech R, . Martı´nez Garcı´a M a,
+Macia´n V, Perpin˜a´ M. Noninvasive positive pressure home
+ventilation in restrictive disorders: outcome and impact on
+health-related quality of life. Respir Med Oct. 2002;96(10):
+777e83.
+[44] Borel J-CC, Tamisier R, GonzalezBermejo J, Baguet J-PP,
+Monneret D, Arnol N, RouxLombard P, Wuyam B, Levy P,
+Pepin JL, Gonzalez-Bermejo J, Roux-Lombard P, Pe´pin J-L.
+Noninvasive ventilation in mild obesity hypoventilation syn-
+drome: a randomized controlled trial. Chest Mar. 2012;141(3):
+692e702.
+[45] Storre JH, Seuthe B, Fiechter RRRR, Milioglou S, Dreher M,
+Sorichter S, Windisch W. Average volume-assured pressure
+support in obesity hypoventilation: a randomized crossover
+trial. Chest Sep. 2006;130(3):815e21.
+242
+L.M. Hannan et al.
+[46] Murphy PB, Davidson C, Hind MD, Simonds A, Williams AJ,
+Hopkinson NS, Moxham J, Polkey M, Hart N. Volume targeted
+versus pressure support non-invasive ventilation in patients
+with super obesity and chronic respiratory failure: a rando-
+mised controlled trial. Thorax 2012;67(8):727e34.
+[47] Hull
+J,
+Aniapravan
+R,
+Chan
+E,
+Chatwin
+M,
+Forton
+J,
+Gallagher J, Gibson N, Gordon J, Hughes I, McCulloch R,
+Russell RR, Simonds A. British Thoracic Society guideline for
+respiratory management of children with neuromuscular
+weakness. Thorax Jul. 2012;67(Suppl. 1):1e40.
+[48] Mokhlesi B, Tulaimat A, Evans AT, Wang Y, Itani A-A,
+Hassaballa HA, Herdegen JJ, Stepanski EJ. Impact of adher-
+ence with positive airway pressure therapy on hypercapnia in
+obstructive sleep apnea. J Clin Sleep Med 2006;2(1):57e62.
+[49] Perez
+de
+Llano
+LA,
+Golpe
+R,
+Ortiz
+Piquer
+M,
+Veres
+Racamonde A, Vazquez Caruncho M, Caballero Muinelos O,
+Alvarez Carro C. Short-term and long-term effects of nasal
+intermittent positive pressure ventilation in patients with
+obesity-hypoventilation
+syndrome.
+Chest
+2005;128(2):
+587e94.
+NIPPV for chronic respiratory failure
+243

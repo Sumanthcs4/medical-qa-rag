@@ -1,0 +1,1854 @@
+Outcomes in idiopathic pulmonary ﬁbrosis: A
+meta-analysis from placebo controlled trials
+C.P. Atkins a,*, Y.K. Loke a,b, A.M. Wilson a,b
+a Norfolk and Norwich University Hospital, Colney Lane, Norwich, Norfolk NR4 7UY, UK
+b Norwich Medical School, University of East Anglia, Norwich, Norfolk NR4 7TJ, UK.
+Received 7 September 2013; accepted 9 November 2013
+Available online 19 November 2013
+MESH KEYWORDS
+Idiopathic pulmonary
+ﬁbrosis;
+Lung diseases,
+interstitial;
+Meta-analysis
+Summary
+Background: Most data on outcomes in Idiopathic Pulmonary Fibrosis (IPF) pre-dates current
+guidelines. Data on rates of infection is sparse; the effect of low-dose corticosteroids and dis-
+ease severity is unknown.
+Methods: We identiﬁed randomised-controlled trials of IPF and analysed rates of mortality,
+lower respiratory tract infections (LRTIs), IPF progression and acute exacerbations from the pla-
+cebo arms. We standardised event rates and compared differences using incidence rate ratios
+(IRRs) between subgroups according to disease severity or use of low-dose immunosuppression.
+Results: Mortality was lower in trials that recruited patients with mild-moderate disease sever-
+ities only, as compared to trials where patients with severe disease were allowed (188.6 vs 78.6
+deaths per 1000 patient/years, IRR 0.30e0.59, p < 0.0001). No statistical difference was seen be-
+tween trials permitting and excluding low-dose prednisolone use. LRTIs were found to be com-
+moner in trials allowing low dose prednisolone use compared with those that did not (227.1 vs
+63.4 infections per 1000 patient/years. IRR 2.56e5.13, p < 0.0001), and were less frequent in tri-
+als excluding patients with severe disease (153.9 vs 257.8 infections per 1000 patient/years, IRR
+0.45e0.81, p Z 0.0003). Acute exacerbations occurred less frequently in trials excluding severe
+disease (28.2 vs 122.9 exacerbations per 1000 patient/years, IRR 0.11e0.55, p < 0.0001). There
+was no difference between groups in rates of IPF progression.
+Conclusion: Mortality is heterogeneous and dependent on entry criteria. Infection rates were
+high, both with and without immunosuppression, and were higher in severe disease. Consider-
+ation should be given to alternative outcomes to mortality in future IPF trials if severe disease
+is excluded.
+ª 2013 Elsevier Ltd. All rights reserved.
+* Corresponding author. Department of Respiratory Medicine, Norfolk and Norwich University Hospital, Colney Lane, Norwich, Norfolk NR4
+7UY, UK.
+E-mail addresses: christopher.atkins@nnuh.nhs.uk, chris.atkins@doctors.net.uk (C.P. Atkins), y.loke@uea.ac.uk (Y.K. Loke), a.m.
+wilson@uea.ac.uk (A.M. Wilson).
+0954-6111/$ - see front matter ª 2013 Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.rmed.2013.11.007
+Available online at www.sciencedirect.com
+ScienceDirect
+journal homepage: www.elsevier.com/locate/rmed
+Respiratory Medicine (2014) 108, 376e387
+Introduction
+Idiopathic Pulmonary Fibrosis (IPF) is a progressive and
+incurable form of interstitial lung disease resulting in
+ﬁbrosis of the parenchyma. Epidemiological data suggests
+that the incidence is 6.8e16.3 per 100,000 [1], with high
+mortality [2], though this is based on patients with a diag-
+nostic criteria that precedes current international guide-
+lines from 2000 [3], and the 2011 update [4]. It has also
+been recently suggested by the European IPF consensus
+group that mortality in randomised trials studying IPF is
+much lower than expected, and too low for its use as a
+primary outcome in future trials [5]. It is therefore unclear
+if IPF patients enrolled in clinical trials reﬂect the prognosis
+and progression of IPF patients seen in the clinic.
+The incidence of signiﬁcant symptoms associated with
+IPF is not fully known. The incidence of acute exacerba-
+tions of IPF is unknown [6] but the proportion of patients
+suffering this event was calculated to be 8.5% in one year
+from a study of 147 patients [7]. Bacterial infections may
+have an important implication in the pathogenesis or
+prognosis of IPF [8], but frequency of these events is
+unknown.
+In the search for effective treatments, several large
+randomised, placebo-controlled trials have been performed
+recently. Although few have shown evidence of beneﬁt (n-
+acetylcysteine [9], pirfenidone [10] and BIBF-1120 [11]), a
+pooled analysis of outcomes in the control arms represents
+a unique opportunity to evaluate the natural history of IPF
+in a large cohort of patients undergoing rigorous follow-up.
+A comprehensive synthesis of the well-characterised pa-
+tients within the RCTs allows quantitative evaluation of a
+broad range of patient oriented outcomes such as rates of
+disease progression, acute exacerbations, infections and
+mortality. In view of previous ﬁndings of increased mor-
+tality with immunosuppression [12] and the debate about
+endpoints for clinical trials [5,13], we were interested in
+the outcomes of studies depending on whether inclusion
+criteria permitted immunosuppression or stated disease
+severity.
+Methods
+Literature search and selection
+This
+review
+incorporated
+all
+double-blind,
+placebo-
+controlled RCTs, investigating any pharmacological treat-
+ment for IPF. The population of interest was patients with
+IPF of any severity, diagnosed using radiology or biopsy,
+who were enrolled in the placebo arms of these trials.
+A systematic search was performed of MEDLINE, EMBASE,
+AMED and Cochrane central. A search was performed using
+the terms “Idiopathic pulmonary ﬁbrosis” or “IPF” or “Usual
+interstitial pneumonia” or “UIP,” and “Randomised” or
+“Randomized,” and “Placebo”. The returned results were
+screened for appropriate trials by the ﬁrst author by
+reviewing each abstract. Trials considered potentially
+suitable for inclusion were reviewed in full. Bibliographies
+of relevant articles were reviewed to identify any addi-
+tional papers.
+Data extraction
+The pre-speciﬁed outcomes of interest were rates of mor-
+tality (all-cause and respiratory causes where quoted),
+lower respiratory tract infections, pneumonia (where re-
+ported as a speciﬁc and separate event to ‘lower respira-
+tory tract infections’), progression of diseases (deﬁned as a
+reduction in Forced Vital Capacity (FVC) by 10% or DLco
+(diffusing capacity of carbon monoxide) by 15% within the
+course of the trial), and acute exacerbations of IPF (where
+listed as a separate entity within trial outcomes and
+adverse events). Data regarding the outcomes was extrac-
+ted, as well as baseline characteristics, enrolment criteria
+for participants, whether immunosuppression was allowed
+and how many patients were on steroids, and methods of
+follow-up where available.
+Validity assessment
+One reviewer rated the methodological quality of each
+study using the ﬁve-point Jadad score for RCTs [14]. Bias
+was assessed using the ‘Risk of Bias’ tool provided by the
+Cochrane collaboration.
+Statistical analysis
+Standardised
+event
+rates
+were
+calculated
+for
+each
+outcome. The number of events occurring during follow-up
+were normalised to give a rate per 1000 patient-years of
+follow-up. We also conducted random effects meta-analysis
+of proportion of patients affected per year for each spec-
+iﬁed outcomes (standardised to rates occurring per 1000
+patient/years of follow-up).
+For subgroup analysis according to different categories
+of patients, we classiﬁed trials into those including mild-to-
+moderate disease only, which were deﬁned as trials speci-
+fying a lower-limit cut-off value for FVC or DLco at baseline
+(Table 1), versus those including all severities. The cut-off
+values are displayed in Table 1. Trials were also classiﬁed
+into those allowing concurrent use of immunosuppression or
+not. Trials allowing low-dose corticosteroids were deﬁned
+as those including patients on steady doses of prednisolone
+not more than 20 mg. One paper [33] was included despite
+two patients receiving daily prednisolone doses greater
+than 20 mg. We compared the event rates in different
+groups of trials by calculated incidence rate ratios (IRRs)
+and 95% conﬁdence intervals using MedCalc for Windows,
+version 12.2 (MedCalc Software, Ostend, Belgium).
+Results
+Literature search
+In total, 118 abstracts were screened for suitability. Of
+these, 20 full-text articles were reviewed for eligibility.
+Four trials were not placebo controlled and were excluded
+[9,15e17]. Two trials were excluded because the trials
+were stopped early and the average length of follow-up was
+not given [12,18]. One trial was excluded [19] as it predated
+latest guidelines for IPF diagnosis [3] and the diagnosis of
+IPF could not be conﬁrmed. In total, thirteen trials were
+Outcomes from idiopathic pulmonary ﬁbrosis trials
+377
+Table 1
+Trial designs and inclusion/exclusion criteria for the randomised controlled trials included in this review.
+Trial
+Investigated
+agent
+Placebo
+arm (n)
+Patient/
+years
+follow-up
+Age (yrs)
+(Mean  SD)
+Male
+sex
+(%)
+Time since
+diagnosis
+(years)
+(mean  SD)
+FVC
+baseline
+(% pred)
+(mean)
+Dlco
+baseline
+(% pred)
+(mean)
+Ever
+smokers
+(%)
+Current
+smokers
+(%)
+Receiving
+steroids
+(%)
+Inclusion criteria
+Shulgina et al., e
+2012 [36,37]
+Co-trimoxazole
+86
+86
+70.7  8.6
+69.5 2.6  4.7
+71.5
+39.1
+72 (75.8%)
+1 (1.1%)
+52 (60.5) Evidence of clinical
+decline. No restriction;
+only two patients on
+>20 mg prednisolone.
+Richieldi et al., e
+2011 [11]
+BIBF-1120
+85
+85
+64.8  8.6 74.1 1.4  1.5
+77.6
+e
+e
+e
+43 (50.6) <5 years since diagnosis,
+FVC >50% pred, DLco 30
+e79%. Age >40.
+Prednisolone less than
+15 mg daily
+King et al., e
+2011 [22]
+Bosentan
+(BUILD-3)
+209
+320
+63.2  9.1
+63.6 0.5
+73.1
+47.9
+142 (67.9%) e
+36 (17.2) <3 years since diagnosis.
+No age limits. Excluded if
+>5% honeycombing
+Prednisolone less than
+20 mg daily
+Noble et al.,
+2011 [10]
+Pirfenidone
+(CAPACITY)
+347
+480
+60.9
+72.6 e
+74.6
+46.7
+232 (66.9%) 17 (5%)
+0 (0)
+<4 years since diagnosis.
+Age 40e80. FVC 50%
+predicted, DLco 35%
+predicted. No
+concomitant
+immunosuppression
+Taniguchi et al., e
+2010 [25]
+Pirfenidone
+104
+104
+64.7  7.3
+77.9 ea
+79.1
+55.2
+83 (79.8%) 13 (12.5%)
+5 (4.8)
+No time limit on
+diagnosis, Age 20e75. No
+PFT limits. Prednisolone
+less than 10 mg daily
+IPF research
+network e
+2010 [29]
+Sildenaﬁl
+91
+49
+68.2  9.3
+82
+1.87  1.93
+58.73
+26.7
+69 (76%)
+e
+0 (0)
+DLco 35% predicted;
+advanced IPF only No
+concomitant
+immunosuppression
+Daniels et al.,
+2009 [24]
+Imatinib
+61
+113
+67.8
+64
+e
+65.6
+39.3
+38 (64%)
+e
+0 (0)
+<3 years since diagnosis.
+Age 20e79. FVC 55%
+predicted, DLco 35%
+pred. No concomitant
+immunosuppression
+King et al., e
+2009 [23]
+Interferon gamma-1b
+(INSPIRE)
+275
+407
+65.9  7.9
+68
+e
+73.1
+47.3
+191 (69.4%) 14 (5%)
+47 (17.1) <4 years since diagnosis.
+Age 40e79. FVC 55%
+predicted, DLco 35%
+pred. Prednisolone less
+than 0.125 mg/kd/day
+378
+C.P. Atkins et al.
+King et al., e
+2008 [21]
+Bosentan (BUILD-1)
+84
+84
+65.1  9.1
+63
+1.1  1.0
+69.5
+41.4
+e
+e
+11 (13.1) <3 years since diagnosis.
+No age limits. FVC >50%
+predicted, DLco >30%
+Prednisolone less than
+15 mg daily
+Raghu et al.,
+2007 [26]
+Etanercept
+41
+38
+65.1  7.1
+58.5 1.0  1.1
+63.0
+36.9
+e
+e
+0 (0)
+<2 years since diagnosis.
+No age limits. FVC >55%,
+DLco >25% No
+concomitant
+immunosuppression
+Malouf et al.,
+2007 [27]
+Everolimus
+45
+90
+60.0  9.0
+71.1 e
+69.0
+42.0
+e
+e
+12 (26.7) No mention of severity of
+previous decline.
+Diagnosis of IPF only.
+Prednisolone less than
+10 mg daily
+Raghu et al.,
+2004 [20]
+Interferon gamma-1b 168
+187
+63.4  8.6
+66
+1.0  0.8
+64.1
+36.8
+e
+15 (9%)
+77 (45.8) No maximum length of
+time of diagnosis. Age 20
+e79. FVC 50% pred,
+DLco 25% Prednisolone
+less than 15 mg daily
+Azuma et al.,
+2004 [28]
+Pirfenidone
+35
+24
+64.3  7.6
+94
+e
+78.4
+57.7
+32 (92%)
+3 (9%)
+8 (22.9) No time limit for
+diagnosis. Age 20e75. No
+guidance on PFTs.
+Prednisolone less than
+10 mg daily
+Total number of Participants in placebo arms Z 1631 Total follow-up across trials Z 2067.7 patient/years Total number taking corticosteroids Z 266.
+a No data for average time since diagnosis, though more than a third had IPF for >3 yr.
+Outcomes from idiopathic pulmonary ﬁbrosis trials
+379
+included in the quantitative meta-analysis, involving 1631
+patients, and 2067.7 years of patient follow-up (Tables
+1e5).
+No paper scored less than 3 points using the Jadad score,
+indicating good methodological quality. Assessment of bias
+suggested low risk of bias through study design, with only
+two trials judged as ‘unclear’ for sequence generation, as
+found in the Jadad score. Publication bias was not felt to be
+an issue due to the use of placebo arms of trials only.
+Nine
+trials
+included
+only
+mild-to-moderate
+disease
+severity [10,11,20e26], three trials included all disease se-
+verities [8,27,28], and one trial [29] included severe disease
+only. Nine trials included patients who were concurrently
+taking immunosuppression [8,11,20e23,25,27,28], three did
+not [10,24,26] and one did not specify [29]. In total, 291
+patients
+within
+these
+trials
+(26.7%)
+were
+taking
+corticosteroids.
+Outcomes
+We included thirteen trials with a total of 1631 patients, and
+2067.7 years of patient follow-up. Baseline characteristics
+for the pooled patient groups are shown in Table 2a
+(comparing trials excluding severe disease with those
+enrolling all disease severities) and Table 2b (comparing
+trials allowing concurrent use of low-dose immunosuppres-
+sion and those not allowing immunosuppression). There were
+no major baseline differences in patients enrolled in trials
+allowing and excluding prednisolone use. Baseline differ-
+ences between trials excluding severe disease and those
+including all severities showed that those including severe
+disease were older (67.1 yrs vs 63.8 yrs), had been diagnosed
+for longer (2.2 vs 0.9 yrs), had lower baseline FVC and DLco
+values, and were more likely to have already commenced
+immunosuppression (43.4% vs 15.9%).
+There were a total of 190 fatalities in the placebo arms
+of the trials, thus giving a standardised mortality rate of
+91.9 deaths per 1000 patient/years follow-up. The relative
+proportions of patients dying per year by study are shown in
+Fig. 1. All but one of the trials stated how many patients
+died from respiratory problems, which totaled 142 patients
+from twelve trials, thus giving a standardised event rate of
+70.3 deaths per 1000 patient/years due to respiratory
+events.
+The mortality rate was signiﬁcantly lower overall in tri-
+als that only included mild and moderate disease severities
+as compared to trials where severe patients were included
+(IRR 0.42, 95% CI 0.30e0.59,p < 0.0001). The overall
+standardised mortality rate was 78.6 deaths per 1000 pa-
+tient/years in eight trials that recruited only patients with
+mild-to-moderate disease as compared to 188.6 fatalities
+per 1000 patient/years overall in four trials that included
+patients with severe disease (Table 5). The proportion of
+fatal events per year in each trial and the pooled average
+from the random effect meta-analysis are shown in Figs. 1
+and 2. Key features illustrated in the Forest plots are the
+extent of heterogeneity between studies, and the differ-
+ence between studies that recruited only mild to moderate
+disease (annual proportion of fatalities 8%; 95% CI 5.2%e
+12%) as compared to those that included patients with se-
+vere disease (annual proportion of fatalities 15.4%; 95% CI
+9.1%e23.1%).
+We observed that trials permitting concomitant use of
+low dose immunosuppression had higher rates of death
+compared to those where participants were not taking
+immunosuppression alongside placebo (Table 4). All-cause
+mortality rates were 95.8 deaths per 1000 patient/years
+overall in ten trials allowing immunosuppression, compared
+with 72.9 deaths per 1000 patient/years overall in three
+trials enrolling those not on immunosuppression (IRR 1.31,
+95% CI 0.93e1.88).
+In studies reporting infective events, the standardised
+rate of lower respiratory tract infections was 172.5 events
+per 1000 patient/years in ten trials reporting the outcome,
+whereas the overall standardised rate of pneumonia was
+45.6 events per 1000 patient/years across eight studies
+(Fig. 3). Six of the studies allowing concurrent use of low-
+dose steroids and three of the studies not allowing steroid
+use reported infective events. Incidence of lower respira-
+tory tract infections was signiﬁcantly higher in the group
+that allowed immunosuppression, at 227.1 respiratory in-
+fections per 1000 patient/years, compared with rates in the
+non-immunosuppressant group of 63.4 per 1000 patient/
+years (p < 0.0001, IRR 3.58, 95% C.I. 2.56e5.13). A similar
+Table 2
+Comparison of baseline characteristics of par-
+ticipants within trials excluding severe disease compared
+with those including severe disease (2a) and within trials
+including immunosuppressant use compared with those
+excluding patients on immunosuppression (2b).
+2a
+Patients with
+severe disease
+excluded (9 trials,
+1374 patients)
+Patients with
+severe disease
+included (4 trials,
+257 patients)
+Age (years)
+63.8
+67.1
+% male
+71.2%
+80.2%
+Time since diagnosis
+(years)
+0.9
+2.2
+FVC (% predicted)
+72.3%
+67.5%
+Diffusion capacity
+(% predicted)
+45.4%
+37.8%
+% Ever smokers
+68.9%
+81.6%
+% Current smokers
+6.6%
+3.3%
+% Receiving steroids 15.9%
+43.4%
+2b
+Immunosuppressant
+use (9 trials,
+1091 patients)
+No immuno-
+suppressant use
+(3 trials, 449
+patients)
+Age (years)
+64.8
+62.2
+% male
+70.5
+75.7
+Time since diagnosis
+(years)
+1.1
+1.0
+FVC (% predicted)
+72.2%
+70.1%
+Diffusion capacity
+(% predicted)
+41.9%
+39.8%
+% Ever smokers
+73.3%
+60.1%
+% Current smokers
+6.9%
+5%
+% Receiving steroids
+26.7%
+0%
+380
+C.P. Atkins et al.
+Table 3
+Standardised event rates.
+Trial
+Investigated agent Lower respiratory
+tract infections
+Pneumonia (if listed
+separately)
+Death(All cause
+mortality)
+Death (respiratory
+cause mortality)
+Acute exacerbations
+IPF progression
+Actual
+events
+(%)
+Events
+per 1000
+patient/
+years
+Actual
+events
+(%)
+Events
+per 1000
+patient/
+years
+Actual
+events
+(%)
+Events
+per 1000
+patient/
+years
+Actual
+events
+(%)
+Events
+per 1000
+patient/
+years
+Actual
+events
+(%)
+Events per
+1000
+patient/
+years
+Actual
+events
+(%)
+Events
+per 1000
+patient/
+years
+Shulgina et al., e
+2012 [8]
+Co-trimoxazole
+46 (53.5) 534.9
+8 (9.3)
+93.0
+19 (22.1) 220.9
+16 (18.6) 186.1
+No data
+e
+No data
+e
+Richieldi et al., e
+2011 [11]
+BIBF-1120
+11 (12.9) 129.4
+e
+e
+12 (14.1) 141.2
+8 (9.4)
+94.1
+No data
+e
+37 (44)
+435.3
+King et al., e 2011 [22]
+Bosentan
+(BUILD-3)
+64 (30.6) 200.0
+12 (5.7)
+37.5
+6 (2.9)
+18.8
+3 (1.4)
+9.4
+6 (2.9)
+18.8
+82 (36.4) 256.3
+Noble et al., 2011 [10]
+Pirfenidone
+(CAPACITY)
+22 (6.3)
+45.8
+15 (4.3)
+31.2
+34 (9.8)
+70.8
+28 (8.1)
+58.3
+No data
+e
+106 (31)
+220.6
+Taniguchi et al., e
+2010 [25]
+Pirfenidone
+e
+e
+e
+e
+4 (3.8)
+38.5
+1 (1.0)
+9.6
+4 (3.8)
+38.5
+58 (55.8) 557.7
+IPF clinical research
+network e 2010 [29]
+Sildenaﬁl
+2 (2.2)
+40.8
+1 (1.1)
+20.4
+11 (12.1) 224.5
+e
+e
+4 (4.4)
+81.6
+5 (5.5)
+102.0
+Daniels et al., 2009 [24] Imatinib
+7 (11.5)
+62.2
+7 (11.5)
+62.1
+10 (16.4)
+88.8
+7 (11.5)
+62.2
+1 (1.6)
+8.9
+19 (25.3) 168.7
+King et al., e 2009 [23]
+Interferon
+gamma-1b
+(INSPIRE)
+76 (27.6) 186.6
+13 (4.7)
+31.9
+39 (14.2)
+95.8
+32 (11.6)
+78.6
+15 (5.5)
+36.8
+21 (8)
+51.6
+King et al., e 2008 [21]
+Bosentan
+(BUILD-1)
+e
+e
+e
+e
+8 (9.5)
+95.2
+8 (9.5)
+95.2
+3 (3.6)
+35.7
+30 (36.1
+357.1
+Raghu et al., 2007 [26]
+Etanercept
+11 (26.8) 290.7
+e
+e
+2 (4.9)
+52.9
+2 (4.9)
+52.9
+No data
+e
+22 (53.6) 581.3
+Malouf et al., 2007 [27]
+Everolimus
+10 (22.2) 111.1
+10 (22.2)
+111.1
+16 (35.6) 177.8
+13 (28.9) 144.4
+No data
+e
+14 (31.1) 155.6
+Raghu et al., 2004 [20]
+Interferon
+gamma-1b
+60 (35.7) 320.2
+13 (7.7)
+69.4
+28 (16.7) 149.4
+23 (13.7) 122.7
+No data
+e
+87 (52)
+464.3
+Azuma et al., 2004 [28]
+Pirfenidone
+e
+e
+e
+e
+1 (2.9)
+41.3
+1 (2.9)
+41.3
+5 (14.3)
+206.3
+No data
+e
+Overall
+309
+172.5b
+79
+45.6b
+190
+91.9b
+142
+68.7b
+29
+26.3b
+481
+245.7b
+Percentage of Patients suffering event
+21.9%a
+e
+6.2%a
+e
+11.6%
+e
+9.2%a
+e
+3.4%a
+e
+31.9%a
+e
+a Percentage of patients from trials reporting this outcome.
+b Averages (means) are weighted relative to the size of each study.
+Outcomes from idiopathic pulmonary ﬁbrosis trials
+381
+Table 4
+Comparison of trials permitting immunosuppression vs no immunosuppression allowed.
+Trial
+Investigated
+Agent
+Death (All cause
+mortality)
+Death (Respiratory
+cause mortality)
+Acute exacerbations Lower Respiratory
+Tract Infections
+Pneumonia
+IPF Progression
+Actual
+Events
+(%)
+Events
+per 1000
+patient/
+years
+Actual
+Events
+(%)
+Events
+per 1000
+patient/
+years
+Actual
+Events
+(%)
+Events
+per 1000
+patient/
+years
+Actual
+Events
+(%)
+Events
+per 1000
+patient/
+years
+Actual
+Events
+(%)
+Events
+per 1000
+patient/
+years
+Actual
+Events
+(%)
+Events
+per 1000
+patient/
+years
+Immunosuppression Permitted (1388 patient/years follow up)
+Shulgina et al., e
+2012 [8]
+Co-trimoxazole 19 (22.1) 220.9
+16 (18.6) 186.1
+e
+e
+46 (53.5) 534.9
+8 (9.3)
+93.0
+No data
+e
+Richieldi et al., e
+2011 [11]
+BIBF-1120
+12 (14.1) 141.2
+8 (9.4)
+94.1
+e
+e
+11 (12.9) 129.4
+e
+e
+37 (44)
+435.3
+King et al., e
+2011 [22]
+Bosentan
+(BUILD-3)
+6 (2.9)
+18.8
+3 (1.4)
+9.4
+6 (2.9)
+18.8
+64 (30.6) 200.0
+12 (5.7)
+37.5
+82 (36.4) 256.3
+Taniguchi et al., e
+2010 [25]
+Pirfenidone
+4 (3.8)
+38.5
+1 (1.0)
+9.6
+4 (3.8)
+38.5
+e
+e
+e
+e
+58 (55.8) 557.7
+King et al., e
+2009 [23]
+Interferon
+gamma-1b
+(INSPIRE)
+39 (14.2)
+95.8
+32 (11.6)
+78.6
+15 (5.5)
+36.8
+76 (27.6) 186.6
+13 (5)
+31.92
+21 (8)
+51.6
+King et al., e
+2008 [21]
+Bosentan
+(BUILD-1)
+8 (9.5)
+95.2
+8 (9.5)
+95.2
+3 (3.6)
+35.7
+e
+e
+e
+e
+30 (36.1) 357.1
+Malouf et al.,
+2007 [27]
+Everolimus
+16 (35.6) 177.8
+13 (28.9) 144.4
+e
+e
+10 (22.2) 111.1
+10 (22)
+111.1
+14 (31.1) 155.6
+Raghu et al.,
+2004 [20]
+Interferon
+gamma-1b
+28 (16.7) 149.4
+23 (13.7) 122.7
+e
+e
+60 (35.7) 320.2
+13 (8)
+69.4
+87 (52)
+464.3
+Azuma et al.,
+2004 [28]
+Pirfenidone
+1 (2.9)
+41.3
+1 (2.9)
+41.3
+5 (14.3) 206.3
+e
+e
+e
+e
+No data
+e
+Overall
+133
+95.84
+105
+75.66
+33
+35.1
+267
+227.1
+56
+51.4
+329
+257.5
+Immunosuppression Not Permitted (631 patient/years follow up)
+Noble et al.,
+2011 [10]
+Pirfenidone
+(CAPACITY)
+34 (9.8)
+70.8
+28 (8.1)
+58.3
+e
+e
+22 (6.3)
+45.8
+15
+31.2
+106 (31)
+220.6
+Daniels et al.,
+2009 [24]
+Imatinib
+10 (16.4)
+88.8
+7 (11.5)
+62.2
+1 (1.6)
+8.9
+7 (11.5)
+62.2
+7
+62.1
+19 (25.3) 168.7
+Raghu et al.,
+2007 [26]
+Etanercept
+2 (4.9)
+52.9
+2 (4.9)
+52.9
+e
+e
+11 (26.8) 290.7
+e
+e
+22 (53.6) 581.3
+Overall
+46
+72.9
+37
+58.6
+1 (1.6)
+8.9
+40
+63.4
+22
+37.1
+147
+233.0
+Incidence rate ratio (comparing
+groups)
+1.31
+(0.93e1.88,
+p Z 0.11)
+1.29
+(0.88e1.93,
+p Z 0.18)
+3.93
+(0.65e
+159.95,
+p Z 0.14)
+3.58
+(2.56e5.13,
+p < 0.0001)
+1.39
+(0.83e2.38,
+p Z 0.19)
+1.11
+(0.91e1.35),
+p Z 0.31
+382
+C.P. Atkins et al.
+Table 5
+Comparison of trials including mild and moderate disease severities only with those permitting all disease severities.
+Trial
+Investigated
+Agent
+Death (All cause
+mortality)
+Death (Respiratory
+cause mortality)
+Acute exacerbations
+Lower Respiratory
+Tract Infections
+Pneumonia
+IPF Progression
+Actual
+Events
+(%)
+Events
+per 1000
+patient/
+years
+Actual
+Events
+(%)
+Events
+per 1000
+patient/
+years
+Actual
+Events
+(%)
+Events
+per 1000
+patient/
+years
+Actual
+Events
+(%)
+Events
+per 1000
+patient/
+years
+Actual
+Events
+(%)
+Events
+per 1000
+patient/
+years
+Actual
+Events
+(%)
+Events
+per 1000
+patient/
+years
+Patients with severe disease excluded (1818.5 patient/years follow-up)
+Richieldi et al., e
+2011 [11]
+BIBF-1120
+12 (14.1) 141.2
+8 (9.4)
+94.1
+e
+e
+11 (12.9) 129.4
+e
+e
+37 (44)
+435.3
+Noble et al.,
+2011 [10]
+Pirfenidone
+(CAPACITY)
+34 (9.8)
+70.8
+28 (8.1)
+58.3
+e
+e
+22 (6.3)
+45.8
+15 (4.3)
+31.2
+106 (31)
+220.6
+King et al., e
+2011 [22]
+Bosentan
+(BUILD-3)
+6 (2.9)
+18.8
+3 (1.4)
+9.4
+6 (2.9)
+18.8
+64 (30.6) 200.0
+12 (5.7)
+37.5
+82 (36.4) 256.3
+Taniguchi et al., e
+2010 [25]
+Pirfenidone
+4 (3.8)
+38.5
+1 (1.0)
+9.6
+4 (3.8)
+38.5
+e
+e
+e
+e
+58 (55.8) 557.7
+King et al., e
+2009 [23]
+Interferon
+gamma-1b
+(INSPIRE)
+39 (14.2)
+95.8
+32 (11.6)
+78.6
+15 (5.5)
+36.8
+76 (27.6) 186.6
+13 (5)
+31.92
+21 (8)
+51.6
+Daniels et al.,
+2009 [24]
+Imatinib
+10 (16.4)
+88.8
+7 (11.5)
+62.2
+1 (1.6)
+8.9
+7 (11.5)
+62.2
+7 (11.5)
+62.1
+19 (25.3) 168.7
+King et al., e
+2008 [21]
+Bosentan
+(BUILD-1)
+8 (9.5)
+95.2
+8 (9.5)
+95.2
+3 (3.6)
+35.7
+e
+e
+e
+e
+30 (36.1) 357.1
+Raghu et al.,
+2007 [26]
+Etanercept
+2 (4.9)
+52.9
+2 (4.9)
+52.9
+e
+e
+11 (26.8) 290.7
+e
+e
+22 (53.6) 581.3
+Raghu et al.,
+2004 [20]
+Interferon
+gamma-1b
+28 (16.7) 149.4
+23 (13.7) 122.7
+e
+e
+60 (35.7) 320.2
+13 (8)
+69.4
+87 (52)
+464.3
+Overall
+143
+78.6
+112
+61.6
+29
+28.2
+251
+153.9
+60
+39.1
+462
+254.1
+Patients with severe disease included (249.2 patient/years follow-up)
+Shulgina et al., e
+2012 [8]
+Co-trimoxazole 19 (22.1) 220.9
+16 (18.6) 186.1
+e
+e
+46 (53.5) 534.9
+8 (9.3)
+93.0
+No data
+e
+IPF clinical research
+network e
+2010 [29]
+Sildenaﬁl
+11 (12.1) 224.5
+e
+e
+4 (4.4)
+81.6
+2 (2.2)
+40.8
+1 (1.1%)
+20.4
+5 (5%)
+102.0
+Malouf et al.,
+2007 [27]
+Everolimus
+16 (35.6) 177.8
+13 (28.9) 144.4
+e
+e
+10 (22.2) 111.1
+10 (22)
+111.1
+14 (31.1) 155.6
+Azuma et al.,
+2004 [28]
+Pirfenidone
+1 (2.9)
+41.3
+1 (2.9)
+41.3
+5 (14.3) 206.3
+e
+e
+e
+e
+No data
+e
+Overall
+47
+188.6
+30
+149.8
+9
+122.9
+58
+257.8
+19
+96.4
+19
+136.7
+Incidence rate ratio
+0.42
+(0.30e0.59)
+p < 0.0001
+0.41
+(0.27e0.64)
+p < 0.0001
+0.23
+(0.11e0.55)
+p < 0.0001
+0.60
+(0.45e0.81)
+p Z 0.0003
+0.41
+(0.24e0.72)
+p Z 0.004
+1.86
+(1.18e3.12),
+p Z 0.007
+Outcomes from idiopathic pulmonary ﬁbrosis trials
+383
+trend was seen with the incidence of pneumonias, with an
+average incidence in the six trials permitting immunosup-
+pression of 51.4 pneumonias per 1000 patient/years,
+compared with 37.1 pneumonias/1000 patient/years in two
+trials not allowing immunosuppression, although the higher
+rate in the trials allowing low-dose immunosuppression was
+not statistically signiﬁcant (IRR 1.39, 95% C.I. 0.83e2.38).
+The proportion of lower respiratory tract infections per
+year in each trial and the pooled average from the random
+effects meta-analysis are shown in Figs. 3 and 4, clearly
+displaying the heterogeneity between studies.
+Rates of infection were also seen to be higher in studies
+including patients with severe disease. In the three trials
+reporting rates of lower respiratory tract infections, the
+event rate was 257.8 per 1000 patient/years, compared
+with 153.9 per 1000 patient/years in those including mild
+and moderate disease severities only (IRR 0.60, 95% C.I.
+0.45e0.81, p Z 0.0003).
+Acute exacerbation rates were captured in six trials,
+with a weighted average of 41 acute exacerbations per 1000
+patient/years overall. No difference was observed between
+trials
+permitting
+immunosuppression
+with
+those
+not
+(incidence rate ratio 3.93. 95% C.I. 0.65e159.95), though
+only one trial not permitting immunosuppressant use [10]
+quoted rates of acute exacerbations. The study not
+permitting immunosuppression use did show the lowest
+rates of acute exacerbations of any of the trials. Rates of
+acute
+exacerbations
+were
+much
+lower
+in
+trials
+that
+excluded patients with severe disease as compared to trials
+where severe patients were included (IRR 0.23, 95% C.I.
+0.11e0.55, p < 0.0001).
+Progression of disease was similar between trials allow-
+ing immunosuppression and those that did not (257.5 vs
+233.0 per 1000 patient/years). Although rates were higher
+in trials excluding severe disease compared with those
+including all disease severities (254.1 vs 136.7 events per
+1000 patient/years), only two trials including all disease
+severities captured data regarding disease progression,
+which included only 136 patients in total and 139 patient/
+years of follow-up.
+Discussion
+From analysis of the placebo arms of clinical trials, we have
+shown that there was considerable variation in the mor-
+tality rate between trials. Mortality rates were signiﬁcantly
+Figure 1
+Forest plot showing proportion of mortality per
+year across all studies.
+Figure 2
+Forest plot showing proportion of mortality per year (studies including mild-to-moderate disease severity only vs all
+disease severities included).
+Figure 3
+Forest plot showing proportion of patients suffering
+lower respiratory tract infection per year (all studies).
+384
+C.P. Atkins et al.
+lower in trials excluding severe disease compared to those
+including all disease severities. There were signiﬁcantly
+higher rates of infection in those studies permitting the use
+of low-dose corticosteroids versus those not allowing use of
+any immunosuppressants. However, rates of infection were
+still high in patients not receiving any form of immuno-
+suppression. Although reporting of acute exacerbations was
+limited, our meta-analysis also suggests that the risk of
+these events is increased in patients taking corticosteroids
+and in patients with severe disease.
+The ﬁnding of raised rates of infection was striking. The
+suspension of the triple therapy arm of the PANTHER-IPF
+trial [12] had previously shown that, patients receiving high
+dose prednisolone (0.5 mg/kg), azathioprine and n-ace-
+tylcysteine were at an increased risk of death (11% vs 1%)
+and hospitalisation (29% vs 8%), but no difference in the
+rates
+of
+infective
+events
+between
+arms
+(6%
+vs
+1%,
+p Z 0.12). Unexpectedly, in this meta-analysis rates of
+respiratory infections were signiﬁcantly higher even in tri-
+als permitting low-dose prednisolone. The association be-
+tween low dose immunosuppression and infection is likely
+to be stronger than suggested here as not all patients
+enrolled in the trials permitting low-dose prednisolone
+were on immunosuppression, or the events may not have
+been picked up during the course of trial follow-up.
+Although a higher rate of infection may have been ex-
+pected in the trials allowing concurrent use of immuno-
+suppressive
+drugs
+[30],
+a
+high
+frequency
+of
+lower
+respiratory tract infections and pneumonias was also
+observed in patients who were enrolled in trials not
+allowing immunosuppressant medications. For comparison
+with another chronic respiratory disease, the incidence of
+pneumonias in patients not taking immunosuppression was
+similar to that previously seen in a cohort with severe COPD
+[31]. This suggests that IPF itself is a risk factor for the
+development of pulmonary infections. The results also
+suggest a possible correlation between susceptibility to
+infection and underlying disease state. The higher rate of
+infections seen in the trials where severe disease was
+captured indicates that infections may become increasingly
+problematic in the natural course of the disease as it
+progresses.
+The ﬁndings are in keeping with data from a post-
+mortem study of IPF patients which reported that bacte-
+rial pneumonia (23% of cases) was the commonest cause of
+death and signiﬁcantly more common than age matched
+controls [32], suggesting infections become more frequent
+as the disease progresses, and are commonly a terminal
+event. Previous research has shown alveolar macrophages
+in IPF patients are able to phagocytose bacteria, but
+expressed little bacteriocidal or bacteriostatic activity,
+leaving them unable to kill facultative intracellular bacte-
+ria [33]. These alveolar macrophages normally clear the air
+spaces of infectious particles [34], and a loss of function
+could predispose to infections.
+From epidemiological data, the median survival of IPF
+patients is 3.9 years, with a mortality rate of 180 deaths per
+1000 patient/years follow-up [35]. This is in stark contrast
+to the overall mortality rate seen in the placebo arms of the
+clinical trials (91.9 deaths per 1000 patient/years of follow-
+up). Separating trials into those including all disease se-
+verities had a mortality rate almost identical to that from
+epidemiological data (188.6 deaths per 1000 patient/
+years), whereas studies excluding these patients had a
+much lower mortality rate (78.6 deaths per 1000 patient/
+years). It is clear that the mortality rate is highly variable
+and dependent on disease severity. Indeed markers of
+severity, in particular FVC, are key components to pre-
+dictors of mortality The low overall mortality rate seen in
+the placebo arms would suggest that it would be difﬁcult to
+see a signiﬁcant difference in this outcome when investi-
+gating a new agent in patients with mild-to-moderate dis-
+ease [5]. However, the high rates of mortality in unselected
+studies or studies of more severe disease suggest that
+mortality might be an appropriate outcome measurement
+in trials including these patients. Nevertheless, the fre-
+quency of fatal events may not increase in a strictly linear
+fashion with time, and so extension of the duration of
+clinical trials of IPF patients to 2- or 3-year duration may
+yield different ﬁndings or potentially higher rates than
+Figure 4
+Forest plot showing proportion of patients suffering lower respiratory tract infections per year (trials allowing
+immunosuppression vs those allowing no concurrent immunosuppression).
+Outcomes from idiopathic pulmonary ﬁbrosis trials
+385
+which might be expected through simple extrapolation
+from one-year (or shorter) duration studies. Disease pro-
+gression over this time could potentially have a signiﬁcant
+impact on the mortality rate in a placebo group, but this
+would need to be evaluated in an actual clinical trial.
+Regardless,
+these
+data
+highlights
+the
+importance
+of
+selecting the outcomes of clinical trials of therapeutic en-
+tities in light of the entry criteria.
+Poor reporting of rates of acute exacerbations prevent a
+clear picture of whether immunosuppression use or disease
+severity increases the risk of these potentially fatal events
+[7]. However the incidence rate was lower in the study not
+permitting immunosuppressants than in those permitting
+corticosteroid therapy. Incidence rates of acute exacerba-
+tions were substantially higher in trials enrolling all disease
+severities, which may suggest that these events become
+more frequent as the disease advances, or could be related
+to the higher rates of low-dose immunosuppression use in
+these trials.
+No difference was seen in rates of disease progression
+(as deﬁned by a reduction in FVC 10% or DLco 15% during
+the trials) between trials allowing and excluding low-dose
+corticosteroid use, suggesting that although steroids do not
+prevent disease progression, they do not increase the
+likelihood of the disease progressing. When comparing tri-
+als including all disease severities with those only including
+mild and moderate severities, only two trials reported rates
+of IPF progression in the former group, making it very
+difﬁcult to accurately draw any conclusions about whether
+progression of disease is more common in trials including
+more severe disease. As clinical trials are now tending to
+focus
+on
+rates
+of
+progression
+(given
+the
+previously
+mentioned issues with mortality) [5], understanding how
+frequently patients in the placebo arms will suffer pro-
+gression is clearly important.
+The weakness of this review is the absence of individual
+patient data. When analysing the frequency of adverse
+events and infective events in studies including patients on
+corticosteroids, we do not have information on the duration
+of corticosteroid use, nor the exact dose (though less than
+20 mg of prednisolone). No differences were observed be-
+tween the baseline characteristics of patients enrolled in
+trials permitting low-dose prednisolone compared with
+trials not permitting any immunosuppression (Table 2b) to
+account for the differences
+observed between these
+groups. Although there were some differences in baseline
+characteristics between studies permitting all disease se-
+verities and those excluding severe disease (Table 2a), the
+most important explanation of the mortality and infection
+rate differences seem to be time since diagnosis, poor
+pulmonary
+function
+and
+use
+of
+immunosuppression.
+Nevertheless, we recognise that infectious complications
+and survival outcomes in IPF may be associated with a
+diverse range of patient or treatment variables, and that no
+single trial may have sufﬁcient sample size to enable sta-
+tistical evaluation of all these important variables. Hence,
+a comprehensive analysis examining outcomes in key sub-
+groups may only be possible through individual patient
+meta-analysis, as demonstrated in recent research on
+attributable mortality in ventilator-associated pneumonia
+where the initial systematic review was subsequently
+followed-up by an individual patient data analysis [36,37].
+This study provides important information for the design
+of future clinical trials in IPF. Future studies should consider
+the issue of sample size based upon their deﬁned entry
+criteria. If patients with severe disease are excluded then
+the mortality rate should be expected to be low, and an
+alternative primary outcome, such as change in FVC, should
+be considered. Further research is needed to look specif-
+ically at rates of respiratory infections and possible risk
+factors for LRTIs and pneumonias in IPF patients. There may
+also be beneﬁt in identifying strategies that may help
+reduce the frequency of these infective events.
+Disclosures
+This work was not funded or contributed to in any way by
+external parties (e.g. pharmaceutical companies), nor was
+it produced for proﬁt in any way.
+CPA has no disclosures or conﬂicts of interest.
+YKL has no disclosures or conﬂicts of interest.
+AMW
+has
+attended
+a
+meeting
+with
+funding
+from
+intermune.
+Appendix A. Supplementary data
+Supplementary data related to this article can be found at
+http://dx.doi.org/10.1016/j.rmed.2013.11.007.
+References
+[1] Raghu G, Weycker D, Edelsberg J, Bradford WZ, Oster G.
+Incidence and prevalence of idiopathic pulmonary ﬁbrosis. Am
+J Respir Crit Care Med 2006 Oct 1;174(7):810e6.
+[2] Bjoraker JA, Ryu JH, Edwin MK, Myers JL, Tazelaar HD,
+Schroeder DR, et al. Prognostic signiﬁcance of histopathologic
+subsets in idiopathic pulmonary ﬁbrosis. Am J Respir Crit Care
+Med 1998 Jan 1;157(1):199e203.
+[3] American Thoracic Society. Idiopathic pulmonary ﬁbrosis:
+diagnosis and treatment. International consensus statement.
+American Thoracic Society (ATS), and the European Respira-
+tory Society (ERS). Am J Respir Crit Care Med 2000 Feb;161(2
+Pt 1):646e64.
+[4] Raghu G, Collard HR, Egan JJ, Martinez FJ, Behr J, Brown KK,
+et al. An ofﬁcial ATS/ERS/JRS/ALAT statement: idiopathic
+pulmonary ﬁbrosis: evidence-based guidelines for diagnosis
+and management. Am J Respir Crit Care Med 2011 Mar 15;
+183(6):788e824.
+[5] Wells AU, Behr J, Costabel U, Cottin V, Poletti V, Richeldi L.
+Hot of the breath: mortality as a primary end-point in IPF
+treatment trials: the best is the enemy of the good. Thorax
+2012 Nov;67(11):938e40.
+[6] Hyzy R, Huang S, Myers J, Flaherty K, Martinez F. Acute
+exacerbation of idiopathic pulmonary ﬁbrosis. Chest 2007
+Nov;132(5):1652e8.
+[7] Kim DS, Park JH, Park BK, Lee JS, Nicholson AG, Colby T. Acute
+exacerbation of idiopathic pulmonary ﬁbrosis: frequency and
+clinical features. Eur Respir J 2006 Jan;27(1):143e50.
+[8] Shulgina L, Cahn AP, Chilvers ER, Parfrey H, Clark AB,
+Wilson ECF, et al. Treating idiopathic pulmonary ﬁbrosis with
+the addition of co-trimoxazole: a randomised controlled trial.
+Thorax 2013 Feb;68(2):155e62.
+[9] Demedts M, Behr J, Buhl R, Costabel U, Dekhuijzen R,
+Jansen HM, et al. High-dose acetylcysteine in idiopathic pul-
+monary ﬁbrosis. N Engl J Med 2005 Nov 24;353(21):2229e42.
+386
+C.P. Atkins et al.
+[10] Noble PW, Albera C, Bradford WZ, Costabel U, Glassberg MK,
+Kardatzke D, et al. Pirfenidone in patients with idiopathic
+pulmonary ﬁbrosis (CAPACITY): two randomised trials. Lancet
+2011;377(9779):1760e9.
+[11] Richeldi L, Costabel U, Selman M, Kim DS, Hansell DM,
+Nicholson AG, et al. Efﬁcacy of a tyrosine kinase inhibitor in
+idiopathic pulmonary ﬁbrosis. N Engl J Med 2011 Sep 21;
+365(12):1079e87.
+[12] Raghu G, Anstrom KJ, King Jr TE, Lasky JA, Martinez FJ.
+Prednisone, azathioprine, and N-acetylcysteine for pulmonary
+ﬁbrosis. N Engl J Med 2012 May 24;366(21):1968e77.
+[13] Raghu G, Collard HR, Anstrom KJ, Flaherty KR, Fleming TR,
+King Jr TE, et al. Idiopathic pulmonary ﬁbrosis: clinically
+meaningful primary endpoints in phase 3 clinical trials. Am J
+Respir Crit Care Med 2012 May 15;185(10):1044e8.
+[14] Jadad AR, Moore RA, Carroll D, Jenkinson C, Reynolds DJ,
+Gavaghan DJ, et al. Assessing the quality of reports of ran-
+domized clinical trials: is blinding necessary? Control Clin
+Trials 1996 Feb;17(1):1e12.
+[15] Kubo
+H,
+Nakayama K,
+Yanai
+M,
+Suzuki T,
+Yamaya M,
+Watanabe M, et al. Anticoagulant therapy for idiopathic pul-
+monary ﬁbrosis. Chest 2005 Sep;128(3):1475e82.
+[16] Douglas WW, Ryu JH, Swensen SJ, Offord KP, Schroeder DR,
+Caron GM, et al. Colchicine versus prednisone in the treat-
+ment of idiopathic pulmonary ﬁbrosis. A randomized pro-
+spective study. Members of the Lung Study Group. Am J Respir
+Crit Care Med 1998 Jul;158(1):220e5.
+[17] Ziesche R, Hofbauer E, Wittmann K, Petkov V, Block LH. A
+preliminary study of long-term treatment with interferon
+gamma-1b and low-dose prednisolone in patients with idio-
+pathic pulmonary ﬁbrosis. N Engl J Med 1999 Oct 21;341(17):
+1264e9.
+[18] Noth I, Anstrom KJ, Calvert SB, De Andrade J, Flaherty KR,
+Glazer C, et al. A placebo-controlled randomized trial of
+warfarin in idiopathic pulmonary ﬁbrosis. Am J Respir Crit
+Care Med 2012 Jul 1;186(1):88e95.
+[19] Raghu G, Depaso WJ, Cain K, Hammar SP, Wetzel CE, Dreis DF,
+et al. Azathioprine combined with prednisone in the treat-
+ment of idiopathic pulmonary ﬁbrosis: a prospective double-
+blind, randomized, placebo-controlled clinical trial. Am Rev
+Respir Dis 1991 Aug;144(2):291e6.
+[20] Raghu G, Brown KK, Bradford WZ, Starko K, Noble PW,
+Schwartz DA, et al. A placebo-controlled trial of interferon
+gamma-1b in patients with idiopathic pulmonary ﬁbrosis. N
+Engl J Med 2004 Jan 8;350(2):125e33.
+[21] King Jr TE, Behr J, Brown KK, Du Bois RM, Lancaster L, De
+Andrade JA, et al. BUILD-1: a randomized placebo-controlled
+trial of bosentan in idiopathic pulmonary ﬁbrosis. Am J Respir
+Crit Care Med 2008 Jan 1;177(1):75e81.
+[22] King Jr TE, Brown KK, Raghu G, Du Bois RM, Lynch DA,
+Martinez F, et al. BUILD-3: a randomized, controlled trial of
+bosentan in idiopathic pulmonary ﬁbrosis. Am J Respir Crit
+Care Med 2011 Jul 1;184(1):92e9.
+[23] King Jr TE, Albera C, Bradford WZ, Costabel U, Hormel P,
+Lancaster L, et al. Effect of interferon gamma-1b on survival
+in patients with idiopathic pulmonary ﬁbrosis (INSPIRE): a
+multicentre, randomised, placebo-controlled trial. Lancet
+2009 Jul 18;374(9685):222e8.
+[24] Daniels CE, Lasky JA, Limper AH, Mieras K, Gabor E,
+Schroeder DR. Imatinib treatment for idiopathic pulmonary
+ﬁbrosis: randomized placebo-controlled trial results. Am J
+Respir Crit Care Med 2010 Mar 15;181(6):604e10.
+[25] Taniguchi H, Ebina M, Kondoh Y, Ogura T, Azuma A, Suga M,
+et al. Pirfenidone in idiopathic pulmonary ﬁbrosis. Eur Respir J
+2010 Apr;35(4):821e9.
+[26] Raghu G, Brown KK, Costabel U, Cottin V, Du Bois RM,
+Lasky JA, et al. Treatment of idiopathic pulmonary ﬁbrosis
+with etanercept: an exploratory, placebo-controlled trial. Am
+J Respir Crit Care Med 2008 Nov 1;178(9):948e55.
+[27] Malouf MA, Hopkins P, Snell G, Glanville AR. An investigator-
+driven study of everolimus in surgical lung biopsy conﬁrmed
+idiopathic pulmonary ﬁbrosis. Respirology 2011 Jul;16(5):
+776e83.
+[28] Azuma A, Nukiwa T, Tsuboi E, Suga M, Abe S, Nakata K, et al.
+Double-blind, placebo-controlled trial of pirfenidone in pa-
+tients with idiopathic pulmonary ﬁbrosis. Am J Respir Crit
+Care Med 2005 May 1;171(9):1040e7.
+[29] Zisman DA, Schwarz M, Anstrom KJ, Collard HR, Flaherty KR,
+Hunninghake GW. A controlled trial of sildenaﬁl in advanced
+idiopathic pulmonary ﬁbrosis. N Engl J Med 2010 Aug 12;
+363(7):620e8.
+[30] Buttgereit F, Straub RH, Wehling M, Burmester G- R. Gluco-
+corticoids in the treatment of rheumatic diseases: an update
+on the mechanisms of action. Arthritis Rheum 2004;50(11):
+3408e17.
+[31] Mu¨llerova
+H,
+Chigbo
+C,
+Hagan
+GW,
+Woodhead
+MA,
+Miravitlles
+M,
+Davis
+KJ,
+et
+al.
+The
+natural
+history
+of
+community-acquired pneumonia in COPD patients: a popula-
+tion database analysis. Respir Med 2012 Aug;106(8):1124e33.
+[32] Araki T, Katsura H, Sawabe M, Kida K. A clinical study of
+idiopathic pulmonary ﬁbrosis based on autopsy studies in
+elderly patients. Intern Med 2003 Jun;42(6):483e9.
+[33] Savici D, Campbell PA, King TE. Bronchoalveolar macrophages
+from patients with idiopathic pulmonary ﬁbrosis are unable to
+kill facultative intracellular bacteria. Am J Respir Crit Care
+Med 1989 Jan 1;139(1):22e7.
+[34] Sibille Y, Reynolds HY. Macrophages and polymorphonuclear
+neutrophils in lung defense and injury. Am Rev Respir Dis 1990
+Feb;141(2):471e501.
+[35] Gribbin J, Hubbard RB, Le Jeune I, Smith CJP, West J, Tata LJ.
+Incidence and mortality of idiopathic pulmonary ﬁbrosis and
+sarcoidosis in the UK. Thorax 2006 Nov;61(11):980e5.
+[36] Melsen WG, Rovers MM, Koeman M, Bonten MJM. Estimating
+the attributable mortality of ventilator-associated pneumonia
+from randomized prevention studies. Crit Care Med 2011 Dec;
+39(12):2736e42.
+[37] Melsen WG, Rovers MM, Groenwold RHH, Bergmans DCJJ,
+Camus C, Bauer TT, et al. Attributable mortality of ventilator-
+associated pneumonia: a meta-analysis of individual patient
+data from randomised prevention studies. Lancet Infect Dis
+2013 Aug;13(8):665e71.
+Outcomes from idiopathic pulmonary ﬁbrosis trials
+387

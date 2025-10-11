@@ -1,0 +1,3006 @@
+Cough is one of the most common symptoms for which 
+people present to primary care and is a chief complaint 
+for patients seeking medical attention in respiratory or 
+allergy specialist clinics1,2. The definition of chronic 
+cough in clinical guidelines is cough persisting for 
+>8 weeks in adults and >4 weeks in children3–5; how-
+ever, in many epidemiological studies, chronic cough is 
+defined as cough that lasts >3 months6. The definition of 
+chronic cough is guided by expert opinion, as definitive 
+clinical criteria to distinguish acute cough from chronic 
+cough are lacking.
+In practice, chronic cough is often a long-​lasting 
+and burdensome condition, persisting for several 
+years and sometimes decades for a substantial number 
+of patients, despite exhaustive medical intervention7–9. 
+Many pulmonary and some extrapulmonary diseases 
+and disorders can present with chronic cough, making 
+diagnosis and treatment challenging. Moreover, 40% of 
+adults with chronic cough referred for specialist evalu-
+ation have no identified cause (known as unexplained 
+chronic cough) or have persistent cough despite optimal 
+treatment of conditions associated with chronic cough 
+(known as refractory chronic cough)10.
+Chronic cough of any aetiology in adults is widely 
+believed to reflect a hypersensitivity condition, char-
+acterized by coughing that is often triggered by low 
+levels of thermal, mechanical or chemical exposure11. 
+The considerable burden of persistent chronic cough 
+has led to an appreciation of cough hypersensitivity as 
+a distinct clinical entity in adults. Distinct mechanisms 
+that involve both peripheral and central neural path-
+ways have a role in this hypersensitivity, and have moti-
+vated advances in cough suppressant (antitussive) drug 
+discovery12. The aetiology and management of chronic 
+cough differs in children from that in adults, and the 
+relevance of cough hypersensitivity as an underpinning 
+mechanism in children remains unclear.
+This Primer discusses the global prevalence and 
+mechanisms of cough, with a focus on the most common 
+causes of cough hypersensitivity. This Primer provides 
+an overview of the current state-​of-​the-​art recommenda-
+tions for cough diagnosis and management, and presents 
+a viewpoint of recent advances in cough hypersensitivity 
+and chronic cough that may have a future effect on 
+treatment.
+Epidemiology
+Chronic cough affects ~10% of adults in various gen-
+eral populations13. The prevalence of chronic cough 
+is higher in Europe, America and Australia (10–20%) 
+than in Asia (<5%)13 (Fig. 1). In the general population 
+of Copenhagen, Denmark, the prevalence of chronic 
+Cough hypersensitivity and  
+chronic cough
+Kian Fan Chung   1,2, Lorcan McGarvey3, Woo-​Jung Song   4, Anne B. Chang   5,6, 
+Kefang Lai7, Brendan J. Canning8, Surinder S. Birring9, Jaclyn A. Smith10 and 
+Stuart B. Mazzone   11 ✉
+Abstract | Chronic cough is globally prevalent across all age groups. This disorder is challenging  
+to treat because many pulmonary and extrapulmonary conditions can present with chronic 
+cough, and cough can also be present without any identifiable underlying cause or be refractory 
+to therapies that improve associated conditions. Most patients with chronic cough have cough 
+hypersensitivity, which is characterized by increased neural responsivity to a range of stimuli that 
+affect the airways and lungs, and other tissues innervated by common nerve supplies. Cough 
+hypersensitivity presents as excessive coughing often in response to relatively innocuous stimuli, 
+causing significant psychophysical morbidity and affecting patients’ quality of life. Understanding 
+of the mechanisms that contribute to cough hypersensitivity and excessive coughing in different 
+patient populations and across the lifespan is advancing and has contributed to the development 
+of new therapies for chronic cough in adults. Owing to differences in the pathology, the organs 
+involved and individual patient factors, treatment of chronic cough is progressing towards a 
+personalized approach, and, in the future, novel ways to endotype patients with cough may prove 
+valuable in management.
+✉e-​mail: stuart.mazzone@
+unimelb.edu.au
+https://doi.org/10.1038/ 
+s41572-022-00370-​w
+	
+ 1
+PRIMER
+NATURE REVIEWS | DiSEASE PRimERS | Article citation ID:            (2022) 8:45 
+0123456789();: 
+cough was 4% overall, with a prevalence of 3% in 
+never-​smokers, 4% in former smokers and 8% in current 
+smokers14. Moreover, the prevalence of chronic cough in 
+a meta-​analysis was 6.2% in adults in China15.
+The incidence of chronic cough ranges from 1.2 to 
+5.7 per 100 person-​years in population-​based studies 
+of adults ≥45 years of age in Belgium and Canada16,17. 
+However, no global or continental-​level data are availa-
+ble. The longitudinal epidemiology of chronic cough and 
+cough hypersensitivity is largely unknown, but cough 
+may persist for longer than 5 years despite treatment 
+in adults with chronic cough8,9,18. Certain patient traits, 
+such as comorbid obesity, gastro-​oesophageal reflux 
+disease (GERD) and genetic background are associ-
+ated with longer disease duration but warrant further 
+investigation9,18.
+The prevalence of chronic cough in children is not as 
+clearly defined as in adults. Overall, prevalence of chronic 
+cough in children ranges from 1.1% to 21.9%19,20; the 
+difference in these estimates is likely due to differences 
+in the method of data collection, definition of chronic 
+cough used, setting studied (such as high-​income ver-
+sus low-​income country) and age of children studied 
+(Table 1). Few data are available on the incidence of 
+chronic cough following an acute respiratory infection; 
+one study21 reported that 171 of the 839 children (20.4%, 
+95% CI 17.7–23.1) recruited from the emergency depart-
+ment of a specialist children’s hospital had chronic cough 
+(defined as cough for >4 weeks) but 63 of these children 
+already had chronic cough at presentation. Thus, the 
+incidence is likely 108 of 839 (12.9%). Of the children 
+with chronic cough who were reviewed by paediatric pul-
+monologists, 30.8% had a new and serious chronic lung 
+disease and 47.0% had protracted bacterial bronchitis21.
+Risk factors
+Various environmental and host factors, such as respira-
+tory infection, air pollutants, occupational irritants, aller-
+gens, eosinophils or refluxate, can sensitize and trigger 
+cough and are potential risk factors for chronic cough22,23. 
+Biological traits, such as age or sex hormonal status, 
+also interact with these triggers in developing chronic 
+cough24–26. However, the definition of chronic cough used 
+in population-​based studies is based on cough duration, 
+does not differentiate protective cough responses from 
+hypersensitivity and does not represent the key nature 
+that defines cough as the disease, such as the impact, 
+severity and hypersensitivity, and thus the epide­
+mio­logical research definition should be refined for 
+elucidating the risk factors6,27–29.
+Patient factors. Age and sex underlie the burden and 
+prevalence of chronic cough, although the mechanisms 
+that underlie this association are unknown. In one sur-
+vey, two-​thirds of the patients presenting with chronic 
+cough to specialist clinics were female, and the most 
+common decade for presentation was 60–69 years24. The 
+high proportion of women in specialist clinics may be 
+due to greater effects of cough in older women, as they 
+have more frequent complications such as stress urinary 
+incontinence30. Another possible explanation for the 
+increased prevalence of chronic cough in female adults 
+is that women have a more sensitive cough reflex than 
+men, as demonstrated by inhalation capsaicin cough 
+reflex sensitivity tests25 or that women have greater acti-
+vation of the somatosensory brain cortex in response to 
+capsaicin inhalation than men24.
+Notably, sex differences in capsaicin cough reflex 
+sensitivity are not observed during prepubertal ages26,31, 
+suggesting that mechanisms that predispose to hyper-
+sensitivity do not occur in children. In support of this, 
+the prevalence of Arnold’s nerve cough reflex (evoked 
+by mechanical stimulation of vagal fibres innervating the 
+external auditory canal) is 11-​fold higher in adults with 
+chronic cough than in healthy adults and those with res-
+piratory disease without cough, indicative of vagal hyper-
+sensitivity, whereas prevalence of this reflex is similar in 
+children with chronic cough and in healthy children32.
+Other populations can have unique cough epidemi-
+ology. For example, in China, most patients with chronic 
+cough are ~40 years of age, with an equal sex proportion, 
+despite the enhanced cough sensitivity in women24,33.
+Relatively few studies have identified specific genetic 
+risk factors for chronic cough. Identified genetic risk fac­
+tors include mutations in TRPV1 (encodes transient recep-
+tor potential cation channel subfamily V member 1)34  
+and TAC2R (encodes neurokinin 2 receptor)35 and 
+a RFC1 (encodes replication factor complex subunit 1) 
+expansion associated with sensory neuropathy36,37.
+Clinical factors. Cigarette smokers are three times more 
+likely to report chronic cough than never-​smokers and 
+ex-​smokers, and the cough is usually due to chronic 
+bronchitis38. However, most patients in cough specialist 
+clinic are non-​smokers.
+Infection with respiratory viruses (such as rhino­
+virus or severe acute respiratory syndrome coronavirus 
+2 (SARS-​CoV-2)) is a common cause of acute cough and 
+is usually self-​limiting, but post-​infectious cough may 
+persist for months in some individuals. For example, 
+10–20% of patients after SARS-​CoV-2 infection39 and 
+Author addresses
+1Experimental Studies Unit, National Heart & Lung Institute, Imperial College London, 
+London, UK.
+2Department of Respiratory Medicine, Royal Brompton and Harefield Hospital, London, UK.
+3Wellcome-​Wolfson Institute for Experimental Medicine, School of Medicine, Dentistry 
+and Biomedical Sciences, Queen’s University Belfast, Belfast, UK.
+4Department of Allergy and Clinical Immunology, University of Ulsan College of Medicine, 
+Asan Medical Center, Seoul, Korea.
+5Australian Centre for Health Services Innovation, Queensland’s University of Technology 
+and Department of Respiratory and Sleep Medicine, Queensland Children’s Hospital, 
+Brisbane, Queensland, Australia.
+6Division of Child Health, Menzies School of Health Research, Darwin, Northern Territory, 
+Australia.
+7The First Affiliated Hospital of Guangzhou Medical University, National Center of 
+Respiratory Medicine, National Clinical Research Center for Respiratory Disease, State 
+Key Laboratory of Respiratory Disease, Guangzhou Institute of Respiratory Health, 
+Guangzhou, China.
+8Johns Hopkins Asthma and Allergy Center, Baltimore, MD, USA.
+9Centre for Human & Applied Physiological Sciences, School of Basic & Medical 
+Biosciences, Faculty of Life Sciences & Medicine, King’s College London, London, UK.
+10Division of Infection, Immunity and Respiratory Medicine, School of Biological Sciences, 
+University of Manchester, Manchester, UK.
+11Department of Anatomy and Physiology, University of Melbourne, Victoria, Australia.
+2 | Article citation ID:            (2022) 8:45 	
+www.nature.com/nrdp
+Primer
+0123456789();: 
+8.5–43% of patients after H1N1 influenza40,41 have per-
+sistent cough, which may be related to cough hypersensi-
+tivity. The viruses that are likely to induce post-​infectious 
+cough are unclear. Infection with Bordetella pertussis 
+may also be associated with a prolonged and debilitat-
+ing cough (whooping cough), which can be difficult to 
+treat42,43.
+Common pulmonary causes of chronic cough in 
+non-​smokers with normal chest X-​rays and spiro­
+metry are corticosteroid-​responsive cough such as 
+eosinophilic conditions, including cough variant 
+asthma, non-​asthmatic eosinophilic bronchitis and 
+atopic cough44,45. Extrapulmonary conditions are 
+also commonly associated with cough, including 
+GERD and upper airway cough syndrome (previously 
+called ‘post-​nasal drip syndrome’) due to rhinitis or 
+rhinosinusitis22. Indeed, cough variant asthma, eosin-
+ophilic bronchitis, upper airway cough syndrome and 
+GERD account for 51–92% of cases of adult chronic 
+cough globally45,46. However, the existence of upper 
+airway cough syndrome as a distinct clinical entity has 
+been debated and is proposed to reflect generalized 
+airway inflammation resulting from asthma or airway 
+reflux4, potentially underestimating the true incidence 
+of cough in these conditions. Of note, the proportion of 
+patients with chronic cough with GERD is lower in 
+East Asia than in Europe and the USA45,46. Chronic 
+obstructive pulmonary disease (COPD), bronchiecta-
+sis, lung cancer, interstitial lung disease and obstructive 
+sleep apnoea are also associated with chronic cough and 
+cough hypersensitivity but chest radiology and/or lung 
+physiology measurements are usually abnormal47–52. 
+Chronic cough is widely recognized as an adverse effect 
+of angiotensin-​converting enzyme (ACE) inhibitors, 
+which are prescribed as anti-​hypertensives or for heart 
+failure53.
+Rare causes of chronic cough in adults account for 
+<15% of cases and commonly include protracted bac-
+terial bronchitis, somatic cough syndrome (which is 
+more common in children), diffuse panbronchiolitis 
+and obstructive sleep apnoea syndrome54. However, 
+only limited high-​quality evidence is available regard-
+ing their prevalence and clinical implications in adults 
+with chronic cough. Less common extrapulmonary 
+conditions include atypical cardiac failure and cardiac 
+arrhythmias and tracheobronchomalacia (Table 2).
+Environmental factors. Occupational irritants such as 
+fumes, gases, cleaning products or dust55 may cause 
+cough, either by triggering cough reflex or by induc-
+ing oxidative stress and eosinophilic inflammation56–58. 
+However, the precise effect of environmental factors 
+on chronic cough remains elusive. Air pollution is an 
+important risk factor for chronic cough particularly 
+in East Asia where air pollution levels are high15,59,60. 
+At the population level, the annual level of fine par-
+ticulate matter with a diameter of ≤2.5 μm (known as 
+PM2.5) is higher in Asian countries than in European or 
+North American countries, but the prevalence of chronic 
+cough is lower61. Data from within-​population studies 
+suggest that the degree of air pollution is associated with 
+the incidence of chronic cough or bronchitis62,63, high-
+lighting potential host–environmental interactions in 
+developing chronic cough.
+Prevalence of chronic cough 
+in adult populations (%)
+ 
+0–5
+ 
+5–10
+ 
+10–15
+ 
+15–20
+ 
+>20
+ 
+Data not available
+Fig. 1 | Global prevalence of chronic cough. Map showing the results of a meta-​analysis of 90 published studies assessing 
+the regional pooled prevalence of chronic cough in adult populations. Reprinted with permission from ref.13, ERS.
+	
+ 3
+NATURE REVIEWS | DiSEASE PRimERS | Article citation ID:            (2022) 8:45 
+Primer
+0123456789();: 
+Mechanisms/pathophysiology
+The sensorimotor phenomenology of cough (Box 1) sug-
+gests the involvement of a complex suite of neurobiologi-
+cal processes involving the peripheral nervous system, 
+brainstem and higher brain in this phenomenon. Cough 
+can be a reflex or can be under volitional and cognitive 
+control. It is typically initiated by irritant stimuli that 
+activate airway mucosal sensory nerve fibres. These 
+fibres convey this information to brainstem circuitry, 
+which alters the normal breathing cycle to a cough motor 
+pattern. Volitional and cognitively controlled cough is 
+often accompanied by an irritant sensation known as the 
+urge to cough. Volitional and cognitive control of cough 
+and the perception of an urge to cough involve neural 
+processing in subcortical and cortical brain sites.
+Studying cough and cough hypersensitivity
+Human neurophysiological studies have contributed to 
+our understanding of cough and cough hypersensitivity, 
+but they are limited by the types of measurements and 
+interventions possible. Detailed mechanistic studies into 
+cough neurophysiology have, therefore, relied heavily 
+on laboratory animals, especially guinea pigs and cats. 
+Cough in these species can be reliably induced with 
+stimuli that also evoke cough in humans64, and, as such, 
+studies in these models have identified mechanisms that 
+lead to sensory nerve activation, normal cough induc-
+tion and neural pathways that mediate reflex coughing65. 
+However, the use of animals to model the development 
+and maintenance of cough hypersensitivity in humans 
+has been debated64 as animals used to study pathological 
+cough are largely devoid of any spontaneous coughing, 
+requiring cough induction with an inhaled stimulus to 
+assess the hypersensitivity. Moreover, although reflex 
+cough hypersensitivity can be demonstrated in animal 
+models, therapies that reverse this hypersensitivity have 
+mostly not been clinically effective in humans12.
+Peripheral neurophysiology
+In guinea pigs, two peripheral sensory fibre subtypes 
+can initiate cough when stimulated: thinly myeli-
+nated Aδ-​fibre subtype and nociceptive unmyelinated 
+C-​fibre subtype65–68 (Fig. 2). The cell bodies of cough Aδ 
+fibres and C fibres arise from distinct vagal ganglia65,66 
+(nodose ganglion for Aδ fibres and jugular ganglion 
+for C fibres), and their peripheral terminations are 
+Table 1 | Prevalence of chronic cough in children
+Setting
+Chronic cough definition
+Age, years (n)
+Prevalence, %
+Ref.
+Cross-​sectional survey of Seattle middle 
+school students using written and video 
+respiratory-​symptom questionnaires
+Chronic productive cough: “daily cough 
+productive of phlegm for at least 3 months out  
+of the year”
+11–15 (2,397)
+7.2 (all), 3.4 (excluding 
+those with asthma)
+220
+Two groups of children: one enrolled from 
+public schools within a 10 km radius of Royal 
+Prince Alfred Hospital, Sydney, Australia, and 
+another enrolled from six schools in Nigeria; 
+both questionnaire based
+“In the last 12 months has your child had a cough 
+that lasted more than 3 weeks and was not 
+associated with a cold or flu?”
+5–7 (511)
+10.4
+221
+8–11 (654)
+9.6
+8–11 (566)
+5.1
+Suva City schoolchildren, Fiji; questionnaire 
+based
+“Has this child coughed mucus on most mornings 
+in the last 12 months”
+Mean 9.6 (2,173)
+21.9
+20
+12 centres in northern, central and southern 
+Italy; self-​administered questionnaires 
+completed by parents
+Cough or phlegm for ≥4 days a week (in the 
+absence of a cold) for ≥1 month per year
+6–7 (20,016); 
+13–14 (13,616)
+6.8
+222
+Whole-​population prospective study 
+undertaken in four remote communities  
+in north Western Australia
+Parent-​reported daily wet cough for ≥4 weeks 
+with clinician researcher confirmation (with 
+physiotherapist using non-​invasive techniques  
+to elicit a cough if necessary)
+Median 3.5 (203)
+13
+223
+18 districts of six cities in Liaoning province, 
+China; Chinese language translation of the 
+Epidemiologic Standardization Project 
+Questionnaire of American Thoracic Society; 
+self-​completed by parents
+Cough on most days (>4 days per week) for as 
+long as 3 months per year, either together with  
+or separately from colds
+3–12 (11,860)
+9.5 (persistent cough)
+60
+Seemed congested or brought up phlegm or 
+mucus from the chest on most days (>4 days per 
+week) for as long as 3 months per year, either 
+together with or separately from colds
+4.6 (persistent phlegm)
+Children who participated in CAPS and 
+BOLD-​Chikhwawa studies, Chikhwawa 
+District, rural Malawi; electronic questionnaire 
+in Chichewa, the local language
+“Does your child usually have a cough when they 
+don’t have a cold?” and “Are there months in 
+which they cough on most days?”
+Mean 7.1 (804)
+8
+224
+Five villages in Dehlon Block of Ludhiana, 
+Punjab, India
+Cough lasting for >3 weeks
+1–15 (2,275)
+1.1
+19
+Follow-​up of a birth cohort in which parents 
+completed questionnaires or survey in various 
+years
+Score of ≥3 to question “How often has this child 
+been bothered by cough?” at least 2–3 episodes 
+in the past year
+Mean 1.1 (1,064)
+6.7
+225
+Mean 2.1 (945)
+4.5
+Mean 5.8 (1,024)
+12.2
+Mean 8.1 (841)
+12.1
+Mean 10.4 (956)
+12.4
+4 | Article citation ID:            (2022) 8:45 	
+www.nature.com/nrdp
+Primer
+0123456789();: 
+believed to reside predominantly in the major airways 
+(larynx, trachea and large bronchi)65, although termi-
+nations in the lung parenchyma cannot be discounted, 
+as several parenchymal lung diseases present with 
+chronic cough51. Molecular analyses show differing 
+patterns of gene expression and novel mechanisms of 
+regulation69,70. Aδ-​fibre-​mediated cough is triggered 
+by aspirated particulates, accumulated secretions and 
+Table 2 | Additional conditions associated with chronic cough in adults and children
+Condition
+Possible mechanism
+Clinical picture
+Obstructive sleep 
+apnoea
+Airway inflammation associated with 
+excessive snoring, GERD, increased 
+cough reflex sensitivity (cough 
+hypersensitivity) and tracheobron-
+chomalacia, a condition in which the 
+walls of the trachea and bronchi are 
+weak, leading to dilation and easy 
+collapsibility of the airways
+Presence of nocturnal cough, snoring and nocturnal heartburn. Raised BMI 
+and excessive daytime somnolence in older children or adults. Behavioural 
+issues, tonsillar adenohypertrophy and facial abnormality in young children. 
+Prevalence range 33–68% in patients with confirmed obstructive sleep 
+apnoea52. CPAP therapy may be effective in alleviating cough52
+Ear diseases or 
+obstructions, including 
+excessive wax or foreign 
+body
+Activation of Arnold’s nerve cough 
+reflex and vagal neuropathy
+Cough is triggered by mechanical stimulation of the external auditory meatus. 
+This occurs in 2% of the adult population but in 25% of people with chronic 
+cough32. Can occasionally be identified as a cause of chronic cough when 
+mechanical stimulation of the external auditory meatus is accompanied by 
+features of cough hypersensitivity such as throat irritation and allotussia226
+‘Cardiac cough’: 
+premature ventricular 
+contractions, cardiac 
+arrhythmias and heart 
+failure
+Haemodynamic changes in the 
+pulmonary circulation, activation of 
+cardiopulmonary C fibres or effect  
+of pulmonary oedema
+Ventricular arrhythmia-​induced cough and of cough syncope may be present 
+in 5% of cases of ventricular arrhythmia227. Nocturnal cough can be a symptom 
+of patients with cardiac failure and could represent the effect of airway 
+oedema on cough receptors in large airways or the pressure of enlarged left 
+atrium on cough receptors in airways
+Peripheral sensory 
+neuropathy with or 
+without ataxia
+Genetic mutations and/or nerve 
+pathology leading to altered sensory 
+neuron function
+A rare autosomal dominant hereditary sensory neuropathy associated with 
+chronic cough, cough hypersensitivity and gastro-​oesophageal reflux228
+Tracheobronchomalacia 
+or expiratory central 
+airway collapse
+Possible problems clearing airway 
+secretions or changes in mechanical 
+properties of the trachea during 
+breathing
+An excessive dynamic airway collapse of the posterior membrane presenting 
+with a seal-​like barking cough caused by excessive vibration of posterior 
+tracheal wall. This condition can mimic or coexist with asthma, COPD and 
+bronchiectasis. This condition is often associated with poor airway clearance  
+of secretions
+Diffuse panbronchiolitis
+Airway and lung inflammation
+Chronic cough may be the sole or predominant symptom. Patients can have 
+normal respiratory function or mild airflow limitation, normal chest X-​ray 
+findings and mild dilation of the bronchiolar passages and a ‘tree-​in-​bud’ 
+pattern on chest high-​resolution CT. Cough can improve with long-​term 
+macrolide antibiotic therapy in some patients
+Lung and airway 
+tumours
+Lung cancer causes of cough include 
+the direct effect of tumour mass leading 
+to obstruction, collapse of lung or 
+pleural or pericardial effusion, treatment 
+of cancer with thoracic irradiation and 
+chemo- and/or immunotherapy229
+A change in cough pattern in a smoker can indicate lung cancer
+ILDs including 
+interstitial pulmonary 
+fibrosis and systemic 
+sclerosis-​associated ILD
+Airway and lung inflammation or 
+activation of cough receptors in fibrosis 
+by neuroinflammatory factors
+Cough and dyspnoea are the main presenting features with, often, chronic 
+cough being the main distressing symptom. Other causes of chronic cough 
+need to be excluded such as GERD, obstructive sleep apnoea, emphysema, 
+lung cancer and asthma. Often accompanied by features of cough 
+hypersensitivity with an increase in capsaicin cough sensitivity
+Somatic cough 
+syndrome (psychogenic 
+cough) and tic cough 
+(habit cough)
+Tic or habit cough in children (rare 
+in adults) is possibly anxiety related, 
+whereas somatic cough syndrome could 
+be caused by psychological–functional 
+disorder (transfer of psychological 
+distress into a physical symptom)
+Tic cough is a single repetitive cough, of maybe barking/honking character, 
+usually absent in sleep. DSM-5 diagnostic criteria must be met for a diagnosis 
+of somatic cough syndrome: “disruption of daily life; excessive thoughts about 
+the seriousness of the symptoms, persistent anxiety about health or symptoms, 
+or excessive time and energy devoted to symptoms or health concerns; and 
+persistence of symptoms (typically more than six months)”109
+Parasitosis
+Airway and lung eosinophilic 
+inflammation and mechanical 
+stimulation
+Parasitosis such as paragonimiasis, caused by a lung fluke, Paragonimus 
+westermani, which infects the lungs after eating an infected raw or undercooked 
+crab or crayfish, or mammomonogamosis, caused by Mammomonogamus 
+laryngeus, which inhabits the upper respiratory region in the human trachea, 
+bronchi or larynx, is a rare but relevant cause in some tropical regions or in 
+travellers. These disorders can often present as a dry persistent cough with 
+normal chest X-​rays. Blood eosinophilia is frequent230,231
+Hypereosinophilic 
+syndrome
+Airway eosinophilic inflammation with 
+or without FIP1L1–PDGFRA fusion gene 
+and aberrant tyrosine kinase activity
+Presents with chronic cough as the sole or predominant symptom, 
+hypereosinophilia in blood and sputum, and responds well to imatinib118.
+COPD, chronic obstructive pulmonary disease; CPAP, continuous positive airway pressure; DSM-5, Diagnostic and Statistical Manual of Mental Disorders, 5th edition; 
+GERD, gastro-​oesophageal reflux disease; ILD, interstitial lung disease.
+	
+ 5
+NATURE REVIEWS | DiSEASE PRimERS | Article citation ID:            (2022) 8:45 
+Primer
+0123456789();: 
+mucosal acidification66, as might happen after aspiration 
+of gastric contents. Conversely, C-​fibre-​mediated cough 
+is triggered by a range of irritant environmental chemi-
+cals and mediators of inflammation or tissue damage65. 
+Cough challenge studies and histochemical staining 
+of airway biopsy samples suggest that these two cough 
+pathways also exist in humans64,68,71. A combination of 
+animal and human studies has provided a comprehen-
+sive understanding of the functioning of ion channels 
+and receptors responsible for excitation of cough sensory 
+fibres12 (Fig. 2).
+Central neurophysiology
+In mammals, many vagal sensory neurons terminate in 
+the nucleus of the solitary tract, an important sensory 
+processing nucleus in the medulla oblongata65 (Fig. 2). 
+Studies in guinea pigs suggest that the regions involved 
+in integrating signals from cough sensory neurons have 
+little overlap with other vagal neuronal subtypes that 
+innervate the airways and lungs65,72. The paratrigeminal 
+nucleus also receives inputs from vagal cough sensory 
+neurons73. Different subtypes of vagal sensory neu-
+ron terminate in the nucleus of the solitary tract and 
+the paratrigeminal nucleus, and neurons from these 
+brain regions have differing output connectivity65,72,74,75. 
+In guinea pigs, cough mediated by jugular C fibres 
+is reduced by targeted lesioning of the paratrigem-
+inal nucleus, whereas Aδ-​fibre-​mediated cough is 
+unaffected75. Although precision mapping of sensory 
+terminations in the human brainstem is not feasible, 
+functional brain imaging studies using stimuli that dif-
+ferentially activate nodose and jugular neural pathways 
+support the conservation of this wiring in humans71.
+Glutamate (mediated by post-​synaptic NMDA 
+(N-​methyl-​d-​aspartate) receptors)76,77 and, possibly, 
+neurokinin (NK) receptors67,75,78 are involved in cough in 
+guinea pigs. Indeed, NMDA and NK1 receptor blockade 
+in animals and humans has antitussive actions, support-
+ing a role for these receptors in cough79,80. In rodents, 
+brainstem neurons receiving cough sensory inputs 
+are involved in autonomic, limbic and somatosensory 
+processing73 (Fig. 2). In humans, functional brain imag-
+ing studies have found widely distributed brain activity 
+accompanying inhalation of cough-​evoking stimuli, 
+in primary and secondary sensory cortical areas, and in 
+the cingulate, insula and orbitofrontal cortices. This 
+activity likely reflects the diverse autonomic responses, 
+and the affective, hedonic and discriminative sensory 
+experiences that accompany cough81.
+Peripheral sensitization of cough
+Experimental induction of lung inflammation, for exam-
+ple, with allergens or respiratory viruses, in animals and 
+in several airway diseases or treatments in humans, 
+is accompanied by alterations in the excitability of the 
+peripheral terminals of vagal sensory fibres that regulate 
+cough65 (Fig. 3). For example, impaired metabolism of 
+bradykinin, a potent activator of vagal C fibres is linked to 
+coughing in patients using ACE inhibitor antihyperten-
+sive therapy82. Similarly, excess release and/or impaired 
+metabolism of ATP is associated with refractory chronic 
+cough12.
+Inflammation can also cause plasticity of airway 
+mucosal innervation, including changes in receptors, ion 
+channels, neurochemistry, fibre density or the cells that 
+contribute to fibre excitation65,83,84. For example, patients 
+with chronic cough had a ~30-​fold increase in cough 
+responsiveness to inhaled capsaicin that was accom-
+panied by an increased density of TRPV1-​expressing 
+fibres in bronchial biopsy samples85. In accordance with 
+these data, studies in animal models have demonstrated 
+a central role of upregulated TRP channel expression 
+or activity, including TRPV1, TRPA1 and TRPV4, 
+in development of hypersensitivity to inhaled cough 
+challenges86,87. Of note, however, clinical trials of TRPV1, 
+TRPA1 and TRPV4 antagonists have failed to demon-
+strate any benefit against natural cough in patients12,87, 
+suggesting a disparity between animal and patient studies.
+Animal studies also suggest that neural plasticity 
+during pulmonary pathologies may relate to neuroin-
+flammation within the vagus nerve or ganglia, character-
+ized by increased inflammatory cell influx, upregulated 
+inflammatory gene transcription and the release of 
+inflammatory molecules from sensory neurons and res-
+ident or infiltrating immune cells88–90. The cause of this 
+neuroinflammation is unclear, but likely relates to both 
+peripheral vagal detection of tissue inflammation and 
+adverse effects of inflammation-​induced persistent fir-
+ing of action potentials in sensory neurons88,91. Whether 
+this occurs in humans is not proven, but is hypothesized 
+as a cause of cough in some patients92.
+Functional interactions between sensory fibre sub-
+types in the brainstem can also affect cough. In humans, 
+mechanical stimulation of the external ear can evoke 
+coughing (Arnold’s reflex)32, which is attributed to 
+Box 1 | Sensorimotor phenomenology
+• Cough is an observable respiratory event in which the pattern of normal eupneic 
+breathing is temporarily altered to allow for a forceful expiration, the normal purpose 
+of which is to clear the airways of foreign materials, chemicals or secretions.
+• A typical cough consists of three respiratory phases: first, a brief inspiratory phase  
+to prime the lungs with a volume of air; second, a compression phase characterized  
+by expiratory muscle contraction against a closed glottis, needed to ramp up 
+intrapulmonary pressure; and finally third, the expiratory phase during which the 
+glottis opens and high-​velocity expiratory airflow occurs233.
+• Some types of cough may not include an inspiratory phase, especially during bouts  
+of repetitive coughing. In events with glottic closure and expiratory effort, without 
+preceding inspiration, the event is referred to as an expiration reflex. In the clinic, 
+expiration reflexes cannot be distinguished from cough as they both produce similar 
+sounds. The identification of an expiration reflex requires assessment of airflow with  
+a pneumotachograph in the laboratory. The clinical relevance of the expiration reflex 
+has therefore been difficult to study233.
+• The induction of cough motor patterning is often linked to a reflex action, initiated by 
+sensory detection of irritant stimuli in the airways leading to a brainstem-​mediated 
+activation of cough motor pathways234, in much the same way that painful stimuli 
+initiate spinal withdrawal reflexes. However, cough can also be a purely volitional act, 
+initiated at will in the absence of any peripheral sensory stimuli. Similarly, voluntary 
+control can be exerted to behaviourally change the intensity of an evoked cough 
+effort, or to suppress coughing entirely107,235,236.
+• Airway irritation can also give rise to perceivable sensations (such as an itchy or scratchy 
+throat) referred clinically as the urge to cough. These sensations are thought to provide 
+an awareness of the presence of irritating airway stimuli, and often contribute as much 
+to patient morbidity as does cough itself. The urge to cough may be an important 
+determinant of behavioural cough induction or regulation81,237.
+6 | Article citation ID:            (2022) 8:45 	
+www.nature.com/nrdp
+Primer
+0123456789();: 
+activation of the auricular branch of the vagus nerve, 
+which projects to the paratrigeminal nucleus74,93. 
+Co-​activation of cough Aδ fibres and C fibres may 
+induce cough hypersensitivity94, whereas coughing 
+is inhibited by activation of nasal menthol-​sensitive 
+sensory fibres, lung stretch receptors and a subtype of 
+C fibres innervating the lungs76,95,96.
+Central sensitization of cough
+Airway inflammation in animal models of lung disease 
+is accompanied by altered synaptic transmission, and 
+glial cell mobilization and activation within the nucleus 
+of the solitary tract, resulting in elevated inflammatory 
+mediators in the brainstem, including neurotrophic 
+factors (NGF, BDNF and GDNF) and cytokines (IL-1β, 
+IL-6 and TNF)97–100. These processes are expected to con-
+tribute to cough hypersensitivity via amplifying inputs 
+from cough sensory fibres. Consistent with this, upregu­
+lated cough network activity in the midbrain has been 
+demonstrated in patients with cough hypersensitivity101, 
+in regions reportedly involved in the development of 
+other sensory hypersensitivities102,103.
+In humans, cough and the urge to cough are highly 
+responsive to placebo104,105. The mechanisms of this phe-
+nomenon are comparable to those of placebo analgesia 
+and involve recruitment of a descending neural path-
+way enacting opioid-​dependent suppression of sensory 
+processing in the brainstem105,106.
+Cough in humans can be voluntarily induced (or 
+enhanced) and suppressed through higher brain motor 
+control pathways107,108. In some patients, especially 
+children, behavioural coughing (somatic cough syn-
+drome) may be the primary cause of chronic cough109. 
+Volitional cough suppression involves a brain network 
+important for general motor response inhibition107,110,111. 
+Patients with refractory chronic cough have attenuated 
+volitional cough suppression112,113 and impaired engage-
+ment of this cough inhibition network101. Cough and 
+related brain activity are also modulated by acute pain-
+ful stimuli applied to the skin86,114, via an extension of 
+the conditioned pain modulation (CPM) phenomenon 
+whereby noxious stimuli applied to one part of the body 
+inhibit the processing of noxious stimuli applied else-
+where. CPM of cough is also reduced in patients with 
+refractory chronic cough114. These observations suggest 
+that the pathophysiology of refractory chronic cough 
+involves altered efficacy of multiple central cough sup-
+pression processes. Components of these inhibitory 
+systems that regulate cough use the inhibitory neuro-
+transmitter GABA, and GABA receptor agonists mod-
+ify evoked coughing in animals and in humans115,116. 
+Patients with COPD do not have altered volitional cough 
+suppression112, suggesting that distinct neural endotypes 
+contribute to chronic cough81.
+Cough in common diseases
+Chronic cough in adults is commonly associated with 
+asthma, non-​asthmatic eosinophilic bronchitis, GERD, 
+upper airway conditions (including nasal and sinus 
+disease) and laryngeal dysfunction46. However, chronic 
+cough does not occur in all patients with these diseases, 
+suggesting that additional pathophysiological processes 
+are involved. The specific aetiology of cough hyper­
+sensitivity and chronic cough likely differs both between 
+and within patient groups, indicating that unique cough 
+endotypes exist81. However, several general processes are 
+thought to be important (Fig. 3).
+Direct sensitization or activation of cough. In asthma, the 
+mediators of bronchopulmonary inflammation might 
+directly affect airway nerve fibre activity (Fig. 3). In some 
+patients with asthma, chronic cough is the sole present-
+ing symptom (known as cough variant asthma), whereas 
+other patients with chronic cough have eosinophilic dis-
+ease but not asthma, including non-​asthmatic eosino-
+philic bronchitis and hypereosinophilic syndrome117,118. 
+Whether different inflammatory processes contribute to 
+cough across this spectrum of patients is unclear (Box 2). 
+In patients with GERD, chronic cough could occur 
+directly through refluxate stimulating vagal sensory 
+fibres in the larynx and airways. However, studying this 
+theory is difficult as the detection of laryngopharyngeal 
+reflux is technically challenging with no objective meas-
+ures for validation119,120, and detection of microaspiration 
+through pepsin or bile acids in saliva, sputum or airway 
+samples may not be reliable121. Of note, pepsin levels in 
+patients with chronic cough are not different from those 
+in healthy controls122–124. Gaseous reflux might also be 
+important in chronic cough, but supportive evidence is 
+lacking. In patients with upper airway cough syndrome, 
+inflammation or mucus from the nose or sinuses may 
+extend or drip down the pharyngeal wall to the larynx 
+and activate cough sensory fibres. However, although 
+many patients with chronic cough complain of a sen-
+sation of post-​nasal drip, there is a paucity of research 
+exploring the relevance of these processes125.
+Indirect facilitation of cough. Direct stimulation of the 
+oesophagus or nose rarely evokes coughing. However, 
+activating extrapulmonary sensory fibres can act syn-
+ergistically with cough sensory fibres to produce cough 
+hypersensitivity65,126–128 (Fig. 3). Oesophageal acid instil-
+lation, for example, via a naso-​oesophageal catheter, 
+sensitizes cough evoked by inhaled capsaicin in healthy 
+volunteers and causes coughing in patients with chronic 
+cough129,130, while application of capsaicin to the nose of 
+healthy volunteers sensitizes cough, and nasal menthol 
+inhibits coughing95,131. Coughing follows reflux events 
+in patients with chronic cough more often than would 
+be expected by chance alone132–134, of which both acid 
+and non-​acid reflux events are equally likely to precede 
+coughing whereas reflux events extending to the prox-
+imal oesophagus are not more likely to precede cough-
+ing than distal events. These observations suggest that 
+reflux, mucus or inflammatory mediators need not reach 
+the airways to modulate coughing.
+Diagnosis, screening and prevention
+Initial evaluation of patients with chronic cough gen-
+erally occurs in primary care, where treatment is com-
+menced in those with symptoms, clinical signs and/or 
+investigations that point to one or more potential under-
+lying causes. Referral to secondary care specialists often 
+occurs for more detailed investigation in those with an 
+	
+ 7
+NATURE REVIEWS | DiSEASE PRimERS | Article citation ID:            (2022) 8:45 
+Primer
+0123456789();: 
+elusive cause of cough and in those who do not respond 
+to treatment in primary care. Referrals are typically to 
+pulmonary specialists, but may also be to allergists, 
+ear, nose and throat specialists or gastroenterologists, 
+depending on the clinical presentation. Adults with 
+multiple comorbid conditions can be referred to multi-
+ple specialities, making the patient journey from diag-
+nosis to assessment and treatment long. Patients with 
+persistent cough despite detailed evaluation and further 
+treatment trials in secondary care can be referred to spe-
+cialist cough clinics. These clinics review the patients’ 
+work-​up to ensure optimal treatment of comorbid condi-
+tions that might be driving cough. In adults, attendance 
+at a specialist cough clinic is often required to confirm 
+a diagnosis of refractory cough or unexplained chronic 
+cough, to use therapies that are of benefit in this patient 
+Somatosensory cortex
+Medial and lateral thalamus
+Amygdala
+Nucleus of the solitary tract
+Paratrigeminal nucleus
+Cerebrum
+Medulla oblongata
+Respiratory 
+centres
+Cingulate, 
+orbitofrontal and 
+prefrontal cortices
+Lung
+Tracheal
+Laryngeal
+Bronchial
+Nav1.8
+Nav1.7
+Cl–
+CLC
+1
+Vagal cough 
+sensory nerve 
+ﬁbre terminal
+2
+3
+4
+5
+Jugular neuron 
+speciﬁc
+Nodose
+pathway
+Both nodose and 
+jugular neurons
+Nodose neuron 
+speciﬁc
+Jugular
+pathway
+Particulate matter, 
+mucus and aspirate
+Inﬂammatory mediators 
+and irritant chemicals
+Unknown receptor
+TRPV1
+TRPA1
+TRPM8
+P2X3
+P2X2/3
+ASICs
+B2
+TRKA
+PGR
+Mechanical
+H+
+Capsaicin
+AITC
+Menthol
+ATP
+ATP
+H+
+BK
+NGF
+PGs
+Na+
+NKCC1
+Cl–
+Na+
+K+
+Insula cortex
+8 | Article citation ID:            (2022) 8:45 	
+www.nature.com/nrdp
+Primer
+0123456789();: 
+group and often to provide opportunities for patients to 
+participate in clinical research including trials of novel 
+therapies. However, the provision of such services varies 
+substantially between countries.
+Clinical characteristics
+Cough is an explosive effort associated with a character-
+istic sound (Box 1). The distinct quality of the sound can 
+be characterized, for example, wet cough (moist, loose, 
+productive or rattling) or dry (barking or hoarse). Wet 
+chronic cough is thought to be associated with diagno-
+ses characterized by mucus production such as chronic 
+bronchitis, COPD and bronchiectasis. Although clini-
+cians can distinguish reliably wet from dry cough, the 
+ability to diagnose the cause of cough from sound is 
+poor; only 34% of cases in one case series135. In some 
+patients, two or more distinct types of cough can coexist, 
+for example, a wet and dry cough. In the clinic, the fre-
+quency of cough sounds can be counted and the inten-
+sity of individual cough efforts measured136. However, 
+patients seldom describe the frequency of cough and 
+are more likely to describe clusters of cough or bouts, 
+cough intensity and cough triggers, typically providing 
+subjective accounts of when they occur and how much 
+it bothers them. The pattern of chronic cough may show 
+waxing and waning over weeks or months.
+Adults with chronic cough also frequently report 
+throat clearing. Throat clearing, like cough, is thought to 
+be an action to clear an unpleasant sensation or irritation 
+and may represent an aspect of laryngeal dysfunction 
+in chronic cough. Throat clearing may also result from 
+the feeling of mucus stuck at the back of the throat that 
+needs to be cleared, leading to mucus being swallowed. 
+Throat clearing may be part of the spectrum of cough 
+events but whether its presence is associated with spe-
+cific diagnoses is not known. Whether patients distin-
+guish throat clearing from cough, and the effect of this 
+on patients’ perception of their morbidity is unknown.
+Adults with chronic cough often display characteristic 
+signs of cough hypersensitivity. Clinically this presents 
+as allotussia, with patients reporting cough triggered by 
+innocuous stimuli such as talking, eating and perfumes, 
+and/or hypertussia, a heightened cough sensitivity 
+to known tussive stimuli such as smoke, fumes and 
+bleach11,120. Another common symptom of cough hyper-
+sensitivity is the presence of an uncontrollable urge to 
+cough. Sensations in the larynx (laryngeal paraesthesia) 
+or chest such as tickle, itch or irritation can trigger 
+coughing and can be more bothersome than the cough 
+itself137. The presence of triggers and sensory symptoms 
+may be the only feature to suggest the diagnosis of cough 
+hypersensitivity. Although sensory symptoms are pres-
+ent in most adults with chronic cough, <5% report no 
+triggers or urge to cough138. Many patients with chronic 
+cough, in addition to showing signs of cough hyper-
+sensitivity, also display laryngeal hypersensitivity139. 
+Laryngeal hypersensitivity and dysfunction often pres-
+ent with chronic cough that is associated with vocal 
+cord dysfunction, muscle tension dysphonia and globus 
+(a sensation of a ‘lump’ in the throat (Box 3)).
+Diagnostic work-​up
+Recommendations for the evaluation of adults with 
+chronic cough (Fig. 4) are based on the anatomical diag-
+nostic protocol first proposed more than 40 years ago125 
+and founded on the principle that structures innervated 
+by vagal sensory fibres represent potential sites for 
+generation of chronic cough3,140. This remains a useful 
+approach as it can assist with identifying possible treat-
+able conditions in some patients. Any comorbid condi-
+tions involving these structures are initially presumed 
+to be the cause of cough, recognizing that treatment of 
+the presumed cause does not always improve the cough. 
+Consequently, initial clinical assessment, investigations 
+and trials of therapy tend to be focused on asthma, 
+GERD and upper airway conditions (notably rhinitis, 
+rhinosinusitis). A clinical history, focused on cough 
+characteristics, associated sensations (such as urge to 
+cough and need to clear throat), common cough trig-
+gers, concomitant symptoms, combined with physical 
+examination, represent the first important steps in eval-
+uation of a patient with chronic cough3,140. Concomitant 
+symptoms associated with gastro-​oesophageal reflux, 
+and rhinosinusitis may indicate the causes of chronic 
+cough, but a reliance solely on symptoms to guide man-
+agement may be misleading. For example, the presence 
+of upper airway symptoms may reflect only co-​existent 
+rhinitis or rhinosinusitis, and the absence of heartburn 
+does not exclude reflux as the cause of the cough3,141. 
+Clinical findings are frequently unremarkable in patients 
+referred with chronic cough but finger clubbing, evi-
+dence of inflamed and/or obstructed nasal passages or 
+the presence of wheeze or crackles on chest ausculta-
+tion should inform consequent investigations and treat-
+ment. Chest radiography and spirometry are mandatory 
+for patients undergoing assessment for chronic cough3. 
+Measurement of markers of type 2 inflammation, such as 
+fractional exhaled nitric oxide (FeNO) or sputum eosin-
+ophil count, may be useful in the early stage of work-​ups 
+of patients with chronic cough. Additional tests such as 
+chest CT, polysomnography and bronchoscopy should 
+be requested depending on the physician’s review of the 
+case as set out in Supplementary Table 1.
+To help identify the underlying cause of chronic 
+cough in children, paediatricians use the basic constructs 
+Fig. 2 | Neural pathways and mechanisms that contribute to the generation of cough. 
+(1) Vagal sensory neurons that are involved in cough innervate the larynx, trachea and 
+main bronchi and, possibly, the lung parenchyma (blue and green dashed lines). Vagal Aδ 
+fibres (whose cell bodies reside in the nodose ganglia) are activated by mechanical 
+stimuli (such as inhaled particulate matter, mucus and aspirated gastric contents)  
+and protons whereas vagal C fibres (whose cell bodies reside in the jugular ganglia)  
+are activated by irritant chemicals and inflammatory mediators. (2) Vagal fibres involved 
+in cough express several ion channels and receptors needed for transduction of diverse 
+sensory stimuli and the formation, conduction and regulation of action potentials and  
+(3) project to brainstem nuclei to coordinate cough motor patterning. (4) Distinct networks 
+in the higher brain are involved in the behavioural regulation of cough, encoding of  
+the urge to cough and for cognitive and affective processing. (5) Central mechanisms 
+allow for volitional and cognitive modulation of cough through top-​down regulation of 
+brainstem processing (black dashed lines). AITC, allyl isothiocyanate; ASICs, acid sensing 
+ion channel subtypes; B2, bradykinin type 2 receptor; CLC, chloride channel subtypes; 
+H+, protons/acid; Nav, voltage-​gated sodium channel subtypes; NGF, nerve growth factor; 
+NKCC1, sodium (Na+) potassium (K+) chloride (Cl−) co-​transporter; P2X, purinergic receptor 
+subtypes; PG, prostaglandin; PGR, prostaglandin receptor; TrkA, tyrosine receptor 
+kinase A; TRP, transient receptor potential cation channel.
+◀
+	
+ 9
+NATURE REVIEWS | DiSEASE PRimERS | Article citation ID:            (2022) 8:45 
+Primer
+0123456789();: 
+of cough characterization, pointers (such as traits) and 
+red flags (Fig. 5). These concepts are useful in current 
+clinical practice, evidenced by calculation of likelihood 
+ratios142 and incorporation of these facets in paediatric 
+cough algorithms143,144. Using cough algorithms to man-
+age paediatric chronic cough is efficacious in improving 
+clinical outcomes, demonstrated in cohort studies145, 
+randomized controlled trials (RCTs) based in specialist 
+clinics145 and primary care144. Further details of the pae-
+diatric diagnostic protocols are contained in the current 
+guidelines3,143.
+Cough assessment tools
+Several validated tools are available to assess cough in 
+clinical practice (Supplementary Box 1). Subjective assess-
+ments of cough evaluate the patient’s perspective and 
+1
+Possible cortical reorganization, 
+altered sensory perception and/or 
+cognitive responses to airway inputs 
+Sensitization and excessive activation 
+of vagal sensory ﬁbres, terminal 
+sprouting, phenotypic plasticity and 
+possible neuroinﬂammation
+Altered descending and 
+inhibitory modulation
+Altered midbrain 
+processing
+Synergistic convergent 
+sensory inputs, synaptic 
+plasticity and possible 
+neuroinﬂammation
+Lung 
+diseases
+Oesophageal
+nerves
+Bronchopulmonary
+nerves
+Nasal
+disease
+Tongue
+Gastro-oesophageal 
+reﬂux disease
+Arnold’s
+nerve
+Laryngeal nerves
+Trigeminal
+nerve
+2
+3
+4
+5
+Fig. 3 | Peripheral and central processes contributing to cough hyper­
+sensitivity. (1) Preclinical studies have described potential mechanisms that 
+affect vagal sensory nerve fibres that are driven by the inflammatory 
+pathology of the underlying diseases and potentially reversed by 
+disease-​specific therapy. (2) Functional synergy may also exist between 
+sensory neurons innervating the various tissues shown. These interactions 
+likely occur at the level of the brainstem, where convergence of vagal 
+and/or trigeminal inputs leads to enhanced cough sensitivity. Peripheral 
+organ pathologies have also been shown to alter synaptic efficacy in the 
+brainstem, indicative of state of central sensitization. Patients with cough 
+hypersensitivity have (3) increased activity in midbrain areas, and 
+(4) a reduced ability to suppress coughing owing to a failure to recruit 
+descending brain networks that subserve cough suppression. (5) Patients 
+with chronic cough have a range of effects in the cognitive domain, 
+suggestive of altered cortical processing of airway sensory information. 
+Drugs that target vagal sensory neurons and inhibit their activity, 
+neuromodulatory drugs that target brain processes involved in maintaining 
+hypersensitive states, and speech and language therapy aimed at improving 
+cough control, are all clinically useful antitussive options for patients with 
+troublesome cough.
+10 | Article citation ID:            (2022) 8:45 	
+www.nature.com/nrdp
+Primer
+0123456789();: 
+include cough severity, intensity, effects on health-​related 
+quality of life (HRQOL) and triggers and symptoms sug-
+gestive of cough hypersensitivity. Objective assessments 
+of cough measure cough frequency with sound or physi-
+ological measures (electromyography (EMG), airflow or 
+chest wall movement), intensity and the sensitivity of the 
+cough reflex. Objective measures are important to ensure 
+that measurements are specific to the disease and not 
+influenced by comorbid conditions or traits such as anx-
+iety and depression. The objective assessment of cough is 
+largely confined to research and clinical trial use because 
+the tools involve time-​consuming analysis, are expensive, 
+and their clinical usefulness has not been established. The 
+relationship between objective and subjective measures 
+of cough is moderate at best146, suggesting that subjective 
+and objective measures assess unique aspects of cough and 
+should be viewed as complementary and equally valuable 
+tools for evaluation of patients.
+Cough monitoring tools have been useful to evaluate 
+the efficacy of cough medicines, owing to the smaller 
+sample size required for studies than for subjective tools. 
+Moreover, monitoring tools address the preference of 
+some medicines regulatory agencies to include objective 
+end points in clinical trials147. Cough reflex sensitivity 
+tests have been used extensively in preclinical mecha-
+nistic studies and for drug development and dosing148. 
+They are often not useful for assessing the efficacy of 
+treatment as they are not predictive of a reduction in 
+coughing in patients149. Although patients with cough 
+have significantly lower thresholds for coughing during 
+challenge tests compared with healthy individuals, the 
+ranges can overlap, limiting their diagnostic potential150. 
+Improving the sensitivity and specificity of cough chal-
+lenge tests might be possible by standardizing equipment, 
+protocols and analysis methods151.
+Screening and prevention
+Screening for chronic cough is not carried out in clini-
+cal practice. How screening could be done and whether 
+it would lead to clinical benefit is unclear. Screening 
+patients with chronic respiratory disease may be ben-
+eficial as cough is often overlooked during clinical 
+evaluation. Moreover, early identification may improve 
+the quality of life (QOL) of patients and possibly avoid 
+over-​treatment by specifically targeting cough. One 
+simple screening method is a numerical rating scale 
+that assesses cough severity and ascertains the duration 
+of cough. Screening the general population could iden-
+tify patients with respiratory disorders such as COPD, 
+asthma, lung cancer and smoking-​related chronic bron-
+chitis at an earlier stage. The most important diagnosis is 
+that of lung cancer, where development of a cough may 
+be the first symptom, particularly in a smoker.
+Whether non-​smoking-​related chronic cough is pre-
+ventable is unknown. A greater understanding of the 
+mechanism of cough, particularly cough hypersensitivity, 
+is needed.
+Management
+The management of patients with chronic cough can 
+be prolonged and complex, especially in patients with 
+multiple comorbidities requiring treatment and when 
+the cough may ultimately be refractory to such inter-
+ventions. Therefore, management includes treatment of 
+comorbid conditions that are potentially driving chronic 
+cough and therapies directed at cough hypersensitivity 
+in patients with refractory or unexplained cough.
+Disease-​specific therapy
+For many adults with chronic cough, treatment of com­
+orbid asthma, GERD or nasal disease (upper airway 
+cough syndrome) improves their cough. However, few 
+RCTs have assessed the efficacy of treatments compared 
+with placebo in reducing cough in those with these 
+conditions.
+Asthma. Several RCTs have assessed the efficacy of 
+asthma therapies in patients with asthma and chronic 
+cough, but few trials have been performed in the past 
+decade, so more recent inhaled therapies are poorly 
+represented44. The CHEST and European Respiratory 
+Society guidelines suggest increasing inhaled corticos-
+teroid dose and considering trials of leukotriene inhib-
+itors and β-​agonists in those for whom the treatment 
+response to inhaled corticosteroids is incomplete, on 
+the basis of evidence obtained in classical asthma3,44. The 
+use of inhaled corticosteroid is considered the first-​line 
+treatment in adults with cough variant asthma. Of note, 
+Box 2 | Cough in asthma and related disorders
+• Cough is a common symptom of asthma. Patients with less well-​controlled asthma 
+than those with well-​controlled asthma usually cough more frequently238, and bron-
+choconstriction and allergen exposure are known to sensitize and/or provoke 
+coughing in people with asthma239,240. However, in the laboratory, bronchoconstriction 
+and cough pathways can be separately inhibited241,242, and the severity of cough does 
+not always reflect asthma severity. Some patients with well-​controlled asthma may 
+experience chronic cough. Chronic cough is the primary presenting symptom in 
+patients with cough variant asthma238, while in the paediatric literature isolated 
+cough is rarely asthma143.
+• Patients with classical asthma have heightened responses to inhaled irritants such as 
+capsaicin compared with healthy controls, although not to the same degree as those 
+presenting with chronic cough240,243. The mechanisms leading to this remain elusive. 
+Airway nerve density and neuronal branching are increased in bronchoscopy samples 
+obtained from patients with classical asthma, like those seen in patients with chronic 
+cough without asthma84,244.
+• The precise mechanisms that underlie why some patients develop cough variant 
+asthma as opposed to other asthma phenotypes is unclear, and few studies have 
+compared cough variant asthma with other phenotypes. Sputum eosinophilia might 
+be less in cough variant asthma than in typical asthma, and patients with cough 
+variant asthma have normal ventilation function or less severe impairment of lung 
+function245,246. However, patients with non-​asthmatic eosinophilic bronchitis, without 
+variable airway obstruction or hyper-​responsiveness characteristic of asthma, also 
+present with chronic cough247.
+• The localization of mast cells within airway smooth muscle in patients with asthma 
+but not in patients with non-​asthmatic eosinophilic bronchitis has been proposed  
+as an explanation for the lack of bronchial hyper-​responsiveness in non-​asthmatic 
+eosinophilic bronchitis. However, as other histological features are similar, it is unclear 
+why patients with non-​asthmatic eosinophilic bronchitis present with chronic cough 
+without airway obstruction and hyper-​responsiveness248. The difference in airway 
+function observed in subjects with eosinophilic bronchitis and asthma could be due  
+to differences in mediator (such as prostaglandin E2 (ref.249)) production in the airways. 
+Eosinophils may interact with airway sensory nerve fibres in people with asthma  
+and promote increased airway sensory fibre density, nerve remodelling and airway 
+hyper-​reactivity244, while no relationship between eosinophils and increased nerve 
+fibre density was noted in patients with chronic cough without asthma84.
+	
+ 11
+NATURE REVIEWS | DiSEASE PRimERS | Article citation ID:            (2022) 8:45 
+Primer
+0123456789();: 
+the efficacy of inhaled therapies for asthma in patients 
+with chronic cough can be subverted if the inhaled treat-
+ment evokes coughing. In this situation, a short course 
+of oral prednisolone can be the simplest means of assess-
+ing the response of chronic coughing to asthma therapy. 
+In children, chronic cough should not be attributed to 
+asthma unless other symptoms or signs are present152, 
+and cough in paediatric asthma should not be regarded 
+as a marker of severity.
+GERD. Treatments for GERD include proton pump 
+inhibitors (PPIs, which reduce the acidity of refluxate), 
+histamine (H2) receptor blockers (which have a similar, 
+but more prolonged, effect to PPIs) and lifestyle meas-
+ures such as weight loss, elevating the head of the bed 
+and avoidance of eating before bedtime. Small RCTs of 
+acid-​suppressing therapy (PPIs and H2 receptor block-
+ers) in patients with chronic cough have been performed 
+but did not report positive results; a pooled analysis of 
+these data suggests that adults with acid reflux on 24 h 
+pH monitoring or symptoms of heartburn are most 
+likely to experience benefit, which is now reflected in 
+clinical guidelines4,141,153. Observational data support 
+this approach, but response rates were low (28%) even in 
+patients with chronic cough who reported heartburn154. 
+Treatments for non-​acid reflux are limited. Promotility 
+agents (such as the dopamine antagonists metoclopr-
+amide and domperidone) can be prescribed only for 
+short-​term use owing to their adverse effects and lack 
+of evidence of efficacy in reflux-​related chronic cough. 
+Macrolide antibiotics promote gastric emptying, but 
+small studies in patients with refractory chronic cough 
+failed to show benefit155,156. Baclofen, a GABAB agonist, 
+blocks relaxation of the lower oesophageal sphincter, 
+and therefore all types of reflux, but has unacceptable 
+adverse effects for long-​term use, whereas lesogaberan 
+(a peripherally acting GABAB agonist with fewer adverse 
+effects) did not reduce cough frequency in patients with 
+refractory chronic cough in a RCT. Laparoscopic fun-
+doplication, a keyhole surgical procedure whereby the 
+upper part of the stomach is wrapped around the lower 
+oesophagus so as to prevent the reflux of acid from the 
+stomach into the oesophagus, in patients with GERD 
+and chronic cough is rarely indicated owing to lim-
+ited evidence for efficacy and high risk of long-​term 
+complications.
+The management of children with GERD is depend-
+ent on age and disease severity. Acid-​suppressive therapy 
+should not be used solely for chronic cough in children 
+with GERD and chronic cough157. Also, treatment of 
+children with chronic cough is dependent on their age, 
+feeding regimen and symptoms. PPIs and H2 receptor 
+antagonists should not be used for longer than 4–8 weeks 
+in paediatric patients, regardless of effectiveness, without 
+further evaluation157. Should they prove to be success-
+ful in controlling the cough, they can be continued for 
+longer periods, although the guidelines for managing 
+paediatric GERD recommend a gastroscopy with bio­
+psies and other tests to confirm anatomy and exclude 
+other causes by histology of the biopsy samples158.
+Upper airway cough syndrome. The treatment of 
+patients with chronic cough and nasal disease is stand-
+ard care for the diagnosed nasal condition. Allergic or 
+nonallergic rhinitis is treated with nasal corticosteroids, 
+first or second generation and intranasal antihistamines, 
+decongestants and, if sinusitis is present, antibiotics. The 
+potential role of nasal surgery in patients with chronic 
+cough is unclear159,160. Clinical trials evaluating the 
+effectiveness of targeting concurrent nasal diseases to 
+control chronic cough are lacking; therefore, predictors 
+of improvement in chronic cough remain uncertain161.
+COPD, bronchiectasis and interstitial lung disease. 
+Cough, typically productive, is a common first symptom 
+of COPD and is usually attributed to cigarette smok-
+ing and also as a result of exposure to environmental 
+pollutants162. Chronic bronchitis is a distinct pheno-
+type of COPD and is defined as chronic cough produc-
+tive of sputum for 3 months over the course of a year for 
+two consecutive years163. In established disease, cough 
+is reported in 70% of patients47 and many consider it 
+to be extremely severe. Moreover, cough is a prominent 
+feature of disease exacerbations and is associated with 
+adverse clinical outcomes48,164,165. Measuring the sever-
+ity and burden of cough using symptom-​based ques-
+tionnaires is now recommended in the routine clinical 
+evaluation of patients with COPD166. Chronic cough 
+accompanied by the expectoration of large quantities 
+of mucopurulent sputum is a central clinical feature of 
+bronchiectasis. Typically coughing is much worse dur-
+ing exacerbations and contributes to impaired health 
+status167. Impaired airway clearance, mucus retention 
+and bacterial colonization cause inflammation and lung 
+damage, which contribute to cough severity but are inde-
+pendent of cough reflex sensitivity168. Cough is a com-
+mon and disabling symptom in idiopathic pulmonary 
+fibrosis and may be due to inflammatory consequences 
+Box 3 | Laryngeal hypersensitivity and dysfunction in chronic cough
+• Laryngeal hypersensitivity refers to the excessive, abnormal, laryngeal adduction  
+of the vocal cords during breathing or exercise, resulting in laryngeal dysfunction250. 
+Laryngeal hypersensitivity and dysfunction represent an increased responsiveness  
+of laryngeal protective reflexes triggered by mechanical or chemical stimuli and are 
+considered to be part of the cough hypersensitivity syndrome.
+• Laryngeal hypersensitivity and dysfunction are present in many patients with chronic 
+cough and cough hypersensitivity139,251. They are often associated with comorbid 
+post-​nasal drip, rhinosinusitis, gastro-​oesophageal reflux disease and asthma252.
+• Symptoms are usually localized to the laryngeal area, for example, ‘scratchy’ or ‘tickly’ 
+feeling of an urge to cough, or sometimes inspiratory stridor of airflow or feeling of 
+suffocation or difficulty in breathing.
+• Laryngeal dysfunction in patients with refractory chronic cough has been associated 
+with paradoxical vocal fold movement manifesting as vocal cord dysfunction with 
+episodes of suffocation or difficulty in breathing or laryngospasm253. Other aspects of 
+laryngeal dysfunction include muscle tension dysphonia that can be revealed during 
+vocalization250.
+• Investigations include direct laryngoscopic examination of vocal fold motion during 
+challenge (using external triggers such as exercise or scents), laryngeal electromyogram 
+and voice assessment254.
+• Laryngeal hypersensitivity and dysfunction in patients with chronic refractory cough 
+may respond to speech pathology intervention and behavioural management of 
+cough, with the use of voice therapy techniques and breathing exercises255. Cough 
+neuromodulators such as amitriptyline and gabapentin might also be beneficial.
+12 | Article citation ID:            (2022) 8:45 	
+www.nature.com/nrdp
+Primer
+0123456789();: 
+of the fibrosis itself or to comorbid reflux disease. No 
+medicines are approved to treat cough in these patients, 
+and current consensus is based on limited evidence51.
+Nonspecific pharmacological therapies
+Pharmacological therapies directed at eliminating cough 
+are required in cases in which treatment of comorbid 
+disease associated with cough is unsuccessful at relieving 
+coughing, or in those with no obvious cause for a chronic 
+cough. These therapies are restricted to use in adults as, 
+for cough management purposes, the age cut-​off for use 
+in children is usually 14 years. Whether patients other 
+than those with refractory or unexplained chronic cough 
+would benefit from adjunct nonspecific cough therapy is 
+unclear, and controlled trials are needed.
+Opiates. Codeine and morphine are commonly used 
+antitussives in adult-​based clinical practice and have 
+antitussive effects via central opioid receptors169. 
+Accordingly, effective antitussive doses of opiates are 
+likely to cause sedation. The opioid subtype by which 
+opiates inhibit cough remains debatable, as μ-, κ- or 
+δ-​opioid receptor agonists are all antitussive170. Opioid 
+receptors are also localized to vagal sensory neurons, 
+and their activation can suppress sensory fibre activity; 
+however, unlike oral codeine or intravenous morphine, 
+inhaled morphine or codeine does not inhibit inhaled 
+capsaicin-​induced cough, arguing against a peripheral 
+antitussive effect of opiates171. Opiates have no role in 
+the management of children with chronic cough as they 
+can cause death143.
+Codeine has a rapid onset of action. Although 
+widely used, the efficacy of codeine is not supported 
+by clinical studies. Several placebo-​controlled RCTs 
+for cough have been published without objective 
+cough measurements172,173, and other trials did not 
+report significant benefits of codeine over placebo174,175. 
+Moreover, codeine has several concerns regarding 
+safety, inter-​individual variability in metabolism and 
+dependence176, although risk of dependence may be low 
+in those without vulnerability to dependence177. Adverse 
+effects of codeine, such as nausea, constipation, dys-
+pepsia, dizziness or somnolence, occur in up to 50% of 
+patients and are mostly non-​critical in adults178.
+Morphine is ~10 times more potent than codeine 
+and is most often considered in patients with severe 
+Adult with cough lasting >8 weeks (chronic cough)
+Cause of cough 
+conﬁrmed
+Yes
+Cough resolved?
+Consider
+• Speech and language intervention
+• Refer to specialist cough clinic 
+• Trial of neuromodulatory agents or low-dose opiates
+• Recruit to clinical trial 
+Optimize treatment and manage adherence
+Cause of cough 
+conﬁrmed
+Unexplained 
+chronic cough 
+diagnosis
+Cough resolved?
+Any remaining investigations to be undertaken?
+Were treatment 
+trials optimal and 
+patient adherent?
+Any remaining investigations 
+to be undertaken?
+Order investigations, review 
+with results and treat as 
+indicated
+History and physical examination focused on cough 
+characteristics, triggers and clinical features to determine 
+evidence for common pulmonary and extrapulmonary causes
+Review current chest radiology and 
+spirometry ± reversibility testing or fractional 
+exhaled nitric oxide measurement
+No
+Cough resolved?
+Yes
+Cough resolved?
+No
+Yes
+Yes
+No
+Yes
+No
+Cause of cough 
+conﬁrmed
+Yes
+Refractory chronic 
+cough diagnosis
+No
+No
+Yes
+No
+Cause of cough 
+conﬁrmed
+Cough resolved?
+Yes
+Manage according to current 
+guidelines and review
+Yes
+Any obvious primary pulmonary or 
+extrapulmonary cause for cough?
+No
+Fig. 4 | Evaluation and management of chronic cough in adults. A proposed algorithm for the clinical management of 
+patients with chronic cough, including recommendations for managing difficult-​to-​treat cough. The algorithm was devised 
+using recommendations contained in existing clinical guidelines and other reference material3,4,10,46,232.
+	
+ 13
+NATURE REVIEWS | DiSEASE PRimERS | Article citation ID:            (2022) 8:45 
+Primer
+0123456789();: 
+intractable cough. One trial demonstrated that low-​dose 
+slow-​release morphine therapy was associated with sig-
+nificant improvements in subjective cough measures 
+(Leicester Cough Questionnaire and daily cough sever-
+ity scores) in patients with refractory chronic cough179. 
+The most common adverse effects were constipation 
+and drowsiness. The effects of morphine were mostly 
+observed within a week, but benefit was observed in 
+<50% of patients. Morphine is associated with sev-
+eral safety concerns, including respiratory depression, 
+drowsiness and addiction, depending on the dose180.
+Gabapentinoids. The GABA derivatives gabapentin 
+and pregabalin are inhibitors of α2δ subunit-​containing 
+voltage-​dependent calcium channels and possibly 
+NMDA receptors181,182. Gabapentinoids freely pass the 
+blood–brain barrier and are commonly used for treat-
+ment of seizures and neuropathic pain, although the sites 
+of central action are poorly understood. In one 10-​week 
+RCT183, gabapentin significantly improved subjective 
+cough measures and objective cough frequency in 
+patients with chronic refractory cough; however, clinical 
+benefits were not sustained after treatment cessation. No 
+improvement in capsaicin cough reflex sensitivity was 
+observed, suggesting a lack of effect on cough hyper-
+sensitivity. Of note, some patients do not experience any 
+improvement in cough with gabapentin. Pregabalin, as 
+an add-​on to speech therapy, significantly improved sub-
+jective cough measures compared with speech therapy 
+alone at week 14 (ref.184). However, the effects of pregab-
+alin on objective cough frequency were not significant. 
+Gabapentinoids cause common, and sometimes intol-
+erable, adverse effects, including dizziness, disorienta-
+tion, confusion, fatigue and blurred vision. The benefit 
+of long-​term use of gabapentinoids is difficult to predict 
+given these adverse events.
+Tricyclic antidepressants. Amitriptyline increases nora­
+drenergic or serotonergic neurotransmission by block-
+ing presynaptic noradrenaline or serotonin transporters 
+Cause of cough 
+conﬁrmed
+Cause of cough 
+conﬁrmed
+Consider and manage as required
+• Bronchiectasis or recurrent pneumonia
+• Aspiration
+• Chronic infection
+• Interstitial lung disease
+• Airway abnormality
+• Cardiac disorder
+• Other less common pulmonary conditions
+Cause of cough 
+conﬁrmed
+Cause of cough conﬁrmed
+• Asthma or asthma-like
+Trial inhaled corticosteroids
+Cough resolved?
+If wet cough, treat as 
+protracted bacterial 
+bronchitis with antibiotics
+Discuss options with parents
+Assess evidence for non-speciﬁc cough 
+Evaluate tobacco smoke and other pollutants
+Watch, wait and review in 2 weeks
+• Usually postviral cough or acute bronchitis
+• Rarely foreign body asthma, upper airway 
+disorders, adverse reaction to medicines, 
+functional disorders, pertussis, 
+Mycoplasma, GERD or ear problems
+Manage according to current 
+guidelines and review
+Any obvious primary pulmonary or 
+extrapulmonary cause for cough?
+Cough resolved?
+Cough resolved?
+No
+Yes
+No
+History and physical examination focused on cough 
+characteristics and clinical features to determine evidence 
+for common pulmonary and extrapulmonary causes
+Review current chest radiology and 
+spirometry or consider fractional 
+exhaled nitric oxide measurement
+Child with cough lasting >4 weeks (chronic cough)
+No
+No
+No
+No
+Yes
+Yes
+Cough resolved?
+Yes
+Cease therapy
+Yes
+Fig. 5 | Evaluation and management of chronic cough in children. A proposed algorithm for the clinical management of 
+paediatric patients with chronic cough. The algorithm was devised using recommendations contained in existing clinical 
+guidelines3,143. GERD, gastro-​oesophageal reflux disease.
+14 | Article citation ID:            (2022) 8:45 	
+www.nature.com/nrdp
+Primer
+0123456789();: 
+and has strong binding affinities for α-​adrenergic, his-
+tamine (H1) and muscarinic (M1) receptors185. In one 
+randomized trial, treatment with low-​dose amitripty-
+line at bedtime was significantly more effective than 
+codeine and guaifenesin combinatorial treatment in 
+improvement of subjective measures of cough in those 
+with post-​viral cough hypersensitivity186. Moreover, 
+one small observational study found an improvement 
+of >50% in 67% of patients with idiopathic (refractory 
+or unexplained) cough 2–3 months after starting treat-
+ment; however, only one-​third of patients were still on 
+the treatment after 2–3 years, with 53% reporting an 
+improvement of >50%187. A controlled, double-​blind 
+study of amitriptyline in chronic cough is needed. The 
+most common adverse effects of amitriptyline are dry 
+mouth, dizziness, headache and somnolence.
+Nonspecific cough suppression and the risk of dystussia. 
+Cough has an important protective function in the res-
+piratory tract in healthy individuals and patients as it 
+is needed to expel excessive airway secretions, prevent 
+aspiration and protect against inhaled irritant stimuli, 
+such as smoke. An ideal cough suppressant, therefore, 
+would reduce unwanted, excessive coughing without 
+suppression of protective cough, essentially targeting 
+the hypersensitive state. Studies in laboratory animals 
+and humans have demonstrated that opiates and other 
+centrally acting neuromodulators (gabapentin and 
+baclofen) can inhibit cough evoked by a broad range of 
+chemical and mechanical stimuli188–191. This action is a 
+dose-​dependent generalized suppression of the nervous 
+system (sedation), inhibition of the brainstem neurons 
+involved in generating respiratory rhythm and/or direct 
+suppression of cough sensory nerve activity169,192,193. 
+Consequently, some nonspecific cough suppressants 
+might cause dystussia, although the prevalence of this is 
+not well documented. One post hoc analysis of patients 
+receiving morphine and codeine for cough suppression 
+suggests that sedation is unlikely to contribute to their 
+cough-​suppressing properties194, whereas gabapentin 
+improved cough-​specific QOL in patients with refrac-
+tory cough without suppressing capsaicin cough reflex 
+sensitivity183. Risk of dystussia and aspiration is likely 
+related to dosing195,196, and some patient groups who are 
+more prone to dystussia (such as the elderly and patients 
+with spinal trauma or neurological disease) may be more 
+susceptible to generalized cough suppression by centrally 
+acting nonspecific cough therapies197,198. At least one 
+new peripherally acting nonspecific cough therapy in 
+clinical trial (the P2X3 antagonist, gefapixant) has been 
+shown not to produce generalized cough suppression at 
+therapeutic doses148.
+Speech and language therapy
+Speech and language therapy consists of education, 
+cough control and suppression techniques, breath-
+ing exercises, vocal hygiene, hydration strategies and 
+counselling199 (Box 4). Two randomized controlled 
+studies have evaluated the effectiveness of speech and 
+language therapy for adults with unexplained or refrac-
+tory chronic cough. One study200 found that 88% of par-
+ticipants in the treatment group showed improvement 
+in symptom frequency and severity scores for breath-
+ing, cough, voice and upper airway symptoms, com-
+pared with 14% of participants in the placebo group. 
+Another multicentre RCT201 found an improvement in 
+cough-​specific QOL and a reduction in cough frequency 
+in the treatment group compared with the control group. 
+No significant difference was found between therapy and 
+control groups regarding subjective measures of cough 
+and cough reflex sensitivity.
+The antitussive mechanisms of action of speech and 
+language therapy remain unclear. One hypothesis is 
+that improved understanding of the condition through 
+education and counselling, along with training in sup-
+pression strategies, may affect the decreased inhibitory 
+control of cough that is present in such patients65,92,101. 
+However, empirical studies to address this have not 
+been conducted. An improvement in paradoxical vocal 
+fold movement and dysfunctional breathing may also 
+contribute to control of cough202.
+Treatment of children
+Successfully managing a child with chronic cough (lead-
+ing to cough resolution) is dependent on identifying the 
+aetiology of the cough and treating it (see current clini-
+cal guidelines3,143). Therefore, the suggested approach for 
+managing children with chronic cough aims to identify 
+the underlying cause, provide attention to contributing 
+factors (such as tobacco smoke exposure) and under-
+stand the effect of the cough on the child and their par-
+ents or guardians3,143,145. Children aged >14 years are 
+usually managed in accordance with adult pathways.
+Quality of life
+QOL is one of the key end points in clinical trials with 
+novel antitussives, and it also aids clinical practice guide-
+line decision-​making3. Cough has significant effects on 
+physical and mental health. Effects in adults include 
+urinary incontinence, pain, sleep disturbance, interfer-
+ence with speech, anxiety and depression, avoidance of 
+social situations and inability to work203. Less common 
+but severe complications include syncope and head 
+injury, hernia, suicidal ideation and rib fracture203. Stress 
+urinary incontinence is under-​recognized in adults 
+with cough: ~65% of patients with chronic cough are 
+Box 4 | Speech and language therapy management of chronic cough
+The approach to cough-​specific speech and language therapy involves four steps.
+• Education. Patients are provided education on the biology of coughing, chronic 
+cough and cough hypersensitivity, and the negative effects of repeated coughing  
+and throat clearing are explained.
+• Vocal hygiene. Vocal and laryngeal hygiene and hydration are advised with a 
+reduction in caffeine and alcohol intake. Nasal breathing with nasal douching  
+may be recommended with nasal steam inhalation.
+• Cough control/suppression training. Following identification of patient cough 
+triggers, patients are taught a range of suppression strategies including forced/dry 
+swallow, sipping water, chewing gum or sucking non-​medicated sweets. Breathing 
+pattern re-​education is used to promote relaxed abdominal breathing while inhaling 
+through the nose.
+• Psycho-​educational counselling. Behaviour modification is used to reduce over- 
+awareness of the need to cough and facilitate an individual’s internalization of control 
+over their cough and to help manage stress and anxiety.
+	
+ 15
+NATURE REVIEWS | DiSEASE PRimERS | Article citation ID:            (2022) 8:45 
+Primer
+0123456789();: 
+female and 65% will experience cough-​induced urinary 
+incontinence204. Patients with cough-​induced urinary 
+incontinence are often too embarrassed to mention it 
+to their physician. In some patients, the inability to con-
+trol the urge to cough or throat tickle sensation can be 
+worse than the cough itself138. In children, the key effects 
+of chronic cough are annoyance, frustration, tiredness 
+and effects on activities205, whereas effects on parents of 
+children with chronic cough are worries on aetiology 
+of cough, helplessness and sleep disturbance206. Data on 
+the economic burden of chronic cough are lacking.
+QOL can be assessed informally in the clinic by ask-
+ing patients about the effects that are known to be associ-
+ated with cough. HRQOL questionnaires can be used to 
+quantify QOL in a validated and standardized manner. 
+QOL tools have broad applicability, even in conditions 
+with considerable heterogeneity that can limit the use-
+fulness of objective tools. They capture aspects of disease 
+severity that is not possible with objective tools, such as 
+general health effects like fatigue and sleep disturbance, 
+among others. In patients with cough, QOL tools can 
+assess intensity and urge to cough, which cannot be 
+assessed with cough frequency monitors207. This is par-
+ticularly important for patients who cough infrequently 
+but are greatly bothered by it.
+Studies of QOL in patients with chronic cough using 
+validated tools have found significantly worse QOL in 
+women than in men30. Women had lower QOL owing 
+to physical complaints, psychosocial issues and severe 
+physical complaints. The greatest disparity between the 
+sexes was due to stress urinary incontinence in women. 
+Patients with a longer duration of cough, depression, 
+younger age and interference with speech owing to 
+cough also have worse QOL208. The presence of urge 
+to cough is also highly correlated with impairment in 
+QOL208. One longitudinal study of patients undergoing 
+treatment for chronic cough found that improvement in 
+cough was associated with a significant improvement 
+in QOL at 3 months and continued improvement at 
+6 months208–210. This improvement was associated with 
+improvements in urinary incontinence, urge to cough 
+and anxiety symptoms208. Future studies to address 
+gaps in knowledge should establish the frequency and 
+characteristics of complications of cough to improve 
+management and understand the direction of the rela-
+tionship between cough, anxiety and depression. The 
+economic impact of cough on individuals also needs to 
+be investigated.
+The Leicester Cough Questionnaire is the most 
+widely used HRQOL tool in adults. This tool consists 
+of 19 items that address physical, psychological and 
+social domains211, has good repeatability and respon-
+siveness, and the minimal important clinical difference 
+has been established212. This questionnaire was used to 
+demonstrate improvement in HRQOL in a randomized, 
+placebo-​controlled and double-​blind phase III trial 
+assessing antitussive activity of the P2X3 receptor antag-
+onist, gefapixant213. The Cough QOL Questionnaire 
+(CQLQ) is another validated tool for adult patients with 
+chronic cough210. The CQLQ comprises 28 items, has 
+good repeatability and responsiveness, and the minimal 
+important clinical difference has been established214. 
+HRQOL assessments are also valuable in the paedi-
+atric setting and are performed using acute cough215 
+or child-​specific chronic cough205 HRQOL tools. As 
+a child’s illness and management affects the QOL of 
+their family, 27-​item and 8-​item generic parent-​proxy 
+HRQOL tools are available for use in conjunction with 
+cough-​specific HRQOL assessments206,216.
+Little is known about the long-​term outcomes 
+of patients with chronic cough. In a study following 
+patients for 7 years, only 14% of patients had resolution 
+of cough although 26% reported a reduction in cough 
+severity. No predictors of improvement in cough were 
+found8. Chronic cough may be associated with long-​term 
+health risks, such as risks of mortality, morbidity or drug 
+adverse effects, although these have not been elucidated 
+in patients with chronic cough.
+Outlook
+Key gaps in knowledge
+Despite advances in understanding the mechanisms of 
+chronic cough and improvements in therapeutic devel-
+opment, our understanding of the relationship between 
+cough hypersensitivity and chronic cough is incomplete. 
+For example, although some therapeutic benefit has 
+been shown using treatments that target mechanisms 
+putatively involved in establishing or maintaining hyper-
+sensitivity, these treatments do not work for all patients 
+and they do not provide complete resolution of cough 
+in most patients who do show responsivity12. Whether 
+this observation reflects the existence of multiple con-
+current processes involved in cough hypersensitivity, 
+yet-​to-​be-​discovered ‘lynch pin’ processes or a lack of 
+involvement of cough hypersensitivity in all patients is 
+unclear. This is notable in children where evidence for 
+cough hypersensitivity is lacking and targeting specific 
+clinical conditions results in effective cough resolution.
+We do not know whether any relationships exist with 
+respect to the presentation of chronic cough across the 
+lifespan. For example, an important question to answer is 
+whether cough hypersensitivity evolves in some patients 
+owing to the presence of a troublesome cough earlier in 
+life. As such, whether children with chronic cough have 
+a higher risk of cough hypersensitivity in adulthood is 
+unknown. Indeed, genetic determinants might affect 
+the risk of cough hypersensitivity, although this area of 
+research is understudied. One challenge in investigat-
+ing future health effects of chronic cough lies in the lack 
+of a distinct diagnostic code for chronic cough in the 
+International Classification of Diseases (ICD) system217. 
+Establishment of a code that categorizes chronic cough 
+as a disease will facilitate large-​scale routinely collected 
+health data to further understand the burden and 
+epidemiology of chronic cough.
+The answers to many of the lingering questions 
+are dependent on improved understanding of the 
+multiple clinical dimensions of cough. As mentioned 
+earlier, subjective patient reports of disease severity 
+and effects on QOL do not always track linearly with 
+objective measures of cough frequency. Moreover, the 
+aspects of chronic cough that have the greatest effects 
+on patients’ lives are poorly understood. This lack of 
+knowledge is problematic in trials of therapies that rely 
+16 | Article citation ID:            (2022) 8:45 	
+www.nature.com/nrdp
+Primer
+0123456789();: 
+on only one output as the primary end point measure; 
+for example, only short-​term (≤24 h) objective cough 
+frequency is used by drug regulators in clinical trials 
+of new antitussive therapies, meaning that drugs that 
+bring about clinically important improvements in 
+patient-​reported outcomes, but not cough frequency, 
+are unlikely to advance. Yet in other clinical hypersensi-
+tivities, for example, chronic pain, subjective measures 
+of pain severity and QOL are accepted as gold standard 
+end point measures. Newer, less-​invasive, devices for 
+counting coughs over longer periods of time in natu-
+ral settings, potentially assessing other aspects of cough 
+including the variability of cough, and analysis of the 
+sound, intensity, cough bout duration and the time 
+of day218 may disentangle the relationships between 
+objective and subjective measures, but ultimately an 
+acceptance of the clinical importance of the subjective 
+dimensions of cough is needed.
+Endotypes and personalized medicine
+Multiple mechanisms and aetiologies may underlie 
+cough hypersensitivity. Recent suggestions of cough 
+endotypes may help clinical management of cough. 
+Conventionally, these endotypes relate to the underly-
+ing clinical condition (such as asthma, GERD or upper 
+airway cough syndrome)81 but there may be other ways 
+to endotype patients with cough; however, this needs to 
+be explored. Clinical trials with P2X3 antagonists sug-
+gest that a subset of patients with refractory chronic 
+cough respond well to purinergic inhibition, perhaps 
+reflecting a currently unrecognized endotype213. Trials 
+of other antitussives have similarly shown heterogene-
+ity in responsivity that may reflect differing pathological 
+processes driving cough in different patients. A more 
+careful assessment of this heterogeneity may identify 
+clear endotypes, which then allows more personalized 
+approaches to cough management.
+Emerging therapies
+Improved understanding of cough neurophysiology has 
+advanced the development of new antitussive therapies, 
+several of which are progressing through clinical trials 
+(Supplementary Table 2). Molecules targeting P2X3 
+and P2X2/3 ATP receptors have demonstrated efficacy 
+in reducing cough counts, and at least four companies 
+have molecules in advanced clinical trials. Gefapixant 
+is the first such compound to have completed phase III 
+trials and demonstrated efficacy in adults with refrac-
+tory chronic cough213, while three other molecules have 
+completed phase II trials (Supplementary Table 2). 
+Trials have also been conducted with centrally acting 
+neurokinin 1 receptor antagonists, which have demon-
+strated some clinical benefit, notably in patients with 
+lung cancer presenting with chronic cough80. Drugs in 
+earlier phases of clinical development are those target-
+ing sodium channels involved in cough sensory neuron 
+action potential conduction219. Whether these thera-
+pies will show efficacy in patients is unknown. Trials 
+with various TRP channel agents have been negative 
+(Supplementary Table 2), and enthusiasm for these 
+drugs as therapeutic targets has waned.
+One challenge for these antitussive studies is over-
+coming the large placebo effect that accompanies cur-
+rent trial designs. The development of improved animal 
+models that better recapitulate the processes that under-
+pin chronic cough and cough hypersensitivity, along 
+with reimagined clinical trial designs and/or improved 
+end point measures may be required to identify true 
+therapeutic efficacies. Furthermore, clinical trials for 
+new compounds have only been assessed in adults, 
+mostly those with refractory chronic cough, and it will 
+be important to ascertain the clinical use of these new 
+antitussives in other patients and in children.
+Published online xx xx xxxx
+1.	
+Irwin, R. S. et al. Diagnosis and management of cough 
+executive summary: ACCP evidence-​based clinical 
+practice guidelines. Chest 129, 1s–23s (2006).
+2.	
+Cherry, D. K., Burt, C. W. & Woodwell, D. A. National 
+ambulatory medical care survey: 2001 summary.  
+Adv. Data 337, 1–44 (2003).
+3.	
+Morice, A. H. et al. ERS guidelines on the diagnosis 
+and treatment of chronic cough in adults and children. 
+Eur. Respir. J. 55, 1901136 (2020).  
+Latest guidelines on the diagnosis and treatment 
+of chronic cough in adults and children that take  
+a biomarker approach.
+4.	
+Morice, A. H. et al. ERS guidelines on the assessment 
+of cough. Eur. Respir. J. 29, 1256–1276 (2007).
+5.	
+Chang, A. B. & Glomb, W. B. Guidelines for evaluating 
+chronic cough in pediatrics: ACCP evidence-​based 
+clinical practice guidelines. Chest 129, 260s–283s 
+(2006).
+6.	
+Song, W. J. et al. Defining chronic cough: a systematic 
+review of the epidemiological literature. Allergy Asthma 
+Immunol. Res. 8, 146–155 (2016).
+7.	
+Everett, C. F., Kastelik, J. A., Thompson, R. H.  
+& Morice, A. H. Chronic persistent cough in the 
+community: a questionnaire survey. Cough 3,  
+5 (2007).
+8.	
+Yousaf, N., Montinero, W., Birring, S. S. & Pavord, I. D. 
+The long term outcome of patients with unexplained 
+chronic cough. Respir. Med. 107, 408–412 (2013).
+9.	
+Koskela, H. O., Lätti, A. M. & Purokivi, M. K.  
+Long-​term prognosis of chronic cough: a prospective, 
+observational cohort study. BMC Pulm. Med. 17,  
+146 (2017).
+10.	 Gibson, P. et al. Treatment of unexplained chronic 
+cough: CHEST guideline and expert panel report. 
+Chest 149, 27–44 (2016).
+11.	 Morice, A. H. et al. Expert opinion on the cough 
+hypersensitivity syndrome in respiratory medicine.  
+Eur. Respir. J. 44, 1132–1148 (2014).  
+European Respiratory Society Task Force report 
+detailing the adoption of cough hypersensitivity as 
+a valid and useful concept by key opinion leaders, 
+shaping the assessment, management and study  
+of patients with chronic cough.
+12.	 Mazzone, S. B. & McGarvey, L. Mechanisms  
+and rationale for targeted therapies in refractory and 
+unexplained chronic cough. Clin. Pharmacol. Ther. 
+109, 619–636 (2021).  
+A state-​of-the-​art overview of the major drug 
+discovery pathways and clinical trials currently 
+under investigation for the treatment of chronic 
+cough.
+13.	 Song, W. J. et al. The global epidemiology of chronic 
+cough in adults: a systematic review and meta-​analysis. 
+Eur. Respir. J. 45, 1479–1481 (2015).  
+A comprehensive systematic literature review 
+showing an estimated worldwide epidemiological 
+burden (~10% prevalence) of chronic cough 
+irrespective of diagnosis in adults.
+14.	 Çolak, Y. et al. Risk factors for chronic cough among 
+14,669 individuals from the general population.  
+Chest 152, 563–573 (2017).
+15.	 Liang, H. et al. Prevalence of chronic cough in China:  
+a systematic review and meta-​analysis. BMC Pulm. Med. 
+22, 62 (2022).
+16.	 Arinze, J. T. et al. Prevalence and incidence of, and risk 
+factors for chronic cough in the adult population: the 
+Rotterdam study. ERJ Open Res. 6, 00300-2019 
+(2020).
+17.	 Satia, I. et al. Prevalence, incidence and characteristics 
+of chronic cough among adults from the Canadian 
+longitudinal study on aging. ERJ Open Res. 7,  
+00160-2021 (2021).
+18.	 Kang, S. Y. et al. Cough persistence in adults with 
+chronic cough: a 4-year retrospective cohort study. 
+Allergol. Int. 69, 588–593 (2020).
+19.	 Singh, D., Arora, V. & Sobti, P. C. Chronic/recurrent 
+cough in rural children in Ludhiana, Punjab. Indian 
+Pediatrics 39, 23–29 (2002).
+20.	 Flynn, M. G. Respiratory symptoms, bronchial 
+responsiveness, and atopy in Fijian and Indian children. 
+Am. J. Respir. Crit. Care Med. 150, 415–420 (1994).
+21.	 O’Grady, K. F. et al. Chronic cough postacute 
+respiratory illness in children: a cohort study.  
+Arch. Dis. Child. 102, 1044–1048 (2017).
+22.	 Chung, K. F. & Pavord, I. D. Prevalence, pathogenesis, 
+and causes of chronic cough. Lancet 371, 1364–1374 
+(2008).
+23.	 McGovern, A. E., Short, K. R., Kywe Moe, A. A.  
+& Mazzone, S. B. Translational review: neuroimmune 
+mechanisms in cough and emerging therapeutic 
+targets. J. Allergy Clin. Immunol. 142, 1392–1402 
+(2018).
+24.	 Morice, A. H. et al. A worldwide survey of chronic 
+cough: a manifestation of enhanced somatosensory 
+response. Eur. Respir. J. 44, 1149–1155 (2014).  
+A survey of 11 specialist cough clinics assessing 
+>10,000 adult patients with chronic cough, 
+demonstrating an older (60–69 years) female 
+preponderence with evidence of altered brain 
+processing of cough stimuli in these patients.
+25.	 Dicpinigaitis, P. V. & Rauf, K. The influence of gender 
+on cough reflex sensitivity. Chest 113, 1319–1321 
+(1998).
+26.	 Varechova, S., Plevkova, J., Hanacek, J. & Tatar, M. 
+Role of gender and pubertal stage on cough sensitivity 
+	
+ 17
+NATURE REVIEWS | DiSEASE PRimERS | Article citation ID:            (2022) 8:45 
+Primer
+0123456789();: 
+in childhood and adolescence. J. Physiol. Pharmacol. 
+59, 719–726 (2008).
+27.	 Meltzer, E. O. et al. Prevalence and burden of chronic 
+cough in the United States. J. Allergy Clin. Immunol. 
+Pract. 9, 4037–4044.e4032 (2021).
+28.	 Kang, M. G. et al. Point prevalence and 
+epidemiological characteristics of chronic cough in the 
+general adult population: the Korean National Health 
+and Nutrition Examination Survey 2010–2012. 
+Medicine 96, e6486 (2017).
+29.	 Kantar, A. & Seminara, M. Why chronic cough in 
+children is different. Pulm. Pharmacol. Ther. 56, 
+51–55 (2019).
+30.	 French, C. T., Fletcher, K. E. & Irwin, R. S. Gender 
+differences in health-​related quality of life in patients 
+complaining of chronic cough. Chest 125, 482–488 
+(2004).
+31.	 Chang, A. B. et al. Do sex and atopy influence cough 
+outcome measurements in children? Chest 140,  
+324–330 (2011).
+32.	 Dicpinigaitis, P. V., Enilari, O. & Cleven, K. L. Prevalence 
+of Arnold nerve reflex in subjects with and without 
+chronic cough: relevance to cough hypersensitivity 
+syndrome. Pulm. Pharmacol. Ther. 54, 22–24 (2019).  
+Evidence of a generalized vagal nerve hypersensitivity 
+in patients with chronic cough, consistent with 
+mechanistic interactions between pulmonary and 
+non-​pulmonary nerve fibres contributing to the 
+sensitized state.
+33.	 Lai, K. et al. Age and sex distribution of chinese 
+chronic cough patients and their relationship with 
+capsaicin cough sensitivity. Allergy Asthma Immunol. 
+Res. 11, 871–884 (2019).
+34.	 Smit, L. A. et al. Transient receptor potential genes, 
+smoking, occupational exposures and cough in adults. 
+Respir. Res. 13, 26 (2012).
+35.	 Park, H. K. et al. Association of genetic variations in 
+neurokinin-2 receptor with enhanced cough sensitivity 
+to capsaicin in chronic cough. Thorax 61, 1070–1075 
+(2006).
+36.	 Cortese, A. et al. Cerebellar ataxia, neuropathy, 
+vestibular areflexia syndrome due to RFC1 repeat 
+expansion. Brain 143, 480–490 (2020).
+37.	 Kumar, K. R. et al. RFC1 expansions can mimic 
+hereditary sensory neuropathy with cough and Sjögren 
+syndrome. Brain 143, e82 (2020).
+38.	 Zemp, E. et al. Long-​term ambient air pollution and 
+respiratory symptoms in adults (SAPALDIA study).  
+The SAPALDIA Team. Am. J. Respir. Crit. Care Med. 
+159, 1257–1266 (1999).
+39.	 Song, W. J. et al. Confronting COVID-19-associated 
+cough and the post-​COVID syndrome: role of viral 
+neurotropism, neuroinflammation, and neuroimmune 
+responses. Lancet Respir. Med. 9, 533–544 (2021).  
+Describing the acute and chronic cough of  
+SARS-​CoV-2 infection and the potential underlying 
+mechanisms.
+40.	 Ryan, N. M., Vertigan, A. E., Ferguson, J., Wark, P.  
+& Gibson, P. G. Clinical and physiological features of 
+postinfectious chronic cough associated with H1N1 
+infection. Respir. Med. 106, 138–144 (2012).
+41.	 Lin, L. et al. The duration of cough in patients with 
+H1N1 influenza. Clin. Respir. J. 11, 733–738 (2017).
+42.	 Wang, K. et al. Symptomatic treatment of the cough in 
+whooping cough. Cochrane Database Syst. Rev. 2014, 
+Cd003257 (2014).
+43.	 Moore, A., Harnden, A., Grant, C. C., Patel, S. &  
+Irwin, R. S. Clinically diagnosing pertussis-​associated 
+cough in adults and children: CHEST guideline and 
+expert panel report. Chest 155, 147–154 (2019).
+44.	 Côté, A. et al. Managing chronic cough due to  
+asthma and NAEB in adults and adolescents: CHEST 
+guideline and expert panel report. Chest 158, 68–96 
+(2020).  
+Guidelines for managing cough in patients with 
+asthma and non-​asmatic eosinophilic bronchitis.
+45.	 Lai, K. et al. A prospective, multicenter survey on 
+causes of chronic cough in China. Chest 143,  
+613–620 (2013).
+46.	 Morice, A. H. et al. The diagnosis and management of 
+chronic cough. Eur. Respir. J. 24, 481–492 (2004).
+47.	 Rennard, S. et al. Impact of COPD in North America 
+and Europe in 2000: subjects’ perspective of 
+confronting COPD international survey. Eur. Respir. J. 
+20, 799–805 (2002).
+48.	 Kessler, R. et al. Symptom variability in patients with 
+severe COPD: a pan-​European cross-​sectional study. 
+Eur. Respir. J. 37, 264–272 (2011).
+49.	 McCallion, P. & De Soyza, A. Cough and bronchiectasis. 
+Pulm. Pharmacol. Ther. 47, 77–83 (2017).
+50.	 Harle, A. S., Blackhall, F. H., Smith, J. A. & 
+Molassiotis, A. Understanding cough and its 
+management in lung cancer. Curr. Opin. Support. 
+Palliat. Care 6, 153–162 (2012).
+51.	 Birring, S. S. et al. Treatment of interstitial lung 
+disease associated cough: CHEST guideline and expert 
+panel report. Chest 154, 904–917 (2018).
+52.	 Chan, K. K. et al. Chronic cough in patients with sleep-​
+disordered breathing. Eur. Respir. J. 35, 368–372 
+(2010).
+53.	 Dicpinigaitis, P. V. Angiotensin-​converting enzyme 
+inhibitor-​induced cough: ACCP evidence-​based clinical 
+practice guidelines. Chest 129, 169s–173s (2006).
+54.	 Lai, K. et al. The spectrum, clinical features and 
+diagnosis of chronic cough due to rare causes.  
+J. Thorac. Dis. 13, 2575–2582 (2021).
+55.	 Moscato, G. et al. EAACI position paper on assessment 
+of cough in the workplace. Allergy 69, 292–304 (2014).
+56.	 Gordon, S. B. et al. Glass bottle workers exposed  
+to low-​dose irritant fumes cough but do not wheeze. 
+Am. J. Respir. Crit. Care Med. 156, 206–210  
+(1997).
+57.	 Wiszniewska, M. et al. Characterization of occupational 
+eosinophilic bronchitis in a multicenter cohort of 
+subjects with work-​related asthma symptoms.  
+J. Allergy Clin. Immunol. Pract. 9, 937–944.e934 
+(2021).
+58.	 Fang, Z. et al. Traffic-​related air pollution induces non-​
+allergic eosinophilic airway inflammation and cough 
+hypersensitivity in guinea-​pigs. Clin. Exp. Allergy 49, 
+366–377 (2019).
+59.	 Zhang, Q., Qiu, M., Lai, K. & Zhong, N. Cough and 
+environmental air pollution in China. Pulm. Pharmacol. 
+Ther. 35, 132–136 (2015).
+60.	 Pan, G. et al. Air pollution and children’s respiratory 
+symptoms in six cities of Northern China. Respir. Med. 
+104, 1903–1911 (2010).
+61.	 Jo, E. J. & Song, W. J. Environmental triggers for 
+chronic cough. Asia Pac. Allergy 9, e16 (2019).
+62.	 Hooper, L. G. et al. Ambient air pollution and chronic 
+bronchitis in a cohort of U.S. women. Environ. Health 
+Perspect. 126, 027005 (2018).
+63.	 Schindler, C. et al. Improvements in PM10 exposure 
+and reduced rates of respiratory symptoms in a cohort 
+of Swiss adults (SAPALDIA). Am. J. Respir. Crit. Care 
+Med. 179, 579–587 (2009).
+64.	 Adner, M. et al. Back to the future: re-​establishing 
+guinea pig in vivo asthma models. Clin. Sci. 134, 
+1219–1242 (2020).
+65.	 Mazzone, S. B. & Undem, B. J. Vagal afferent 
+innervation of the airways in health and disease. 
+Physiol. Rev. 96, 975–1024 (2016).  
+A detailed review of the sensory nerve supply to 
+the airways, including all known sensory fibre types, 
+their physiological and pharmacological properties, 
+wiring and alterations caused by disease.
+66.	 Canning, B. J. et al. Identification of the tracheal  
+and laryngeal afferent neurones mediating cough in 
+anaesthetized guinea-​pigs. J. Physiol. 557, 543–558 
+(2004).
+67.	 Mazzone, S. B. et al. Selective expression of a sodium 
+pump isozyme by cough receptors and evidence for  
+its essential role in regulating cough. J. Neurosci. 29, 
+13662–13671 (2009).
+68.	 West, P. W., Canning, B. J., Merlo-​Pich, E.,  
+Woodcock, A. A. & Smith, J. A. Morphologic 
+characterization of nerves in whole-​mount airway 
+biopsies. Am. J. Respir. Crit. Care Med. 192, 30–39 
+(2015).
+69.	 Wang, J. et al. Distinct and common expression of 
+receptors for inflammatory mediators in vagal nodose 
+versus jugular capsaicin-​sensitive/TRPV1-positive 
+neurons detected by low input RNA sequencing.  
+PLoS ONE 12, e0185985 (2017).
+70.	 Mazzone, S. B. et al. Transcriptional profiling of 
+individual airway projecting vagal sensory neurons. 
+Mol. Neurobiol. 57, 949–963 (2020).
+71.	 Farrell, M. J. et al. Evidence for multiple bulbar and 
+higher brain circuits processing sensory inputs from 
+the respiratory system in humans. J. Physiol. 598, 
+5771–5787 (2020).
+72.	 Canning, B. J. & Mori, N. An essential component  
+to brainstem cough gating identified in anesthetized 
+guinea pigs. FASEB J. 24, 3916–3926 (2010).
+73.	 McGovern, A. E. et al. Distinct brainstem and 
+forebrain circuits receiving tracheal sensory neuron 
+inputs revealed using a novel conditional anterograde 
+transsynaptic viral tracing system. J. Neurosci. 35, 
+7041–7055 (2015).
+74.	 Driessen, A. K. et al. Reflex regulation of breathing by 
+the paratrigeminal nucleus via multiple bulbar circuits. 
+Brain Struct. Funct. 223, 4005–4022 (2018).
+75.	 Driessen, A. K. et al. A role for neurokinin 1 receptor 
+expressing neurons in the paratrigeminal nucleus in 
+bradykinin-​evoked cough in guinea-​pigs. J. Physiol. 
+598, 2257–2275 (2020).
+76.	 Canning, B. J. & Mori, N. Encoding of the cough reflex 
+in anesthetized guinea pigs. Am. J. Physiol. Regul. 
+Integr. Comp. Physiol. 300, R369–R377 (2011).
+77.	 Smith, J. A., Hilton, E. C. Y., Saulsberry, L.  
+& Canning, B. J. Antitussive effects of memantine  
+in guinea pigs. Chest 141, 996–1002 (2012).
+78.	 Hewitt, M. M. et al. Pharmacology of bradykinin-​
+evoked coughing in guinea pigs. J. Pharmacol.  
+Exp. Ther. 357, 620–628 (2016).
+79.	 Dicpinigaitis, P. V., Canning, B. J., Garner, R.  
+& Paterson, B. Effect of memantine on cough reflex 
+sensitivity: translational studies in guinea pigs and 
+humans. J. Pharmacol. Exp. Ther. 352, 448–454 
+(2015).
+80.	 Smith, J. A. et al. Aprepitant for cough in lung cancer. 
+a randomized placebo-​controlled trial and mechanistic 
+insights. Am. J. Respir. Crit. Care Med. 203, 737–745 
+(2021).
+81.	 Mazzone, S. B., Chung, K. F. & McGarvey, L. The 
+heterogeneity of chronic cough: a case for endotypes 
+of cough hypersensitivity. Lancet Respir. Med. 6, 
+636–646 (2018).
+82.	 Fox, A. J. et al. Bradykinin-​evoked sensitization of 
+airway sensory nerves: a mechanism for ACE-​inhibitor 
+cough. Nat. Med. 2, 814–817 (1996).
+83.	 Fischer, A., McGregor, G. P., Saria, A., Philippin, B.  
+& Kummer, W. Induction of tachykinin gene and 
+peptide expression in guinea pig nodose primary 
+afferent neurons by allergic airway inflammation.  
+J. Clin. Invest. 98, 2284–2291 (1996).
+84.	 Shapiro, C. O. et al. Airway sensory nerve density  
+is increased in chronic cough. Am. J. Respir. Crit.  
+Care Med. 203, 348–355 (2021).
+85.	 Groneberg, D. A. et al. Increased expression of 
+transient receptor potential vanilloid-1 in airway 
+nerves of chronic cough. Am. J. Respir. Crit. Care Med. 
+170, 1276–1280 (2004).
+86.	 Abubakar, A. B., Bautista, T. G., Dimmock, M. R., 
+Mazzone, S. B. & Farrell, M. J. Behavioral and regional 
+brain responses to inhalation of capsaicin modified  
+by painful conditioning in humans. Chest 159,  
+1136–1146 (2021).
+87.	 Koivisto, A. P., Belvisi, M. G., Gaudet, R. & Szallasi, A. 
+Advances in TRP channel drug discovery: from target 
+validation to clinical studies. Nat. Rev. Drug Discov. 
+21, 41–59 (2022).
+88.	 Verzele, N. A. J. et al. The impact of influenza 
+pulmonary infection and inflammation on vagal 
+bronchopulmonary sensory neurons. FASEB J. 35, 
+e21320 (2021).
+89.	 Kaelberer, M. M., Caceres, A. I. & Jordt, S. E. 
+Activation of a nerve injury transcriptional signature  
+in airway-​innervating sensory neurons after 
+lipopolysaccharide-​induced lung inflammation.  
+Am. J. Physiol. Lung Cell Mol. Physiol. 318, 
+L953–L964 (2020).
+90.	 Mazzone, S. B. et al. Modulation of vagal sensory 
+neurons via high mobility group box-1 and receptor 
+for advanced glycation end products: implications  
+for respiratory viral infections. Front. Physiol. 12, 
+744812 (2021).
+91.	 Yang, H. et al. HMGB1 released from nociceptors 
+mediates inflammation. Proc. Natl Acad. Sci. USA 
+118, e2102034118 (2021).
+92.	 Chung, K. F., McGarvey, L. & Mazzone, S. B. Chronic 
+cough as a neuropathic disorder. Lancet Respir. Med. 
+1, 414–422 (2013).  
+Establishing the clinical and mechanistic bases  
+for considering chronic cough as a cough 
+hypersensitivity syndrome with neuropathic 
+features.
+93.	 Mahadi, K. M., Lall, V. K., Deuchars, S. A. & Deuchars, J. 
+Cardiovascular autonomic effects of transcutaneous 
+auricular nerve stimulation via the tragus in the rat 
+involve spinal cervical sensory afferent pathways. 
+Brain Stim. 12, 1151–1158 (2019).
+94.	 Mazzone, S. B., Mori, N. & Canning, B. J. Synergistic 
+interactions between airway afferent nerve subtypes 
+regulating the cough reflex in guinea-​pigs. J. Physiol. 
+569, 559–573 (2005).
+95.	 Plevkova, J. et al. The role of trigeminal nasal TRPM8-
+expressing afferent neurons in the antitussive effects 
+of menthol. J. Appl. Physiol. 115, 268–274 (2013).
+96.	 Chou, Y. L., Mori, N. & Canning, B. J. Opposing effects 
+of bronchopulmonary C-​fiber subtypes on cough in 
+guinea pigs. Am. J. Physiol. Regul. Integr. Comp. 
+Physiol. 314, R489–R498 (2018).
+97.	 Spaziano, G. et al. Exposure to allergen causes 
+changes in NTS neural activities after intratracheal 
+capsaicin application, in endocannabinoid levels and 
+18 | Article citation ID:            (2022) 8:45 	
+www.nature.com/nrdp
+Primer
+0123456789();: 
+in the glia morphology of NTS. BioMed. Res. Int. 
+2015, 980983 (2015).
+98.	 Chen, C. Y. et al. Extended allergen exposure in 
+asthmatic monkeys induces neuroplasticity in nucleus 
+tractus solitarius. J. Allergy Clin. Immunol. 108,  
+557–562 (2001).
+99.	 Sekizawa, S. et al. Extended secondhand tobacco 
+smoke exposure induces plasticity in nucleus tractus 
+solitarius second-​order lung afferent neurons in young 
+guinea pigs. Eur. J. Neurosci. 28, 771–781 (2008).
+100.	Chen, Z. et al. Glial activation and inflammation in the 
+NTS in a rat model after exposure to diesel exhaust 
+particles. Env. Toxicol. Pharmacol. 83, 103584 
+(2021).
+101.	Ando, A. et al. Neural correlates of cough 
+hypersensitivity in humans: evidence for central 
+sensitisation and dysfunctional inhibitory control. 
+Thorax 71, 323–329 (2016).
+102.	Chen, Z. et al. A descending pathway emanating from 
+the periaqueductal gray mediates the development  
+of cough-​like hypersensitivity. iScience 25, 103641 
+(2022).
+103.	Zambreanu, L., Wise, R. G., Brooks, J. C. W.,  
+Iannetti, G. D. & Tracey, I. A role for the brainstem  
+in central sensitisation in humans. Evidence from 
+functional magnetic resonance imaging. Pain 114, 
+397–407 (2005).
+104.	Leech, J., Mazzone, S. B. & Farrell, M. J. The effect  
+of placebo conditioning on capsaicin-​evoked urge to 
+cough. Chest 142, 951–957 (2012).
+105.	Leech, J., Mazzone, S. B. & Farrell, M. J. Brain activity 
+associated with placebo suppression of the urge-​
+to-cough in humans. Am. J. Respir. Crit. Care Med. 
+188, 1069–1075 (2013).
+106.	McGovern, A. E., Ajayi, I. E., Farrell, M. J.  
+& Mazzone, S. B. A neuroanatomical framework  
+for the central modulation of respiratory sensory 
+processing and cough by the periaqueductal grey.  
+J. Thorac. Dis. 9, 4098–4107 (2017).
+107.	Mazzone, S. B., Cole, L. J., Ando, A., Egan, G. F.  
+& Farrell, M. J. Investigation of the neural control  
+of cough and cough suppression in humans using 
+functional brain imaging. J. Neurosci. 31, 2948–2958 
+(2011).
+108.	Simonyan, K., Saad, Z. S., Loucks, T. M., Poletto, C. J. 
+& Ludlow, C. L. Functional neuroanatomy of human 
+voluntary cough and sniff production. NeuroImage 37, 
+401–409 (2007).
+109.	Vertigan, A. E. et al. Somatic cough syndrome 
+(previously referred to as psychogenic cough) and tic 
+cough (previously referred to as habit cough) in adults 
+and children: CHEST Guideline and Expert Panel 
+Report. Chest 148, 24–31 (2015).
+110.	 Mazzone, S. B. Chronic cough: a disorder of response 
+inhibition? Eur. Respir. J. 53, 1900254 (2019).
+111.	 Farrell, M. J. et al. Functionally connected brain 
+regions in the network activated during capsaicin 
+inhalation. Hum. Brain Mapp. 35, 5341–5355 
+(2014).
+112.	Cho, P. S. P. et al. Cough hypersensitivity and 
+suppression in COPD. Eur. Respir. J. 57, 2003569 
+(2021).  
+Evidence that voluntary cough suppression defines 
+distinct cough endotypes: patients with refractory 
+chronic cough fail volitional cough suppression 
+tests while patients with chronic cough 
+accompanying COPD do not.
+113.	Cho, P. S. P., Fletcher, H. V., Turner, R. D., Jolley, C. J. 
+& Birring, S. S. Impaired cough suppression in chronic 
+refractory cough. Eur. Respir. J. 53, 2003569 (2019).
+114.	Hilton, E. et al. The effect of pain conditioning on 
+experimentally evoked cough: evidence of impaired 
+endogenous inhibitory control mechanisms in refractory 
+chronic cough. Eur. Respir. J. https://doi.org/10.1183/ 
+13993003.01387-2020 (2020).
+115.	Badri, H. et al. A double-​blind randomised placebo-​
+controlled trial investigating the effects of lesogaberan 
+on the objective cough frequency and capsaicin-​
+evoked coughs in patients with refractory chronic 
+cough. ERJ Open Res. 8, 00546-2021 (2022).
+116.	Dicpinigaitis, P. V. & Rauf, K. Treatment of chronic, 
+refractory cough with baclofen. Respiration 65, 
+86–88 (1998).
+117.	Xie, J. et al. Cough in hypereosinophilic syndrome: 
+case report and literature review. BMC Pulm. Med. 
+20, 90 (2020).
+118.	Chung, K. F. et al. Cough and hypereosinophilia due  
+to FIP1L1-PDGFRA fusion gene with tyrosine kinase 
+activity. Eur. Respir. J. 27, 230–232 (2006).
+119.	Belafsky, P. C., Postma, G. N. & Koufman, J. A. Validity 
+and reliability of the reflux symptom index (RSI).  
+J. Voice 16, 274–277 (2002).
+120.	Morice, A. H., Faruqi, S., Wright, C. E., Thompson, R. 
+& Bland, J. M. Cough hypersensitivity syndrome:  
+a distinct clinical entity. Lung 189, 73–79 (2011).
+121.	Trinick, R., Johnston, N., Dalzell, A. M.  
+& McNamara, P. S. Reflux aspiration in children with 
+neurodisability–a significant problem, but can we 
+measure it? J. Pediatr. Surg. 47, 291–298 (2012).
+122.	Grabowski, M. et al. Pepsin and bile acids in induced 
+sputum of chronic cough patients. Respir. Med. 105, 
+1257–1261 (2011).
+123.	Stovold, R. et al. Pepsin, a biomarker of gastric 
+aspiration in lung allografts: a putative association 
+with rejection. Am. J. Respir. Crit. Care Med. 175, 
+1298–1303 (2007).
+124.	Decalmer, S. et al. Chronic cough: relationship 
+between microaspiration, gastroesophageal reflux, 
+and cough frequency. Chest 142, 958–964 (2012).
+125.	Irwin, R. S., Corrao, W. M. & Pratter, M. R. Chronic 
+persistent cough in the adult: the spectrum and 
+frequency of causes and successful outcome of  
+specific therapy. Am. Rev. Respir. Dis. 123, 413–417 
+(1981).
+126.	Hennel, M., Brozmanova, M. & Kollarik, M. Cough 
+reflex sensitization from esophagus and nose.  
+Pulm. Pharmacol. Ther. 35, 117–121 (2015).
+127.	Houghton, L. A., Lee, A. S., Badri, H., DeVault, K. R.  
+& Smith, J. A. Respiratory disease and the oesophagus: 
+reflux, reflexes and microaspiration. Nat. Rev. 
+Gastroenterol. Hepatol. 13, 445–460 (2016).
+128.	Plevkova, J. et al. Convergence of nasal and tracheal 
+neural pathways in modulating the cough response  
+in guinea pigs. J. Physiol. Pharmacol. 60, 89–93 
+(2009).
+129.	Javorkova, N. et al. Acidification of the oesophagus 
+acutely increases the cough sensitivity in patients  
+with gastro-​oesophageal reflux and chronic cough. 
+Neurogastroenterol. Motil. 20, 119–124 (2008).
+130.	Ing, A. J., Ngu, M. C. & Breslin, A. B. Pathogenesis  
+of chronic persistent cough associated with 
+gastroesophageal reflux. Am. J. Respir. Crit.  
+Care Med. 149, 160–167 (1994).
+131.	Plevkova, J., Brozmanova, M., Pecova, R. & Tatar, M. 
+Effects of intranasal capsaicin challenge on cough 
+reflex in healthy human volunteers. J. Physiol. 
+Pharmacol. 55, 101–106 (2004).
+132.	Smith, J. A. et al. Acoustic cough–reflux associations 
+in chronic cough: potential triggers and mechanisms. 
+Gastroenterology 139, 754–762 (2010).
+133.	Sifrim, D. et al. Weakly acidic reflux in patients with 
+chronic unexplained cough during 24 hour pressure, 
+pH, and impedance monitoring. Gut 54, 449–454 
+(2005).
+134.	Blondeau, K., Dupont, L. J., Mertens, V., Tack, J.  
+& Sifrim, D. Improved diagnosis of gastro-​oesophageal 
+reflux in patients with unexplained chronic cough. 
+Aliment. Pharmacol. Ther. 25, 723–732 (2007).
+135.	Smith, J. A., Ashurst, H. L., Jack, S., Woodcock, A. A. 
+& Earis, J. E. The description of cough sounds by 
+healthcare professionals. Cough 2, 1 (2006).
+136.	Lee, K. K. et al. Sound: a non-​invasive measure of 
+cough intensity. BMJ Open. Respir. Res. 4, e000178 
+(2017).
+137.	Won, H. K. et al. Cough-​related laryngeal sensations 
+and triggers in adults with chronic cough: symptom 
+profile and impact. Allergy Asthma Immunol. Res. 11, 
+622–631 (2019).
+138.	Vertigan, A. E. & Gibson, P. G. Chronic refractory 
+cough as a sensory neuropathy: evidence from a 
+reinterpretation of cough triggers. J. Voice 25,  
+596–601 (2011).
+139.	Sundar, K. M., Stark, A. C., Hu, N. & Barkmeier-​
+Kraemer, J. Is laryngeal hypersensitivity the basis of 
+unexplained or refractory chronic cough? ERJ Open 
+Res. 7, 00793-2020 (2021).
+140.	Irwin, R. S., French, C. L., Chang, A. B. & Altman, K. W. 
+Classification of cough as a symptom in adults and 
+management algorithms: CHEST guideline and expert 
+panel report. Chest 153, 196–209 (2018).  
+Latest management guidelines on chronic cough, 
+headed by Dr Irwin, who was the first to advocate 
+an anatomico-​physiological approach to 
+understanding the causes of cough.
+141.	Kahrilas, P. J. et al. Chronic cough due to 
+gastroesophageal reflux in adults: CHEST guideline 
+and expert panel report. Chest 150, 1341–1360 
+(2016).
+142.	Chang, A. B. et al. Children with chronic cough:  
+when is watchful waiting appropriate? development  
+of likelihood ratios for assessing children with chronic 
+cough. Chest 147, 745–753 (2015).
+143.	Chang, A. B., Oppenheimer, J. J. & Irwin, R. S. 
+Managing chronic cough as a symptom in children and 
+management algorithms: CHEST guideline and expert 
+panel report. Chest 158, 303–329 (2020).  
+The most current consensus guidelines for cough 
+management in children.
+144.	O’Grady, K. F. et al. Effectiveness of a chronic cough 
+management algorithm at the transitional stage  
+from acute to chronic cough in children: a multicenter, 
+nested, single-​blind, randomised controlled trial. 
+Lancet Child. Adolesc. Health 3, 889–898 (2019).
+145.	Chang, A. B. et al. Use of management pathways or 
+algorithms in children with chronic cough: systematic 
+reviews. Chest 149, 106–119 (2016).
+146.	Birring, S. S. et al. Cough frequency, cough sensitivity 
+and health status in patients with chronic cough. 
+Respir. Med. 100, 1105–1109 (2006).
+147.	Lee, K. K. et al. A longitudinal assessment of acute 
+cough. Am. J. Respir. Crit. Care Med. 187, 991–997 
+(2013).
+148.	Morice, A. H. et al. The effect of gefapixant, a P2X3 
+antagonist, on cough reflex sensitivity: a randomised 
+placebo-​controlled study. Eur. Respir. J. 54, 1900439 
+(2019).
+149.	Belvisi, M. G. et al. XEN-​D0501, a novel transient 
+receptor potential vanilloid 1 antagonist, does not 
+reduce cough in patients with refractory cough. Am. J. 
+Respir. Crit. Care Med. 196, 1255–1263 (2017).
+150.	Prudon, B. et al. Cough and glottic-​stop reflex 
+sensitivity in health and disease. Chest 127, 550–557 
+(2005).
+151.	Koskela, H. O., Nurmi, H. M. & Birring, S. S. Utility  
+of cough provocation tests in chronic cough and 
+respiratory diseases: a comprehensive review and 
+introduction of new reference ranges for the capsaicin 
+test. Allergy Asthma Immunol. Res. 13, 833–849 
+(2021).
+152.	Chang, A. B. et al. Etiologies of chronic cough in 
+pediatric cohorts: CHEST guideline and expert panel 
+report. Chest 152, 607–617 (2017).
+153.	Kahrilas, P. J., Howden, C. W., Hughes, N.  
+& Molloy-​Bland, M. Response of chronic cough  
+to acid-​suppressive therapy in patients with 
+gastroesophageal reflux disease. Chest 143,  
+605–612 (2013).
+154.	Badri, H. et al. Heartburn as a marker of the success 
+of acid suppression therapy in chronic cough. Lung 
+199, 597–602 (2021).
+155.	Yousaf, N. et al. Long-​term low-​dose erythromycin in 
+patients with unexplained chronic cough: a double-​
+blind placebo controlled trial. Thorax 65, 1107–1110 
+(2010).
+156.	Hodgson, D. et al. The effects of azithromycin in 
+treatment-​resistant cough: a randomized, double-​blind, 
+placebo-​controlled trial. Chest 149, 1052–1060 
+(2016).
+157.	Chang, A. B. et al. Chronic cough and gastroesophageal 
+reflux in children: CHEST guideline and expert panel 
+report. Chest 156, 131–140 (2019).  
+Although GERD is considered a major cause of 
+chronic cough in adults, the role of GERD in chronic 
+cough in children is controversial, as detailed in this 
+state-​of-the-​art consensus paper.
+158.	Vandenplas, Y. et al. Pediatric gastroesophageal reflux 
+clinical practice guidelines: joint recommendations  
+of the North American Society for Pediatric 
+Gastroenterology, Hepatology, and Nutrition 
+(NASPGHAN) and the European Society for Pediatric 
+Gastroenterology, Hepatology, and Nutrition 
+(ESPGHAN). J. Pediatr. Gastroenterol. Nutr. 49,  
+498–547 (2009).
+159.	Prasad, S., Fong, E. & Ooi, E. H. Systematic review of 
+patient-​reported outcomes after revision endoscopic 
+sinus surgery. Am. J. Rhinol. Allergy 31, 248–255 
+(2017).
+160.	Chester, A. C. & Sindwani, R. Symptom outcomes  
+in endoscopic sinus surgery: a systematic review  
+of measurement methods. Laryngoscope 117,  
+2239–2243 (2007).
+161.	Lee, J. H. et al. Efficacy of non-​sedating H1-receptor 
+antihistamines in adults and adolescents with chronic 
+cough: a systematic review. World Allergy Organ. J. 
+14, 100568 (2021).
+162.	Zhang, J. et al. Risk factors for chronic cough in adults: 
+a systematic review and meta-​analysis. Respirol 27, 
+36–47 (2022).
+163.	[No authors listed] Definition and classification of 
+chronic bronchitis for clinical and epidemiological 
+purposes. A report to the Medical Research Council by 
+their committee on the aetiology of chronic bronchitis. 
+Lancet 1, 775–779 (1965).
+164.	Vestbo, J., Prescott, E. & Lange, P. Association of 
+chronic mucus hypersecretion with FEV1 decline and 
+chronic obstructive pulmonary disease morbidity. 
+	
+ 19
+NATURE REVIEWS | DiSEASE PRimERS | Article citation ID:            (2022) 8:45 
+Primer
+0123456789();: 
+Copenhagen City Heart Study Group. Am. J. Respir. 
+Crit. Care Med. 153, 1530–1535 (1996).
+165.	Burgel, P. R. et al. Cough and sputum production  
+are associated with frequent exacerbations and 
+hospitalizations in COPD subjects. Chest 135,  
+975–982 (2009).
+166.	Singh, D. et al. Global strategy for the diagnosis, 
+management, and prevention of chronic obstructive 
+lung disease: the GOLD science committee report 
+2019. Eur. Respir. J. 53, 1900164 (2019).
+167.	Polley, L. et al. Impact of cough across different 
+chronic respiratory diseases: comparison of two 
+cough-​specific health-​related quality of life 
+questionnaires. Chest 134, 295–302 (2008).
+168.	Torrego, A. et al. Capsaicin cough sensitivity in 
+bronchiectasis. Thorax 61, 706–709 (2006).
+169.	Bolser, D. C. Mechanisms of action of central and 
+peripheral antitussive drugs. Pulm. Pharm. 9,  
+357–364 (1996).
+170.	Takahama, K. & Shirasaki, T. Central and peripheral 
+mechanisms of narcotic antitussives: codeine-​sensitive 
+and -resistant coughs. Cough 3, 8 (2007).
+171.	Fuller, R. W., Karlsson, J.-A., Choudry, N. B.  
+& Pride, N. B. Effect of inhaled and systemic opiates 
+on responses to inhaled capsaicin in humans. J. Appl. 
+Physiol. 65, 1125–1130 (1988).
+172.	Sevelius, H., McCoy, J. F. & Colmore, J. P. Dose 
+response to codeine in patients with chronic cough. 
+Clin. Pharmacol. Ther. 12, 449–455 (1971).
+173.	Aylward, M., Maddock, J., Davies, D. E., Protheroe, D. A. 
+& Leideman, T. Dextromethorphan and codeine: 
+comparison of plasma kinetics and antitussive effects. 
+Eur. J. Respir. Dis. 65, 283–291 (1984).
+174.	Freestone, C. & Eccles, R. Assessment of the antitussive 
+efficacy of codeine in cough associated with common 
+cold. J. Pharm. Pharmacol. 49, 1045–1049 (1997).
+175.	Smith, J., Owen, E., Earis, J. & Woodcock, A. Effect of 
+codeine on objective measurement of cough in chronic 
+obstructive pulmonary disease. J. Allergy Clin. 
+Immunol. 117, 831–835 (2006).
+176.	Foley, M., Deluca, P. & Kimergård, A. Time to review 
+the provision of addiction treatment for codeine 
+dependence. BMJ 359, j5311 (2017).
+177.	Sproule, B. A., Busto, U. E., Somer, G., Romach, M. K. 
+& Sellers, E. M. Characteristics of dependent and 
+nondependent regular users of codeine. J. Clin. 
+Psychopharmacol. 19, 367–372 (1999).
+178.	Ćelić, I. et al. Resolving issues about efficacy and 
+safety of low-​dose codeine in combination analgesic 
+drugs: a systematic review. Pain. Ther. 9, 171–194 
+(2020).
+179.	Morice, A. H. et al. Opiate therapy in chronic cough. 
+Am. J. Respir. Crit. Care Med. 175, 312–315 (2007).
+180.	Walsh, T. D. Prevention of opioid side effects. J. Pain. 
+Symptom Manag. 5, 362–367 (1990).
+181.	Kimos, P. et al. Analgesic action of gabapentin on 
+chronic pain in the masticatory muscles: a randomized 
+controlled trial. Pain 127, 151–160 (2007).
+182.	Hendrich, J. et al. Pharmacological disruption  
+of calcium channel trafficking by the alpha2delta 
+ligand gabapentin. Proc. Natl Acad. Sci. USA 105, 
+3628–3633 (2008).
+183.	Ryan, N. M., Birring, S. S. & Gibson, P. G. Gabapentin 
+for refractory chronic cough: a randomised, double-​
+blind, placebo-​controlled trial. Lancet 380,  
+1583–1589 (2012).  
+One of the first randomized, double-​blind and 
+placebo-​controlled trials using cough counts, QOL 
+scores and cough symptom scores that established 
+the benefit of gabapentin as a potential anti-​tussive.
+184.	Vertigan, A. E. et al. Pregabalin and speech pathology 
+combination therapy for refractory chronic cough:  
+a randomized controlled trial. Chest 149, 639–648 
+(2016).
+185.	Hamon, M. & Blier, P. Monoamine neurocircuitry in 
+depression and strategies for new treatments. Prog. 
+Neuropsychopharmacol. Biol. Psychiatry 45, 54–63 
+(2013).
+186.	Jeyakumar, A., Brickman, T. M. & Haben, M. 
+Effectiveness of amitriptyline versus cough 
+suppressants in the treatment of chronic cough 
+resulting from postviral vagal neuropathy. 
+Laryngoscope 116, 2108–2112 (2006).
+187.	Ryan, M. A. & Cohen, S. M. Long-​term follow-​up  
+of amitriptyline treatment for idiopathic cough. 
+Laryngoscope 126, 2758–2763 (2016).
+188.	Olsen, W. L. et al. Intra-​arterial, but not intrathecal, 
+baclofen and codeine attenuates cough in the cat. 
+Front. Physiol. 12, 640682 (2021).
+189.	Simera, M., Poliacek, I. & Jakus, J. Central antitussive 
+effect of codeine in the anesthetized rabbit. Eur. J. 
+Med. Res. 15, 184–188 (2010).
+190.	Fuller, R. W., Karlsson, J. A., Choudry, N. B.  
+& Pride, N. B. Effect of inhaled and systemic opiates 
+on responses to inhaled capsaicin in humans. J. Appl. 
+Physiol. 65, 1125–1130 (1988).
+191.	Badri, H. et al. Effect of centrally and peripherally 
+acting GABA(B) agonism on the healthy human cough 
+reflex. Pulm. Pharmacol. Ther. 71, 102079 (2021).
+192.	Poliacek, I., Wang, C., Corrie, L. W., Rose, M. J.  
+& Bolser, D. C. Microinjection of codeine into the 
+region of the caudal ventral respiratory column 
+suppresses cough in anesthetized cats. J. Appl. 
+Physiol. 108, 858–865 (2010).
+193.	Bolser, D. C., Hey, J. A. & Chapman, R. W. Influence  
+of central antitussive drugs on the cough motor 
+pattern. J. Appl. Physiol. 86, 1017–1024 (1999).
+194.	Dickinson, R. S., Morjaria, J. B., Wright, C. E.  
+& Morice, A. H. Is opiate action in cough due to 
+sedation? Ther. Adv. Chronic Dis. 5, 200–205 (2014).
+195.	Nicolakis, J., Gmeiner, G., Reiter, C.  
+& Seltenhammer, M. H. Aspiration in lethal  
+drug abuse-​a consequence of opioid intoxication.  
+Int. J. Leg. Med. 134,  
+2121–2132 (2020).
+196.	Hårdemark Cedborg, A. I. et al. Effects of morphine 
+and midazolam on pharyngeal function, airway 
+protection, and coordination of breathing and 
+swallowing in healthy adults. Anesthesiology 122, 
+1253–1267 (2015).
+197.	Ebihara, S., Sekiya, H., Miyagi, M., Ebihara, T.  
+& Okazaki, T. Dysphagia, dystussia, and aspiration 
+pneumonia in elderly people. J. Thorac. Dis. 8,  
+632–639 (2016).
+198.	Ebihara, S. & Ebihara, T. Cough in the elderly:  
+a novel strategy for preventing aspiration pneumonia. 
+Pulm. Pharmacol. Ther. 24, 318–323 (2011).
+199.	Vertigan, A. E., Haines, J. & Slovarp, L. An update on 
+speech pathology management of chronic refractory 
+cough. J. Allergy Clin. Immunol. Pract. 7, 1756–1761 
+(2019).
+200.	Vertigan, A. E., Theodoros, D. G., Gibson, P. G.  
+& Winkworth, A. L. Efficacy of speech pathology 
+management for chronic cough: a randomised placebo 
+controlled trial of treatment efficacy. Thorax 61, 
+1065–1069 (2006).
+201.	Chamberlain Mitchell, S. A. et al. Physiotherapy,  
+and speech and language therapy intervention for 
+patients with refractory chronic cough: a multicentre 
+randomised control trial. Thorax 72, 129–136 
+(2017).
+202.	Ryan, N. M., Vertigan, A. E. & Gibson, P. G. Chronic 
+cough and laryngeal dysfunction improve with specific 
+treatment of cough and paradoxical vocal fold 
+movement. Cough 5, 4 (2009).
+203.	Brignall, K., Jayaraman, B. & Birring, S. S. Quality  
+of life and psychosocial aspects of cough. Lung 186, 
+S55–S58 (2008).
+204.	Dicpinigaitis, P. V. Prevalence of stress urinary 
+incontinence in women presenting for evaluation  
+of chronic cough. ERJ Open. Res. 7, 00012-2021 
+(2021).
+205.	Newcombe, P. A. et al. A child chronic cough-​specific 
+quality of life measure: development and validation. 
+Thorax 71, 695–700 (2016).
+206.	Newcombe, P. A., Sheffield, J. K. & Chang, A. B.  
+Parent cough-​specific quality of life: development and 
+validation of a short form. J. Allergy Clin. Immunol. 
+131, 1069–1074 (2013).
+207.	Vernon, M., Kline Leidy, N., Nacson, A. & Nelsen, L. 
+Measuring cough severity: development and pilot 
+testing of a new seven-​item cough severity patient-​
+reported outcome measure. Ther. Adv. Respir. Dis. 4, 
+199–208 (2010).
+208.	Irwin, R. S., Dudiki, N. & French, C. L. Life-​threatening 
+and non-​life-threatening complications associated with 
+coughing: a scoping review. Chest 158, 2058–2073 
+(2020).
+209.	French, C. L., Irwin, R. S., Curley, F. J. &  
+Krikorian, C. J. Impact of chronic cough on quality  
+of life. Arch. Intern. Med. 158, 1657–1661 (1998).
+210.	French, C. T., Irwin, R. S., Fletcher, K. E. & Adams, T. M. 
+Evaluation of a cough-​specific quality-​of-life 
+questionnaire. Chest 121, 1123–1131 (2002).
+211.	 Birring, S. S. et al. Development of a symptom specific 
+health status measure for patients with chronic cough: 
+leicester cough questionnaire (LCQ). Thorax 58,  
+339–343 (2003).  
+Development of a validated cough QOL 
+questionnaire that is now routinely used for  
+chronic cough investigations.
+212.	Raj, A. A., Pavord, D. I. & Birring, S. S. in Pharmacology 
+and Therapeutics of Cough (eds Kian, F. C. & John, W.) 
+311–320 (Springer, 2009).
+213.	McGarvey, L. P. et al. Efficacy and safety of gefapixant, 
+a P2X 3 receptor antagonist, in refractory chronic 
+cough and unexplained chronic cough (COUGH-1  
+and COUGH-2): results from two double-​blind, 
+randomised, parallel-​group, placebo-​controlled,  
+phase 3 trials. Lancet 399, 909–923 (2022).  
+Reported outcomes of two phase III trials of  
+a P2X3 receptor antagonist, gefapixant, 
+demonstrating its efficacy in refractory chronic 
+cough and paving the way for the further 
+development of P2X3 receptor antagonists  
+for the treatment of chronic cough.
+214.	Fletcher, K. E., French, C. T., Irwin, R. S., Corapi, K. M. 
+& Norman, G. R. A prospective global measure, the 
+Punum Ladder, provides more valid assessments of 
+quality of life than a retrospective transition measure. 
+J. Clin. Epidemiol. 63, 1123–1131 (2010).
+215.	Anderson-​James, S., Newcombe, P. A., Marchant, J. M., 
+Turner, C. T. & Chang, A. B. Children’s acute cough-​
+specific quality of life: revalidation and development  
+of a short form. Lung 199, 527–534 (2021).
+216.	Marchant, J. M. et al. What is the burden of chronic 
+cough for families? Chest 134, 303–309 (2008).
+217.	McGarvey, L. & Gibson, P. G. What is chronic cough? 
+Terminology. J. Allergy Clin. Immunol. Pract. 7,  
+1711–1714 (2019).
+218.	Hall, J. I., Lozano, M., Estrada-​Petrocelli, L., Birring, S. 
+& Turner, R. The present and future of cough counting 
+tools. J. Thorac. Dis. 12, 5207–5223 (2020).
+219.	Tochitsky, I. et al. Inhibition of inflammatory pain and 
+cough by a novel charged sodium channel blocker.  
+Br. J. Pharmacol. 178, 3905–3923 (2021).
+220.	Carter, E. R., Debley, J. S. & Redding, G. R. Chronic 
+productive cough in school children: prevalence and 
+associations with asthma and environmental tobacco 
+smoke exposure. Cough 2, 11 (2006).
+221.	Faniran, A. O., Peat, J. K. & Woolcock, A. J. Measuring 
+persistent cough in children in epidemiological studies: 
+development of a questionnaire and assessment of 
+prevalence in two countries. Chest 115, 434–439 
+(1999).
+222.	Migliore, E. et al. Respiratory symptoms in children 
+living near busy roads and their relationship to 
+vehicular traffic: results of an Italian multicenter  
+study (SIDRIA 2). Env. Health 8, 27 (2009).
+223.	Laird, P., Totterdell, J., Walker, R., Chang, A. B.  
+& Schultz, A. Prevalence of chronic wet cough and 
+protracted bacterial bronchitis in Aboriginal children. 
+ERJ Open Res. 5, 00248-2019 (2019).
+224.	Rylance, S. et al. Lung health and exposure to air 
+pollution in Malawian children (CAPS): a cross-​
+sectional study. Thorax 74, 1070–1077 (2019).
+225.	Stein, R. T. et al. Influence of parental smoking on 
+respiratory symptoms during the first decade of life: 
+the Tucson children’s respiratory study. Am. J. Epidemiol. 
+149, 1030–1037 (1999).
+226.	Ryan, N. M., Gibson, P. G. & Birring, S. S. Arnold’s 
+nerve cough reflex: evidence for chronic cough as a 
+sensory vagal neuropathy. J. Thorac. Dis. 6, 
+S748–S752 (2014).
+227.	Stec, S. M. et al. Diagnosis and management of 
+premature ventricular complexes-​associated chronic 
+cough. Chest 135, 1535–1541 (2009).
+228.	Kok, C. et al. A locus for hereditary sensory 
+neuropathy with cough and gastroesophageal reflux 
+on chromosome 3p22-p24. Am. J. Hum. Genet. 73, 
+632–637 (2003).
+229.	Molassiotis, A., Smith, J. A., Mazzone, P., Blackhall, F. 
+& Irwin, R. S. Symptomatic treatment of cough among 
+adult patients with lung cancer: CHEST guideline and 
+expert panel report. Chest 151, 861–874 (2017).
+230.	Jeon, K. et al. Clinical features of recently diagnosed 
+pulmonary paragonimiasis in Korea. Chest 128, 
+1423–1430 (2005).
+231.	Agossou, M. et al. Mammomonogamus laryngeus:  
+an unusual cause of acute and chronic cough in the 
+Caribbean area. ERJ Open Res. 7, 00814-2020 
+(2021).
+232.	McGarvey, L. The difficult-​to-treat, therapy-​resistant 
+cough: why are current cough treatments not working 
+and what can we do? Pulm. Pharmacol. Ther. 26, 
+528–531 (2013).
+233.	Lee, K. K. et al. Global physiology and pathophysiology 
+of cough: part 1: cough phenomenology–CHEST 
+guideline and expert panel report. Chest 159,  
+282–293 (2021).
+234.	Shannon, R. et al. Production of reflex cough by 
+brainstem respiratory networks. Pulm. Pharmacol. 
+Ther. 17, 369–376 (2004).
+235.	Hegland, K. W., Bolser, D. C. & Davenport, P. W. 
+Volitional control of reflex cough. J. Appl. Physiol. 
+113, 39–46 (2012).
+20 | Article citation ID:            (2022) 8:45 	
+www.nature.com/nrdp
+Primer
+0123456789();: 
+236.	Hutchings, H. A., Morris, S., Eccles, R. & Jawad, M. S. 
+Voluntary suppression of cough induced by inhalation 
+of capsaicin in healthy volunteers. Respir. Med. 87, 
+379–382 (1993).
+237.	Davenport, P. W. Urge-​to-cough: what can it teach us 
+about cough? Lung 186, S107–S111 (2008).
+238.	Marsden, P. A. et al. Objective cough frequency, 
+airway inflammation, and disease control in asthma. 
+Chest 149, 1460–1466 (2016).
+239.	Satia, I. et al. The interaction between 
+bronchoconstriction and cough in asthma.  
+Thorax 72, 1144–1146 (2017).
+240.	Satia, I. et al. Capsaicin-​evoked cough responses  
+in asthmatic patients: evidence for airway  
+neuronal dysfunction. J. Allergy Clin. Immunol.  
+139, 771–779.e710 (2017).
+241.	Choudry, N. B., Fuller, R. W., Anderson, N.  
+& Karlsson, J. A. Separation of cough and reflex 
+bronchoconstriction by inhaled local anaesthetics.  
+Eur. Respir. J. 3, 579–583 (1990).
+242.	Fujimura, M., Sakamoto, S., Kamio, Y. & Matsuda, T. 
+Effects of methacholine induced bronchoconstriction 
+and procaterol induced bronchodilation on cough 
+receptor sensitivity to inhaled capsaicin and tartaric 
+acid. Thorax 47, 441–445 (1992).
+243.	Hilton, E. C., Baverel, P. G., Woodcock, A.,  
+Van Der Graaf, P. H. & Smith, J. A. Pharmacodynamic 
+modeling of cough responses to capsaicin inhalation 
+calls into question the utility of the C5 end point.  
+J. Allergy Clin. Immunol. 132, 847–855.e1–5 (2013).
+244.	Drake, M. G. et al. Eosinophils increase airway  
+sensory nerve density in mice and in human asthma. 
+Sci. Transl. Med. 10, eaar8477 (2018).
+245.	Gao, J., Wu, F., Wu, S. & Yang, X. Inflammatory 
+subtypes in classic asthma and cough variant asthma. 
+J. Inflamm. Res. 13, 1167–1173 (2020).
+246.	Gao, J., Wu, H. G. & Wu, F. Small airways dysfunction 
+and bronchial hyper-​responsiveness in cough variant 
+asthma. Int. J. Gen. Med. 13, 1427–1434 (2020).
+247.	Gibson, P. G., Dolovich, J., Denburg, J., Ramsdale, E. H. 
+& Hargreave, F. E. Chronic cough: eosinophilic 
+bronchitis without asthma. Lancet 1, 1346–1348 
+(1989).
+248.	Brightling, C. E. et al. Mast-​cell infiltration of airway 
+smooth muscle in asthma. N. Engl. J. Med. 346, 
+1699–1705 (2002).
+249.	Brightling, C. E. et al. Induced sputum inflammatory 
+mediator concentrations in eosinophilic bronchitis and 
+asthma. Am. J. Respir. Crit. Care Med. 162, 878–882 
+(2000).
+250.	Vertigan, A. E., Bone, S. L. & Gibson, P. G. Laryngeal 
+sensory dysfunction in laryngeal hypersensitivity 
+syndrome. Respirology 18, 948–956 (2013). 
+Establishing laryngeal dysfunction or hypersensitivity 
+as part of chronic cough and cough hypersensitivity 
+syndrome.
+251.	Vertigan, A. E., Kapela, S. M., Kearney, E. K.  
+& Gibson, P. G. Laryngeal dysfunction in cough 
+hypersensitivity syndrome: a cross-​sectional 
+observational study. J. Allergy Clin. Immunol. Pract.  
+6, 2087–2095 (2018).
+252.	Bucca, C. B. et al. Chronic cough and irritable larynx. 
+J. Allergy Clin. Immunol. 127, 412–419 (2011).
+253.	Ryan, N. M. & Gibson, P. G. Characterization of 
+laryngeal dysfunction in chronic persistent cough. 
+Laryngoscope 119, 640–645 (2009).
+254.	Hull, J. H., Backer, V., Gibson, P. G. & Fowler, S. J. 
+Laryngeal dysfunction: assessment and management 
+for the clinician. Am. J. Respir. Crit. Care Med. 194, 
+1062–1072 (2016).
+255.	Chamberlain, S., Birring, S. S. & Garrod, R. 
+Nonpharmacological interventions for refractory 
+chronic cough patients: systematic review. Lung 192, 
+75–85 (2014).
+Author contributions
+Introduction (S.B.M. and K.F.C.), Epidemiology (W.J.-​S., 
+A.B.C. and K.L.), Mechanisms/pathophysiology (S.B.M., B.J.C. 
+and J.A.S.), Diagnosis, screening and prevention (K.F.C., L.M., 
+A.B.C. and S.S.B.), Management (K.F.C. and J.A.S.), Quality 
+of life (S.S.B. and A.B.C.), Outlook (S.B.M.).
+Competing interests
+K.F.C. has received honoraria for participating on Advisory 
+Board meetings of GSK, AstraZeneca, Novartis, Merck, 
+Nocion, Shionogi and Reckitt Benckiser and on the Scientific 
+Advisory Board of the Clean Breathing Institute supported by 
+GSK Health Care Consumer Products. He has also been remu-
+nerated for speaking engagements by AstraZeneca, Novartis 
+and Merck. L.M. reports honoraria from Chiesi, GSK, Merck, 
+NeRRe Therapeutics, and Shionogi Inc.; grant support from 
+Merck; and other support from AstraZeneca, Boehringer 
+Ingelheim, Chiesi and Reckitt Benckiser. W.-​J.S. declares 
+grants from Merck and AstraZeneca, consulting fees from 
+Merck, AstraZeneca, Shionogi and GSK, and lecture fees 
+from Merck, AstraZeneca, GSK and Novartis. A.B.C. reports 
+fees to her institution as IDMC Member of an unlicensed vac-
+cine (GSK), an unlicensed molecule for chronic cough (Merck), 
+IDMC Member of an unlicensed monoclonal antibody 
+(AstraZeneca) and personal fees from being an author of two 
+Up-​to-​date chapters. K.L. has received honoraria from 
+AstraZeneca, Chiesi, Circassia, Daiichi Sankyo (China), GSK, 
+Merck, Shionogi Inc. and Novartis; grant and other support from 
+AstraZeneca, Chiesi, Circassia, Daiichi Sankyo (China), GSK 
+and Merck. B.J.C. has received honoraria from Merck, 
+GSK, Nocion, Axalbion, Menlo and Attenua, and grant sup-
+port from Site One and Merck. S.S.B. reports honoraria from 
+Merck, Bellus Health, Bayer, Shionogi, NeRRe, Menlo, 
+Boehringer Ingelheim and Reckitt Benckiser. J.A.S. is an 
+inventor on a patent describing methods for detecting cough 
+from sound recordings, licensed to Vitalograph Ltd. J.A.S. has 
+received funding for consultancy and research funds from 
+Afferent Pharmaceuticals, Merck Inc., Bayer, Bellus, GSK, 
+Xention Ltd, Ario Pharma Ltd, Glenmark, Almirall, 
+AstraZeneca, Axalbion, Patara, Verona Pharma, NeRRe 
+Pharmaceuticals, Menlo Pharmaceuticals and Attenua Inc. 
+S.B.M. declares honoraria from Merck, NeRRe Therapeutics, 
+Reckitt Benckiser and Bellus Health and grant support from 
+Merck and Bellus Health. None of the disclosed entities 
+above had any involvement in the conceptualization, design, 
+data collection, analysis, decision to publish or preparation of 
+the manuscript.
+Peer review information
+Nature Reviews Disease Primers thanks Jonathan Abram 
+Bernstein, Lu-​Yuan Lee, Anne Vertigan and the other, anony-
+mous, reviewer(s) for their contribution to the peer review of 
+this work.
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional 
+claims in published maps and institutional affiliations.
+Supplementary information
+The online version contains supplementary material available 
+at https://doi.org/10.1038/s41572-022-00370-​w.
+ 
+© Springer Nature Limited 2022
+	
+ 21
+NATURE REVIEWS | DiSEASE PRimERS | Article citation ID:            (2022) 8:45 
+Primer
+0123456789();: 

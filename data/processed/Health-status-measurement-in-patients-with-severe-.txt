@@ -1,0 +1,1078 @@
+Health status measurement in patients with
+severe asthma
+Jeannette B. Peters a,b,*,1, Lucia H. Rijssenbeek-Nouwens c,1,
+Aad O. Bron c, Karin B. Fieten c, Els J.M. Weersink d,
+Elisabeth H. Bel d, Jan H. Vercoulen a,b
+a Department of Medical Psychology, Radboud University Nijmegen Medical Centre, Nijmegen, Postbus
+66, 6560 AB Groesbeek, The Netherlands
+b Department of Pulmonary Diseases, Radboud University Nijmegen Medical Centre, Nijmegen, Postbus
+66, 6560 AB Groesbeek, The Netherlands
+c Dutch Asthma Centre Davos, Herman Burchartstrasse 1, 7260 Davos, Switzerland
+d Department of Respiratory Medicine, Academic Medical Centre, University of Amsterdam,
+Amsterdam, Meibergdreef 9, 1105 AZ Amsterdam, The Netherlands
+Received 4 July 2013; accepted 23 November 2013
+Available online 3 December 2013
+KEYWORDS
+Uncontrolled asthma;
+Health status;
+ACQ;
+AQLQ;
+Quality of Life;
+Assessment
+Summary
+Background: Patients with severe asthma experience problems in different areas of their
+health status. Identiﬁcation of these areas will provide insight in the patients needs and
+perhaps what determines the burden of disease. The Nijmegen Clinical Screening Instrument
+(NCSI) was recently developed for use in clinical practice in patients with COPD and provides
+a detailed picture of the patients’ physiological functioning, symptoms, functional impair-
+ment, and Quality of Life. Main purpose of this study is to evaluate the use of the NCSI as
+compared to the Asthma Control Questionnaire (ACQ) and Asthma Quality of Life Questionnaire
+(AQLQ) in patients with severe asthma.
+Methods: The NCSI, AQLQ, and ACQ were measured in 167 patients with severe asthma. Pear-
+son correlations were calculated between NCSI sub-domains and the AQLQ domains and the
+ACQ.
+Results: The NCSI measures more aspects of health status as compared to the ACQ and AQLQ in
+patients with severe asthma. Beside symptoms, subjective impairment, and emotions the NCSI
+also measures general Quality of Life, health related Quality of Life, satisfaction with rela-
+tions, fatigue, and behavioural impairment. On all NCSI sub-domains proportions of patients
+with normal, mild, and severe problems were found. Heterogeneity was found on the number
+* Corresponding author. Department of Medical Psychology and Department of Pulmonary Diseases, Radboud University Nijmegen Medical
+Centre, Postbus 66, 6560 AB Groesbeek, The Netherlands. Tel.: þ31 24 6859557; fax: þ31 24 6859531.
+E-mail address: Jeannette.Jacobs-Peters@radboudumc.nl (J.B. Peters).
+1 These authors contributed equally to this work.
+0954-6111/$ - see front matter ª 2013 Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.rmed.2013.11.012
+Available online at www.sciencedirect.com
+ScienceDirect
+journal homepage: www.elsevier.com/locate/rmed
+Respiratory Medicine (2014) 108, 278e286
+and on the combination of sub-domains on which patients reported severe problems.
+Conclusions: The NCSI provides a more detailed picture of the individual patient with severe
+asthma than the ACQ and AQLQ. The use of the NCSI might allow quick identiﬁcation of the
+problem areas and possible factors that impair health status.
+ª 2013 Elsevier Ltd. All rights reserved.
+Introduction
+Patients with severe asthma suffer from serious problems in
+health status, such as symptoms during day- and nighttime
+[1], impairments in daily life activities [2], and lower
+Quality of Life (QoL) [3e6]. For adequate assessment and
+management of patients with severe asthma a detailed
+evaluation of patients’ needs would be helpful to identify
+the factors that inﬂuence their health status. An instrument
+that provides a detailed picture of the different aspects of
+the patient’s health status would be very useful. This in-
+formation would guide treatment, help to open up the
+communication with the patient, and to improve the pa-
+tient’s self-management.
+Many disease speciﬁc and generic questionnaires exist
+that measure aspects of health status. In asthma the
+Asthma control Questionnaire (ACQ) and Asthma Quality of
+Life Questionnaire (AQLQ) and to a lesser extend the, St
+George Respiratory Questionnaire (SGRQ) and Quality of
+Life for Respiratory Illness Questionnaire (QoL-RiQ) are
+used for this purpose [7e10]. These instruments, especially
+the AQLQ and ACQ, are widely used in research, have
+proven to be valid, reliable, and are able to measure
+change, to describe groups and effects of interventions.
+However, on the level of the individual patient and in
+clinical care these instruments seem less appropriate. The
+ACQ only indicates whether the asthma is controlled or
+uncontrolled in a patient and provides no information on
+health status. The AQLQ measures only four domains, and
+lacks normative data, which means that the clinical rele-
+vance of particular scores on the level of the individual
+patient is unclear.
+The Nijmegen Clinical Screening Instrument (NCSI) was
+speciﬁcally developed for use in clinical care of patients
+with COPD, to detect the problems in health status on in-
+dividual patient base. [11] The NCSI measures eleven sub-
+domains of health status covering aspects of physiological
+functioning, symptoms, functional impairment and Quality
+of Life with a battery of subscales from disease speciﬁc and
+generic questionnaires, as well as the results of lung func-
+tion test. For each sub-domain of the NCSI normative data
+indicating normal functioning, mild problems and severe
+problems were collected. Immediately after the patient
+has completed the questionnaire part on the computer, are
+the results presented on the graphical PatientProﬁleChart
+(Fig. 1) [11].
+Although developed and validated in patients with COPD
+[11], have previous studies shown that all NCSI sub-domains
+are relevant in other diseases as well, including Q-fever
+[12,13], and cardiac diseases (submitted). We hypothesized
+that the NCSI can be used also in patients with asthma.
+Asthma and COPD have overlapping clinical characteristics
+and both patient groups report similar problems in health
+status. Moreover, patients with severe asthma are known to
+experience severe symptoms, functional impairment, and
+lower QoL [1e6]. Therefore, a group of patients with severe
+asthma would be most suitable to examine whether the
+NCSI can identify problems in health status in patients with
+severe asthma.
+The main purpose of this study is to evaluate the NCSI in
+measuring the unmet needs in patients with severe asthma.
+The primary aim is to evaluate the internal consistency of
+the NCSI, and to investigate the relationships between the
+sub-domains of the NCSI, the ACQ total, and the AQLQ
+domains in patients with severe asthma. The secondary aim
+is to evaluate to what extent the NCSI measures other sub-
+domains of health status as compared to the disease spe-
+ciﬁc AQLQ and ACQ, and whether these sub-domains are
+relevant in patients with severe asthma.
+Materials and methods
+Study design
+This cross-sectional study was conducted in patients with
+severe asthma who were referred to the Dutch Asthma
+Centre in Davos for high altitude treatment. On admission,
+all patients were assessed according to a systematic pro-
+tocol. The study was approved by the Medical Ethical
+Committee of the Amsterdam Medical Centre and the
+approval was adopted by the Asthma Centre Davos. Written
+informed consent was obtained from all patients partici-
+pating in the study. All data was collected in usual care,
+shortly after admission, and anonymized before analysis.
+Study population
+Adult patient (18e75 years) with a diagnosis of severe
+asthma who were referred to the Dutch Asthma Centre
+Davos, Switzerland, between January 2008 and January
+2010 were asked to participate in the study. Severe asthma
+was deﬁned according to the international criteria [14].
+Dutch lung physicians send patients with severe asthma to
+the high altitude clinic in Davos, when optimal treatment,
+according to the GINA guidelines at sea level is not enough
+to reach control of asthma. [15] All patients were pre-
+scribed high doses of inhaled corticosteroids (1000 mg$day
+of ﬂuticasone or equivalent) or oral corticosteroids, com-
+bined with long-acting bronchodilators for at least 1 year, in
+accordance to the GINA Guidelines stages 4e6 [15]. Most
+patients also used additional asthma medications (e.g. an-
+tihistamines, montelukast, theaphylline etc). Patients with
+a smoking history >15 years, had to show reversibility in
+FEV1 to short-acting beta agonist >12% predicted in order
+to exclude patients with smoking related COPD. All patients
+Health status in severe asthma
+279
+were symptomatic and had experienced at least one severe
+exacerbation during the past year requiring a course of oral
+corticosteroids. Before referral to the high altitude clinic,
+inhalation technique and adherence with treatment was
+checked by the referring pulmonologist.
+Questionnaires
+AQLQ. The Asthma Quality of Life Questionnaire standard-
+ized version (AQLQ-S) [1,8] measures four domains: symp-
+toms,
+activity
+limitation,
+emotional
+function,
+and
+Figure 1
+The PatientProﬁleChart a graphical representation of the patient’s scores on the diverse aspects of health status as
+measured by the NCSI. Note: in this ﬁgure we plotted the mean score of the study group (blue dots) on that particular aspect
+instead of the individual score which is normally plotted in the graphs. The green area represents normal functioning, yellow area
+mild problems, and red area severe problems. (For interpretation of the references to colour in this ﬁgure legend, the reader is
+referred to the web version of this article.)
+280
+J.B. Peters et al.
+environmental stimuli. Score range from 1 to 7, lower
+scores indicate more problems.
+ACQ. The Asthma Control Questionnaire (ACQ) [7,16]
+consists of six items which are scored from 0 (totally
+controlled) to 6 (severely uncontrolled) covering day and
+nighttime symptoms, activity limitations and rescue bron-
+chodilator use. The cut-off point for well controlled asthma
+is lower than 1.5 [7].
+NCSI. The Nijmegen Clinical Screening Instrument (NCSI)
+[11] is a battery of existing tests and disease speciﬁc and
+generic instruments that provide a detailed assessment of
+health status. The NCSI covers four main domains: physio-
+logical functioning, symptoms, functional impairment, and
+Quality of Life. These main domains are subdivided into
+elevensub-domainsthatmeasure:airﬂow,bodycomposition,
+static lung volumes (excluded in the present study), subjec-
+tive symptoms, dyspnoea emotions, fatigue, behavioural
+impairment, subjective impairment, general QoL, health
+related
+QoL,
+and
+satisfaction
+relations.
+See
+Table
+1
+[10,17e22] for the deﬁnitions of the sub-domains and the
+included tests and instruments by which these sub-domains
+are measured. Completion of the questionnaire part of the
+NCSI is computerized [22] and scoring is automated. Norma-
+tive data for each subscale were collected in healthy subjects
+and different samples of patients with COPD to identify cut-
+offs scores indicating normal functioning, mild problems or
+severe problems [11]. For each patient a personal proﬁle can
+be made visible on the PatientProﬁleChart, see Fig. 1. For all
+sub-domains: the higher the score the more problematic.
+Measures
+Lung function parameters. Forced expiratory volume in
+1 s (FEV1) was assessed after maintenance medication and
+inhalation of 400 mg salbutamol. Exhaled nitric oxide mea-
+surements were performed by standardized method [23]
+using the NIOX.
+Sensitization to speciﬁc IgE was assessed with a panel of
+common aero-allergens (house dust mite, mixed grass and
+birch pollen, cat and dog dander and Aspergillus) by UniCap
+and expressed in kU/L. Patients were classiﬁed as allergic
+sensitized if IgE to one or more allergens was >0.35 kU/L.
+Statistics
+Data are presented as mean  standard deviation (SD),
+unless stated otherwise. Cronbach’s Alpha reliability co-
+efﬁcients were calculated to study the internal consistency
+reliability of the items of each sub-domain/subscale of the
+NCSI, ACQ and AQLQ, an a > 0.70 is considered reliable.
+Pearson correlation coefﬁcients were calculated to study
+the relationships between the sub-domains of the NCSI, the
+ACQ total, and the subscales of the AQLQ. Conceptual
+similarity was deﬁned by a correlation of 0.70 or higher. To
+avoid Type I error due to multiple testing P was set at 0.01.
+All statistics were performed by using SPSS 16.0 (SPSS Inc,
+Chicago, IL.).
+Results
+Subject characteristics
+One hundred and eighty patients were admitted to the high
+altitude clinic between January 2008 and January 2010, of
+which 167 agreed to participate in the study. Thirteen pa-
+tients were not able to ﬁll the questionnaires adequately
+Table 1
+Domains, sub-domains, deﬁnitions, instruments and number of included items from the instrument of the ques-
+tionnaire part of the Nijmegen Clinical Screening Instrument (NCSI).
+Domain
+Sub-domain
+Deﬁnition
+Instruments/measurement
+No of
+items
+Physiological
+functioning
+Airﬂow
+Post bronchodilator FEV1% predicted
+Body composition
+Body Mass Index
+Symptoms
+Subjective
+symptoms
+The patient’s overall burden
+of pulmonary symptoms
+PARS-D Global Dyspnea Activity [19]
+2
+PARS-D Global Dyspnea Burden [19]
+Dyspnoea
+emotions
+The level of frustration and
+anxiety a person experiences
+when dyspnoeic
+DEQ Frustration [19]
+6
+DEQ Anxiety [19]
+Fatigue
+The level of experienced fatigue
+CIS Subjective fatigue [20]
+8
+Functional
+impairment
+Behavioural
+impairment
+The extent to which a person cannot
+perform speciﬁc and concrete activities
+as a result of having the disease
+SIP Home Management [21]
+22
+SIP Ambulation [21]
+Subjective
+impairment
+The experienced degree of
+impairment in general
+QoLRiQ General Activities [10]
+4
+Quality of Life
+General Quality
+of Life
+Mood and the satisfaction of a person
+with his/her life as a whole
+BDI Primary Care [16]
+12
+Satisfaction With Life Scale [18]
+Health-related
+Quality of Life
+Satisfaction related to physical
+functioning and the future
+Satisfaction physiological functioning [19]
+2
+Satisfaction future [19]
+Satisfaction
+relations
+Satisfaction with the (absent)
+relationships with spouse and others
+Satisfaction spouse [19]
+2
+Satisfaction social [19]
+PARS-D: Physical Activity Rating Scale-Dyspnea; DEQ: Dyspnea Emotions Questionnaire; CIS: Checklist Individual Strength; SIP: Sickness
+Impact Proﬁle; QoLRiQ: Quality of Life for Respiratory Illness Questionnaire; BDI, Beck Depression Inventory.
+Health status in severe asthma
+281
+because of illiteracy or did not agree to participate for
+personal reasons. The baseline characteristics of the 167
+patients with severe asthma included in this study are
+presented in Table 2. Uncontrolled asthma was found in 91%
+(ACQ >1.5) of the patients in this study.
+NCSI-scores in severe asthma patients
+Overall, high percentages of severe problems were found in
+the sub-domains of symptoms, functional impairment, and
+QoL Fig. 2. The most prevalent sub-domains with severe
+impairment were subjective symptoms (82.0%), fatigue
+(90.4%), subjective impairment (86.8%), and general QoL
+(81.4%). Furthermore, 31.7% of the patients had clinically
+relevant depressive symptoms (subscale within sub-domain
+general QoL, not shown).
+Diversity between patients was found in the number of
+sub-domains with severe problems (Fig. 3). Nineteen
+percent of patients were severely impaired in all eight sub-
+domains of the NCSI, and 80% of patients had ﬁve or more
+severely impaired sub-domains.
+Intercorrelations of the questionnaires
+With respect to the AQLQ, the domain activity reached
+conceptual similarity with the domain symptoms and envi-
+ronmental stimuli, although the latter two domains were
+only moderately related (Table 3).
+Correlations between most of the NCSI sub-domains
+were moderate to absent, as shown in Table 4. Only the
+sub-domains subjective symptoms and subjective impair-
+ment
+reached
+the
+criterion
+for
+conceptual
+similarity
+(r > 0.70), indicating that these two sub-domains measure
+highly related concepts.
+Reliability of the questionnaires
+For all sub-domains the internal consistency was good,
+irrespective of the questionnaire used, except for the NCSI
+sub-domains of QoL see Table 5. However, the Cronbach’s
+alpha of the two separate subscales that together measure
+general QoL was good (Satisfaction With Life Scale (SWLS)
+0.88
+and
+Beck’s
+Depression
+Inventory
+(BDI)
+0.83),
+respectively.
+Conceptual similarity between the questionnaires
+The ACQ-total score reached conceptual similarity with
+AQLQ-symptoms and nearly with AQLQ-activity limitations
+(Table 6). The ACQ-total showed conceptual similarity only
+with NCSI subjective impairment, and nearly with NCSI
+subjective symptoms.
+The AQLQ-symptoms showed conceptual similarity with
+NCSI subjective impairment, and nearly with NCSI subjective
+Table 2
+Patient characteristics (N Z 167). Data are pre-
+sented as N (%), mean  SD or median (range), unless
+otherwise stated.
+Age (yrs)
+44.5  15
+Sex (male) N (%)
+58 (35%)
+Asthma duration (yrs)
+30 (1e66)
+Sensitized to allergens
+112 (67%)
+BMI
+28.1 (range 16.8e54.5)
+Ex-smokers
+57 (34%)
+FEV1% pred.
+87.7  24.5
+FeNO ppb
+20.7 (4e233)
+ACQ score
+3.2  1.1
+ICS mg/day
+0e8000
+Daily OCS N (%)
+82 (49%)
+BMI: body mass index; FEV1: forced expiratory volume in 1 s; %
+pred: % predicted; FeNO: exhaled nitric oxide fraction; ACQ:
+Asthma Control Questionnaire score, 0-6, where 0 Z well
+controlled; ICS: inhalation corticosteroids; OCS: oral cortico-
+steroids.
+Figure 2
+Percentages of patients with asthma with normal functioning, mild problems and severe problems for each sub-domain
+of the NCSI.
+282
+J.B. Peters et al.
+symptoms. AQLQ-activity limitations nearly reached con-
+ceptual similarity with NCSI subjective impairment. AQLQ-
+emotional functioning reached conceptual similarity with
+NCSI dyspnoea emotions. AQLQ-environmental stimuli did
+not reach conceptual similarity with any NCSI sub-domain.
+Nor the ACQ or domains of the AQLQ did show concep-
+tual similarity with the NCSI sub-domains fatigue, behav-
+ioural impairment, general QoL, health-related QoL, and
+satisfaction with relations. The NCSI, ACQ, and AQOLQ were
+not signiﬁcantly related to FEV1, FeNO, BMI.
+Discussion
+The present study shows that the Nijmegen Clinical
+Screening Instrument (NCSI) measures more aspects of
+health status than the Asthma Control Questionnaire (ACQ)
+and the Asthma Quality of Life Questionnaire (AQLQ-S) in
+patients with severe asthma. All sub-domains of the NCSI
+proved to be relevant in this patient group.
+The main aim of this study was to evaluate the added
+value of the NCSI to measure aspects of health status above
+the frequently used disease speciﬁc instruments AQLQ and
+ACQ. The AQLQ and the ACQ are used in numerous studies
+to evaluate interventions [24e27], and to describe groups
+of patients with asthma [28]. These studies have provided
+important information about the experienced symptoms,
+activity limitations, emotional functioning, and impact of
+environmental stimuli on these patients. However, health
+status most certainly comprises of more sub-domains than
+the four subscales covered by the AQLQ and the one sub-
+scale of the ACQ. We expected that the ten sub-domains of
+the NCSI probably measure the same, but certainly even
+more, aspects of health status than the AQLQ.
+Both the AQLQ and the NCSI measure the subjective
+symptoms, subjective impairment, and emotions. However,
+the NCSI measures also airﬂow, body composition and items
+that measure the experienced fatigue, satisfaction with life
+in general, mood, satisfaction with relationships and
+future, and sickness-related behavioural impairment that
+are not covered by the AQLQ and ACQ. On all eight NCSI
+sub-domains, measured by the questionnaire part, high
+proportions of patients with serious problems were found.
+In addition, all eight sub-domains were shown to represent
+conceptually distinct aspects of the patients health status,
+as evidenced by the low intercorrelations. Only the sub-
+domains subjective symptoms and subjective impairment
+showed conceptual similarity. The domain AQLQ activity
+limitation showed high inter correlations with the domains
+symptoms and environmental stimuli indicating that they
+measure similar concepts. However, the moderate corre-
+lation between symptoms and environmental stimuli indi-
+cate that these two domains measure separate concepts,
+thus both share different parts with the domain activity
+limitation. This is not surprising since the items of activity
+limitation measure activity limitation due to environmental
+stimuli and due to their asthma symptoms. Thus, the NCSI
+questionnaire part measures seven aspects of health status
+whereas the AQLQ measures three distinct aspects of
+health status. This suggests that, in patients with severe
+asthma, the NCSI is capable of providing a more complete
+picture of the patient’s problems and needs on health
+status as compared to the ACQ and AQLQ.
+The present study shows that all NCSI subscales repre-
+sent highly relevant sub-domains of health status in pa-
+tients with severe asthma. In addition, heterogeneity was
+found between patients with respect to the number of sub-
+domains and in the combination of sub-domains on which
+patients experienced severe problems. Low to absent cor-
+relations
+were
+not
+only
+found
+between
+the
+non-
+physiological sub-domains of the NCSI, but also between
+physiological
+functioning
+and
+symptoms,
+behavioural
+impairment, and QoL. This is not a new phenomena, Haldar
+Figure 3
+Distribution of percentages of patients with severe
+asthma with severe problems on n number of sub-domains of
+the NCSI.
+Table 3
+Correlations between the subscales of the Asthma Control Questionnaire (ACQ) and domains of the Asthma Quality of
+Life Questionnaire (AQLQ).
+ACQ total
+AQLQ
+Symptoms
+AQLQ
+Activity
+limitation
+AQLQ
+Emotional
+function
+AQLQ
+Environmental
+stimuli
+AQLQ total
+ACQ
+Total
+1.00
+AQLQ
+Symptoms
+0.83
+1.00
+AQLQ
+Activity limitations
+0.67
+0.85
+1.00
+AQLQ
+Emotional stimuli
+0.35
+0.54
+0.39
+1.00
+AQLQ
+Environmental stimuli
+0.35
+0.48
+0.69
+0.34
+1.00
+AQLQ
+Total
+L0.74
+0.90
+0.91
+0.64
+0.73
+1.00
+Note. N Z 167. Correlations >0.70 in bold.
+Health status in severe asthma
+283
+et al. [29] also found that symptom perception is not always
+in concordance with eosinophilic airway inﬂammation, and
+concluded that both, symptoms and physiologic parame-
+ters, have to be measured to get a complete picture.
+Several limitations of the present study should be kept in
+mind with respect to the generalizability of the results. In
+this study we included a select group of patients, more
+speciﬁcally patients with severe asthma referred to a high-
+altitude inpatient pulmonary clinic. Even in this highly
+selected group of patients with severe asthma, marked
+heterogeneity was found. Which makes it feasible that this
+might even be more pronounced in a more general sample
+of
+patients
+with
+asthma.
+The
+moderate
+internal
+consistencies of the sub-domains of QoL are another limi-
+tation. In COPD the same problem exist, a possible expla-
+nation is that the included subscales measure different
+concepts, however further reﬁnement will be necessary.
+One might question the adequacy of the cut-off scores for
+normal functioning on the sub-domains of the NCSI. Since,
+these cut-offs were based on a group of healthy persons
+matched by age and sex to a COPD study group [11]. This
+could lead to an underestimation of problems in patients
+with
+asthma,
+because
+asthma
+patients
+are
+generally
+somewhat younger. Morroy et al. [13], found no signiﬁcant
+differences between patients with Q-fever older and pa-
+tients with Q-fever younger than 50 years on seven of eight
+Table 4
+Correlations between the sub-domains of the Nijmegen Clinical Screening Instrument (NCSI).
+NCSI main
+domain
+Sub-domain
+Symptoms
+Functional impairment
+Quality of Life
+Subjective
+symptoms
+Dyspnoea
+emotions
+Fatigue Subjective
+impairment
+Behavioural
+impairment#
+General
+QoL
+Health
+related QoL
+Satisfaction
+relations
+Physiological
+functioning
+FEV1% of predicted
+0.23
+0.13ns
+0.04ns 0.19ns
+0.19ns
+0.05ns 0.07ns
+0.14ns
+FeNO
+0.09ns
+0.18ns
+0.15ns
+0.06ns
+0.09ns
+0.14ns
+0.04ns
+0.01ns
+BMI
+0.23
+0.05ns
+0.01ns
+0.23
+0.23ns
+0.03ns
+0.17ns
+0.01ns
+Symptoms
+Subjective symptoms
+1.00
+Dyspnoea emotions
+0.35
+1.00
+Fatigue
+0.37
+0.09ns
+1.00
+Functional
+impairment
+Subjective impairment
+0.71
+0.25
+0.46
+1.00
+Behavioural impairment
+0.34ns
+0.18ns
+0.32ns
+0.34
+1.00
+Quality of
+Life
+General QoL
+0.24
+0.67
+0.20ns
+0.23
+0.34ns
+1.00
+Health related QoL
+0.47
+0.43
+0.41
+0.54
+0.43
+0.67
+1.00
+Satisfaction relations
+0.17ns
+0.29
+0.09ns
+0.20ns
+0.26ns
+0.52
+0.45
+1.00
+Note. N Z 167 except for behavioural impairment due to a technical error (N Z 53).
+Table 5
+Cronbach’s reliability coefﬁcient (a), score range, mean (SD) and 95% conﬁdence interval of the three questionnaires,
+the Asthma Control Questionnaire (ACQ), the Asthma Quality of Life Questionnaire (AQLQ) and the Nijmegen Clinical Screening
+Instrument (NCSI) in patients with severe asthma (N Z 167).
+Cronbach’s alpha
+Score range
+Mean  SD
+95% CI
+ACQ total
+0.87
+0e6
+3.2  1.1
+2.9e3.3
+AQLQ
+Symptoms
+0.88
+1e7a
+3.9  1.1
+3.7e4.1
+Activity limitation
+0.88
+1e7a
+3.5  1.2
+3.3e3.6
+Emotional function
+0.84
+1e7a
+4.9  1.3
+4.7e5.1
+Environmental stimuli
+0.77
+1e7a
+4.2  1.5
+4.0e4.5
+Total
+1e7a
+4.0  1.0
+3.8e4.1
+NCSI-symptoms
+Subjective symptoms
+0.89
+2e20
+14.1  4.2
+13.5e14.8
+Dyspnoea emotions
+0.83
+6e24
+12.0  4.0
+11.4e12.6
+Fatigue
+0.82
+8e56
+47.1  8.7
+45.8e48.5
+NCSI-functional impairment
+Behavioural impairment
+0.79
+0e99.2
+26.2  20.5
+20.5e31.8
+Subjective impairment
+0.89
+4e28
+17.7  5.4
+16.9e18.5
+NCSI-Quality of Life
+General QoL
+0.54
+1e101.6
+28.0  17.8
+25.3e30.7
+Health related QoL
+0.47
+2e10
+6.1  1.7
+5.8e6.3
+Satisfaction relations
+0.62
+2e10
+4.1  2.0
+3.8e4.4
+Note. Pearson correlations between the sub-domains of the NCSI, the ACQ, and the AQLQ for patients with asthma at start of reha-
+bilitation. N Z 167 except for behavioural impairment due to technical error (N Z 53).
+a Lower scores indicate more problems.
+284
+J.B. Peters et al.
+NCSI sub-domains, patients younger than 50 years had sig-
+niﬁcant higher scores on dyspnoea emotions.
+The reason for this study was the need for an instrument
+that would enable a detailed evaluation of the needs of
+patients with severe asthma and that could help to identify
+the factors that aggravate, complicate, or inﬂuence disease
+perception. The NCSI provides a detailed assessment of
+health status, and includes normative data, which render
+the patient’s scores on each sub-domain clinically mean-
+ingful [11]. The powerful mechanism is not the NCSI as in-
+strument per se´, but by discussing the PatientProﬁleChart
+with the patient. The PatientProﬁleChart visualizes on
+which sub-domain a patient functions normally and on
+which sub-domain a patient experience severe problems.
+The
+PatientProﬁleChart
+allows
+the
+doctor
+and
+other
+healthcare providers to quickly identify the factors leading
+to disease burden by discussing the results [30]. Moreover,
+the discussion with the patient also facilitates shared-
+decision making, which has proven to be important in
+promoting adherence [31]. Moreover, the complexity of the
+balance between health status and the underlying problems
+and self-management capacities, may become visible in the
+discussion. This information may help in guiding non-
+pharmacological treatment since pharmacological treat-
+ment alone seems to be insufﬁcient in patients with severe
+asthma [31]. In COPD this approach have been implemented
+in usual care since several years and has proven its clinical
+relevance. The next step would be to implement the NCSI in
+treatment of patients with severe asthma, and examine its
+sensitivity to change.
+Conclusions
+The present study showed that the NCSI, ACQ and AQLQ
+measure highly relevant aspects of health status in patients
+with severe asthma. However, the NCSI measures more
+aspects of health status that are not covered by the ACQ
+and AQLQ. The NCSI in combination with the Patient-
+ProﬁleChart might help to identify the impact on daily life,
+symptoms, QoL, and impairments in the individual patient
+with severe asthma.
+Conﬂicts of interest
+The authors JP, LR, KF, AB, EW and JV declare no conﬂict of
+interest. EHB received in behalf of the department of
+Respiratory Medicine of the Academic Medical Centre
+grants from the Dutch Asthma Foundation and from
+Novartis, GSK, and Chiesi. She received speaker fees from
+GSK, and consultant fees from Novartis and GSK, which
+were donated to the department.
+References
+[1] Juniper EF, Guyatt GH, Epstein RS, Ferrie PJ, Jaeschke R,
+Hiller TK. Evaluation of impairment of health related quality
+of life in asthma: development of a questionnaire for use in
+clinical trials. Thorax 1992;47(2):76e83.
+[2] Haselkorn T, Chen H, Miller DP, Fish JE, Peters SP, Weiss ST,
+et al. Asthma control and activity limitations: insights from
+the Real-world Evaluation of Asthma Control and Treatment
+(REACT) study. Ann Allergy Asthma Immunol e Off Publ Am
+Coll Allergy Asthma Immunol 2010;104(6):471e7.
+[3] Centanni S, Di Marco F, Castagna F, Boveri B, Casanova F,
+Piazzini A. Psychological issues in the treatment of asthmatic
+patients. Respir Med 2000;94(8):742e9.
+[4] Katz PP, Morris A, Julian L, Omachi T, Yelin EH, Eisner MD,
+et al. Onset of depressive symptoms among adults with
+asthma: results from a longitudinal observational cohort. Prim
+Care Respir J 2010;19(3):223e30.
+Table 6
+Correlations between the sub-domains of the Nijmegen Clinical screening Instrument (NCSI), the Asthma Control
+Questionnaire (ACQ), and the Asthma Quality of Life Questionnaire (AQLQ) to examine conceptual similarity.
+ACQ total
+AQLQ
+Symptoms
+AQLQ
+Activity limitation
+AQLQ
+Emotional function
+AQLQ
+Environmental stimuli
+AQLQ total
+Physiological functioning
+FEV1% predicted
+0.26
+0.16ns
+0.09ns
+0.20ns
+0.01ns
+0.14ns
+FeNO
+0.12ns
+0.07ns
+0.05ns
+0.12ns
+0.19ns
+0.01ns
+BMI
+0.18ns
+0.12ns
+0.16ns
+0.07ns
+0.02ns
+0.13ns
+NCSI symptoms
+Subjective symptoms
+0.66
+0.67
+0.58
+0.40
+0.29
+0.64
+Dyspnoea emotions
+0.21
+0.30
+0.16ns
+0.69
+0.16ns
+0.36
+Fatigue
+0.44
+0.47
+0.43
+0.16ns
+0.19ns
+0.43
+NCSI functional impairment
+Behavioural impairment
+0.49
+0.53
+0.59
+0.41
+0.39
+0.60
+Subjective impairment
+0.77
+L0.70
+0.65
+0.37
+0.30
+0.68
+NCSI Quality of Life
+General QoL
+0.18ns
+0.29
+0.21
+0.54
+0.23
+0.36
+Health related QoL
+0.40
+0.46
+0.42
+0.50
+0.24
+0.50
+Satisfaction relations
+0.15ns
+0.18ns
+0.25
+0.31
+0.23
+0.27
+Note. Pearson correlations between the sub-domains of the Nijmegen Clinical screening Instrument (NCSI), the Asthma Control Ques-
+tionnaire (ACQ), and the Asthma Quality of Life Questionnaire (AQLQ) for patients with difﬁcult to control asthma at start of rehabil-
+itation. N Z 167 except for behavioural impairment due to technical error (N Z 53). Correlations >0.70 in bold.
+ns Z not signiﬁcant P > 0.01. Correlations in ‘bold-italic’ reach conceptual similarity.
+Health status in severe asthma
+285
+[5] Lavoie
+KL,
+Bacon
+SL,
+Barone
+S,
+Cartier
+A,
+Ditto
+B,
+Labrecque M. What is worse for asthma control and quality of
+life: depressive disorders, anxiety disorders, or both? Chest
+2006;130(4):1039e47.
+[6] Lavoie KL, Bouthillier D, Bacon SL, Lemiere C, Martin J,
+Hamid Q, et al. Psychologic distress and maladaptive coping
+styles in patients with severe vs moderate asthma. Chest
+2010;137(6):1324e31.
+[7] Juniper EF, Bousquet J, Abetz L, Bateman ED, Committee G.
+Identifying ‘well-controlled’ and ‘not well-controlled’ asthma
+using the Asthma Control Questionnaire. Respir Med 2006;
+100(4):616e21.
+[8] Juniper EF, Buist AS, Cox FM, Ferrie PJ, King DR. Validation of
+a standardized version of the Asthma Quality of Life Ques-
+tionnaire. Chest 1999;115(5):1265e70.
+[9] Jones PW, Quirk FH, Baveystock CM. The St-George Respira-
+tory Questionnaire. Respir Med 1991;85:25e31.
+[10] Maille
+AR,
+Koning
+CJ,
+Zwinderman
+AH,
+Willems
+LN,
+Dijkman JH, Kaptein AA. The development of the ‘Quality-of-
+life
+for
+Respiratory
+Illness
+Questionnaire
+(QOL-RIQ)’:
+a
+disease-speciﬁc quality-of-life questionnaire for patients with
+mild to moderate chronic non-speciﬁc lung disease. Respir
+Med 1997;91(5):297e309.
+[11] Peters JB, Daudey L, Heijdra YF, Molema J, Dekhuijzen PN,
+Vercoulen JH. Development of a battery of instruments for
+detailed measurement of health status in patients with COPD
+in routine care: the Nijmegen Clinical Screening Instrument.
+Qual Life Res 2009;18(7):901e12.
+[12] Limonard
+GJ,
+Peters
+JB,
+Nabuurs-Franssen
+MH,
+Weers-
+Pothoff G, Besselink R, Groot CA, et al. Detailed analysis of
+health status of Q fever patients 1 year after the ﬁrst Dutch
+outbreak: a case-control study. QJM 2010;103(12):953e8.
+[13] Morroy G, Peters JB, van Nieuwenhof M, Bor HH, Hautvast JL,
+van der Hoek W, et al. The health status of Q-fever patients
+after long-term follow-up. BMC Infect Dis 2011;11:97.
+[14] Bel EH, Sousa A, Fleming L, Bush A, Chung KF, Versnel J, et al.
+Diagnosis and deﬁnition of severe refractory asthma: an in-
+ternational consensus statement from the Innovative Medicine
+Initiative (IMI). Thorax 2011;66(10):910e7.
+[15] National Institutes of Health. National Heart, Lung, and Blood
+Institute. Global Initiative for Asthma. Global strategy for
+asthma management and prevention. NHLBI/WHO Workshop
+Report, http://www.ginasthma.org/; 2008.
+[16] Juniper EF, O’Byrne PM, Guyatt GH, Ferrie PJ, King DR.
+Development and validation of a questionnaire to measure
+asthma control. Eur Respir J 1999;14(4):902e7.
+[17] Beck AT, Guth D, Steer RA, Ball R. Screening for major
+depression disorders in medical inpatients with the Beck
+Depression Inventory for Primary Care. Behav Res Ther 1997;
+35(8):785e91.
+[18] Bergner M. Development, testing, and use of sickness impact
+proﬁle. In: Walker RS, Rosser RM, editors. Quality of life
+assessment: key issues in the 1990s. Kluwer Academic Pub-
+lishers; 1993. pp. 95e111.
+[19] Diener E, Emmons RA, Larsen RJ, Grifﬁn S. The satisfaction
+with life scale. J Pers Assess 1985;49(1):71e5.
+[20] Vercoulen JH, Daudey L, Molema J, Vos PJ, Peters JB, Top M,
+et al. An integral assessment framework of health status in
+chronic obstructive pulmonary disease (COPD). Int J Behav
+Med 2008;15(4):263e79.
+[21] Vercoulen JH, Swanink CMA, Galama JMD, Fennis JFM, van der
+Meer JWM, Bleijenberg G. Dimensional assessment in chronic
+fatigue syndrome. J Psychosom Res 1994;38:383e92.
+[22] Bergner M, Bobbitt RA, Carter WB, Gilson BS. The sickness
+impact proﬁle: development and ﬁnal revision of a health
+status measure. Med Care 1981;19(8):787e805.
+[23] American Thoracic S, European Respiratory S. ATS/ERS rec-
+ommendations for standardized procedures for the online and
+ofﬂine measurement of exhaled lower respiratory nitric oxide
+and nasal nitric oxide, 2005. Am J Respir Crit Care Med 2005;
+171(8):912e30.
+[24] Rijssenbeek-Nouwens LH, Fieten KB, Bron AO, Hashimoto S,
+Bel EH, Weersink EJ. High-altitude treatment in atopic and
+nonatopic patients with severe asthma. Eur Respir J 2012;
+40(6):1374e80.
+[25] Busse WW, Wenzel SE, Meltzer EO, Kerwin EM, Liu MC,
+Zhang N, et al. Safety and efﬁcacy of the prostaglandin D2
+receptor antagonist AMG 853 in asthmatic patients. J Allergy
+Clin Immunol 2013;131(2):339e45.
+[26] Mancuso CA, Choi TN, Westermann H, Wenderoth S, Wells MT,
+Charlson ME. Improvement in asthma quality of life in patients
+enrolled in a prospective study to increase lifestyle physical
+activity. J Asthma 2013;50(1):103e7.
+[27] Turner S, Eastwood P, Cook A, Jenkins S. Improvements in
+symptoms and quality of life following exercise training in
+older adults with moderate/severe persistent asthma. Respi-
+ration 2011;81(4):302e10.
+[28] Chhabra SK, Chhabra P. Gender differences in perception of
+dyspnea, assessment of control, and quality of life in asthma.
+J Asthma 2011;48(6):609e15.
+[29] Haldar P,
+Pavord ID,
+Shaw
+DE,
+Berry MA,
+Thomas
+M,
+Brightling CE, et al. Cluster analysis and clinical asthma phe-
+notypes. Am J Respir Crit Care Med 2008;178(3):218e24.
+[30] Vercoulen JH. A simple method to enable patient-tailored
+treatment and to motivate the patient to change behaviour.
+Chron Respir Dis 2012;9(4):259e68.
+[31] Bourdin A, Halimi L, Vachier I, Paganin F, Lamouroux A,
+Gouitaa M, et al. Adherence in severe asthma. Clin Exp
+Allergy e J Br Soc Allergy Clin Immunol 2012;42(11):1566e74.
+286
+J.B. Peters et al.

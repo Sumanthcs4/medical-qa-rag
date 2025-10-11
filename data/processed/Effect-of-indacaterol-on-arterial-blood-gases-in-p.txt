@@ -1,0 +1,1036 @@
+Effect of indacaterol on arterial blood gases
+in patients suffering from acute
+exacerbation of COPD
+Paola Rogliani a,b, Josuel Ora b, Chiara Ciaprini b, Lucia Senis b,c,
+Emanuele Stirpe a, Mario Cazzola a,b,*
+a Department of System Medicine, University of Rome ‘Tor Vergata’, Rome, Italy
+b Department of Internal Medicine, ‘Tor Vergata’ Polyclinic Hospital, Rome, Italy
+c Department of Biomedicine and Prevention, University of Rome ‘Tor Vergata’, Rome, Italy
+Received 29 April 2013; accepted 27 October 2013
+Available online 5 November 2013
+KEYWORDS
+Indacaterol;
+Arterial blood gases;
+COPD;
+Acute exacerbation
+Summary
+Aim: The administration of b2-agonists to patients with airways obstruction often results in
+transient decrease in PaO2 despite concomitant bronchodilation. This effect is potentially
+dangerous for patients suffering from acute exacerbation of COPD (AECOPD). In this study,
+we investigated the effect of indacaterol 150 mg and 300 mg on the arterial blood gas tensions
+of hospitalised patients with AECOPD.
+Methods: We explored the acute effects on arterial blood gases and spirometry of two doses of
+indacaterol Breezhaler (150 and 300 mg) in 12 patients hospitalised because of an AECOPD in 2
+non-consecutive days under open-label, randomized, crossover conditions, with blind evalua-
+tion. Blood specimens were taken just before the inhalation and at 15, 30, 60, 120, 240 and
+360 min after inhalation of each treatment, and spirometry was performed at the same time
+points.
+Results: Both doses of indacaterol did not cause signiﬁcant changes in blood gases, although
+some patients with relatively well-preserved PaO2 presented transient episodes of oxygen de-
+saturation that normalize spontaneously in a very short time. Moreover, they induced a signif-
+icant mean increase in FEV1 and FVC, although the improvement caused by indacaterol 300 mg
+was larger.
+Conclusions: Indacaterol up to 300 mg is a potent bronchodilator that may induce small, tran-
+sient decrease in PaO2 mainly in patients with relatively well-preserved PaO2. There appeared
+to be no clinical consequences of these PaO2 abnormalities in patients suffering from AECOPD.
+ª 2013 Published by Elsevier Ltd.
+* Corresponding author. Department of System Medicine, University of Rome ‘Tor Vergata’, Via Montpellier 1, 00133 Rome, Italy.
+E-mail address: mario.cazzola@uniroma2.it (M. Cazzola).
+0954-6111/$ - see front matter ª 2013 Published by Elsevier Ltd.
+http://dx.doi.org/10.1016/j.rmed.2013.10.022
+Available online at www.sciencedirect.com
+ScienceDirect
+journal homepage: www.elsevier.com/locate/rmed
+Respiratory Medicine (2014) 108, 307e313
+Introduction
+Short-acting inhaled b2-agonists (SABAs) such as salbutamol
+and terbutaline are usually the preferred bronchodilators for
+treatment of acute exacerbations of chronic obstructive
+pulmonary disease (AECOPD) [1]. Actually, some studies
+suggest that these agents, as a class, are of beneﬁt in
+AECOPD, showing improvements in lung function and dysp-
+noea scores [2]. However, there is a great deal of controversy
+regarding the timing and optimal dose of SABAs, also
+considering that the duration of the bronchodilator effect of
+SABAs is decreased in AECOPD [3]. For this reason, several
+authors suggest not only using larger-than-usual doses that
+are sometimes necessary to relieve airway obstruction, but
+also to shorten the posologic interval [2,4].
+The use of long-acting, inhaled b2-agonists (LABAs) for-
+moterol and salmeterol should be another potential option to
+overcome the reduced functional half-life of SABAs in
+AECOPD, although they are still not approved for use in this
+pathologic condition [5]. This assumption is supported by
+results of small studies suggesting a potential use of LABAs
+during AECOPD [6e9]. This is particularly true for formoterol
+because of its rapid onset and long duration of action.
+Indacaterol is the ﬁrst once-daily LABA approved as a
+maintenance bronchodilator treatment of airﬂow obstruc-
+tion in adult patients with COPD [10,11]. Single doses of
+indacaterol 150 and 300 mg demonstrate a fast onset of
+action similar to that for salbutamol [12]. The rapid onset
+of action, duration of bronchodilation for at least 24 h, and
+an optimal safety proﬁle make this drug an interesting
+therapeutic option in AECOPD, although indacaterol has be
+approved only for the treatment of stable COPD. However,
+no study has yet assessed the impact of this once-daily
+LABA on partial pressure of oxygen in arterial blood (PaO2).
+This is a potential limitation to the use of indacaterol in
+AECOPD because the administration of b2-agonists to pa-
+tients with airways obstruction often results in a transient
+decrease in PaO2 despite concomitant bronchodilation [13],
+although hypoxaemia induced by b2-agonists is usually mild,
+at least in stable COPD [14,15]. Nonetheless, this effect
+could be potentially dangerous for patients suffering from
+AECOPD. In fact, AECOPD are frequently associated with
+deterioration in gas exchange and hypoxaemia. Increased
+inequality in ventilationeperfusion (VA/Q) relationships
+appears to be the major determinant of these changes [16].
+In stable COPD we already observed that the inhalation of
+indacaterol 150 mg induced a modest but signiﬁcant decrease
+in blood oxygen saturation (SpO2) up to 60 min and a second
+dose of indacaterol 150 mg signiﬁcantly decreased the SpO2
+mean value up to 360 min [17]. Since the decrease in SpO2
+could be potentially dangerous for patients suffering from
+AECOPD and hypoxaemia, we aimed to investigate the acute
+effects of indacaterol inhalation on the arterial blood gas
+tensions of hospitalized patients with AECOPD.
+Patients and methods
+Study population
+Twelve Caucasian patients admitted to our Unit were
+recruited on the basis of having an AECOPD requiring
+hospitalization. The presence of an AECOPD was diagnosed
+when physician observed a sustained worsening of the pa-
+tient’s condition, from the stable state and beyond normal
+day-to-day variations, necessitating a change in regular
+medication in a patient with underlying COPD [18]. Exacer-
+bations were considered severe because patient/physician
+recognised obvious and/or rapid deterioration in condition,
+requiring hospitalisation [18]. Because of the severity of the
+exacerbation, all patients, who had been transferred to our
+Unit from the Emergency Roomwhen they were improved but
+still needed a period of monitoring before discharge, had an
+arterial catheter placed in the brachial artery during their
+stay in the Emergency Room to facilitate monitoring of
+arterial blood gases. Arterial catheterization is used nor-
+mally in the management of critically ill patients, both for
+continuous blood pressure monitoring and access to the
+arterial circulation to obtain frequent blood gas measure-
+ments [19]. The exclusion criteria were: personal or family
+history of asthma, atopy, allergic disease, presence of
+eosinophilia, use of systemic steroids within the preceding
+month, presence of severe hypertension, or uncontrolled (or
+difﬁcult to control) diabetes mellitus, or if a speciﬁc cause
+for the exacerbation, such as pneumonia, pneumothorax, or
+heart failure, was diagnosed. Patients were also excluded if
+they were at risk of imminent acute respiratory failure
+requiring mechanical ventilation or admission to the inten-
+sive care unit (pH < 7.30 and/or PaCO2 > 70 mmHg, and/or
+PaO2 < 50 mmHg despite supplemental oxygen). None of the
+patients
+was
+b2-agonist-naı¨ve.
+The
+ethics
+committee
+approved the study and all patients gave written informed
+consent. Table 1 illustrates the characteristics of the
+enrolled patients.
+Study protocol
+The study was designed as a single centre open-label,
+randomized, crossover conditions, with blind evaluation
+study. It started in each patient two days after admission in
+our Unit, when we had been able to conﬁrm the substantial
+improvement of the episode of AECOPD but we were still
+feeling the need to monitor the patient’s blood gas status,
+after a stay in emergency room ﬂuctuating from three to 6
+days.
+All patients received indacaterol Breezhaler 150 mg (1
+inhalation)
+þ
+placebo
+(1
+inhalation)
+or
+indacaterol
+Breezhaler 300 mg (2 inhalations) in two days, separated
+from one another by 48 h in order to reduce the carry-over
+effect of indacaterol.
+Oral bronchodilators were not permitted during the
+study. SABAs were permitted soon after each test when
+required. Due to ethical considerations, all patients were
+treated with oral prednisolone 30-mg daily and supple-
+mental oxygen, when required, soon after the end of each
+session. All patients also received a treatment with an
+antibiotic (ciproﬂoxacin, clarithromycin or ceftriaxone).
+Patients were asked not to consume cola drinks, coffee or
+tea and not to smoke in the hours before and during the
+investigation.
+After a rest of 15 min and before the inhalation of
+indacaterol, while the patient was breathing room air and
+were seated in an armchair, samples of arterial blood (5 ml)
+were removed for measurement of PaO2, PaCO2, and pH
+308
+P. Rogliani et al.
+with a blood gas analyser. The machine output was checked
+daily with a standard test sample. Measurements were
+performed before (at least 6 h after the last doses of short-
+acting bronchodilators and corticosteroids) and 15, 30, 60,
+120, 240 and 360 min after the administration of the drug,
+always on room air. Spirometry was performed at the same
+time intervals.
+The change in PaO2 after each treatment, from the
+baseline obtained on that day, was the primary outcome
+variable. The magnitude of changes in blood-gas tensions
+and spirometric values at each analysis time was compared
+among treatments. The paired t-test and analysis of vari-
+ance (ANOVA) were used to determine the signiﬁcance of
+differences among agents. Statistical signiﬁcance was
+accepted at P < 0.05.
+Results
+Both doses of indacaterol induced a signiﬁcant mean in-
+crease in FEV1 and FVC, but the improvement caused by
+indacaterol 300 mg was larger (Fig. 1), although in some
+patients both doses were unable to induce any signiﬁcant
+changes in FEV1 (Fig. 2).
+The inhalation of both doses of indacaterol did not
+induce signiﬁcant changes in mean PaO2 values (Fig. 1).
+However, the mean peak decrease in PaO2 over the 6 h was
+5.9 mmHg (95% CI: 1.4 to 10.4) after indacaterol
+150 mg and 6.2 mmHg (95% CI: 2.7 to 9.8) after inda-
+caterol 300 mg, respectively. Individual changes in PaO2
+showed that after inhaling indacaterol 150 mg, one patient
+presented a decrease of 23 mmHg at 60 min, another a
+Table 1
+The baseline characteristics of the randomised patients.
+Patients
+Gender
+Age
+(yrs)
+Height
+(cm)
+Weight
+(kg)
+BMI
+Smoke
+(pack/y)
+FEV1
+% Pred
+FVC
+% Pred
+PaO2/FiO2
+Aea gradient
+(normal)
+1
+M
+62
+162
+68
+25.0
+50
+38.6
+68.4
+257
+1.98 (19.5)
+2
+M
+78
+170
+80
+27.7
+Ex 50
+23.4
+44.1
+243
+21.23 (23.5)
+3
+F
+73
+137
+36
+19.6
+50
+67.4
+85.6
+329
+15.73 (22.25)
+4
+F
+79
+162
+58
+22.1
+40
+23.6
+39.5
+295
+1.48 (23.75)
+5
+F
+79
+152
+40
+17.3
+Ex 60
+39.9
+61.5
+290
+36.23 (23.75)
+6
+F
+81
+168
+64
+23.9
+Ex 40
+64.7
+95.9
+343
+20.23 (24.25)
+7
+M
+71
+167
+65
+23.3
+70
+23.4
+50.0
+348
+14.37 (21.75)
+8
+M
+73
+170
+65
+22.5
+80
+22.3
+60.9
+305
+26.98 (22.25)
+9
+M
+78
+160
+65
+23.8
+110
+36.6
+54.7
+343
+20.23 (23.5)
+10
+F
+75
+162
+67
+25.5
+Ex 50
+26.6
+67.8
+243
+34.48 (22.75)
+11
+M
+72
+173
+55
+18.2
+Ex 70
+38.8
+72.4
+348
+27.98 (22)
+12
+M
+54
+158
+78
+25.7
+28
+46.4
+78.3
+267
+42.48 (17.5)
+0
+60
+120
+180
+240
+300
+360
+0.6
+0.7
+0.8
+0.9
+1.0
+1.1
+1.2
+*
+*
+*
+**
+**
+**
+**
+*
+*
+*
+*
+min
+FEV1, L
+0
+60
+120
+180
+240
+300
+360
+1.6
+1.8
+2.0
+2.2
+2.4
+2.6
+2.8
+min
+FVC, L
+***
+***
+**
+**
+**
+*
+* * **
+**
+*
+*
+0
+60
+120
+180
+240
+300
+360
+62
+64
+66
+68
+70
+72
+74
+76
+78
+min
+PaO2, mmHg
+*
+0
+60
+120
+180
+240
+300
+360
+45
+47
+49
+51
+53
+55
+57
+59
+min
+PaCO2, mmHg
+Figure 1
+Mean changes (se) in FEV1, FVC, PaO2, and PaCO2 over time after administration of indacaterol 150 mg (squares) and
+300 mg (triangles) via Breezhaler. *P < 0.05, **P < 0.01, ***P < 0.001 vs. baseline.
+Indacaterol and arterial blood gases
+309
+decrease of 16 mmHg at 240 min and two other subjects a
+decrease of 8 mmHg at 60 min and 30 min, respectively
+(Fig. 2). After the inhalation of indacaterol 300 mg, one
+patient showed a decrease in PaO2 of 18 mmHg at 240 min,
+another of 13 mmHg at 30 min, a third of 11 Hg after 15 min
+and a fourth of 10 Hg at 15 min (Fig. 2). The decreases in
+PaO2 were mainly observed in the patients with the highest
+basal PaO2. In any case, all values returned to normal
+spontaneously. At 360 min, the mean value of PaO2 was
+greater than baseline, with a statistically signiﬁcant dif-
+ference after indacaterol 300 mg (Fig. 1). Both indacaterol
+150 and 300 mg induced a small and not signiﬁcant mean
+decrease in PaCO2 (Fig. 1). No patient showed a rise in
+PaCO2.
+Only indacaterol 150 mg signiﬁcantly increased the
+alveolar-arterial oxygen (Aea) gradient at 15 min (Fig. 3). It
+should be noted that in patients with an Aea gradient
+higher than normal at baseline, both doses of indacaterol
+did not induce any signiﬁcant increase in this parameter as
+opposed to what was observed in subjects with a normal
+Aea gradient at baseline (Fig. 3). However, the observed
+increases were always within the normal values.
+We were unable to ﬁnd a linear relationship between the
+greatest changes in FEV1 and peak decreases in PaO2 with
+both doses of indacaterol (Fig. 4).
+Discussion
+The results of this pilot study, which is the ﬁrst to best of
+our knowledge that has explored the effect of indacaterol
+on
+arterial
+blood
+gases
+and,
+consequently,
+must
+be
+Group A
+Group B
+0
+60
+120
+180
+240
+300
+360
+40
+50
+60
+70
+0.5
+0.6
+0.7
+0.8
+0.9
+min
+PaO2,mmHg
+FEV1, L
+0
+60
+120
+180
+240
+300
+360
+50
+60
+70
+80
+90
+0.00
+0.25
+0.50
+0.75
+1.00
+min
+PaO2, mmHg
+FEV1, L
+0
+60
+120
+180
+240
+300
+360
+50
+60
+70
+80
+90
+0.5
+0.6
+0.7
+0.8
+0.9
+min
+PaO2, mmHg
+FEV1, L
+0
+60
+120
+180
+240
+300
+360
+50
+75
+100
+125
+1.00
+1.25
+1.50
+1.75
+min
+PaO2, mmHg
+FEV1, L
+0
+60
+120
+180
+240
+300
+360
+50
+60
+70
+80
+90
+100
+0.75
+1.00
+1.25
+1.50
+min
+PaO2, mmHg
+FEV1, L
+0
+60
+120
+180
+240
+300
+360
+50
+60
+70
+80
+90
+100
+0.75
+1.00
+1.25
+1.50
+min
+PaO2, mmHg
+FEV1, L
+0
+60
+120
+180
+240
+300
+360
+40
+50
+60
+70
+0.5
+0.6
+0.7
+0.8
+min
+PaO2, mmHg
+FEV1, L
+0
+60
+120
+180
+240
+300
+360
+50
+60
+70
+80
+90
+0.3
+0.4
+0.5
+min
+PaO2,mmHg
+FEV1, L
+0
+60
+120
+180
+240
+300
+360
+60
+70
+80
+90
+100
+0.2
+0.3
+0.4
+0.5
+min
+PaO2, mmHg
+FEV1, L
+0
+60
+120
+180
+240
+300
+360
+50
+60
+70
+80
+90
+0.5
+0.6
+0.7
+0.8
+0.9
+1.0
+min
+PaO2, mmHg
+FEV1, L
+0
+60
+120
+180
+240
+300
+360
+40
+50
+60
+70
+80
+0.3
+0.4
+0.5
+0.6
+min
+PaO2, mmHg
+FEV1, L
+0
+60
+120
+180
+240
+300
+360
+50
+60
+70
+80
+1.25
+1.50
+1.75
+2.00
+2.25
+min
+PaO2, mmHg
+FEV1, L
+Figure 2
+Individual changes in FEV1 (solid line) and PaO2 (dashed line) over time after administration of indacaterol 150 mg
+(squares) and 300 mg (triangles) via Breezhaler. Group A received ﬁrst indacaterol 150 mg and then indacaterol 300 mg; Group B
+received ﬁrst indacaterol 300 mg and then indacaterol 150 mg.
+310
+P. Rogliani et al.
+considered a preliminary note, suggest two important
+points related to the use of this once-daily LABA.
+First of all, despite being a long-acting bronchodilator
+with high afﬁnity for b2-adrenoceptors, indacaterol does
+not seem to cause any signiﬁcant change in blood gases
+even in AECOPD, although some patients can present
+transient episodes of oxygen desaturation that normalize
+spontaneously in a very short time. In any case, we
+observed a decrease in PaO2 mainly in patients with rela-
+tively well-preserved PaO2. This is an important conﬁrma-
+tory ﬁnding. It has already been documented that b-
+agonists cause an increase in VA/Q inequality in patients
+having PaO2 values greater than 60 mmHg which results in a
+moderate fall in the PaO2, whereas in patients with PaO2
+values less than 60 mmHg, no signiﬁcant changes in VA/Q
+distributions or PaO2 after b-agonists has been observed
+[20]. Reasons for this are undoubtedly complex but may
+involve loss of hypoxic pulmonary vasoconstriction due to
+morphologic changes of the pulmonary vasculature [20]. It
+has been suggested that, in more severe COPD with more
+prominent hypoxaemia, the pulmonary vascular tone is
+more disturbed than in patients with less severe disease,
+with the vessels more rigid and ﬁxed, hence less liable to be
+vasodilated by b-agonists [21].
+The second main observation is that when the obstruc-
+tion is very tight, it may be necessary to use a higher
+indacaterol dose than that commonly prescribed for a COPD
+patient who is in a stable clinical condition. This does not
+seem to be a problem if we focus on the impact of inda-
+caterol on blood gas levels because our data seem to rule
+out that the increase in dose of a b2-agonist may aggravate
+the PaO2 response, in contrast to what was originally
+thought by Ferrer and co-workers [22]. In any case, we
+already documented that the administration of indacaterol
+300 mg to patients admitted to emergency department for
+an AECOPD resulted in a greater improvement of pulmonary
+function compared with traditional therapy, with a statis-
+tically signiﬁcant improvement in PaO2 [23].
+The transient decrease in PaO2 induced by inhaled b2-
+agonists despite concomitant bronchodilation has been
+attributed to the pulmonary vasodilator action of these
+agents, increasing blood ﬂow to poorly ventilated lung re-
+gions resulting in greater VA/Q inequalities [21]. The
+outcome of VA/Q mismatch is admixture of venous blood to
+oxygenated blood leading to a decrease in PaO2, the arte-
+rial saturation of haemoglobin with oxygen, and thereby
+the arterial oxygen content that reaches the left-sided
+circulation [24]. However, although LABAs have an acute
+vasodilator action in the airways, the modest contribution
+of bronchial circulation to the lung’s blood ﬂow indicates
+that it does not participate signiﬁcantly in gas exchange
+and suggests that the impact of the vasodilating effect of
+b2-agonists on V/Q inequality is small and unimportant [25].
+Multiple effects in different compartments involved in gas
+exchange (including airﬂow and blood ﬂow distribution) can
+cause a decrease in PaO2 [24]. Alterations that affect the
+post-alveolar (capillary) side, for example, a change of the
+central venous oxygen saturation of haemoglobin due to an
+alteration in cardiac output, changes in ventilation or acute
+bronchial obstruction can affect PaO2 and therefore need to
+be taken into consideration [25]. Unfortunately, these con-
+structs were not veriﬁed in the present study, which was only
+focused on the impact of indacaterol on arterial blood gases
+and the possible link between bronchodilation and decrease
+in PaO2. What, however, this study allows to exclude is that
+there is a dose-dependent effect of indacaterol on arterial
+blood gases. Furthermore, bronchodilation is completely
+independent of this systemic effect.
+0
+60
+120
+180
+240
+300
+360
+10
+15
+20
+25
+*
+min
+A-a gradient, mmHg
+0
+60
+120
+180
+240
+300
+360
+5
+10
+15
+20
+25
+min
+A-a gradient, mmHg
+0
+60
+120
+180
+240
+300
+360
+15
+20
+25
+30
+35
+40
+min
+A-a gradient, mmHg
+*
+A
+B
+C
+Figure 3
+Mean changes (se) in Aea gradient over time after administration of indacaterol 150 mg (squares) and 300 mg (tri-
+angles) via Breezhaler (A, all patients; B, patients with a normal basal Aea gradient; C, patients with a high basal Aea gradient).
+*P < 0.05 vs. baseline.
+Indacaterol and arterial blood gases
+311
+Karpel co-workers [4] reported that metaproterenol
+produced a mean decline in PaO2 of 6.2 mmHg during
+AECOPD. Nonetheless, the small effect of indacaterol on
+blood gases of our patients with AECOPD ﬁts rather well
+with the observation of Polverino and co-workers [21], who
+showed that the administration of 5.0 mg salbutamol at the
+time
+of
+exacerbation
+did
+not
+aggravate
+the
+already
+compromised pulmonary gas exchange. A weaker (or even
+absent) hypoxic pulmonary vascular response related more
+to acutely severe alveolar hypoxia than to a permanent
+structural derangement of the pulmonary vasculature was
+suggested a the most likely explanation of the lack of gas
+exchange response to salbutamol in AECOPD [21]. However,
+also other explanations were postulate [26]. For example,
+b2-agonists can minimize the subsequent release of other
+inﬂammatory mediators into the pulmonary circulation,
+with vasodilator effects during AECOPD that can disturb the
+underlying V/Q imbalance [26]. Moreover, the potential of
+b2-agonist-induced inhibitory effects on the postcapillary
+bronchial
+venoconstriction
+and
+airway
+microvascular
+leakage, possibly ampliﬁed by their potent relaxant effect
+on conducting airways, cannot be overlooked [26].
+Whatever the mechanisms behind the changes in arterial
+blood gases, our ﬁndings were broadly reassuring. They
+indicated that indacaterol up to 300 mg is a potent
+bronchodilator that may induce small, transient decrease in
+PaO2 mainly in patients with relatively well-preserved PaO2
+and, consequently, there appeared to be no clinical con-
+sequences of these PaO2 abnormalities. Moreover, our study
+suggests that an increase in PaCO2 following a high dose of
+indacaterol is uncommon in patients with AECOPD.
+However, since all our patients were taking inhaled b2-
+agonists regularly prior to be studied, and it is well-known
+that regular use of these agents can lead to down-
+regulation of their systemic response [13], it is now
+mandatory to repeat the study in b2-agonist-naı¨ve subjects.
+Moreover, since Polverino and co-workers [21] documented
+that while in convalescence, the gas exchange response to
+an inhaled b2-agonist is deleterious resulting in small dec-
+rements in PaO2 due to V/Q worsening, the study must be
+repeated in patients suffering from stable COPD.
+Conﬂict of interest statement
+We declare that we have no conﬂict of interest with this
+study that has not been sponsored by any Drug Company.
+However, Mario Cazzola is a member of a scientiﬁc advisory
+board and the speaker bureau of Novartis and is a consul-
+tant of Chiesi Farmaceutici.
+0
+100
+200
+300
+400
+-25
+-20
+-15
+-10
+-5
+0
+A
+r2 = 0.01533
+Δ FEV1,mL
+Δ PaO2, mmHG
+0
+100
+200
+300
+400
+500
+600
+-20
+-10
+0
+r2 = 0.00051
+1, mL
+2, mmHg
+B
+Δ PaO
+Δ FEV
+Figure 4
+Relationship between the greatest changes in FEV1 and peak decreases in PaO2 with indacaterol 150 mg (A) and 300 mg
+(B) via Breezhaler.
+312
+P. Rogliani et al.
+References
+[1] MacIntyre N, Huang YC. Acute exacerbations and respiratory
+failure in chronic obstructive pulmonary disease. Proc Am
+Thorac Soc 2008;5:530e5.
+[2] Emerman CL, Cydulka RK. Effect of different albuterol dosing
+regimens in the treatment of acute exacerbation of chronic
+obstructive pulmonary disease. Ann Emerg Med 1997;29:
+474e8.
+[3] Bernasconi M, Brandolese R, Poggi R, Manzin E, Rossi A. Dos-
+eeresponse effects and time course of effects of inhaled
+fenoterol on respiratory mechanics and arterial oxygen ten-
+sion in mechanically ventilated patients with chronic airﬂow
+obstruction. Intensive Care Med 1990;16:108e14.
+[4] Karpel JP, Pesin J, Greenberg D, Gentry E. A comparison of the
+effects of ipratropium bromide and metaproterenol sulfate in
+acute exacerbations of COPD. Chest 1990;98:835e9.
+[5] Cazzola M, Matera MG. Long-acting b2 agonists as potential
+option in the treatment of acute exacerbations of COPD. Pulm
+Pharmacol Ther 2003;16:197e201.
+[6] Cazzola M, Califano C, Di Perna F, D’Amato M, Terzano C,
+Matera MG, D’Amato G, Marsico SA. Acute effects of higher
+than customary doses of salmeterol and salbutamol in patients
+with acute exacerbation of COPD. Respir Med 2002;96:790e5.
+[7] Cazzola M, D’Amato M, Califano C, Di Perna F, Calderaro E,
+Matera MG, D’Amato G. Formoterol as dry powder oral inha-
+lation compared with salbutamol metered-dose inhaler in
+acute exacerbations of chronic obstructive pulmonary dis-
+ease. Clin Ther 2002;24:595e604.
+[8] Cazzola M, Matera MG, D’Amato M, Califano C, Sanduzzi A,
+Vatrella A, D’Amato G. Bronchodilator response to formoterol
+turbuhaler in patients with COPD under regular treatment with
+formoterol turbuhaler. Pulm Pharmacol Ther 2003;16:105e9.
+[9] Cazzola M, Santus P, Matera MG, Carlucci P, Belloli E, Di
+Marco F, Centanni S. A single high dose of formoterol is as
+effective as the same dose administered in a cumulative
+manner in patients with acute exacerbation of COPD. Respir
+Med 2003;97:458e62.
+[10] Cazzola M, Proietto A, Matera MG. Indacaterol for chronic
+obstructive pulmonary disease (COPD). Drugs Today (Barc)
+2010;46:139e50.
+[11] Cazzola M, Bardaro F, Stirpe E. The role of indacaterol for
+chronic obstructive pulmonary disease (COPD). J Thorac Dis
+2013;5:559e66.
+[12] Balint B, Watz H, Amos C, Owen R, Higgins M, Kramer B. Onset
+of action of indacaterol in patients with COPD: comparison
+with salbutamol and salmeterol-ﬂuticasone. Int J Chron
+Obstruct Pulmon Dis 2010;5:311e8.
+[13] Cazzola M, Page CP, Calzetta L, Matera MG. Pharmacology and
+therapeutics of bronchodilators. Pharmacol Rev 2012;64:
+450e504.
+[14] Cazzola M, Noschese P, De Michele F, D’Amato G, Matera MG.
+Effect of formoterol/budesonide combination on arterial
+blood gases in patients with acute exacerbation of COPD.
+Respir Med 2006;100:212e7.
+[15] Santus P, Centanni S, Morelli N, Di Marco F, Verga M,
+Cazzola M. Tiotropium is less likely to induce oxygen desatu-
+ration in stable COPD patients compared to long-acting b2-
+agonists. Respir Med 2007;101:1798e803.
+[16] Barbera JA, Roca J, Ferrer A, Fe´lez MA, Dı´az O, Roger N,
+Rodriguez-Roisin R. Mechanisms of worsening gas exchange
+during acute exacerbations of chronic obstructive pulmonary
+disease. Eur Respir J 1997;10:1285e9.
+[17] Cazzola M, Segreti A, Stirpe E, Puxeddu E, Ora J, Rogliani P,
+Matera MG. Effect of an additional dose of indacaterol in
+COPD patients under regular treatment with indacaterol.
+Respir Med 2013;107:107e11.
+[18] Rodriguez-Roisin R. Toward a consensus deﬁnition for COPD
+exacerbations. Chest 2000;117(5 Suppl 2):398Se401S.
+[19] Brzezinski M, Luisetti T, London MJ. Radial artery cannulation:
+a comprehensive review of recent anatomic and physiologic
+investigations. Anesth Analg 2009;109:1763e81.
+[20] Ringsted CV, Eliasen K, Andersen JB, Heslet L, Qvist J. Ven-
+tilationeperfusion distributions and central hemodynamics in
+chronic obstructive pulmonary disease: effects of terbutaline
+administration. Chest 1989;96:976e83.
+[21] Polverino E, Gomez FP, Manrique H, Soler N, Roca J,
+Barbera JA, Rodriguez-Roisin R. Gas exchange response to
+short-acting b2-agonists in chronic obstructive pulmonary
+disease severe exacerbations. Am J Respir Crit Care Med 2007;
+176:350e5.
+[22] Ferrer A, Barbera JA, Rodriguez-Roisin R. Gas exchange. In:
+Celli BE, editor. Pharmacotherapy in chronic obstructive pul-
+monarydisease.NewYork:MarcelDekker,Inc;2004. p.95e117.
+[23] Segreti A, Fiori E, Calzetta L, Sabatini M, Segreti V, Rogliani P,
+Cazzola M. The effect of indacaterol during an acute exac-
+erbation of COPD. Pulm Pharmacol Ther 2013 [in press]
+http://dx.doi.org/10.1016/j.pupt.2013.03.020.
+[24] Joos GF. Are b2-agonists safe in patients with acute exacer-
+bations of COPD? Am J Respir Crit Care Med 2007;176:322.
+[25] Amen EM, Becker EM, Truebel H. Analysis of V/Q-matching - a
+safety "biomarker" in pulmonary drug development? Bio-
+markers 2011;16(Suppl. 1):S5e10.
+[26] Cazzola M, Matera MG. Lung blood ﬂow must be considered
+when prescribing a long-acting b2-agonist/inhaled corticoste-
+roid combination. Chest 2012;141:1134e6.
+Indacaterol and arterial blood gases
+313

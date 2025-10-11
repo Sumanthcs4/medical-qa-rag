@@ -1,0 +1,489 @@
+14
+Fever Without Localizing Signs
+115
+14 
+Fever Without Localizing Signs
+Ravi Jhaveri and Eugene D. Shapiro
+Most young children with fever and no apparent focus of infection have 
+self-limited viral infections that resolve without treatment and are not 
+associated with significant sequelae. However, a small proportion of young 
+children with fever who do not appear to be seriously ill may be seen early 
+in the course of a bacterial infection that could progress to bacteremia or 
+meningitis. Despite numerous studies that have attempted to identify the 
+febrile child who appears well but has a serious infection and to assess the 
+effectiveness of potential interventions, no clear answers have emerged.1–4 
+Studies show that parents usually are more willing than physicians to 
+assume the small risk of serious adverse outcomes in exchange for avoiding 
+the short-term adverse effects of invasive diagnostic tests and antimicrobial 
+treatment.5,6 The best approach to the treatment of the febrile child com­
+bines informed estimates of risks, careful clinical evaluation and follow-up 
+of the child, and judicious use of diagnostic tests.7
+ETIOLOGIC AGENTS
+The list of microbes that cause fever in children is extensive. Relative 
+importance of specific agents varies with age, season, and associated 
+symptoms. The goal of this chapter is to assist in identifying the febrile 
+child with a serious bacterial infection (SBI).
+Table 14.1 shows the most common causes of SBI in children younger 
+than 3 months.8–12 The division at 1 month is not absolute; considerable 
+overlap exists. Receipt of vaccines typically administered at 2 months 
+also reduces the risk of SBI. Certain viruses, notably herpes simplex, 
+influenza, and enteroviruses, can cause serious infections in neonates, 
+mimicking septicemia and beginning as fever with no apparent focus of 
+infection. Less serious viral infections are the most common causes of 
+fever in children of all ages.
+In children between 3 and 35 months of age, most bacterial infec­
+tions with no apparent focus are caused by Streptococcus pneumoniae 
+(in unimmunized children), Neisseria meningitidis, or Salmonella spp. 
+infection (which often is associated with symptoms of gastroenteritis). 
+Because universal administration of pneumococcal and Haemophilus 
+influenzae type b (Hib) conjugate vaccines, Hib has become rare, and 
+the incidence of infection with S. pneumoniae has fallen substantially.13,14 
+Other common causes of invasive bacterial infections in these children, 
+such as Staphylococcus aureus, are usually associated with identifiable 
+focal infections.
+EPIDEMIOLOGY
+Children Younger Than 3 Months
+The risk of serious bacterial infection varies with age. Although longi­
+tudinal studies have shown that only 1% to 2% of children are brought 
+to medical attention for fever during the first 3 months of life, a greater 
+proportion of febrile infants has serious bacterial infections than older 
+children.15–18 Risk is greatest during the immediate neonatal period and 
+through the first month of life, and risk is heightened for infants born 
+prematurely.
+In a prospective study conducted by investigators at the University 
+of Rochester, factors were identified that indicate a low risk of serious 
+bacterial infection in febrile infants younger than 3 months.19 Among 
+233 infants who were born at term with no perinatal complications or 
+underlying diseases, who had not received antibiotics, and who were 
+hospitalized for fever and possible septicemia, 144 (62%) were considered 
+unlikely to have a serious bacterial infection and fulfilled all of the fol­
+lowing criteria: no clinical evidence of infection of the ear, skin, bones, 
+or joints; white blood cell (WBC) count between 5000 and 15,000/mm3; 
+less than 1500 band cells/mm3; and normal urinalysis results. Only 1 
+(0.7%) of the 144 infants had a serious bacterial infection (i.e., Salmonella 
+gastroenteritis), and none had bacteremia. In contrast, among the 89 
+infants who did not meet these criteria, 22 (25%) had a serious bacterial 
+infection (P < 0.0001) and 9 (10%) had bacteremia (P < 0.0005).
+TABLE 14.1  Age-Related Causes of Serious Bacterial Infections in 
+Very Young Infants
+Age Group
+Causative Bacteria
+BACTEREMIA OR MENINGITIS
+<1 month
+Escherichia coli
+Other enteric gram-negative bacilli
+Group B Streptococcus
+Streptococcus pneumoniae
+Staphylococcus aureus
+Salmonella spp.
+Neisseria meningitides
+Streptococcus pneumoniae
+Listeria monocytogenes
+1–3 months
+Escherichia coli
+Other enteric gram-negative bacilli
+Group B Streptococcus
+Salmonella spp.
+Neisseria meningitides
+OSTEOARTICULAR INFECTIONS
+<1 month
+Group B Streptococcus
+Staphylococcus aureus
+1–3 months
+Staphylococcus aureus
+Group B Streptococcus
+Streptococcus pneumoniae
+URINARY TRACT INFECTION
+0–3 months
+Escherichia coli
+Other enteric gram-negative bacilli
+Enterococcus species
+116
+SECTION B  Cardinal Symptom Complexes
+PART II  Clinical Syndromes and Cardinal Features of Infectious Diseases: Approach to Diagnosis and Initial Management
+sedimentation rate, C-reactive protein, procalcitonin, morphologic 
+changes in peripheral blood neutrophils, and quantitative cultures of 
+blood.28,51–58 Clinical scales have been developed to help identify the 
+febrile child with a serious illness.59
+Unfortunately, no test has sufficient sensitivity and positive predictive 
+value (PPV) or NPV to be clinically useful for an individual patient. 
+In the era before conjugate vaccinations for Hib and S. pneumoniae, 
+several studies examined the risk of bacteremia among children with a 
+temperature higher than 40°C and in those with fever and a WBC count 
+of at least 15,000/mm.3,41,51,60 The PPV of the tests for bacteremia was 
+only about 15%. In the current era of low incidence and unconfirmed 
+predictive value of WBC for remaining pathogens, laboratory testing no 
+longer is justified.1,7,45,47
+Making a laboratory-confirmed diagnosis of a viral infection sig­
+nificantly reduces the likelihood that a febrile infant has a concomitant 
+bacterial infection (with the exception of a UTI). This currently holds 
+true for influenza, RSV, and enterovirus, and in the future, it will likely be 
+true for many other respiratory viruses (e.g., human metapneumovirus, 
+parainfluenza virus, coronavirus) that are being diagnosed with multi­
+plex polymerase chain reaction (PCR) technology. One study showed 
+that incorporating viral diagnostics into the initial evaluation of febrile 
+infants reduced the length of hospitalization and healthcare costs.61
+MANAGEMENT
+Although there is no single correct approach to the management of 
+febrile infants without localizing signs who appear well, studies have 
+provided data based on which informed decisions can be made.7 There 
+is general agreement that febrile children who are very young (i.e., vari­
+ously considered to be younger than 3, 2, or 1 month of age) should be 
+managed differently from older children.
+Children Younger Than 3 Months
+Because of the substantially greater risk of serious infections in very 
+young infants with fever and the difficulty in assessing the degree of 
+wellness accurately, pediatricians have approached the management of 
+these cases conservatively. Some clinicians adhere to a protocol of treating 
+all young infants with fever and no apparent focus of infection with 
+broad-spectrum antimicrobial agents administered intravenously in the 
+hospital until the results of cultures of the blood, urine, and cerebrospinal 
+fluid (CSF) are known.62 Although perceived as the safe approach, it 
+incurs considerable financial cost and risk of iatrogenic complications 
+and of diagnostic misadventures associated with hospitalization.63–65 
+These risks include errors in the type and dosage of drugs, complications 
+of venous cannulation (e.g., phlebitis, sloughing of the skin), and noso­
+comial infections. Hospitalization of a young infant is a major disruption 
+for the family and may potentiate development of the vulnerable child 
+syndrome.66
+Investigators have found that selected young infants with fever can 
+be treated expectantly without hospitalization.4,7,19,21,27,67 Consequently, 
+many experts think that febrile infants between 4 and 12 weeks of age 
+with no apparent focus of infection who appear well or have a laboratory-
+documented viral infection can be treated without additional laboratory 
+tests or hospitalization, provided that careful follow-up is ensured.7 
+Others prefer to confirm laboratory criteria that predict low risk (some­
+times including a normal CSF analysis result). Some providers observe 
+the patient very closely without giving antimicrobial therapy; others treat 
+all such infants for 2 days with a single daily dose of ceftriaxone (50 mg/
+kg) administered parenterally while awaiting the results of blood, urine, 
+and CSF cultures. Either approach, if careful and vigilant, is defensible.
+Before an antimicrobial agent is administered, cultures of the blood, 
+urine, and CSF should be obtained. Rapid tests for specific viral patho­
+gens are widely available, can aid decisions about managing patients, and 
+can reduce the duration of hospitalization or eliminate the need.7,31–33,68 
+Febrile infants at low risk for serious bacterial infection for whom 
+adequate home observation and follow-up cannot be ensured should 
+be hospitalized and can be observed without antimicrobial treatment. If 
+the child appears well, doing so is reasonable and avoids the adverse side 
+effects of antimicrobial agents and intravenous cannulation, shortens the 
+duration of hospitalization, and saves money without placing the child 
+at significant risk for complications.21,27,67
+Many studies have largely corroborated results of the Rochester 
+study.11,12,20–25 Although investigators have used slightly different criteria 
+to define young febrile infants at low risk for serious bacterial infection 
+(and some investigators excluded children younger than 1 month old), 
+all found that the risk of a serious bacterial illness in the group defined 
+as being at low risk is very low. Approximately 10% of young febrile 
+infants have urinary tract infections (UTIs), largely due to Escherichia 
+coli, and 10% of this group (1% overall) have concomitant bacteremia 
+or meningitis.11,12,26
+In a meta-analysis of studies of febrile children younger than 3 months, 
+the risks of serious bacterial illness, bacteremia, and meningitis were 
+24.3%, 12.8%, and 3.9%, respectively, for high-risk infants and 2.6%, 
+1.3%, and 0.6%, respectively, for low-risk infants.15 The negative predic­
+tive value (NPV) for serious bacterial illnesses among infants fulfilling 
+low-risk criteria ranged from 95% to 99%, and the NPV was 99% for 
+bacteremia and 99.5% for meningitis.15 Although the risk of serious 
+bacterial infection is high among febrile infants younger than 3 months 
+of age with no apparent focus of infection, clinical and laboratory assess­
+ment can identify the slightly more than 50% of infants at very low risk.
+An observational study of more than 3000 infants younger than 3 
+months of age with fever greater than 38°C treated by practitioners and 
+reported as part of the Pediatric Research in Office Settings Network 
+found that 64% were not hospitalized.4,27 Practitioners individualized 
+management and relied on clinical judgment; guidelines were followed 
+in only 42% of episodes.4,27,28 Outcomes of the children were excellent. If 
+the guidelines had been followed, outcomes would not have improved, 
+but there would have been substantially more laboratory tests performed 
+and more hospitalizations.4
+Risk of serious bacterial illness in young infants has fallen further due 
+to the marked reduction in early-onset group B streptococcal infections 
+because of the effectiveness of peripartum antimicrobial prophylaxis of 
+pregnant women with positive screening test results for colonization with 
+group B Streptococcus.29 In febrile children younger than 3 months of 
+age who have an identified viral infection such as influenza, respiratory 
+syncytial virus (RSV), or enteroviruses, the risk of a serious bacterial 
+infection other than a UTI falls to almost zero.24,30–33
+Children Older Than 3 Months
+In the 1970s and 1980s, there was concern about occult bacteremia in 
+febrile children between 3 months and 24 to 36 months of age.34 Studies 
+performed in that era showed that some children 3 months of age or 
+older with fever who did not appear to be toxic and who had no apparent 
+focus of infection had bacteremia, most often due to S. pneumoniae 
+but occasionally due to Hib or N. meningitidis.34–41 In some instances, 
+serious focal infections such as meningitis developed in children with 
+occult bacteremia.
+The concern about progression to focal infections resulted in protocols 
+being developed to identify and intervene for infants at high risk. Protocols 
+emphasized routine blood cultures and empiric antibiotic administration 
+for many febrile children in this age group.28 These practices discounted 
+several facts. First, most children with occult bacteremia have transient 
+infection and recover without antimicrobial therapy and without 
+developing a serious complication (e.g., meningitis, septic shock).28,42,43 
+Second, risk of meningitis complicating occult bacteremia varies with 
+bacterial species (N. meningitidis ≫ Hib ≫> S. pneumoniae).35 Third, 
+universal vaccination against Hib led to elimination in vaccinated 
+infants of the most concerning occult bacteremia, and subsequent use 
+of conjugate pneumococcal vaccine eliminated almost all other cases of 
+occult bacteremia.44–49
+The risk of UTI in well-appearing febrile children in this age group has 
+not changed significantly over the years. Several studies have shown that 
+the rate of UTI varies among different populations (e.g., girls vs. boys, 
+uncircumcised vs. circumcised) within this age group and varies with 
+height and duration of fever. UTI should be considered as a potential 
+source of SBI in these patients.44,50
+LABORATORY FINDINGS AND DIAGNOSIS
+Various diagnostic tests to quantify the risk of bacteremia and its compli­
+cations have been assessed. They include the WBC count and differential 
+count, microscopic examination of buffy coat of blood, erythrocyte 
+If no focus is found and the child does not appear toxic, no diagnostic 
+tests are indicated routinely. Parents should be instructed to look for signs 
+that a more serious problem is developing (e.g., persistent irritability or 
+lethargy, inattentiveness to the environment). Serial observations should 
+be planned that permit subsequent clinical and laboratory evaluation 
+and antimicrobial treatment as indicated. If a practitioner encounters a 
+febrile child older than 4 months of age who is unimmunized or partially 
+immunized, a more aggressive plan for evaluation and management may 
+be warranted.
+Other Considerations
+This chapter focuses on invasive bacterial infections, particularly bac­
+teremia, as a cause of fever without apparent focus. Although other 
+serious illnesses such as autoimmune diseases and inflammatory bowel 
+disease can manifest as fever without a focus of infection, they are rare 
+and come to attention because of persistence or recurrence of fever (see 
+Chapter 15).
+All references are available online at www.expertconsult.com.
+KEY REFERENCES
+7.	 Jhaveri R, Byington CL, Klein JO, Shapiro ED. Management of the non-toxic-
+appearing acutely febrile child: a 21st century approach. J Pediatr 2011;159:181–185.
+11.	 Watt K, Waddle E, Jhaveri R. Changing epidemiology of serious bacterial infections 
+in febrile infants without localizing signs. PLoS ONE 2010;5:e12448.
+12.	 Greenhow TL, Hung YY, Herz AM. Changing epidemiology of bacteremia in infants 
+aged 1 week to 3 months. Pediatrics 2012;129:e590–e596.
+19.	 Dagan R, Powell KR, Hall CB, Menegus MA. Identification of infants unlikely to 
+have serious bacterial infection although hospitalized for suspected sepsis. J Pediatr 
+1985;107:855–860.
+24.	 Byington CL, Enriquez FR, Hoff C, et al. Serious bacterial infections in febrile infants 
+1 to 90 days old with and without viral infections. Pediatrics 2004;113:1662–1666.
+31.	 Krief WI, Levine DA, Platt SL, et al. Influenza virus infection and the risk of serious 
+bacterial infections in young febrile infants. Pediatrics 2009;124:30–39.
+32.	 Levine DA, Platt SL, Dayan PS, et al. Risk of serious bacterial infection in 
+young febrile infants with respiratory syncytial virus infections. Pediatrics 
+2004;113:1728–1734.
+33.	 Rittichier KR, Bryan PA, Bassett KE, et al. Diagnosis and outcomes of enterovirus 
+infections in young infants. Pediatr Infect Dis J 2005;24:546–550.
+35.	 Shapiro ED, Aaron NH, Wald ER, Chiponis D. Risk factors for development of bac­
+terial meningitis among children with occult bacteremia. J Pediatr 1986;109:15–19.
+50.	 Hoberman A, Wald ER. Urinary tract infections in young febrile children. Pediatr 
+Infect Dis J 1997;16:11–17.
+Most infants with fever who are younger than 1 month should be 
+hospitalized and treated with antimicrobial therapy (with or without 
+acyclovir for herpes simplex virus), although in selected instances, hos­
+pitalization without antimicrobial treatment or outpatient management 
+after laboratory evaluations, including CSF analysis, may be reasonable. 
+If a decision is made to administer antimicrobial agents intravenously, 
+ampicillin (100 to 200 mg/kg per day every 6 hours) plus gentamicin 
+(7.5 mg/kg per day every 8 hours) or a third-generation cephalosporin 
+(e.g., ceftriaxone, 50 mg/kg per day in one dose; cefotaxime, 150 mg/kg 
+per day every 8 hours) could be chosen. Ampicillin and gentamicin is a 
+well-established combination with narrower spectrum of antimicrobial 
+activity than ceftriaxone and excellent effectiveness against group B 
+Streptococcus, Listeria monocytogenes, and many enteric gram-negative 
+rods. Because of the rising incidence of ampicillin-resistant E. coli 
+and the rarity of listeriosis in recent large studies, a regimen with a 
+third-generation cephalosporin without ampicillin offers coverage for 
+the few infants who have bacteremia or meningitis with a UTI due to 
+ampicillin-resistant E. coli.11,12,25 No study has directly assessed the rela­
+tive risks and benefits of either regimen. Before initiating antimicrobial 
+treatment with any regimen, cultures of the blood, urine (obtained by 
+urethral catheterization or suprapubic aspiration of the bladder), and 
+CSF should be obtained.
+Children 3 Months of Age and Older
+Children 3 months of age and older who appear well and have no apparent 
+focus of infection can be evaluated clinically without laboratory tests or 
+treatment with antimicrobial agents, with the exception of examination 
+of the urine. In the current conjugate vaccine era, blood culture isolates 
+are substantially more likely to be contaminants than to be pathogens.7 
+Substantial evidence suggests that obtaining blood cultures routinely 
+from these children has little impact on outcome, although false-positive 
+blood culture results lead to substantial unnecessary costs.69,70
+The following approach seems appropriate. The febrile child should be 
+carefully assessed for a focus of infection, including UTI, and if a focus 
+is found, the child should be treated according to likely pathogens. If 
+the child appears toxic, appropriate cultures and diagnostic tests should 
+be performed, and antimicrobial treatment (usually with cefotaxime, 
+150 mg/kg per day in divided doses every 8 hours, or ceftriaxone, 
+50 mg/kg once daily) should be initiated; some physicians add vancomy­
+cin (40 mg/kg per day in divided doses every 6 to 8 hours). Most of these 
+children should be hospitalized.
+14
+Fever Without Localizing Signs
+117.e1
+REFERENCES
+1.	 Lee GM, Fleisher GR, Harper MB. Management of febrile children in the age 
+of the conjugate pneumococcal vaccine: a cost-effectiveness analysis. Pediatrics 
+2001;108:835–844.
+2.	 Kramer MS, Lane DA, Mills EL. Should blood cultures be obtained in the evaluation 
+of young febrile children without evident focus of bacterial infection? A decision 
+analysis of diagnostic management strategies. Pediatrics 1989;84:18–27.
+3.	 Lieu TA, Schwartz JS, Jaffe DM, Fleisher GR. Strategies for diagnosis and treatment 
+of children at risk for occult bacteremia: clinical effectiveness and cost-effectiveness. 
+J Pediatr 1991;118:21–29.
+4.	 Roberts KB. Young, febrile infants: a 30-year odyssey ends where it started. JAMA 
+2004;291:1261–1262.
+5.	 Kramer MS, Etezadi-Amoli J, Ciampi A, et al. Parents’ versus physicians’ values for 
+clinical outcomes in young febrile children. Pediatrics 1994;93:697–702.
+6.	 Kramer MS, Shapiro ED. Management of the young febrile child: a commentary on 
+recent practice guidelines. Pediatrics 1997;100:128–134.
+7.	 Jhaveri R, Byington CL, Klein JO, Shapiro ED. Management of the non-toxic-
+appearing acutely febrile child: a 21st century approach. J Pediatr 2011;159:181–185.
+8.	 Klein JO, Schlesinger PC, Karasic RB. Management of the febrile infant three months 
+of age or younger. Pediatr Infect Dis 1984;3:75–79.
+9.	 Leggiadro RJ, Darras BT. Viral and bacterial pathogens of suspected sepsis in young 
+infants. Pediatr Infect Dis 1983;2:287–289.
+10.	 Byington CL, Rittichier KK, Bassett KE, et al. Serious bacterial infections in febrile 
+infants younger than 90 days of age: the importance of ampicillin-resistant patho­
+gens. Pediatrics 2003;111:964–968.
+11.	 Watt K, Waddle E, Jhaveri R. Changing epidemiology of serious bacterial infections 
+in febrile infants without localizing signs. PLoS ONE 2010;5:e12448.
+12.	 Greenhow TL, Hung YY, Herz AM. Changing epidemiology of bacteremia in infants 
+aged 1 week to 3 months. Pediatrics 2012;129:e590–e596.
+13.	 Centers for Disease Control and Prevention (CDC). Invasive pneumococcal disease 
+in young children before licensure of 13-valent pneumococcal conjugate vaccine–
+United States, 2007. MMWR Morb Mortal Wkly Rep 2010;59:253–257.
+14.	 Centers for Disease Control and Prevention (CDC). Progress toward eliminating 
+Haemophilus influenzae type b disease among infants and children–United States, 
+1987-1997. MMWR Morb Mortal Wkly Rep 1998;47:993–998.
+15.	 Baraff LJ, Oslund SA, Schriger DL, Stephen ML. Probability of bacterial infections 
+in febrile infants less than three months of age: a meta-analysis. Pediatr Infect Dis J 
+1992;11:257–264.
+16.	 McCarthy PL, Dolan TF. The serious implications of high fever in infants during 
+their first three months. Six years’ experience at Yale-New Haven Hospital Emergency 
+Room. Clin Pediatr (Phila) 1976;15:794–796.
+17.	 Hoekelman R, Lewin EB, Shapira MB, Sutherland SA. Potential bacteremia in 
+pediatric practice. Am J Dis Child 1979;133:1017–1019.
+18.	 Roberts KB, Borzy MS. Fever in the first eight weeks of life. Johns Hopkins Med J 
+1977;141:9–13.
+19.	 Dagan R, Powell KR, Hall CB, Menegus MA. Identification of infants unlikely to 
+have serious bacterial infection although hospitalized for suspected sepsis. J Pediatr 
+1985;107:855–860.
+20.	 McCarthy PL. The febrile infant. Pediatrics 1994;94:397–399.
+21.	 Baker MD, Bell LM, Avner JR. Outpatient management without antibiotics of fever 
+in selected infants. N Engl J Med 1993;329:1437–1441.
+22.	 Dagan R, Sofer S, Phillip M, Shachak E. Ambulatory care of febrile infants younger 
+than 2 months of age classified as being at low risk for having serious bacterial 
+infections. J Pediatr 1988;112:355–360.
+23.	 Jaskiewicz JA, McCarthy CA, Richardson AC, et al. Febrile infants at low risk for 
+serious bacterial infection—an appraisal of the Rochester criteria and implications for 
+management. Febrile Infant Collaborative Study Group. Pediatrics 1994;94:390–396.
+24.	 Byington CL, Enriquez FR, Hoff C, et al. Serious bacterial infections in febrile 
+infants 1 to 90 days old with and without viral infections. Pediatrics 2004;113:
+1662–1666.
+25.	 Biondi E, Evans R, Mischler M, et al. Epidemiology of bacteremia in febrile infants 
+in the United States. Pediatrics 2013;132:990–996.
+26.	 Greenhow TL, Hung YY, Herz AM, et al. The changing epidemiology of serious 
+bacterial infections in young infants. Pediatr Infect Dis J 2014;33:595–599.
+27.	 Pantell RH, Newman TB, Bernzweig J, et al. Management and outcomes of care of 
+fever in early infancy. JAMA 2004;291:1203–1212.
+28.	 Baraff LJ, Bass JW, Fleisher GR, et al. Practice guideline for the management of 
+infants and children 0 to 36 months of age with fever without source. Agency for 
+Health Care Policy and Research. Ann Emerg Med 1993;22:1198–1210.
+29.	 Centers for Disease Control and Prevention (CDC). Trends in perinatal group B 
+streptococcal disease–United States, 2000-2006. MMWR Morb Mortal Wkly Rep 
+2009;58:109–112.
+30.	 Bender JM, Ampofo K, Gesteland P, et al. Influenza virus infection in infants less 
+than three months of age. Pediatr Infect Dis J 2010;29:6–9.
+31.	 Krief WI, Levine DA, Platt SL, et al. Influenza virus infection and the risk of serious 
+bacterial infections in young febrile infants. Pediatrics 2009;124:30–39.
+32.	 Levine DA, Platt SL, Dayan PS, et al. Risk of serious bacterial infection in young 
+febrile infants with respiratory syncytial virus infections. Pediatrics 2004;113:
+1728–1734.
+33.	 Rittichier KR, Bryan PA, Bassett KE, et al. Diagnosis and outcomes of enterovirus 
+infections in young infants. Pediatr Infect Dis J 2005;24:546–550.
+34.	 McGowan JE Jr, Bratton L, Klein JO, Finland M. Bacteremia in febrile children seen 
+in a “walk-in” pediatric clinic. N Engl J Med 1973;288:1309–1312.
+35.	 Shapiro ED, Aaron NH, Wald ER, Chiponis D. Risk factors for development of bacte­
+rial meningitis among children with occult bacteremia. J Pediatr 1986;109:15–19.
+36.	 Myers MG, Wright PF, Smith AL, Smith DH. Complications of occult pneumococcal 
+bacteremia in children. J Pediatr 1974;84:656–660.
+37.	 Dashefsky B, Teele DW, Klein JO. Unsuspected meningococcemia. J Pediatr 
+1983;102:69–72.
+38.	 Marshall R, Teele DW, Klein JO. Unsuspected bacteremia due to Haemophilus 
+influenzae: outcome in children not initially admitted to hospital. J Pediatr 
+1979;95:690–695.
+39.	 Teele DW, Pelton SI, Grant MJ, et al. Bacteremia in febrile children under 2 years of 
+age: results of cultures of blood of 600 consecutive febrile children seen in a “walk-in” 
+clinic. J Pediatr 1975;87:227–230.
+40.	 Dershewitz RA, Wigder HN, Wigder CM, Nadelman DH. A comparative study 
+of the prevalence, outcome, and prediction of bacteremia in children. J Pediatr 
+1983;103:352–358.
+41.	 McCarthy PL, Jekel JF, Dolan TF Jr. Temperature greater than or equal to 40 C in 
+children less than 24 months of age: a prospective study. Pediatrics 1977;59:663–668.
+42.	 Korones DN, Shapiro ED. Occult pneumococcal bacteremia: what happens to the 
+child who appears well at reevaluation? Pediatr Infect Dis J 1994;13:382–386.
+43.	 Bachur R, Harper MB. Reevaluation of outpatients with Streptococcus pneumoniae 
+bacteremia. Pediatrics 2000;105:502–509.
+44.	 Waddle E, Jhaveri R. Outcomes of febrile children without localising signs after 
+pneumococcal conjugate vaccine. Arch Dis Child 2009;94:144–147.
+45.	 Wilkinson M, Bulloch B, Smith M. Prevalence of occult bacteremia in children 
+aged 3 to 36 months presenting to the emergency department with fever in the 
+postpneumococcal conjugate vaccine era. Acad Emerg Med 2009;16:220–225.
+46.	 Sard B, Bailey MC, Vinci R. An analysis of pediatric blood cultures in the postpneu­
+mococcal conjugate vaccine era in a community hospital emergency department. 
+Pediatr Emerg Care 2006;22:295–300.
+47.	 Stoll ML, Rubin LG. Incidence of occult bacteremia among highly febrile young 
+children in the era of the pneumococcal conjugate vaccine: a study from a Children’s 
+Hospital Emergency Department and Urgent Care Center. Arch Pediatr Adolesc Med 
+2004;158:671–675.
+48.	 Alpern ER, Alessandrini EA, Bell LM, et al. Occult bacteremia from a pediatric emer­
+gency department: current prevalence, time to detection, and outcome. Pediatrics 
+2000;106:505–511.
+49.	 Alpern ER, Alessandrini EA, McGowan KL, et al. Serotype prevalence of occult 
+pneumococcal bacteremia. Pediatrics 2001;108:E23.
+50.	 Hoberman A, Wald ER. Urinary tract infections in young febrile children. Pediatr 
+Infect Dis J 1997;16:11–17.
+51.	 Bass JW, Steele RW, Wittler RR, et al. Antimicrobial treatment of occult bacteremia: 
+a multicenter cooperative study. Pediatr Infect Dis J 1993;12:466–473.
+52.	 Durbin WA, Szymczak EG, Goldmann DA. Quantitative blood cultures in childhood 
+bacteremia. J Pediatr 1978;92:778–780.
+53.	 Santosham M, Moxon ER. Detection and quantitation of bacteremia in childhood. 
+J Pediatr 1977;91:719–721.
+54.	 McCarthy PL, Jekel JF, Dolan TF Jr. Comparison of acute-phase reactants in pediatric 
+patients with fever. Pediatrics 1978;62:716–720.
+55.	 Brooks GF, Pribble AH, Beaty HN. Early diagnosis of bacteremia by buffy-coat 
+examinations. Arch Intern Med 1973;132:673–675.
+56.	 Sullivan TD, LaScolea LJ Jr, Neter E. Relationship between the magnitude of bacte­
+remia in children and the clinical disease. Pediatrics 1982;69:699–702.
+57.	 Jaffe DM, Fleisher GR. Temperature and total white blood cell count as indicators 
+of bacteremia. Pediatrics 1991;87:670–674.
+58.	 Andreola B, Bressan S, Callegaro S, et al. Procalcitonin and C-reactive protein as 
+diagnostic markers of severe bacterial infections in febrile infants and children in 
+the emergency department. Pediatr Infect Dis J 2007;26:672–677.
+59.	 McCarthy PL, Jekel JF, Stashwick CA, et al. History and observation variables in 
+assessing febrile children. Pediatrics 1980;65:1090–1095.
+60.	 Kramer MS, Tange SM, Mills EL, et al. Role of the complete blood count in detect­
+ing occult focal bacterial infection in the young febrile child. J Clin Epidemiol 
+1993;46:349–357.
+61.	 Byington CL, Reynolds CC, Korgenski K, et al. Costs and infant outcomes after imple­
+mentation of a care process model for febrile infants. Pediatrics 2012;130:e16–e24.
+62.	 Jones RG, Bass JW. Febrile children with no focus of infection: a survey of their 
+management by primary care physicians. Pediatr Infect Dis J 1993;12:179–183.
+63.	 DeAngelis C, Joffe A, Willis E, Wilson M. Hospitalization v outpatient treatment of 
+young, febrile infants. Am J Dis Child 1983;137:1150–1152.
+64.	 DeAngelis C, Joffe A, Wilson M, Willis E. Iatrogenic risks and financial costs of 
+hospitalizing febrile infants. Am J Dis Child 1983;137:1146–1149.
+65.	 Roberts KB. Management of young, febrile infants. Primum non nocere revisited. 
+Am J Dis Child 1983;137:1143–1144.
+66.	 Levy JC. Vulnerable children: parents’ perspectives and the use of medical care. 
+Pediatrics 1980;65:956–963.
+67.	 Baker MD, Bell LM, Avner JR. The efficacy of routine outpatient management 
+without antibiotics of fever in selected infants. Pediatrics 1999;103:627–631.
+68.	 Benito-Fernandez J, Vazquez-Ronco MA, Morteruel-Aizkuren E, et al. Impact of 
+rapid viral testing for influenza A and B viruses on management of febrile infants 
+without signs of focal infection. Pediatr Infect Dis J 2006;25:1153–1157.
+69.	 Thuler LC, Jenicek M, Turgeon JP, et al. Impact of a false positive blood culture result 
+on the management of febrile children. Pediatr Infect Dis J 1997;16:846–851.
+70.	 Kramer MS, Mills EL, MacLellan AM, Coates PJ. Effects of obtaining a blood culture 
+on subsequent management of young febrile children without an evident focus of 
+infection. CMAJ 1986;135:1125–1129.

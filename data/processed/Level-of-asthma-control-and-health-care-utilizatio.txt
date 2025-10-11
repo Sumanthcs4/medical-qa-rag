@@ -1,0 +1,871 @@
+Level of asthma control and health care
+utilization in Asia-Paciﬁc countries
+Laura S. Gold a,*, Phillip Thompson b, Sundeep Salvi c,
+Rab A. Faruqi d, Sean D. Sullivan a
+a Pharmaceutical Outcomes Research and Policy Program, School of Pharmacy, University of
+Washington, Seattle, WA, USA
+b Lung Institute of Western Australia and Centre for Asthma, Allergy, and Respiratory Research,
+University of Western Australia, Nedlands, Australia
+c Chest Research Foundation, Maharashtra, India
+d Global Medical Affairs, Merck & Co., Inc, Whitehouse Station, NJ, USA
+Received 17 September 2013; accepted 13 December 2013
+Available online 24 December 2013
+KEYWORDS
+Global Initiative for
+Asthma (GINA)
+guidelines;
+Healthcare
+utilization;
+Long term
+maintenance
+medications;
+Oral steroids;
+Productivity
+Summary
+Background: Data on the impact of asthma in many countries in the Asia-Paciﬁc region is
+limited. This study investigated whether partly- and uncontrolled asthma were associated with
+increased medication use/healthcare utilization and productivity loss among a population of
+asthma patients from nine Asia-Paciﬁc countries.
+Methods: We used cross-sectional data from 3630 asthma patients 12 years from the 2011 Asia-
+Paciﬁc Asthma Insights and Management (AP-AIM) survey. Using Global Initiative for Asthma
+(GINA) guidelines, patients were categorized as having well-controlled, partly- controlled, or un-
+controlled asthma. Chi-square tests were used to assess the relation of degree of asthma control
+with utilization of asthma medications, health services, productivity, and mood.
+Results: Overall, 7.6% of the patients surveyed had asthma that was well-controlled, with the
+highest proportions in Singapore (14%) and the lowest in India (0%) and China (2%). Patients
+whose asthma was not well-controlled reported greater use of asthma medications, more emer-
+gency healthcare visits or hospitalizations for their asthma, and more interference of their mood
+due to asthma. They also reported signiﬁcant decreases in productivity due to asthma.
+Conclusions: Patients who did not have well-controlled asthma had greater utilization rates of
+asthma medications and healthcare services and were more likely to report missing multiple days
+of work/school compared to patients whose asthma was well-controlled. These associations sug-
+gest that emphasis on improving asthma control could have dramatic effects on patient well-
+being and utilization of healthcare resources.
+ª 2013 Elsevier Ltd. All rights reserved.
+* Corresponding author. University of Washington, Box 359455, Seattle, WA 98195-9455, USA. Tel.: þ1 (206) 543 2749; fax: þ1 (206) 543 8609.
+E-mail address: goldl@uw.edu (L.S. Gold).
+0954-6111/$ - see front matter ª 2013 Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.rmed.2013.12.004
+Available online at www.sciencedirect.com
+ScienceDirect
+journal homepage: www.elsevier.com/locate/rmed
+Respiratory Medicine (2014) 108, 271e277
+Introduction
+A World Health Survey conducted in 2002e2003 estimated
+that 3e6% of the 4.2 billion residents of Asian-Paciﬁc
+countries have asthma and, although data are sparse, the
+prevalence of asthma in most of these countries is believed
+to be increasing [1e3]. Asthma causes signiﬁcant morbidity
+in Asia-Paciﬁc countries. In the 2003 Asthma Insights and
+Reality in Asia-Paciﬁc (AIRIAP) Study, 44% of the re-
+spondents reported at least one unscheduled emergency
+healthcare visit for treatment of asthma in the previous
+year [4]. Additionally, some of the highest mortality rates
+from asthma are in Asia-Paciﬁc countries [1]. Although
+affordable medications that have been shown to be highly
+effective at managing asthma have been available since the
+1990s [5], the majority of patients worldwide, including in
+Asia-Paciﬁc countries [6], do not have well-controlled
+asthma. The economic burden of asthma in terms of both
+direct and indirect costs has been shown to be substantial-
+a recent U.S. study estimated that the total annual cost of
+asthma was $56 billion [7] and substantial costs have also
+been attributed to asthma in Asian-Paciﬁc settings [8,9].
+Because the economic and societal impacts of asthma are
+almost certainly correlated with disease severity, we con-
+ducted these analyses to shed light on the relationship
+between degree of asthma control and utilization of health
+services and reduced productivity.
+Over the past decade, physiological measurements of
+asthma control, such as forced expiratory volume in one
+second (FEV1), have been replaced with symptom and
+quality-of-life questionnaires to deﬁne asthma control.
+The Global Initiative for Asthma (GINA) and the United
+States National Asthma Education Prevention Program
+(NAEPP) revised their guidelines to focus on regulating
+asthma symptoms, rather than lung function, in order to
+maintain normal daily activity levels [10,11]. We recently
+conducted studies on asthma patients in the U.S. and in
+Latin America that demonstrated that asthma that is not
+well-controlled according to GINA guidelines is associated
+with increased rates of adverse outcomes compared to
+asthma that is well-controlled [12]. The purpose of the
+current study was to investigate whether partly- and un-
+controlled asthma are associated with outcomes such as
+increased medication use, visits to healthcare providers,
+hospital admissions, and decreases in productivity among
+a population of asthma patients from nine Asia-Paciﬁc
+countries. Determining whether uncontrolled asthma is
+associated
+with these costly
+health
+outcomes is an
+important step toward lessening the burden of this disease
+in these countries.
+Methods
+Asia-Paciﬁc Asthma Insights and Management
+(AP-AIM) survey
+Details abouttheAsia-Paciﬁc Asthma Insights and Management
+(AP-AIM) survey have been described previously [6]. In brief,
+thecross-sectionalAP-AIMsurveywasdesignedtocomplement
+the United States AIM (US-AIM) survey and was conducted from
+FebruaryeJuly 2011. Subjects included in our analyses were
+3630 asthma patients 12 years old identiﬁed froma sample of
+57,131 households in Australia, China, Hong Kong, India,
+Malaysia,Singapore,SouthKorea,Taiwan,andThailand.These
+countries were non-randomly selected based on population
+size, accessibility, and cost ofsurvey implementation. Patients
+were selected by random digit dialing and interviews were
+conducted by telephone in Australia, China, and Hong Kong.
+Patients were selected by random face-to-face interviews at
+pre-speciﬁed locations and were conducted in person in the
+remaining countries. Both telephone and in-person interviews
+averaged 35 min in length. For subjects between 12 and 17
+years, the survey was completed by a parent or guardian. In
+order to be included in this study, patients had to have
+answered that they had been diagnosed with asthma AND that
+they were currently taking medications for their asthma or
+they had had an asthma attack or asthma symptoms in the
+previous 12 months. The 53 questions in this survey were
+drafted in English as part of the US-AIM survey and were then
+translated into local languages. The questions were designed
+to assess asthma burden (short- and long-term symptoms,
+functional impact, and healthcare utilization such as provider
+visits and use of asthma medications) and patient beliefs on
+appropriate use of medications for asthma control. Patients
+werealsoaskedtoassess their(or their children’s)productivity
+on a scale of 0e100% on both typical days and on days when
+their asthma was at its worst. Additionally, demographic vari-
+ables, such as gender, age, smoking status, education level,
+and diagnosis of nasal allergies, were also queried.
+Classiﬁcation of asthma control
+Patients were characterized based on GINA guidelines [10]
+into three categories of level of asthma control: well-
+controlled, partly- controlled, and uncontrolled (Table 1).
+The manifestations of asthma that were used for the catego-
+rizations included daytime symptoms, restriction of daily ac-
+tivities, nighttime symptoms, and need for reliever/rescue
+treatment. We used questions from the surveys that corre-
+lated with the GINA-deﬁned asthma manifestations, with the
+exception of a lung function measurement <80% predicted,
+because lung function measurement data were not obtained.
+Statistical analysis
+Frequencies, chi-square, and Fisher’s exact tests were
+calculated for demographic variables such as age, gender,
+country of residence, family history of asthma, and level of
+education. Next, using chi-square tests, differences by
+GINA-deﬁned level of asthma control in rates of utilization
+of asthma-related medications, use of healthcare services,
+and effects of asthma on patient mood and productivity
+were examined. For an analysis of the relationship of level
+of asthma control with productivity and the number of days
+of missed school/work, KruskaleWallis tests were used to
+detect the signiﬁcance of the means of the different levels
+of asthma control.
+All analyses were conducted using SAS for Windows,
+Version 9.3 (SAS Institute, Inc, Cary, NC).
+Because the data used for this paper did not include
+individually identiﬁable data, nor could the data be linked to
+speciﬁc individuals, this study was deemed not to meet the
+272
+L.S. Gold et al.
+federal regulatory deﬁnition of “human subjects research”
+and hence was exempt from Human Subjects review by the
+University of Washington Institutional Review Board.
+Results
+Frequencies and results of chi-square tests of demographic
+variables, stratiﬁed by GINA-deﬁned level of asthma control,
+are presented in Table 2. Few patients in our study (7.6%)
+had asthma that was classiﬁed as well-controlled. Younger
+patients were slightly more likely than older patients to have
+had asthma that was classiﬁed as well-controlled (13% of
+patients aged 12e17 had well-controlled asthma, compared
+to 5% of patients aged 51þ). Australia and Singapore had the
+highest proportion of patients whose asthma was classiﬁed
+as well-controlled (13% and 14%, respectively) and India and
+China had the lowest (0% and 2.0%, respectively). Patients
+who had a previous diagnosis of rhinitis were more likely to
+have had well-controlled asthma compared to patients who
+had not been diagnosed with rhinitis (9% compared to 6%). A
+higher proportion of asthma patients who lived in the same
+household as a smoker had uncontrolled asthma (32% versus
+28%). Although the relationship was not statistically signiﬁ-
+cant, higher levels of education were associated with having
+asthma that was classiﬁed as well-controlled compared to
+patients with less education. We did not observe meaningful
+differences of level of asthma control by gender, whether a
+family member outside the household had been diagnosed
+with asthma, or whether any pets were in the household.
+Associations between past twelve months-use of asthma
+medications and healthcare services, again stratiﬁed by
+level
+of
+asthma
+control,
+are
+presented
+in
+Table
+3.
+Compared to patients with well-controlled asthma, greater
+proportions of patients with partly- and uncontrolled
+asthma used oral steroid, quick relief or rescue medica-
+tions, long-term maintenance medications, and had un-
+scheduled healthcare visits, hospitalizations, and visits to
+their
+healthcare
+providers
+for
+asthma.
+Additionally,
+patients with partly- and uncontrolled asthma were more
+likely to have missed work or school compared to patients
+with well-controlled asthma.
+Effects of asthma on several indicators of mood are
+presented in Table 4. Patients with partly- and uncontrolled
+asthma were signiﬁcantly more likely to report that asthma
+often or sometimes made them tired, fearful, depressed,
+embarrassed, and frustrated compared to patients with
+well-controlled asthma. Additionally, patients with partly-
+and uncontrolled asthma were signiﬁcantly more likely to
+report feeling lack of control of their lives, inadequate in
+relation to their peers, and that asthma affected how they
+felt about themselves compared to patients with well-
+controlled asthma.
+Finally, Table 5 indicates the impact of asthma on the
+productivity of respondents on typical days and when asthma
+was worst. Compared to patients whose asthma was classi-
+ﬁed as well-controlled, patients with partly- and uncon-
+trolled asthma had signiﬁcantly lower productivity on typical
+days and on days that asthma was worst. This table also
+demonstrates that patients with partly- and uncontrolled
+asthma missed signiﬁcantly more days of work or school in
+the previous year (an average of 3.7 and 7.9 days) compared
+to patients with well-controlled asthma (average of <1 day).
+Discussion
+The results of this research show that patients residing in
+nine Asia-Paciﬁc countries who had asthma that was clas-
+siﬁed according to the 2010 GINA Guidelines as partly- and
+uncontrolled had greater utilization of asthma medications
+and healthcare services compared to patients whose
+asthma was classiﬁed as well-controlled. Additionally, pa-
+tients with partly- and uncontrolled asthma were signiﬁ-
+cantly more likely to report that asthma affected their
+mood, as well as absences from work and school and de-
+creases in their productivity as a result of their asthma.
+Table 1
+Survey questions used to categorize level of asthma control as deﬁned by Global Initiative for Asthma guidelines.
+GINA characteristic
+AP-AIM survey question(s)
+Response:
+controlled
+Response: partly-
+controlled
+Response: not
+controlled
+Daytime symptoms
+“In the past 4 weeks have you (your child)
+had cough, wheezing, shortness of breath,
+or chest tightness during the day?”
+Twice or less per
+week
+Most days or
+every day
+Three or more
+features of
+partly- controlled
+asthma
+Limitation of activities “Do you feel your (your child’s) asthma
+limits you (your child) a lot, some, only
+a little or not at all in sports and
+recreation/normal physical exertion/OR
+daily activities?”
+Not at all
+Any
+Nocturnal symptoms/
+awakening
+“In the past four weeks, have you
+(your child) been awakened by a cough,
+or wheezing, or shortness of breath,
+or chest tightness during the night?”
+No
+Yes
+Need for reliever/
+rescue treatment
+“How often do you (does your child)
+use an inhaler for quick relief or rescue
+from asthma symptoms?”
+1e2 times a week
+or less
+Daily or 3e6 times
+a week
+Abbreviations: AP-AIM, Asia-Paciﬁc Asthma Insights and Management, GINA, Global Initiative for Asthma.
+Asthma in Asia-Paciﬁc countries
+273
+The AP-AIM survey was similar in design to the Asthma
+Insights and Reality in Asia-Paciﬁc (AIRIAP) survey, con-
+ducted in 2000 [4]. This survey, which included several of
+the same countries as our study, also found that level of
+asthma control as measured by 2003 GINA guideline criteria
+was generally poor, with over half the participants report-
+ing
+daytime
+symptoms
+and
+only
+14%
+reported
+using
+preventative asthma medications. A 2006 update to the
+AIRIAP study, the Asthma Insights and Reality in Asia-Paciﬁc
+Phase 2 study, also used 2003 GINA guidelines, as well as the
+Asthma Control Test (ACT) to deﬁne level of asthma control
+[13]. Similar to our study, these authors found that asthma
+patients with partly- and uncontrolled asthma were statis-
+tically signiﬁcantly more likely to use urgent health services
+Table 2
+Frequencies of descriptive variables of Asia-Paciﬁc asthma insights and management survey respondents.
+Total
+(n Z 3630)
+Well-controlled
+n Z 276 (7.6%)
+Partly controlled
+n Z 2271 (63%)
+Uncontrolled
+n Z 1083 (30%)
+Chi-square
+p-Value
+Age
+12e17
+442
+57 (13%)
+279 (63%)
+106 (24%)
+<0.0001
+18e35
+987
+86 (9%)
+654 (66%)
+247 (25%)
+36e50
+1027
+71 (7%)
+631 (61%)
+325 (32%)
+51þ
+1174
+62 (5%)
+707 (60%)
+405 (35%)
+Female
+2174
+156 (7%)
+1380 (63%)
+638 (29%)
+Male
+1455
+120 (8%)
+891 (61%)
+444 (31%)
+0.30
+Country of residence
+Australia
+403
+52 (13%)
+256 (64%)
+95 (24%)
+China
+402
+8 (2%)
+225 (56%)
+169 (42%)
+Hong Kong
+412
+46 (11%)
+300 (73%)
+66 (16%)
+India
+400
+0
+241 (60%)
+159 (40%)
+Malaysia
+413
+26 (6%)
+262 (63%)
+125 (30%)
+Singapore
+400
+54 (14%)
+244 (61%)
+102 (26%)
+South Korea
+400
+33 (8%)
+220 (55%)
+147 (37%)
+Taiwan
+400
+24 (6%)
+290 (73%)
+86 (22%)
+Thailand
+400
+33 (8%)
+233 (58%)
+134 (34%)
+<0.0001
+Asthma patient had diagnosis of rhinitis
+1838
+163 (9%)
+1137 (65%)
+447 (26%)
+Asthma patient did not have diagnosis
+of rhinitis
+1747
+110 (6%)
+1102 (60%)
+626 (34%)
+<0.0001
+Ever took medication for asthma
+3605
+269 (7%)
+2255 (63%)
+1081 (30%)
+Never took medication for asthma
+25
+7 (28%)
+16 (64%)
+2 (8%)
+<0.0001a
+No family member outside Household
+W/asthma
+1944
+135 (7%)
+1200 (62%)
+609 (31%)
+Family member outside household
+W/Asthma
+1345
+110 (8%)
+853 (62%)
+412 (30%)
+0.42
+No smoker in household
+2134
+167 (8%)
+1367 (64%)
+600 (28%)
+Smoker in household
+1491
+109 (7%)
+901 (60%)
+481 (32%)
+0.03
+No pets in household
+2794
+203 (7%)
+1765 (63%)
+826 (30%)
+Pets in household
+826
+73 (9%)
+502 (61%)
+251 (30%)
+0.25
+Highest level of education
+Primary school or less
+452
+29 (6%)
+268 (59%)
+155 (34%)
+Secondary school
+2115
+161 (8%)
+1319 (62%)
+635 (30%)
+University or more
+1036
+86 (8%)
+666 (64%)
+284 (27%)
+0.10
+a Fischer’s exact test used.
+Table 3
+Associations of ever/never past 12 months-use of asthma medications/healthcare services and absence/interference
+with work/school with level of control of asthma symptoms.
+Well-controlled
+Partly controlled
+Uncontrolled
+Chi-square p-Value
+n Z 276 (7.6%)
+n Z 2271 (63%)
+n Z 1083 (30%)
+Oral steroid
+70 (3.9%)
+1042 (59%)
+669 (38%)
+<0.0001
+Use of quick relief/rescue medicine
+155 (5.3%)
+1797 (62%)
+970 (33%)
+<0.0001
+Long-term maintenance medicine
+139 (5.1%)
+1678 (62%)
+897 (33%)
+<0.0001
+Unscheduled/emergency health care visits
+29 (2.8%)
+536 (51%)
+483 (46%)
+<0.0001
+Hospitalization
+6 (1.7%)
+153 (43%)
+193 (55%)
+<0.0001
+Visits to health care provider for asthma
+73 (3.6%)
+1173 (58%)
+792 (39%)
+<0.0001
+Missed work/school
+48 (3.1%)
+891 (58%)
+595 (39%)
+<0.0001
+274
+L.S. Gold et al.
+[13]. We conducted a similar study on the United States
+population [12] and also found that GINA-deﬁned level of
+asthma control was associated with increased utilizations
+of healthcare resources and decreased productivity. Addi-
+tionally, several previous studies have used the ACT
+[13e16] or the National Asthma Education Prevention Pro-
+gram (NAEPP) guidelines [17] to classify level of asthma
+control in order to examine the relationship between
+asthma severity and outcomes. Similar to our ﬁndings,
+these papers found that patients with partly- and uncon-
+trolled asthma were at signiﬁcantly greater risk of using
+healthcare services and adverse health outcomes.
+Although our study included a large population of asthma
+patients that was randomly selected, it also had several
+limitations. First, the nine countries included in this study
+are diverse, especially in terms of healthcare delivery sys-
+tems and socioeconomic indicators. Because we did not have
+enough patients to conduct these analyses separately for
+each country, it is possible that our results are not gener-
+alizable to the general worldwide asthma population. Addi-
+tionally, we did not have data on non-respondents so the
+participants who agreed to take part in the survey may not
+have been representative of asthma patients in general.
+While the wording of the survey questions that we used to
+divide our population into those with well-controlled, partly-
+controlled, and uncontrolled asthma was similar to that used
+in the GINA guidelines (Table 1), it did not correlate
+perfectly. Also, our analyses were based on self-reported
+information which may have been biased. Finally, while
+this paper reports associations between poorly controlled
+asthma and health outcomes, the data were cross-sectional
+and we were unable to examine issues of cause and effect.
+This study suggests over 90% of the population of asthma
+patients in nine Asia-Paciﬁc countries had asthma that was
+classiﬁed
+as
+partly-
+or
+uncontrolled
+by
+international
+guideline deﬁnitions. Additionally, analyses indicated that
+patients who did not have well-controlled asthma had
+greater utilization rates of asthma medications and emer-
+gency healthcare services and were more likely to report
+absences from work and school and decreased productivity
+because of their asthma compared to patients whose
+asthma was well-controlled. These associations suggest
+that a health policy emphasis on improving asthma control
+could beneﬁt not only patients but also the economies of
+these countries as a whole as reductions in the cost of
+asthma care, increases in productivity, and patient well-
+being could be achieved.
+Conﬂict of interest
+Merck Sharp & Dohme Corp. (MSD), a subsidiary of Merck &
+Co., Inc., funded the study. Sundeep Salvi, Rab A. Faruqi,
+and Phillip Thompson received consultant fees from MSD, in
+conjunction with the development and execution of the
+Asia-Paciﬁc AIM Survey. The remaining authors have no
+conﬂicts of interest to report.
+Acknowledgements
+We would like to acknowledge Felicia Allen-Ramey and
+Shalini Bagga for their help with acquiring data for this
+research. This work was sponsored by a grant to the Uni-
+versity of Washington from Merck & Co., Inc.
+Table 4
+Odds associations of mood indicators with level of control of asthma symptoms.
+Well-controlled
+Partly controlled
+Uncontrolled
+Chi-Square p-Value
+n Z 276 (7.6%)
+n Z 2271 (63%)
+n Z 1083 (30%)
+Often/sometimes tired or fatigued
+72 (3.2%)
+1283 (58%)
+866 (39%)
+<0.0001
+Often/sometimes fearful
+40 (3.6%)
+595 (53%)
+480 (43%)
+<0.0001
+Often/sometimes depressed
+15 (1.6%)
+531 (55%)
+421 (44%)
+<0.0001
+Often/sometimes embarrassed
+17 (2.1%)
+415 (51%)
+389 (47%)
+<0.0001
+Often/sometimes frustrated
+30 (2.4%)
+709 (56%)
+532 (42%)
+<0.0001
+Strongly/somewhat agree feel lack of
+control due to asthma
+30 (2.3%)
+686 (53%)
+577 (45%)
+<0.0001
+Strongly/somewhat agree feel
+inadequate in relation to peers due
+to asthma
+18 (2.0%)
+519 (57%)
+372 (41%)
+<0.0001
+Strongly/somewhat agree asthma
+affects self-image
+28 (2.3%)
+684 (57%)
+489 (41%)
+<0.0001
+Table 5
+Asthma interference with productivity and missed work/school by level of control of asthma symptoms.
+Well-controlled
+(Mean  Std. dev.)
+Partly controlled
+(Mean  Std. dev.)
+Uncontrolled
+(mean  Std. dev.)
+F-test p-Value
+Productivity: typical daya
+91  15
+82  16
+77  16
+<0.0001
+Productivity: asthma at its worsta
+59  30
+50  24
+44  21
+<0.0001
+Number of days of missed work/school
+0.75  2.4
+3.7  15
+7.9  29
+<0.0001
+Abbreviation: Std. dev, standard deviation.
+a Productivity measured on scale of 0e100% (higher Z more productive).
+Asthma in Asia-Paciﬁc countries
+275
+Appendix. Survey questions presented in
+Tables 3e5.
+Abbreviated question
+Table
+Survey question
+Survey answers
+presented in table
+Oral steroid
+3
+(Have you/has your child) had to take an oral steroid
+(pill or liquid) to manage (your/your child’s) asthma
+symptoms in the past twelve months?
+Yes
+Use of quick relief/rescue medicine
+3
+When was the most recent time that (you/your child)
+used medicine for quick relief or rescue from asthma
+symptoms?
+Within the past year
+Long-term maintenance medicine
+3
+When was the most recent time that (you/your child)
+took a medicine for the control or prevention of
+(your/your child’s) asthma?
+Within the past year
+Unscheduled/emergency health
+care visits
+3
+Has (your/your child’s) asthma caused any unscheduled
+urgent or emergency visits to a doctors ofﬁce, hospital,
+clinic or somewhere else in the past 12 months?
+Yes
+Hospitalization
+3
+(Have you/Has your child) been hospitalized overnight
+for asthma in the past 12 months?
+Yes
+Visits to health care provider for
+asthma
+3
+In the past 12 months (have you/has your child) seen
+a doctor or other health care provider because of
+asthma exacerbations or worsening symptoms,
+or sudden, severe asthma episodes?
+Yes
+Missed work/school
+3
+Has (your/your child’s) asthma caused (you/your child)
+to miss work or school in the past year?
+Yes
+Often/sometimes tired or fatigued
+4
+As a result of (your/your child’s) asthma, how often
+(do you/does he or she) feel tired or fatigued?
+Often/sometimes
+Often/sometimes fearful
+4
+As a result of (your/your child’s) asthma, how often
+(do you/does he or she) feel fearful?
+Often/sometimes
+Often/sometimes depressed
+4
+As a result of (your/your child’s) asthma, how often
+(do you/does he or she) feel depressed?
+Often/sometimes
+Often/sometimes embarrassed
+4
+As a result of (your/your child’s) asthma, how often
+(do you/does he or she) feel embarrassed?
+Often/sometimes
+Often/sometimes frustrated
+4
+As a result of (your/your child’s) asthma, how often
+(do you/does he or she) feel frustrated?
+Often/sometimes
+Strongly/somewhat agree feel
+lack of control due to asthma
+4
+Do you strongly agree, somewhat agree, neither agree
+nor disagree, somewhat disagree or strongly disagree
+that (my/my child’s) asthma makes (me/my child)
+feel like (I/they) don’t have control of (my/their) life.
+Strongly agree/
+somewhat agree
+Strongly/somewhat agree feel
+inadequate in relation to peers
+due to asthma
+4
+Do you strongly agree, somewhat agree, neither agree
+nor disagree, somewhat disagree or strongly disagree
+that (I/my child) feel(s) inadequate in relation to
+(my/their) peers due to (my/their) asthma.
+Strongly agree/
+somewhat agree
+Strongly/somewhat agree asthma
+affects self-image
+4
+Do you strongly agree, somewhat agree, neither agree
+nor disagree, somewhat disagree or strongly disagree
+that (my/my child’s) asthma affects how (I/my child)
+feel(s) about (myself/himself/herself).
+Strongly agree/
+somewhat agree
+Productivity: typical day
+5
+Thinking about productivity on a scale of 0e100,
+where 100 means 100% productivity, where would you
+rank (your/your child’s) productivity on a typical day?
+__________%
+(Range 0e100)
+Productivity: asthma at its worst
+5
+Where would you rank (your/your child’s) productivity
+on the same scale of 0e100, at times of the year
+when (your/your child’s) asthma was at its worst?
+__________%
+(Range 0e100)
+Number of days of missed
+work/school
+5
+How many work or school days (have you/has your
+child) lost in the past year as a result of asthma?
+____ DAYS LOST
+276
+L.S. Gold et al.
+References
+[1] Masoli M, Fabian D, Holt S, Beasley R. The global burden of
+asthma: executive summary of the GINA Dissemination Com-
+mittee report. Allergy 2004;59:469e78.
+[2] Pearce N, Ait-Khaled N, Beasley R, et al. Worldwide trends in
+the prevalence of asthma symptoms: phase III of the Inter-
+national Study of Asthma and Allergies in Childhood (ISAAC).
+Thorax 2007;62:758e66.
+[3] To T, Stanojevic S, Moores G, et al. Global asthma prevalence
+in adults: ﬁndings from the cross-sectional world health sur-
+vey. BMC Public Health 2012;12:204.
+[4] Lai CK, De Guia TS, Kim YY, et al. Asthma control in the Asia-
+Paciﬁc region: the asthma insights and reality in Asia-Paciﬁc
+study. J Allergy Clin Immunol 2003;111:263e8.
+[5] Szeﬂer SJ. Advancing asthma care: the glass is only half full! J
+Allergy Clin Immunol 2011;128:485e94.
+[6] Thompson PJ, Salvi S, Lin J, et al. Insights, attitudes and
+perceptions about asthma and its treatment: ﬁndings from a
+multinational survey of patients from 8 Asia-Paciﬁc countries
+and Hong Kong. Respirology 2013;18:957e67.
+[7] Barnett SB, Nurmagambetov TA. Costs of asthma in the
+United States: 2002e2007. J Allergy Clin Immunol 2011;127:
+145e52.
+[8] Chew FT, Goh DY, Lee BW. The economic cost of asthma in
+Singapore. Aust N Z J Med 1999;29:228e33.
+[9] Lodha R, Puranik M, Kattal N, Kabra SK. Social and economic
+impact of childhood asthma. Indian Pediatr 2003;40:874e9.
+[10] revised 2010 Global strategy for asthma management and
+prevention.
+Available
+from:,
+http://www.ginasthma.org/;
+2010 [accessed 20.12.11].
+[11] Expert panel report 3: guidelines for the diagnosis and man-
+agement of asthma. National Asthma Education and Preven-
+tion Program (NAEPP); 2007. Available from: http://www.
+nhlbi.nih.gov.offcampus.lib.washington.edu/guidelines/
+asthma/asthgdln.pdf [accessed 01.12.11].
+[12] Gold LS, Smith N, Allen-Ramey FC, Nathan RA, Sullivan SD.
+Associations of patient outcomes with level of asthma control.
+Ann Allergy Asthma Immunol 2012;109:260e5. e2.
+[13] Lai CK, Ko FW, Bhome A, et al. Relationship between asthma
+control status, the Asthma Control Test and urgent health-
+care utilization in Asia. Respirology 2011;16:688e97.
+[14] Pereira ED, Cavalcante AG, Pereira EN, Lucas P, Holanda MA.
+Asthma control and quality of life in patients with moderate or
+severe asthma. J Bras Pneumol 2011;37:705e11.
+[15] Allegra L, Cremonesi G, Girbino G, et al. Real-life prospective
+study on asthma control in Italy: cross-sectional phase results.
+Respir Med 2011;106(2):205e14.
+[16] Williams SA, Wagner S, Kannan H, Bolge SC. The association
+between asthma control and health care utilization, work
+productivity loss and health-related quality of life. J Occup
+Environ Med 2009;51:780e5.
+[17] Murphy KR, Meltzer EO, Blaiss MS, Nathan RA, Stoloff SW,
+Doherty DE. Asthma management and control in the United
+States: results of the 2009 Asthma Insight and Management
+survey. Allergy Asthma Proc 2012;33:54e64.
+Asthma in Asia-Paciﬁc countries
+277

@@ -1,0 +1,891 @@
+HIRA-TAN: A real-time PCR-based system for
+the rapid identiﬁcation of causative agents
+in pneumonia
+Takashi Hirama a,*, Shohei Minezaki a, Takefumi Yamaguchi a,
+Etsuko Kishi b, Keiji Kodama a,c, Hiroshi Egashira a,
+Kunihiko Kobayashi d, Makoto Nagata a, Toshiaki Ishii e,
+Manabu Nemoto f, Masahiko Tanaka g, Koichi Fukunaga h,
+Minoru Kanazawa a, Koichi Hagiwara a
+a Department of Respiratory Medicine, Saitama Medical University, Moroyama-machi,
+Saitama 350-0495, Japan
+b Central Laboratory, Saitama Medical University, 38 Morohongo, Moroyama-machi,
+Saitama 350-0495, Japan
+c Department of General Internal Medicine, Saitama Medical University, Moroyama-machi,
+Saitama 350-0495, Japan
+d Department of Respiratory Medicine, Saitama Medical University International Medical Center,
+Hidaka, Saitama 350-1298, Japan
+e Tsurugashima Ikenodai Hospital, Tsurugashima, Saitama 350-2200, Japan
+f Department of Emergency and Acute Medicine, Saitama Medical University International Medical
+Center, Hidaka, Saitama 350-1298, Japan
+g Kan-etsu Hospital, Tsurugashima, Saitama 350-2213, Japan
+h Pulmonary Division, Department of Medicine, Keio University School of Medicine, Shinjuku,
+Tokyo 160-8582, Japan
+Received 30 September 2013; accepted 28 November 2013
+Available online 10 December 2013
+KEYWORDS
+Pneumonia;
+Real-time PCR;
+HIRA-TAN;
+Summary
+Identiﬁcation of the causative pathogen(s) of pneumonia would allow the selection of effective
+antibiotics and thus reduce the mortality rate and the emergence of drug-resistant pathogens.
+To identify such pathogens and to obtain these beneﬁts, it is necessary that a clinical test is
+* Corresponding author. Department of Respiratory Medicine, Saitama Medical University, 38 Morohongo, Moroyama, Saitama 350-0495,
+Japan. Tel./fax: þ81 49 276 1319.
+E-mail address: mycobacteriumtuberculosis@hotmail.com (T. Hirama).
+0954-6111 ª 2013 The Authors. Published by Elsevier Ltd.
+http://dx.doi.org/10.1016/j.rmed.2013.11.018
+Available online at www.sciencedirect.com
+ScienceDirect
+journal homepage: www.elsevier.com/locate/rmed
+Respiratory Medicine (2014) 108, 395e404
+Open access under CC BY-NC-ND license.
+Commensal organism;
+Foreign organism
+rapid, accurate, easily performed, and cost-effective. Here, we devised a PCR-based test,
+named HIRA-TAN, which is able to discriminate therapeutic targets from commensal organisms
+(e.g. Streptococcus pneumoniae or Haemophilus inﬂuenzae) and to detect foreign organisms
+(e.g. Mycoplasma pneumoniae or Legionella pneumophila) in the sputum. The utility of this
+system was validated in a prospective study, using sputum samples from patients with pneu-
+monia. 568 patients were enrolled and the HIRA-TAN assay identiﬁed the causative pathogens
+with an accuracy of 96.7% for H. inﬂuenzae; 93.2% for Pseudomonas aeruginosa; 80.6% for
+Klebsiella pneumoniae; 90.9% for Moraxella catarrhalis; 87.5% for Escherichia coli; 78.1% for
+MRSA and 91.6% for S. pneumoniae. Overall the HIRA-TAN procedure was able to identify
+the causative pathogens of pneumonia in 60% of the cases. Additionally, this procedure was
+able to determine when the pneumonia-causing organism was a commensal organism or a
+foreign organism in a single assay. The HIRA-TAN approach yielded reproducible results and
+provided valuable information to plan the course of treatment of pneumonia. Through the
+rapid identiﬁcation of the causative pathogens, the HIRA-TAN will promote targeted treat-
+ments for pneumonias. Clinical Trials Registration: UMIN000001694.
+ª 2013 The Authors. Published by Elsevier Ltd.
+Introduction
+Pneumonia is a signiﬁcant cause of morbidity and mortality
+in clinical settings. Clinical tests involving smear and cul-
+ture of sputum, antigen tests, and paired antibody titers
+often fail to identify the causative pathogen(s) of pneu-
+monia. The rapid identiﬁcation of the causative patho-
+gen(s) would allow for the selection of targeted antibiotics.
+Accordingly,
+timely
+identiﬁcation
+has
+been
+shown
+to
+reduce the mortality rate and the emergence of drug-
+resistant pathogens [1,2]. To identify such pathogens and
+thus obtain the desired beneﬁts, a clinical test is required
+that is rapid, accurate, easily performed,
+and cost-
+effective.
+In a previous study, we proposed the “battleﬁeld hy-
+pothesis”, which postulated that the organism-to-human
+cell number ratio may be an index for the pathogenic role
+of the organism [3]. The ratio was determined using a real-
+time PCR-based approach and used to evaluate a major
+commensal
+organism,
+Streptococcus
+pneumoniae
+(S.
+pneumoniae), with the results supporting our battleﬁeld
+hypothesis. We devised a PCR-based test of sputum samples
+that can differentiate pathogens that are the likely causa-
+tive pathogens of pneumonia from commensal organisms.
+Combining the described PCR system for commensal or-
+ganisms with PCR detection system for foreign organisms
+constitute the HIRA-TAN (human cell-controlled identiﬁca-
+tion of the respiratory agent from “TAN”, which means
+sputum in Japanese) (Table 1).
+Currently PCR-based approaches are mainly used to
+identify foreign organisms in respiratory specimens [4e6].
+Even if such clinical tests have a multiplex detection
+system, identiﬁcation of foreign organisms alone shows
+limited clinical value. In the current study, we have
+expanded the scope and utility of this approach by opti-
+mizing newly developed primers and cutoff values. We
+also focused on the detection of additional target or-
+ganisms with a larger number of patient samples and
+broader coverage of the relevant microorganisms. We
+describe
+the
+ability
+of
+the
+procedure
+to
+identify
+commensal organisms and the overall performance of the
+HIRA-TAN system.
+Materials and methods
+Patients
+Patients were eligible if they met the following criteria: (1)
+Clinical symptoms suggestive of pneumonia: cough, fever
+(>38.5 C), sputum production, chest discomfort/pain, or
+dyspnea. (2) Newly developed pulmonary inﬁltrates in
+chest radiological examination. A diagnosis of pneumonia
+was clinically made when patients presented with both (1)
+and (2) without an alternative cause [7e12]. (3) Gram stain
+and culture of expectorated sputum submitted before the
+treatment. (4) Urine antigen (UA) test for S. pneumoniae
+submitted. (5) Age 18 years or older. (6) Written informed
+consent obtained. And for the additional analysis, blood
+sample for bacterial culture (admitted case only), UA test
+for Legionella pneumophila (admitted case only) and
+Inﬂuenza antigen test (ﬂu season only) were also submitted
+when possible. Patient enrollment was performed from May
+2007 to January 2009 (the past clinical study) and from
+February 06, 2009 to October 14, 2010 (the prospective
+study) at the Saitama Medical University Hospital and the
+participating institutes (Table 2).
+Samples
+Sputum,inducedsputum,orsputumobtainedbyintra-tracheal
+aspiration(sputumhereafter)wascollectedfrompatientswith
+pneumonia.Samplesweremixedwellbypipetting,anddivided
+into 2; one was submitted for a bacteriological test, and the
+other was submitted for HIRA-TAN based analysis. To select
+purulent sputum, samples with M2eP3 appearance as well as a
+Cthuman <27 (thehuman-speciﬁc gene with Ct(threshold cycle)
+value by the real-time PCR) were studied [3]. Classiﬁcation of
+the gross appearance of the sputum (M1, M2, P1, P2, and P3)
+was according to Miller and Jones.
+396
+T. Hirama et al.
+Open access under CC BY-NC-ND license.
+DNA preparation
+The
+sputum
+was
+diluted
+with
+an
+equal
+volume
+of
+phosphate-buffered saline and homogenized by vortexing.
+A portion of the homogenate (200 mL) was taken and mixed
+with AL buffer (200 mL; Qiagen, Tokyo, Japan) containing
+>12 mAU of proteinase K, and the resultant mixture was
+incubated at 56 C for 1 h. DNA was isolated into 100 mL of
+TE buffer with the QIAamp DNA Blood Mini Kit (Qiagen).
+Pathogens
+Commensal organism
+Commensal organisms form part of human normal ﬂora in the
+respiratory system. However, in speciﬁc situations as when
+the host defense is weakened, the number of organisms
+grows beyond their typical ranges, and then pneumonia oc-
+curs. Commensal organisms cause more than half of
+pneumonias. Since the majority of them reside in the respi-
+ratory tract, when they are detected from respiratory sam-
+ple, there is no unequivocal criterion to discriminate
+causative pathogen from colonizing one by the sputum ex-
+amination (e.g., S. pneumoniae, Haemophilus inﬂuenzae (H.
+inﬂuenzae) or Pseudomonas aeruginosa (P. aeruginosa)).
+Foreign organism (non-commensal organism)
+Foreign organisms are the cause of less than half of pneu-
+monias. They do not reside in the respiratory tract of healthy
+individuals, and thus their detection indicates that they are
+the causative pathogens (e.g., Mycoplasma pneumoniae, L.
+pneumophila or Mycobacterium tuberculosis).
+Criteria for commensal organisms to be the likely
+causative pathogen
+A commensal organism that fulﬁlled at least 1 of the
+following
+3
+criteria
+was
+considered
+to
+be
+a
+likely
+Table 1
+List of targets, genes and its afﬁliation (CO, NCO or DRRG) in the HIRA-TAN.
+Targeta
+Gene
+DCt cutoff value
+1
+Homo sapiens
+SFTPC
+2
+Streptococcus pneumoniae
+lytA
+CO
+6
+3
+Haemophilus inﬂuenzae
+16S rRNA
+CO
+1
+4
+Moraxella catarrhalis
+copB
+CO
+0
+5
+Pseudomonas aeruginosa
+23S rRNA
+CO
+4
+6
+Klebsiella pneumoniaeb
+gapA
+CO
+6
+7
+Escherichia coli
+phoA
+CO
+7
+8
+Staphylococcus aureus
+femB
+CO
+7
+9
+Mycoplasma pneumoniae
+16S rRNA
+NCO
+10
+Chlamydophila pneumoniae
+53KD-antigen
+NCO
+11
+Chlamydophila psittaci
+ompA
+NCO
+12
+Coxiella burnetii
+transposase
+NCO
+13
+Legionella spp.
+16S rRNA
+NCO
+14
+Legionella pneumophila
+mip
+NCO
+15
+Bordetella pertussis
+BP485
+NCO
+16
+Mycobacterium Tuberculosis
+MPB64
+NCO
+17
+Mycobacterium intracellulare
+ITS 16-23S rRNA
+NCO
+18
+Mycobacterium avium
+16S rRNA
+NCO
+19
+Mycobacterium kansasii
+dnaJ
+NCO
+20
+Pneumocystis jirovecic
+5S rRNA
+NCO
+21
+Nocardia spp.
+16S rRNA
+NCO
+22
+Metallo-beta-lactamasee
+IMP
+DRRG
+23
+Methicillin-resistant S. aureusd
+mecA
+DRRG
+8
+a H. sapiens, Homo sapiens; S. pneumoniae, Streptococcus pneumoniae; H. inﬂuenzae, Haemophilus inﬂuenzae; M. catarrhalis,
+Moraxella catarrhalis; P. aeruginosa, Pseudomonas aeruginosa; K. pneumoniae, Klebsiella pneumonia; E. coli, Escherichia coli; MSSA,
+Methicillin-sensitive Staphylococcus aureus; MRSA, Methicillin-resistant Staphylococcus aureus; M. pneumoniae, Mycoplasma pneumo-
+niae; C. pneumoniae, Chlamydophila pneumoniae; C. psittaci, Chlamydophila psittaci; C. burnetii, Coxiella burnetii; L. pneumophila,
+Legionella pneumophila; B. pertussis, Bordetella pertussis; M. tuberculosis, Mycobacterium tuberculosis; M. intracellulare, Mycobac-
+terium intracellulare; M. avium, Mycobacterium avium; M. kansasii, Mycobacterium kansasii; P. jiroveci, Pneumocystis jiroveci; CO,
+commensal organism; NCO, non-commensal organism (foreign organism); DRRG, drug-resistant-related gene.
+b The PCR reaction for K. pneumoniae only has need of starting at 95 C for 30 s followed by 40 cycles of 95 C for 10 s, 61 C for 35 s,
+and 72 C for 25 s.
+c Since Pneumocystis jiroveci was not normally identiﬁed from the healthy individuals, it was classed together as foreign organism.
+d Methicillin-resistant Staphylococcus aureus (MRSA) was judged as therapeutic target in HIRA-TAN both when S. aureus (femB gene)
+was detected above 7 in the DCtS. aureus cutoff and when DRRG (mecA gene) was also detected above 8 in the DCtMRSA cutoff
+altogether.
+e 5 IMP producing P. aeruginosa was judged as therapeutic target in HIRA-TAN both when P. aeruginosa was detected above 6 in the
+DCtP. aeruginosa cutoff and IMP gene was detected altogether.
+Identiﬁcation of causative agents of pneumonia
+397
+causative pathogen when: (1) an organism was identiﬁed
+from the normally sterile site (blood or pleural effusion);
+(2) a morphologically compatible organism, coexisting
+with
+abundant
+neutrophils,
+was
+observed
+through
+Gram staining later conﬁrmed by sputum culture; or (3)
+for S. pneumoniae only: the urine antigen test was po-
+sitive.
+Criteria for foreign organisms to be the causative
+pathogen
+Foreign organisms that fulﬁlled at least 1 of the following
+2 criteria was considered to be a causative pathogen
+when: (1) an organism was identiﬁed by culture, antigen
+test (involving serum, urine or nasopharyngeal specimen)
+or PCR test; or (2) paired serological test revealed a
+signiﬁcant increase in antibody titer (more than four
+times).
+Criteria for commensal organisms to be the therapeutic
+target by HIRA-TAN
+We developed the HIRA-TAN: a real-time PCR-based test
+for sputum that was established in simultaneous multi-
+pathogen detection as previously described [3]. The cutoff
+value was determined for each commensal organism,
+which enabled us to discriminate the bona ﬁde thera-
+peutic target from other commensal organisms detected
+by real-time PCR. With the assumption being that the high
+relative levels of any of the given candidate pathogens
+would increase its likelihood of being the causative path-
+ogen. Here we expanded the number of PCR reactions to
+23 with organism speciﬁc target genes for quantifying 7
+commensal
+organisms,
+13
+foreign
+organisms,
+2
+drug
+resistance-related genes (DRRG), and the human-speciﬁc
+gene (as internal control) in the HIRA-TAN (Table 1).
+Compared with our previous study here we used newly
+Table 2
+The Protocol synopsis for the prospective study.
+Title
+A multicenter prospective study for the investigation of the validity of the cutoff values
+established for the HIRA-TAN system.
+Study design
+This is a multi-centre, observational study
+Study period and sample size
+Between Feb 06, 2009 and Feb 05, 2011. This study will be terminated before Feb 05, 2011;
+when the total number of patients reaches 600, or when the number of patients with
+pneumonia in which both H. inﬂuenzae and P. aeruginosa are the likely causative pathogen
+reaches 30 each.
+Number of sites
+Seven institutions, nine departments, altogether -Saitama Medical University (http://www.
+saitama-med.ac.jp) -Department of respiratory medicine -Department of General Internal
+Medicine -Saitama Medical University International Medical Center (http://www.saitama-
+med.ac.jp/kokusai/) -Department of Respiratory Medicine -Department of Emergency and
+Acute Medicine -Kan-etsu Hospital (http://www.kan-etsu-hp.ne.jp/hospital/) -Saitama
+Social Insurance Hospital (http://www1.biz.biglobe.ne.jp/wsaitahp/top.html)
+-Tsurugashima Ikenodai Hospital (http://www.ikenodai.com) -Kesennuma City Hospital
+(http://www.kesennuma-hospital.jp) -Ohno clinic (http://www.ohno-clinic.or.jp/access/
+index.html)
+Primary endopoint
+The proportion of the samples in which H. inﬂuenzae and P. aeruginosa are judged as
+therapeutic targets to those in each are shown to be likely causative pathogens
+Secondary endopoint
+The proportion of the samples in which K. pneumoniae, M. catarrhalis, E. coli, S. aureus and
+S. pneumoniae are judged as therapeutic targets to those in each are shown to be likely
+causative pathogens The proportion of the samples in which the HIRA-TAN identiﬁed the
+therapeutic target (commensal organisms judged by the DCt cutoff) and the causative
+pathogen (foreign organisms detected by the real-time PCR)
+Subject selection criteria
+Inclusion Criteria: Patients were eligible if they met the following criteria: (1) Clinical
+symptoms suggestive of pneumonia: cough, fever (>38.5 C), sputum production, chest
+discomfort/pain, or dyspnea. (2) Newly developed pulmonary inﬁltrates in chest
+radiological examination. (3) Gram stain and culture of expectorated sputum submitted
+before the treatment. (4) Urine antigen test for S. pneumoniae. (5) Age 18 years or older.
+(6) Written informed consent obtained. And for the additional analysis, blood sample for
+bacterial culture (admitted case only), Urine antigen test for L. pneumophila (admitted
+case only) and Inﬂuenza antigen test (ﬂu season only) were also submitted as possible.
+Exclusion Criteria: Patients did not fulﬁll the criteria (1)e(6).
+Funding organization
+This work is supported in part by a Grant-in-Aid for Young Scientists (B) (No. 21790784) from
+the Japan Society for the Promotion of Science, in part by the Saitama Medical University
+Internal Grant 09-01 (No. 21-2-2-06) from Saitama Medical University, in part by the Grant-
+in-Aid from Ochiai Memorial Foundation and in part by a Grant-in-Aid for Young Scientists
+(B) (No. 23790918) from the Japan Society for the Promotion of Science. No additional
+external funding received for this study.
+Registration number
+The study had been registered to the University Hospital Medical Information Network
+(UMIN) registry before its initiation (UMIN000001694) and approved by the Saitama Medical
+University Hospital IRB committee (08-063)
+398
+T. Hirama et al.
+designed primer pairs and cutoff value for each target
+(Suppl Table 1).
+Real-time PCR reaction
+A database search was used to select potential DNA se-
+quences to identify microorganisms of interest. The primers
+and probes were validated using genomic DNA from the
+microorganism of interest as well as screened against 74
+other microorganisms (Suppl Table 1). The ﬁnal solution of
+PCR reaction (25.0 mL) contained 12.5 mL TAKARA Premix Ex
+Taq (Takara Bio Inc., Shiga, Japan), primers (300 nM),
+ﬂuorescence-labeled detection probes (100 nMe300 nM;
+TaqMan probe), 1.0 mL puriﬁed DNA and deionized distilled
+water up to 25.0 mL. The PCR reactions for 23 target genes
+were multiplexed in 16 reactions and ampliﬁed using in a
+single assay using the SmartCycler II (Cepheid, Sunnyvale,
+CA). The PCR was performed by starting at 95 C for 30 s
+followed by 40 cycles of 95 C for 8 s, 61 C for 25 s, and
+72 C for 20 s.
+Statistical analysis
+The 95% conﬁdence interval (CI) was calculated using
+the
+formula
+for
+the
+binomial
+probabilities
+by
+the
+software Mathematica Ver.8 (Wolfram Research, IL,
+USA) [13].
+Ethical consideration
+The research protocol for the current study was approved
+by the institutional review boards of the Saitama Medical
+University
+Hospital,
+Saitama
+Medical
+University
+International Medical Center, Kan-etsu Hospital, Saitama
+Social Insurance Hospital, Tsurugashima Ikenodai Hospi-
+tal, Kesennuma City Hospital and Ohno clinic (Table 2).
+Observatory study registration
+The prospective observatory study described in the current
+report had been registered to the University Hospital
+Medical Information Network (UMIN) registry before its
+initiation, where the UMIN is a registry approved by the
+International
+Committee
+of
+Medical
+Journal
+Editors
+(ICMJE). The UMIN registry number was UMIN000001694: A
+multicenter prospective study for the investigation of the
+validity of the cutoff values established for the HIRA-TAN
+system (February 06, 2009).
+Results
+Determination of the DCtpathogen cutoff
+We conﬁrmed that the primers and probes were speciﬁc to
+7 representative commensal organisms (S. pneumoniae, H.
+inﬂuenzae, Moraxella catarrhalis (M. catarrhalis), P. aer-
+uginosa, Klebsiella pneumoniae (K. pneumoniae), Escher-
+ichia coli (E. coli), and Methicillin-resistant Staphylococcus
+aureus (MRSA)) and the human genome, and were able to
+quantify their cell numbers by counting the copy numbers
+(Ct value) for each in sputum. The pathogen to human cell
+number ratio was described as the DCtpathogen value
+[(CtpathogenCthuman)] using 533 sputum samples collected
+in the past clinical study between May 2007 to January
+2009. Using the microbiological examination as a reference
+(see Materials and Methods), we determined the smallest
+Figure 1
+Determination ofDCtpathogen cutoff. The DCtpathogen was measured for 7 representative commensal organisms from the
+past clinical study (n Z 533; from May 2007 to January 2009). Samples from patients with pneumonia in which a likely causative
+pathogen was identiﬁed using criteria (1)e(3) (see Materials and Methods) are shown as blue circles. The DCtpathogen cutoff (a red
+line) was deﬁned as the smallest DCtpathogen for the blue circles. The pathogen to human cell ratio grows wider as the DCtpathogen
+becomes large on the Y-axis. The theoretical concept for the cutoff value was described in greater detail in [3]. The DCtpathogen
+cutoff was deﬁned below: (A) 1 for H. inﬂuenzae; (B) 4 for P. aeruginosa; (C) 6 for K. pneumoniae; (D) 0 for M. catarrhalis; (E)
+7 for E. coli; (F) 8 for MRSA and (G) 6 for S. pneumoniae. (For interpretation of the references to color in this ﬁgure legend, the
+reader is referred to the web version of this article.)
+Identiﬁcation of causative agents of pneumonia
+399
+DCtpathogen value to be the DCtpathogen cutoff to discrimi-
+nate the therapeutic target: 1 in the DCtH. inﬂuenzae cut-
+off; 4 in the DCtP.
+aeruginosa cutoff; 6 in the DCtK.
+pneumoniae cutoff; 0 in the DCtM.catarrhalis cutoff; 7 in the
+DCtE. coli cutoff; 8 in the DCtMRSA cutoff and 6 in the
+DCtS.pneumoniae cutoff, respectively (Fig. 1).
+Prospective study
+We designed a prospective study to investigate the val-
+idity of the new cutoff values for the commensal organ-
+isms in the HIRA-TAN system (Table 2: UMIN000001694).
+The primary endpoint of the study was the proportion of
+samples in which DCtH. inﬂuenzae or DCtP. aeruginosa were
+greater than the cutoff value, compared to the proportion
+of the samples in which H. inﬂuenzae or P. aeruginosa
+were shown to be the likely causative pathogen. Thus the
+endpoint was to investigate DCtH. inﬂuenzae cutoff or DCtP.
+aeruginosa cutoff to classify H. inﬂuenzae or P. aeruginosa,
+each identiﬁed for the likely causative pathogen as the
+therapeutic target. The secondary endpoints were the
+proportion for the other commensal organisms and the
+proportion of the samples in which the HIRA-TAN could
+identify the therapeutic targets.
+The study was performed between February 06, 2009
+to October 14, 2010. 568 patients were enrolled and pa-
+tients’ characteristics were shown in Table 3. The results
+of the microbiological examinations were summarized in
+Fig. 2. The identiﬁcation rates for H. inﬂuenzae and P.
+aeruginosa by the HIRA-TAN were 96.7% (29/30; 95% CI
+82.8e99.2%)
+and
+93.2%
+(41/44;
+95%
+CI
+81.3e97.5%)
+respectively (Fig. 3(A), (B)). The response of the antibi-
+otics and the relief of pneumonia for the cases in which H.
+inﬂuenzae or P. aeruginosa were the likely causative
+pathogens showed a consistent clinical course as pre-
+dicted from the result of the HIRA-TAN. The identiﬁcation
+rates for K. pneumoniae, M. catarrhalis, E. coli, MRSA and
+S. pneumoniae were as follows 80.6% (29/36; 95% CI
+64.0e89.9%), 90.9% (10/11; 95% CI 58.7e97.7%), 87.5%
+(14/16;
+95%
+CI
+61.6e96.0%),
+78.1%
+(25/32;
+95%
+CI
+60.0e88.5%) and 80.6% (87/108; 95% CI 71.8e86.8%)
+(Fig. 3(C)e(G)).
+Among 108 patients in which S. pneumoniae was the
+likely causative pathogen (Blue circles in Fig. 3(G)-1), 39
+patients were diagnosed by the positive UA test solely
+(enclosed Green and Orange circles in dashed rectangle in
+Fig. 3(G)-2, which were a subpopulation of the S. pneu-
+moniae pneumonia diagnosed by UA test solely). Out of
+these, 13 patients (Orange circles in Fig. 3(G)-2) showed
+no positive blood cultures and no suggestive gram-
+positive diplococci on the Gram stain, no positive cul-
+ture result and no detection by PCR for the S. pneumo-
+niae in the purulent sputum (MJ classiﬁcation M2 to P3
+and Cthuman of <27). This raises the possibility that in
+these cases the UA test was a false positive. Removing
+these potential false positives from our analysis results in
+an increase in the positive identiﬁcations for S. pneu-
+monia to a rate of 91.6% (87/95; 95% CI 84.1e95.6% in
+Fig. 3(G)-2).
+Currently
+the
+ability
+of
+the
+HIRA-TAN
+system
+to
+determine if MRSA is the causative pathogen is lacking.
+This is due largely to the fact that for the determination
+and establishment of the cutoff value for a given micro-
+organism in the HIRA-TAN system still requires the con-
+ventional sputum examination. To date we have not been
+able to determine the DCtMRSA cutoff and this will take
+more time and the availability of properly analyzed clin-
+ical samples to be established.
+Table 3
+Patients’ characteristics in the prospective study
+(n Z 568).
+Age (year)
+Mean (minemax)
+67.24 (19e106)
+Sex
+Male (%)
+365 (64.3%)
+Female (%)
+203 (35.7%)
+Quality of sputums
+Miller and Jones’classiﬁcation
+M2 (%)
+134 (23.6%)
+P1 (%)
+130 (22.9%)
+P2 (%)
+95 (16.7%)
+P3 (%)
+209 (36.8%)
+CtHomo Sapiens
+Mean (minemax)
+23.87
+(12.78e26.99)
+Type of pneumoniae
+Community-acquired
+pneumonia (CAP) (%)
+349 (61.4%)
+Healthcare-assicuated
+pneumonia (HCAP) (%)
+147 (25.9%)
+Hospital-acquired
+pneumoniae (HAP) (%)
+72 (12.7%)
+Time between the development of respiratory symptoms
+and establishment of the diagnosis
+of pneumonia
+<6 h
+17 (3.0%)
+6e12 h
+29 (5.1%)
+12e24 h
+131 (23.1%)
+24e48 h
+61 (10.7%)
+48e72 h
+57 (10.0%)
+72 he7days
+222 (39.1%)
+>7days
+42 (7.4%)
+Unknown
+9 (1.6%)
+Serum CRP (mg/dl) at the time of diagnosis
+Mean (minemax)
+11.5 (0.1e53.0)
+Radiological feature
+Monolobar inﬁltrate
+200 (35.2%)
+Multilobar inﬁltrates
+368 (64.8%)
+Underlying disorder
+Neoplastic disease
+26 (4.6%)
+Congestive heart failure
+78 (13.7%)
+Cerebrovascular disease
+57 (10.0%)
+Renal disease
+39 (6.9%)
+Liver disease
+11 (1.9%)
+Chronic Respiratory disease
+132 (23.2%)
+Lung cancer
+51 (9.0%)
+Collagen vascular disease
+22 (3.9%)
+Steroid usage
+22 (3.9%)
+Diabetes
+76 (13.4%)
+Psychiatric disorder (including sezure)
+38 (6.7%)
+400
+T. Hirama et al.
+Overall performance of HIRA-TAN system to identify
+both the therapeutic target (commensal organisms judged
+by the DCt cutoff) and the causative pathogen (foreign
+organisms detected by the real-time PCR) was altogether
+60% en masse (Fig. 4). The HIRA-TAN analysis was able to
+identify the therapeutic target in 60e70% of the samples
+(Fig. 4 or in the previous study [3]), which is comparable
+to what is attained by an extensive search using multiple
+detection methods [4,8,14].
+Discussion
+The most prominent feature of the HIRA-TAN is its ability
+to identify the causative pathogen for the pneumonias
+from among the commensal organisms detected in the
+sputum. Clinically, without this ability, this system would
+have been only partially useful, since more than half of
+pneumonias are caused by commensal organisms (Figs. 2
+and 4). And this system does not require the use of
+pathogen-by-pathogen identiﬁcation methods. The easily
+performed comprehensive test covers a wide variety of
+pathogens in a single assay, which will reduce the time
+and labor spent on cumbersome procedures. The HIRA-
+TAN procedure now provides a comprehensive detection
+system for causative pathogens of pneumonia.
+The HIRA-TAN system can also be expanded to include
+more pathogens and thereby increasing its abilities. The
+addition of any respiratory viruses to the screening
+protocol is straightforward [4,5,15e18]. Likewise, the
+inclusion of commensal organisms, such as Acinetobacter
+baumannii or Stenotrophomonas maltophilia, will also
+be beneﬁcial in the nosocomial pneumonia. Thus, the
+commensal
+organisms
+that
+have
+conformed
+to
+the
+scheme shown in Fig. 1 and all non-commensal organisms
+become candidates, which will make the greater detec-
+tion rate by the HIRA-TAN than current 60e70% per-
+tnqh_0009;formance.
+S. aureus is frequently isolated commensal organism
+from respiratory samples, while is very often detected
+the long-term hospitalized patients. Thus it is difﬁcult to
+establish a direct and causative role for this bacterium in
+pneumonia. Anaerobes as well, which are important
+commensal organisms for aspiration pneumonia or lung
+abscess, are also lacking the standard to be determined
+as
+causative
+pathogen.
+Since
+the
+cutoff
+value
+for
+commensal organisms in the HIRA-TAN system is based on
+the microbiological examination, is still incapable of
+being set up for the organisms which have not yet built
+the consensus for diagnosis. This should be addressed in
+future iterations of the HIRA-TAN procedure.
+In conclusion, the HIRA-TAN approach yielded repro-
+ducible results and provided valuable information for
+planning the course of treatment of pneumonia. The cur-
+rent study established and validated the HIRA-TAN system.
+Through the rapid identiﬁcation of the causative patho-
+gens, the HIRA-TAN will promote targeted treatments for
+pneumonias.
+Figure 2
+Etiology of pneumonia enrolled in the prospective study by conventional method. Description of isolates either a likely
+causativepathogen(s)(forthecommensalorganismsshowninorange)oracausativepathogen(s)(fortheforeignorganismsshowningreen)
+*1 Mixed infection stands for the cases in which two or more pathogens were isolated among either likely causative pathogens or causative
+pathogens at one time. (For interpretation of the references to color in this ﬁgure legend, the reader is referred to the web version of this
+article.)
+Identiﬁcation of causative agents of pneumonia
+401
+Figure 3
+DCtpathogen for each commensal organisms in the prospective study (n Z 568). Samples from patients with pneumonia in
+which a likely causative pathogen was identiﬁed using criteria (1)e(3) (see Materials and Methods) are shown as blue circles, and
+samples from patients with pneumonia in which none of criteria (1)e(3) was fulﬁlled were shown as white circles. The 30th case in
+which H. inﬂuenzae was a likely causative pathogen was enrolled on October 14, 2010, which terminated the prospective study.
+The HIRA-TAN identiﬁed the likely causative pathogens; (A) 96.7% for H. inﬂuenzae; (B) 93.2% for P. aeruginosa; (C) 80.6% for K.
+pneumoniae; (D) 90.9% for M. catarrhalis; (E) 87.5% for E. coli; (F) 78.1% for MRSA and (G) 91.6% for S. pneumoniae. The Blue circles
+in G-1 and G-2 showed the samples which S. pneumoniae was identiﬁed by blood cultures, sputum smears and cultures and/or UA
+test. Green and Orange circles in G-2, which were enclosed in dashed rectangle, were created subpopulation of the samples which
+S. pneumoniae was identiﬁed by UA test solely. Orange circles indicated no positive blood cultures, no suggestive gram-positive
+diplococcic on the Gram stain, no positive sputum culture and no detection by PCR for S. pneumoniae in the purulent sputum.
+The bottom two blue circles in F and the bottom 14 blue circles in G-1 were the likely causative pathogen for MRSA and S.
+pneumoniae, respectively, but not identiﬁed by real-time PCR. (For interpretation of the references to color in this ﬁgure legend,
+the reader is referred to the web version of this article.)
+402
+T. Hirama et al.
+Acknowledgments
+For their collaboration and the enrollment of their patients,
+we are indebted to: Hidetomo Nakamoto, M.D., Ph.D., the
+Department of General Internal Medicine, Saitama Medical
+University, Saitama, Noriyuki Watanabe, the Central Labo-
+ratory, Saitama Medical University, Saitama, Shoji Okinaga,
+Kesennuma City Hospital, Miyagi, Shuji Ohno, M.D., Ph.D.,
+Ohno Clinic, Saitama and Tatsuyuki Miyashita, M.D., Ph.D.,
+Moro Hospital, Saitama. I would like to thank my advisor
+Gregory D. Fairn, Ph.D., Keenan Research Centre of St.
+Michael’s Hospital, Toronto, Canada, for proofreading of
+manuscript draft.
+Appendix A. Supplementary data
+Supplementary data related to this article can be found at
+http://dx.doi.org/10.1016/j.rmed.2013.11.018
+References
+[1] Mene´ndez
+R,
+Torres
+A,
+Zalacaı´n
+R,
+Aspa
+J,
+Martı´n
+Villasclaras JJ, Borderı´as L, et al. Risk factors of treatment
+failure in community acquired pneumonia: implications for
+disease outcome. Thorax 2004;59:960e5.
+[2] File TM. Community-acquired pneumonia. Lancet 2003;362:
+1991e2001.
+[3] Hirama T, Yamaguchi T, Miyazawa H, Tanaka T, Hashikita G,
+Kishi E, et al. Prediction of the pathogens that are the cause
+of pneumonia by the battleﬁeld hypothesis. PLoS One 2011;6:
+e24474.
+[4] Kodani M, Yang G, Conklin LM, Travis TC, Whitney CG,
+Anderson LJ, et al. Application of TaqMan low-density arrays
+for simultaneous detection of multiple respiratory pathogens.
+J Clin Microbiol 2011;49:2175e82.
+[5] Templeton KE, Scheltinga SA, Beersma MFC, Kroes ACM,
+Claas ECJ. Rapid and sensitive method using multiplex real-
+time PCR for diagnosis of infections by inﬂuenza a and inﬂu-
+enza B viruses, respiratory syncytial virus, and parainﬂuenza
+viruses 1, 2, 3, and 4. J Clin Microbiol 2004;42:1564e9.
+[6] Tiveljung-Lindell A, Rotze´n-Ostlund M, Gupta S, Ullstrand R,
+Grillner L, Zweygberg-Wirgart B, et al. Development and
+implementation of a molecular diagnostic platform for daily
+rapid detection of 15 respiratory viruses. J Med Virol 2009;81:
+167e75.
+[7] Mandell
+LA,
+Wunderink
+RG,
+Anzueto
+A,
+Bartlett
+JG,
+Campbell GD, Dean NC, et al. Infectious Diseases Society of
+America/American Thoracic Society consensus guidelines on
+the management of community-acquired pneumonia in adults.
+Clin Infect Dis 2007;44(Suppl. 2):S27e72.
+[8] Woodhead M, Blasi F, Ewig S, Garau J, Huchon G, Ieven M,
+et al. Guidelines for the management of adult lower respira-
+tory tract infectionsefull version. Clin Microbiol Infect 2011;
+17(Suppl. 6):E1e59.
+Figure 4
+Etiologyofpneumoniaenrolledintheprospective studybythe HIRA-TANsystem.Descriptionofisolateseither atherapeutic
+target(s) (for the commensal organisms shown in orange) or a causative pathogen(s) (for the foreign organisms shown in green) *1 Mixed
+infection stands for the case in which two or more pathogens were isolated among either therapeutic targets or causative pathogens at
+one time. (For interpretation of the references to color in this ﬁgure legend, the reader is referred to the web version of this article.)
+Identiﬁcation of causative agents of pneumonia
+403
+[9] Lim WS, Baudouin SV, George RC, Hill AT, Jamieson C, Le
+Jeune I, et al. BTS guidelines for the management of com-
+munity acquired pneumonia in adults: update 2009. Thorax
+2009;64(Suppl. 3):iii1e55.
+[10] Guidelines for the management of adults with hospital-
+acquired, ventilator-associated, and healthcare-associated
+pneumonia. Am J Respir Crit Care Med 2005;171:388e416.
+[11] Rotstein C, Evans G, Born A, Grossman R, Light RB, Magder S,
+et al. Clinical practice guidelines for hospital-acquired pneu-
+monia and ventilator-associated pneumonia in adults. Can J
+Infect Dis Med Microbiol 2008;19:19e53.
+[12] Masterton RG, Galloway A, French G, Street M, Armstrong J,
+Brown E, et al. Guidelines for the management of hospital-
+acquired pneumonia in the UK: report of the working party
+on hospital-acquired pneumonia of the British Society for
+Antimicrobial Chemotherapy. J Antimicrob Chemother 2008;
+62:5e34.
+[13] Clarke GM, Cooke D. A basic course in statistics. 5th ed. New
+York: Oxford University Press; 2004.
+[14] Miyashita N, Matsushima T, Oka M, Japanese Respiratory So-
+ciety. The JRS guidelines for the management of community-
+acquired pneumonia in adults: an update and new recom-
+mendations. Intern Med 2006;45:419e28.
+[15] Kehl SC, Henrickson KJ, Hua W, Fan J. Evaluation of the
+Hexaplex assay for detection of respiratory viruses in chil-
+dren. J Clin Microbiol 2001;39:1696e701.
+[16] Gro¨ndahl B, Puppe W, Hoppe A, Ku¨hne I, Weigl JA, Schmitt HJ.
+Rapid identiﬁcation of nine microorganisms causing acute
+respiratory tract infections by single-tube multiplex reverse
+transcription-PCR: feasibility study. J Clin Microbiol 1999;37:
+1e7.
+[17] Johansson
+N,
+Kalin
+M,
+Tiveljung-Lindell
+A,
+Giske
+CG,
+Hedlund
+J.
+Etiology
+of
+community-acquired
+pneumonia:
+increased microbiological yield with new diagnostic methods.
+Clin Infect Dis 2010;50:202e9.
+[18] Tiveljung-Lindell A. Development and implementation of a
+molecular diagnostic platform for daily rapid detection of 15
+respiratory viruses. J Med Virol 2009;175:167e75.
+404
+T. Hirama et al.

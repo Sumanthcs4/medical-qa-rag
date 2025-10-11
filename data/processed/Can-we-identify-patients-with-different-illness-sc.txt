@@ -1,0 +1,1124 @@
+Can we identify patients with different
+illness schema following an acute
+exacerbation of COPD: A cluster analysis
+S.L. Harrison a,b,*, N. Robertson b, C.D. Graham c,e, J. Williams a,
+M.C. Steiner a, M.D.L. Morgan a, S.J. Singh a,d
+a Pulmonary Rehabilitation Research Group, Glenﬁeld Hospital, University Hospitals Leicester NHS
+Trust, Leicester LE3 9QP, UK
+b University of Leicester, University Road, Leicester LE1 7RH, UK
+c Institute of Psychiatry, King’s College London, De Crespigny Park, London SE5 8AF, UK
+d Faculty of Health and Life Sciences, Coventry University, Coventry CV1 5FB, UK
+e NHS Lothian, Department of Clinical Neuropsychology, Astley Ainslie Hospital, Edinburgh EH9 2HL, UK
+Received 17 May 2013; accepted 21 October 2013
+Available online 30 October 2013
+KEYWORDS
+Chronic obstructive
+pulmonary disease
+(COPD);
+Pulmonary
+rehabilitation (PR);
+Psychological
+interventions;
+Cluster analysis;
+Illness perceptions;
+Exacerbations
+Summary
+Introduction: Pulmonary Rehabilitation (PR) reduces hospital admissions following an acute
+exacerbation of Chronic Obstructive Pulmonary Disease (COPD) but adherence is known to
+be poor. Patients’ illness perceptions may affect adherence to disease-management strategies
+but to date have not been explored following an exacerbation. The study aim is two-fold;
+ﬁrstly to prospectively explore acceptance and uptake of post-exacerbation PR and secondly
+to identify possible clusters of patients’ illness perceptions following hospitalisation for an
+exacerbation of COPD.
+Methods: Patients admitted to hospital with an exacerbation of COPD were recruited to a pro-
+spective observational study. Self-reported illness perceptions, mood, health status and self-
+efﬁcacy were assessed. Acceptance and uptake of PR were recorded at six months. Cluster
+analysis of Illness Perceptions Questionnaire-Revised data was used to establish groups of pa-
+tients holding distinct beliefs.
+Results: 128 patients were recruited. Acceptance and uptake of PR following an acute exacer-
+bation was poor with only 9% (n Z 11) completing the programme. Cluster analysis revealed
+three distinct groups: Cluster 1 ‘in control’ (n Z 52), Cluster 2 ‘disengaged’ (n Z 36) and Clus-
+ter 3 ‘distressed’ (n Z 40). Signiﬁcant between-cluster differences were observed in mood,
+health status and self-efﬁcacy (p < 0.01). Acceptance and uptake of PR did not differ between
+clusters.
+* Corresponding author. NIHR CLAHRC Rehabilitation Theme, University Hospitals of Leicester NHS Trust, Glenﬁeld Hospital, Groby Road,
+Leicester LE3 9QP, United Kingdom. Tel.: þ44 0116 258 3652.
+E-mail addresses: samantha.harrison@westpark.org, samantha.harrison@uhl-tr.nhs.uk (S.L. Harrison).
+0954-6111/$ - see front matter ª 2013 Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.rmed.2013.10.016
+Available online at www.sciencedirect.com
+ScienceDirect
+journal homepage: www.elsevier.com/locate/rmed
+Respiratory Medicine (2014) 108, 319e328
+Conclusions: Acceptance/uptake of post-exacerbation PR was found to be poor. Three distinct
+illness schema exist in patients following an acute exacerbation. This information may be use-
+ful in developing novel psychologically-informed interventions designed to reduce feelings of
+distress and perhaps facilitate a PR intervention for this vulnerable population.
+ª 2013 Elsevier Ltd. All rights reserved.
+Introduction
+Despite the success of Pulmonary Rehabilitation (PR) for
+patients with stable Chronic Obstructive Pulmonary Disease
+(COPD) attendance to programmes is poor following hospi-
+talisation with an acute exacerbation. The additional needs
+of
+this
+vulnerable
+population
+therefore
+need
+to
+be
+considered.
+COPD is a common condition deﬁned by slowly pro-
+gressing, irreversible airﬂow limitation [1]. As the disease
+progresses there are symptoms of breathlessness on exer-
+tion and the later stages are characterised by acute exac-
+erbations [2]. Acute exacerbations of COPD are deﬁned by a
+worsening of symptoms, often resulting in an admission to
+hospital [3e6]. Notably, patients who experience acute
+exacerbations have higher readmission rates to hospital
+than for any other disease [7].
+Following an acute exacerbation of COPD, PR has been
+shown to be successful in reducing readmission rates as well
+as eliciting beneﬁts in terms of patient’s functional ca-
+pacity and health status [8e10]. However, programmes
+have not been speciﬁcally tailored to meet the additional
+needs of patients post-exacerbation and there are chal-
+lenges recruiting to, and poor attendance in this vulnerable
+population. This issue is demonstrated not only in attrition
+from referral to attendance at PR programmes but is also
+revealed by lengthy recruitment periods and small patient
+numbers in post-exacerbation research studies [11]. To
+date, a prospective observation of the acceptance, uptake,
+adherence and completion of post-exacerbation PR has not
+been conducted.
+Currently there does not appear to be a clear under-
+standing about why patients are reluctant to attend PR.
+Despite the analysis of sociodemographic data and a range
+of psychological and clinical variables, researchers have
+had little success in understanding how patients who com-
+plete programmes differ from those who do not [12e14].
+A substantial body of research evidence derived from
+psychological theories suggests that the manner in which
+patients perceive their illness may, in turn affect patients
+engagement
+in
+disease
+management
+strategies
+(i.e.
+adherence
+to
+PR)
+[15].
+Certainly,
+illness
+perceptions
+measured in relation to PR in patients whose COPD is stable
+appear to be associated with poorer health outcomes
+including uptake and drop-out of PR [16e20]. However, to
+date patients’ illness perceptions have not been explored
+following an acute exacerbation of COPD. The paucity of
+information regarding patients’ illness appraisals following
+an acute exacerbation is surprising given that such ap-
+praisals following other acute signiﬁcant health - related
+events have been found to affect disease management in
+other chronic conditions such as diabetes [21] and following
+myocardial infarction [22,23].
+Often in explaining health behaviour illness perceptions
+are considered individually although the Common Sense
+Model (CSM) would advocate that illness perceptions are
+not held in isolation but instead interact with each other
+forming an illness schema. Cluster analysis is an increas-
+ingly popular technique which considers the associations
+between patients’ illness perceptions. The technique has
+been applied in other disease populations to deﬁne mean-
+ingful proﬁles of patients based on their illness perceptions
+[21,24e27]. However, cluster analysis of psychological data
+has not been applied previously in COPD.
+The aim of this study was therefore two-fold; ﬁrstly to
+prospectively explore acceptance and uptake of post-
+exacerbation PR and secondly to identify possible clusters
+according to patients illness perceptions following hospi-
+talisation for an acute exacerbation of COPD.
+Methods
+Ethics
+All
+procedures
+for
+the
+experimental
+methods
+were
+approved by the East Midlands Research Ethics Committee
+e Leicester Research Ethics Committee (11/EM/0089) and
+the Comprehensive Local Research Network (71766).
+Sample
+Between July 2011 and May 2012 all patients admitted to
+hospital with a documented diagnosis of an acute exacer-
+bation of COPD were recruited from acute respiratory
+wards at Glenﬁeld Hospital, Leicester, UK. Patients with
+COPD were excluded if they had completed PR in the pre-
+vious 12 months or if they could not be considered for PR
+due
+to
+signiﬁcant
+physical
+and/or
+psychosocial
+co-
+morbidities precluding exercise training. A referral to PR
+was offered at the time of admission by clinical staff (i.e.
+ward nurses, physiotherapist, physician) or shortly after
+discharge from hospital by the Respiratory Early Discharge
+Scheme or the researcher (SH). If patients refused a
+referral to PR the reason supplied was recorded.
+Data collection
+The ﬁrst author (SH) collected comprehensive patient data
+during a home visit which took place 10 (3 days) post-
+discharge from hospital following an acute exacerbation of
+COPD. Patient demographics and the period of time since
+diagnosis were documented. Patients were classiﬁed ac-
+cording to the Medical Research Council (MRC) dyspnoea
+grade [28]. All subjects completed spirometry testing at
+home in accordance with national guidelines [28].
+320
+S.L. Harrison et al.
+Measures
+During the home visit the following self-reported measures
+were completed by patients.
+Illness Perceptions Questionnaire-Revised (IPQ-R) [29]
+The IPQ-R (Supplement 1) is a self-reported measure of pa-
+tient’s illness perceptions and has been shown to be internally
+valid in various disease populations [29]. The questionnaire
+contains over 80items divided into the followingdomains: The
+identity component relates to ideas concerning the label
+given to a disease and the number of symptoms attributed to
+their disease. The consequences domain is indicative of be-
+liefs about illness severity and how it impacts on physical,
+social and psychological functioning. The timeline acute/
+chronic and timeline cyclical domains indicate perceptions
+regarding the duration of the disease and whether symptoms
+are stable or ﬂuctuating. Personal control and treatment
+control assess the extent to which individuals feel their own
+actions or treatment can control their disease. Illness coher-
+ence reﬂects disease understanding and the extent to which it
+“makes sense”. Emotional representations assess individual’s
+affective response to disease. Finally the causal domain
+documents patients’ views about aetiology.
+Scores for the identity domain range from zero to 12 and
+all other domains have a range of scores from zero to ﬁve
+except causal representations which are recommended for
+use as a grouping item (i.e. those who believe their disease
+was caused by smoking and those who do not). High scores on
+the identity, timeline, consequences, and cyclical di-
+mensions represent strongly held beliefs about the number
+of symptoms attributed to the illness, the chronicity of the
+condition, the negative consequences of the illness, and the
+cyclical nature of the condition respectively. High scores on
+the personal control, treatment control and coherence di-
+mensions represent positive beliefs about the controllability
+of the illness and a personal understanding of the condition.
+The Hospital Anxiety and Depression Scale (HADS) [30]
+The HADS is a valid measure, commonly used to assess psy-
+chological symptoms in those with chronic illness. It com-
+prises of two subscales (anxiety and depression) with a score
+range of zero to 21 [30]. For analysis purposes patients were
+divided into three predeﬁned and validated groups; scores of
+zero to seven were considered to be in the normal range, a
+score of eight to 10 suggested a probable presence of anxious
+or depressed state and scores higher than 11 were indicative
+of a presence of psychological symptoms [13].
+The Chronic Respiratory Questionnaire-Self reported
+(CRQ-SR) [31]
+The CRQ-SR is a self-reported measure of health status
+shown to be a valid and reliable in patients with COPD [32].
+It consists of four dimensions: dyspnoea, fatigue, emotion
+Figure 1
+Flow diagram.
+Cluster analysis following an exacerbation of COPD
+321
+and mastery. The mean score per dimension is calculated
+providing a score of between one and seven with a lower
+score indicating better health status [31].
+The Pulmonary Rehabilitation Adapted Index of Self-
+efﬁcacy (PRAISE) [33]
+The PRAISE is an adapted version of the General Self-Efﬁcacy
+Scale (GSES) [34] developed speciﬁcally for use in PR and has
+been fully validated in a PR population [33]. The tool consists
+of 15 questions, each one scored from one to four with four
+being the highest level of perceived self-efﬁcacy.
+Six month follow up
+At six months following hospital discharge data were
+gathered regarding the uptake, attendance and completion
+of PR. This data was gathered prospectively from the PR
+database at the two secondary care centers responsible for
+delivering PR within the city of Leicester, UK. PR is also
+delivered in the local communities. The team responsible
+for this service were contacted to conﬁrm patient’s
+attendance and completion. Patients were contacted by
+telephone if they did not attend their initial assessment or
+dropped out of the programme and their reasons were
+documented.
+Statistical analysis
+Data were analysed using SPSS 18.0 for Windows (SPSS Inc,
+Chicago, USA).
+Cluster analysis
+Cluster analysis was used to classify cases to groups
+generated by illness perceptions measured using the IPQ-R.
+Eight domains of the IPQ-R were included. The casual
+domain was not considered because data yielded from this
+domain provides a binary variable which cannot be dealt
+with using the method of cluster analysis applied. Before
+running the analysis all eight domains of the IPQ-R were
+standardised into z-scores. A two-step approach to the
+cluster analysis was then applied. In the ﬁrst step hierar-
+chical cluster analysis using Ward’s method (with squared
+Euclidian distance similarity measure) was used to identify
+the number of clusters and cluster centroids. Possible
+cluster divisions were decided by inconsistent jumps be-
+tween stages in an agglomeration schedule. Once cluster
+numbers and centroids were decided a K-means cluster
+analysis was used to cluster cases to centroids [35]. To test
+for
+the
+stability
+of
+clusters
+K-means
+clustering
+was
+repeated on a random sample containing 50% of the cases
+[35].
+Between-cluster differences
+The identiﬁed clusters were characterised by considering
+between-cluster differences in illness perceptions, de-
+mographics, mood, health status and self-efﬁcacy. Be-
+tween-cluster
+differences
+were
+investigated
+for
+acceptance and uptake of PR.
+Data consisted of both normally and non-normally
+distributed variables. A one way ANOVA or KruskaleWallis
+and Chi-squared tests were applied. Signiﬁcant results for
+non-binary variables were followed up by an independent
+samples t-test or ManneWhitney U test, both applying a
+Bonferroni correction to account for multiple comparisons
+(p < 0.01). Effect sizes for any differences were calculated
+using Pearson’s r.
+Inter-correlations
+Bivariate inter-correlations between IPQ-R domains with
+each emergent cluster were investigated.
+Results
+Sample
+Three hundred and thirty two patients were identiﬁed as
+having been admitted to hospital with a coded diagnosis of
+an acute exacerbation of COPD. One hundred and eleven
+patients were excluded with reasons documented in Fig. 1.
+Ninety three patients refused to take part and 128 were
+successfully recruited. The demographics of the patients
+are presented in Table 1.
+Of the 128 patients recruited, 70 (55%) accepted a referral
+to PR and one accepted a referral to Cardiac Rehabilitation.
+Primary reasons for refusing a referral were varied but the
+most
+commonly
+cited
+were:
+transport
+issues
+(12%);
+expressed satisfaction with functional ability (11%); indif-
+ference (11%); previous attendance at PR (9%); busy
+attending other appointments (7%); family commitments
+(7%); and feeling too old to exercise (7%). At six months 39
+(30%) patients had attended their initial assessment, 29
+(23%) had enrolled in the PR classes and 11 (9%) patients had
+completed the programme (Fig. 1). The main primary reason
+cited for not attending the initial assessment or dropping out
+of the programme was feeling too ill and/or breathless (41%),
+with other reasons including: not believing they would
+beneﬁt in terms of increased functional capacity; physical
+co-morbidities; fear of the hospital environment; and feeling
+depressed. Two patients were unable to attend their initial
+assessment because they had died.
+Information gleaned from the causal domain of the IPQ-R
+revealed that 68% of patients cited smoking as the primary
+cause of their disease, 9% considered work environment to
+be the cause with other causes including; aging, a germ or
+virus and passive smoking.
+Six months following discharge from hospital 12 (9%)
+patients had died.
+Data analysis
+All patients completed the IPQ-R during the study visit but
+only 72% (n Z 92) of patients completed all the other
+questionnaires (HADS, CRQ-SR, PRAISE). A missing value
+analysis was performed including all variables (p Z 0.121)
+and it was assumed that data was missing completely at
+random.
+Cluster analysis
+Three clusters emerged from the analysis. In Cluster 1
+(n Z 52) patients perceived higher personal control,
+322
+S.L. Harrison et al.
+Table 1
+Demographics. Mean (SD) or Medium (IQR) score for the whole group and each cluster, between-cluster differences and effect size (Pearson r) on all measured
+variables.
+Mean (SD)/Medium (IQR)
+Effect sizes for between group differences
+(Pearson r)
+Whole group
+Cluster 1 “in control”
+Cluster 2 “disengaged”
+Cluster 3 “distressed”
+1 & 2
+1 & 3
+2 & 3
+Demographics
+n [ 128
+n [ 52
+n [ 36
+n [ 40
+Gender (%male) $
+58.59
+61.54
+55.56
+57.50
+Age (years)
+70.84 (8.87)
+73.04 (7.73)
+72.17 (9.50)
+66.78 (8.50)
+r Z 0.05
+r Z 0.36**
+r Z 0.28
+BMI
+56.51 (6.70)
+25.91 (5.55)
+24.94 (7.01)
+28.70 (7.36)
+Social support (% alone) $
+34.38
+30.77
+44.44
+30.00
+Length of diagnosis (years)
+5.87 (5.44)
+5.65 (5.97)
+6.39 (6.17)
+5.68 (3.91)
+No. of co-morbidities
+3.04 (1.92)
+2.54 (1.80)
+3.44 (1.66)
+3.33 (2.18)
+Oxygen at home (% yes) $
+24.22
+23.08
+25.00
+25.00
+Smoking status (% current) $
+33.59
+32.69
+33.33
+35
+Pack years (years)
+48.77 (29.90)
+41.92 (28.55)
+57.00 (25.54)
+50.26 (33.66)
+FEV1 (l)
+1.10 (0.49)
+1.16 (0.51)
+1.03 (0.47)
+1.09 (0.48)
+FEV1/FVC (%)
+50.70 (13.24)
+50.72 (12.26)
+51.28 (14.55)
+50.17 (13.55)
+MRC grade (%) $
+r Z 0.44**
+r Z 0.37**
+r Z 0.15
+Grade 1
+1.56
+1.92
+2.78
+0
+Grade 2
+14.06
+26.92
+5.56
+5.00
+Grade 3
+24.22
+34.62
+11.11
+22.50
+Grade 4
+32.03
+23.08
+33.33
+42.50
+Grade 5
+28.13
+13.46
+47.22
+30.00
+*p < 0.01, **p < 0.001.
+$ Z Median, SD Z Standard Deviation, IQR Z Inter Quartile Range, BMI Z Body Mass Index, FEV1 Z Forced Expiratory Volume in 1 Second, FEV1/FVC Z Forced Expiratory Volume in 1
+Second/Forced Vital Capacity l Z Litres, MRC Z Medical Research Council.
+Cluster analysis following an exacerbation of COPD
+323
+Table 2
+Illness perceptions, mood, health status and self-efﬁcacy. Medium (IQR) score for each cluster, between-cluster differences and effect size.
+Medium (IQR)
+Effect sizes for between group
+differences (Pearson r)
+Whole group
+Cluster 1 “in control”
+Cluster 2 “disengaged” Cluster 3 “distressed” 1 & 2
+1 & 3
+2 & 3
+Illness perceptions
+n [ 128
+n [ 52
+n [ 36
+n [ 40
+Identity
+6.00 (4.00e8.00)
+4.00 (3.00e5.75)
+6.00 (5.00e7.00)
+8.50 (7.00e10.00)
+r Z 0.36*
+r Z 0.67** r Z 0.49**
+Consequences
+22.00 (18.00e24.00)
+18.50 (15.70e21.75)
+20.00 (18.25e22.00)
+25.00 (24.00e27.45)
+r Z 0.20
+r Z 0.74** r Z 0.70**
+Timeline (acute/chronic)
+24.00 (19.05e26.00)
+22.50 (19.25e26.00)
+19.60 (18.00e23.75)
+26.50 (24.00e30.00)
+r Z 0.27
+r Z 0.43** r Z 0.65**
+Timeline (cyclical)
+14.00 (11.00e16.00)
+12.00 (3.25e14.00)
+14.00 (12.00e16.00)
+16.00 (13.00e17.00)
+r Z 0.28*
+r Z 0.41** r Z 0.23
+Personal control
+20.00 (17.00e22.00)
+21.00 (19.00e24.00)
+18.00 (14.50e20.00)
+20.00 (16.25e22.75)
+r Z 0.48** r Z 0.20
+r Z 0.25
+Treatment control
+16.00 (13.00e17.00)
+16.00 (13.00e17.00)
+16.00 (14.00e18.00)
+15.00 (12.25e17.00)
+Illness coherence
+17.00 (13.00e20.00)
+18.00 (14.25e20.75)
+12.00 (10.00e14.00)
+19.50 (17.00e21.00)
+r Z 0.52** r Z 0.14
+r Z 0.63**
+Emotional representations 18.50 (15.00e24.00)
+12.00 (11.00e16.00)
+22.00 (19.00e23.00)
+24.50 (22.00e26.00)
+r Z 0.74** r Z 0.81** r Z 0.37*
+Mood
+n [ 86
+n [ 39
+n [ 20
+n [ 27
+HADS anxiety (%)
+r Z 0.38*
+r Z 0.68** r Z 0.49*
+None
+46.51
+79.49
+35.00
+7.41
+Probable
+17.44
+5.13
+40.00
+18.52
+Presence
+36.05
+15.38
+25.00
+74.07
+HADS depression (%)
+r Z 0.20
+r Z 0.56** r Z 0.37
+None
+56.98
+79.49
+60.00
+22.22
+Probable
+30.23
+15.38
+30.00
+51.85
+Presence
+12.79
+5.13
+10.00
+25.93
+Health status
+n [ 89 (n [ 86 dyspnoea) n [ 39 (n [ 36 dyspnoea) n [ 21
+n [ 29
+CRQ-SR dyspnoea
+2.37 (1.95e3.20)
+2.70 (2.00e3.75)
+2.00 (1.60e2.90)
+2.00 (1.90e2.80)
+CRQ-SR fatigue
+3.00 (2.00e4.00)
+3.50 (2.50e4.50)
+3.25 (2.38e4.25)
+2.00 (1.50e3.00)
+r Z 0.10
+r Z 0.48** r Z 0.45*
+CRQ-SR emotion
+3.71 (2.93e5.00)
+4.86 (3.71e6.00)
+3.86 (3.20e4.36)
+2.71 (2.07e3.43)
+r Z 0.33
+r Z 0.69** r Z 0.49*
+CRQ-SR mastery
+4.00 (2.88e5.00)
+4.75 (4.00e5.75)
+3.75 (2.50e4.63)
+3.00 (2.25e3.50)
+r Z 0.37*
+r Z 0.68** r Z 0.34
+Self-efﬁcacy
+n [ 79
+n [ 37
+n [ 17
+n [ 25
+PRAISE
+42.00 (36.00e48.00)
+47.00 (38.00e52.00)
+40.00 (29.50e45.00)
+37.00 (33.50e43.00)
+r Z 0.33
+r Z 0.43*
+r Z 0.07
+*p < 0.01, **p < 0.001.
+IQR Z Inter Quartile Range, HADS Z Hospital Anxiety and Depression Scale (‘none’ 0e7, ‘probable’ 8e10, ‘presence’ >11), CRQSR Z Chronic Respiratory Questionnaire-Self-Reported,
+PRAISE Z Pulmonary Rehabilitation Adapted Index of Self-efﬁcacy.
+324
+S.L. Harrison et al.
+associated fewer symptoms with their disease, perceived a
+less chronic and cyclical timeline, had lesser emotional
+representations and consequences. Patients in Cluster 1
+were labelled as being ‘in control’. Patients in Cluster 2
+(n Z 36) displayed lower illness coherence and personal
+control, associated more symptoms with their disease but
+had weaker emotional representations, reported fewer
+consequences and perceived a less chronic timeline. Pa-
+tients in Cluster 2 were assigned as representing a ‘disen-
+gaged’ illness schema. In Cluster 3 (n Z 40) patients had
+higher illness coherence, perceived a higher number of
+symptoms to be associated with their disease and for it to
+have greater consequences and a cyclical timeline. Patients
+in Cluster 3 were designated as comprising of a ‘distressed’
+illness schemata. Table 2 presents the between-cluster
+differences for the eight subscales of the IPQ-R. Fig. 2
+displays a visual representation of the illness schema held
+within each of the three clusters.
+In the validation exercise comprising of a random 50% of
+the sample, 87.5% were successfully reclassiﬁed into the
+same cluster, conﬁrming the robustness of the clusters [35].
+Cluster characteristics
+Signiﬁcant differences were found between cluster groups
+for age and disease severity (MRC scale). As shown in Table
+1 patients in Cluster 1 (‘in control’) were signiﬁcantly older
+than those in Cluster 3 (‘distressed’) (p < 0.01) and were
+less disabled by their breathlessness (lower MRC grade)
+than Cluster 2 (‘disengaged’) (p < 0.001) or Cluster 3
+(‘distressed’) (p < 0.001).
+The three cluster groups also differed signiﬁcantly in
+mood, health status and self-efﬁcacy (Table 2). In partic-
+ular, patients in Cluster 1 (‘in control’) and Cluster 3
+(‘distressed’) were quite distinct. Patients in Cluster 3
+(‘distressed’) experienced more severe symptoms of anxi-
+ety and depression (p < 0.001), worse health status in all
+four domains of the CRQ-SR (p < 0.001) and had lower self-
+efﬁcacy (p < 0.01) than those in Cluster 1 (‘in control’).
+There were no differences between clusters in terms of
+attendance and adherence to previous PR or acceptance
+and uptake of PR in the six months following hospitalisation
+with an acute exacerbation of COPD (p > 0.01).
+Inter-correlations
+In Cluster 1 (‘in control’) signiﬁcant relationships existed
+between timeline and consequences (r Z 0.46, p < 0.01),
+emotional
+representations
+and
+treatment
+control
+(r Z 0.32, p < 0.05) and illness coherence and treatment
+control (r Z 0.34, p < 0.05). In Cluster 2 (‘disengaged’)
+personal and treatment control correlated with each other
+(r Z 0.46, p < 0.01), other associations were between
+identity and timeline cyclical (r Z 0.49, p < 0.01) and
+timeline and consequences (r Z 0.42, p < 0.05). In Cluster
+3 (‘distressed’) personal and treatment control were
+correlated (r Z 0.46, p < 0.01), other associations were
+between identity and personal control (r Z 0.43, p < 0.01).
+Discussion
+The present study has prospectively identiﬁed uptake and
+adherence to PR post-exacerbation as being poor. This is
+the ﬁrst study to assess illness perceptions in patients with
+COPD following hospitalisation for an acute exacerbation. A
+cluster analysis technique was applied in an attempt to
+identify meaningful groups of patients according to their
+illness perceptions. Three distinct cluster groups were
+identiﬁed. Despite there being no differences between
+clusters in terms of, disease duration or severity Clusters 1
+and 3 differed signiﬁcantly in the perceived time course
+and consequences of the disease, and most importantly in
+their emotional response to the disease. They were labelled
+‘in
+control’
+and
+‘distressed’
+accordingly.
+Cluster
+2
+comprised of a ‘disengaged’ illness schema with patients
+displaying little illness coherence, fewer emotional repre-
+sentations, lower levels of personal control and little
+awareness of disease consequences.
+No between-cluster differences existed in acceptance or
+uptake of PR despite illness perceptions following acute
+events
+(myocardial
+infarction)
+being
+associated
+with
+Figure 2
+The comparative mean (z-score) illness schema of the three clusters.
+Cluster analysis following an exacerbation of COPD
+325
+adherence to Cardiac Rehabilitation [23,36]. Perhaps this is
+not surprising given the potential ﬂoor effect with only
+small numbers of patients accepting a referral to PR and
+attending their initial assessment for the programme. The
+low completion rates of PR in this study highlight the
+probable sample bias which may exist in current post-
+exacerbation PR research studies [11]. It would appear
+that PR delivered following an acute exacerbation of COPD
+may be successful only for a relatively small self-selecting
+sample. These ﬁndings evoke concerns regarding the
+feasibility of post-exacerbation PR and emphasise the ne-
+cessity of developing additional interventions to facilitate
+and enhance PR following an acute exacerbation. Although
+it was not possible to detect between-cluster differences in
+acceptance/uptake of PR, these ﬁndings highlight the
+variation which exists between patient’s appraisals of their
+disease, advocating an individualised approach to PR de-
+livery. By identifying cluster groups according to different
+combinations of illness perceptions, interventions can be
+focused to meet the speciﬁc needs of patients’ post-
+exacerbation.
+A cluster analysis may be useful in potentially identifying
+those patients most likely to beneﬁt from an intervention
+designed to shape maladaptive illness perceptions. Cluster 1
+(‘in control’) and Cluster 3 (‘distressed’) were quite distinct,
+particularly in relation to emotional representations. Patients
+in Cluster 3 (‘distressed’) displayed higher emotional repre-
+sentations and unsurprisingly experienced more severe
+symptoms of anxiety and depression than those in Cluster 1
+(‘in control’). It would appear that emotional representations
+play a key role in deﬁning clusters in patients with COPD
+following an acute exacerbation, possibly because symptoms
+of breathlessness are so intimately associated with those of
+anxiety [37]. It is worth noting that Cluster 3 (‘distressed’)
+reported morebreathlesssymptoms. Giventhe prominenceof
+heightened distress in certain patient groups, health care
+professionals caring for those during exacerbations should be
+more
+mindful
+of
+this
+heightened
+emotional
+arousal.
+Acknowledging patients’ ‘very real’ expressions of distress is
+likely to promote therapeutic alliance and future adherence.
+In Cluster 1 (‘in control’) and Cluster 2 (‘disengaged’)
+signiﬁcant associations exist between the chronicity of
+disease
+and
+consequences.
+This
+association
+was
+not
+apparent in Cluster 3 (‘distressed’) nor were strong inter-
+correlations
+found
+between
+emotional
+representations
+and consequences. It would appear that distress in these
+groups was not related to perceptions of chronicity or
+perceived severity of disease. Given that illness percep-
+tions were measured following an acute exacerbation it is
+plausible to assume that distress is caused by the sudden
+onset of intense breathlessness which may then resolve
+over time.
+High associations between personal control and treat-
+ment control in Cluster 2 (‘disengaged’) and Cluster 3
+(‘distressed’) suggest the dependency of personal control
+on effectiveness of treatments. This may reﬂect passivity
+and deference which is not displayed in Cluster 1 (‘in
+control’). Instead those in Cluster 1 (‘in control’) possess
+high personal control independent of treatment control
+which may be threatened by accepting intervention (PR).
+Previously, adherence to oxygen therapy has been found to
+diminish mastery over symptoms [38].
+The scores from the IPQ-R domain ‘treatment control’
+are comparable to a stable population of patients with
+COPD [39] but are lower than those found in other disease
+groups [22,23,25,27]. This is likely to be a consequence of
+having a diagnosis of a chronic, progressive disease which is
+punctuated by ﬂuctuations in symptoms. Acute exacerba-
+tions are unpredictable and have been suggested to pro-
+mote constant monitoring of symptoms and hypervigilance
+in patients with COPD [40]. Patients in Cluster 1 (‘in con-
+trol’) do not appear to be overwhelmed by the persistent
+threat of an acute exacerbation and are able to manage
+their emotions accordingly, unlike those in Cluster 3 (‘dis-
+tressed’). It is worth noting that those in Cluster 1 (‘in
+control’) are signiﬁcantly older than patients in Cluster 3
+(‘distressed’) and it is possible that they are therefore
+more able to attribute some of the functional limitations to
+the process of aging [41].
+Information derived from developing cluster groups from
+illness perception data can further inform how health care
+providers might intervene to shape and modify patient’s
+illness perceptions to enhance disease-management stra-
+tegies
+(i.e.
+PR).
+The
+disease
+presentations
+are
+con-
+ceptualised as distressing (Cluster 3 ‘distressed’) providing
+the focus of several theory-based intervention models
+including;
+Cognitive
+Behavioural
+Therapy
+(CBT)
+[42],
+Mindfulness [43] and Acceptance and Commitment Therapy
+(ACT) [44].
+It may be most appropriate for patients to modify the
+function of their thoughts, proposing a role for Mindfulness.
+Mindfulness encourages patients to accept their feelings
+and disengage from the content of distressing thoughts by
+focusing on goal-based actions. Used in combination with
+‘acceptance’, Mindfulness may offer a more promising and
+less immediately threatening, treatment alternative to PR.
+Such an intervention has been found to successfully reduce
+stress and improve quality of life and control in patients
+with asthma [45].
+Supporting patients in Cluster 2 (‘disengaged’) in a way
+which promotes active engagement in treatment such as PR
+is likely to be very challenging. Patients may have actively
+chosen to avoid information about their disease, prompted
+by denial or ambivalence about the diagnosis of a disease
+with a degenerative process and poor prognosis. Delivering
+education and subsequently increasing disease awareness,
+may prompt feelings of distress, for example, patients in
+Cluster 1 (‘in control’) and Cluster 3 (‘distressed’) were
+found to have the same level of understanding but the way
+in which the disease affected them emotionally differed
+signiﬁcantly between the groups. With these considerations
+in mind it is unlikely that an education programme would be
+successful without the promotion of acceptance and con-
+trol. This may be achieved through a therapeutic approach
+assisting with the maintenance of autonomy in the face of
+an unpredictable disease. For patients in Cluster 2 (‘dis-
+engaged’) a step-wise approach to care maybe most
+appropriate in promoting active disease management [46].
+Strengths and limitations
+The cross-sectional nature of the data means that causal
+assumptions are speculative. Furthermore, cluster analysis
+326
+S.L. Harrison et al.
+imposes a structure on the data which may not necessarily
+exist. However, the present study used a technique which
+limits manipulation by allowing the statistical program to
+establish possible numbers of clusters. A more robust way
+to test the reliability of the cluster solution would be to run
+the analysis on a separate population. Unfortunately, as
+this is the ﬁrst study to collect illness perception informa-
+tion on patients with COPD following an acute exacerbation
+this type of validation was not possible but could perhaps
+be conducted in the future. Furthermore, we can not be
+sure about the stability of the three illness proﬁles over
+time. In an unstable population of patients proﬁles may
+change as time lapses from the acute exacerbation. Testing
+the stability of the proﬁles over time may provide guidance
+regarding the optimal time to offer a referral to PR.
+Future research
+Qualitative research is currently being conducted which
+aims to explore the manner in which patients who refuse a
+referral to post-exacerbation PR appraise their disease.
+This in-depth analysis may be helpful in increasing our un-
+derstanding regarding the needs of these difﬁcult to access
+patients.
+It may be beneﬁcial for future research to examine the
+effectiveness of Mindfulness and ‘acceptance’ techniques
+in reducing feelings of distress and improving coherence
+when delivered to a target population following an acute
+exacerbation of COPD. Any subsequent impact on atten-
+dance to PR would also be worth scrutinising.
+Conclusion
+Acceptance/uptake of post-exacerbation PR is poor and
+currently understanding is limited regarding the addition
+needs of these vulnerable patients. Three meaningful
+cluster groups are likely to exist in a population of patients
+following hospitalisation for an acute exacerbation of
+COPD: ‘in control’, ‘disengaged’ and ‘distressed’. A tech-
+nique of this kind is helpful in developing psychological
+interventions which are psychologically informed and ﬂex-
+ible. The use of psychological techniques centred on
+Mindfulness and ‘acceptance’ therapies may be beneﬁcial
+in forming patient’s illness appraisals and facilitating dis-
+ease management strategies, namely PR.
+Author contribution
+SH, NR, and SS were involved in conception, hypothesis
+delineation, acquisition and interpretation of data. SH, NR,
+CG, JW, and SS were involved in writing the article and SS
+act as a guarantor of the paper, taking responsibility for the
+integrity of the work as a whole, from inception to pub-
+lished article. MS and MM had substantial involvement in
+article revision.
+Conﬂict of interest
+The authors declare they have no conﬂicts of interest in
+relation to this article.
+Appendix A. Supplementary data
+Supplementary data related to this article can be found at
+http://dx.doi.org/10.1016/j.rmed.2013.10.016.
+References
+[1] Global Initiative for Chronic Obstructive Lung Disease (GOLD).
+Global strategy for diagnosis, management and prevention of
+COPD; 2011.
+[2] Nici L, Donner C, Wouters E, Zuwallack R, Ambrosino N,
+Bourbeau J, et al. American Thoracic Society/European Res-
+piratory Society statement on pulmonary rehabilitation. Am J
+Respir Crit Care Med 2006 Jun 15;173(12):1390e413.
+[3] Donaldson GC, Seemungal TA, Bhowmik A, Wedzicha JA.
+Relationship between exacerbation frequency and lung func-
+tion decline in chronic obstructive pulmonary disease. Thorax
+2002 Oct;57(10):847e52.
+[4] Kanner RE, Connett JE, Williams DE, Buist AS. Effects of ran-
+domized assignment to a smoking cessation intervention and
+changes in smoking habits on respiratory symptoms in smokers
+with early chronic obstructive pulmonary disease: the Lung
+Health Study. Am J Med 1999 Apr;106(4):410e6.
+[5] Seemungal TA, Donaldson GC, Paul EA, Bestall JC, Jeffries DJ,
+Wedzicha JA. Effect of exacerbation on quality of life in pa-
+tients with chronic obstructive pulmonary disease. Am J
+Respir Crit Care Med 1998 May;157(5 Pt 1):1418e22.
+[6] Soler-Cataluna JJ, Martinez-Garcia MA, Roman SP, Salcedo E,
+Navarro M, Ochando R. Severe acute exacerbations and mor-
+tality in patients with chronic obstructive pulmonary disease.
+Thorax 2005 Nov;60(11):925e31.
+[7] Farr M. 7, 14 and 28 day readmissions rates in conjunction
+with current tariffs to explore the impact of possible changes
+to funding levels in the NHS. Dr Foster Intelligence; 2010.
+[8] Man WD, Polkey MI, Donaldson N, Gray BJ, Moxham J. Com-
+munity pulmonary rehabilitation after hospitalisation for acute
+exacerbations of chronic obstructive pulmonary disease: rand-
+omised controlled study. Br Med J 2004 Nov 20;329(7476):1209.
+[9] Seymour JM, Moore L, Jolley CJ, Ward K, Creasey J, Steier JS,
+et al. Outpatient pulmonary rehabilitation following acute
+exacerbations of COPD. Thorax 2010 May;65(5):423e8.
+[10] Eaton T, Young P, Fergusson W, Moodie L, Zeng I, O’Kane F,
+et al. Does early pulmonary rehabilitation reduce acute
+health-care utilization in COPD patients admitted with an
+exacerbation? A randomized controlled study. Respirology
+2009 Mar;14(2):230e8.
+[11] Puhan MA, Gimeno-Santos E, Scharplatz M, Troosters T,
+Walters EH, Steurer J. Pulmonary rehabilitation following
+exacerbations of chronic obstructive pulmonary disease.
+Cochrane Database Syst Rev 2011;(10):CD005305.
+[12] Garrod R, Marshall J, Barley E, Jones PW. Predictors of success
+and failure in pulmonary rehabilitation. Eur Respir J 2006 Apr;
+27(4):788e94.
+[13] Harrison SL, Greening NJ, Williams JE, Morgan MD, Steiner MC,
+Singh SJ. Have we underestimated the efﬁcacy of pulmonary
+rehabilitation in improving mood? Respir Med 2012 Jun;106(6):
+838e44.
+[14] Selzler AM, Simmonds L, Rodgers WM, Wong EY, Stickland MK.
+Pulmonary rehabilitation in chronic obstructive pulmonary
+disease: predictors of program completion and success. COPD
+2012 Aug;9(5):538e45.
+[15] Leventhal H, Nerenz DR, Steele DS. Illness representations and
+coping with health threats. In: Handbook of psychology and
+health. NJ: Erlbaum: Hullsdale; 1984. p. 219e42.
+[16] Howard C, Hallas CN, Wray J, Carby M. The relationship
+between
+illness
+perceptions
+and
+panic
+in
+chronic
+Cluster analysis following an exacerbation of COPD
+327
+obstructive pulmonary disease. Behav Res Ther 2009 Jan;
+47(1):71e6.
+[17] Scharloo M, Kaptein AA, Weinman J, Hazes JM, Willems LN,
+Bergman W, et al. Illness perceptions, coping and functioning
+in patients with rheumatoid arthritis, chronic obstructive
+pulmonary disease and psoriasis. J Psychosom Res 1998 May;
+44(5):573e85.
+[18] Scharloo M, Kaptein AA, Schlosser M, Pouwels H, Bel EH,
+Rabe KF, et al. Illness perceptions and quality of life in pa-
+tients with chronic obstructive pulmonary disease. J Asthma
+2007 Sep;44(7):575e81.
+[19] Fischer MJ, Scharloo M, Abbink JJ, Thijs-Van A, Rudolphus A,
+Snoei L, et al. Participation and drop-out in pulmonary reha-
+bilitation: a qualitative analysis of the patient’s perspective.
+Clin Rehabil 2007 Mar;21(3):212e21.
+[20] Fischer MJ, Scharloo M, Abbink JJ, van ’t Hul AJ, van RD,
+Rudolphus A, et al. Drop-out and attendance in pulmonary
+rehabilitation: the role of clinical and psychosocial variables.
+Respir Med 2009 Oct;103(10):1564e71.
+[21] Skinner TC, Carey ME, Cradock S, Dallosso HM, Daly H,
+Davies MJ, et al. Comparison of illness representations di-
+mensions and illness representation clusters in predicting
+outcomes in the ﬁrst year following diagnosis of type 2 dia-
+betes: results from the DESMOND trial. Psychol Health 2011
+Mar;26(3):321e35.
+[22] Alsen P, Brink E, Persson LO, Brandstrom Y, Karlson BW. Illness
+perceptions after myocardial infarction: relations to fatigue,
+emotional distress, and health-related quality of life. J Car-
+diovasc Nurs 2010 Mar;25(2):E1e10.
+[23] French DP, Cooper A, Weinman J. Illness perceptions predict
+attendance at cardiac rehabilitation following acute myocar-
+dial infarction: a systematic review with meta-analysis. J
+Psychosom Res 2006 Dec;61(6):757e67.
+[24] Hobro N, Weinman J, Hankins M. Using the self-regulatory
+model to cluster chronic pain patients: the ﬁrst step to-
+wards identifying relevant treatments? Pain 2004 Apr;108(3):
+276e83.
+[25] Medley AR, Powell T, Worthington A, Chohan G, Jones C. Brain
+injury beliefs, self-awareness, and coping: a preliminary
+cluster analytic study based within the self-regulatory model.
+Neuropsychol Rehabil 2010 Dec;20(6):899e921.
+[26] Graham CD, Rose MR, Hankins M, Chalder T, Weinman J.
+Separating emotions from consequences in muscle disease:
+comparing beneﬁcial and unhelpful illness schemata to inform
+intervention development. J Psychosom Res 2013 April;74(4):
+320e6.
+[27] Charlier C, Pauwels E, Lechner L, Spittaels H, Bourgois J, DE
+Bourdeaudhuij I, et al. Physical activity levels and supportive
+care needs for physical activity among breast cancer survivors
+with
+different
+psychosocial
+proﬁles:
+a
+cluster-analytical
+approach. Eur J Cancer Care (Engl ) 2012 May 17;21(6):790e9.
+[28] National Institute for Clinical Excellence. Clinical guideline
+101: chronic obstructive pulmonary disease e management of
+chronic obstructive pulmonary disease in adults in primary
+and secondary care; 21-6-2010.
+[29] Moss-Morris R, Weinman J, Petrie K, Horne R, Cameron L,
+Buick D. The revised illness perception questionnaire (IPQ-R).
+Psychol Health 2002;17(1):1e16.
+[30] Zigmond AS, Snaith RP. The hospital anxiety and depression
+scale. Acta Psychiatr Scand 1983 Jun;67(6):361e70.
+[31] Williams JE, Singh SJ, Sewell L, Guyatt GH, Morgan MD.
+Development of a self-reported Chronic Respiratory Ques-
+tionnaire (CRQ-SR). Thorax 2001 Dec;56(12):954e9.
+[32] Williams JE, Singh SJ, Sewell L, Morgan MD. Health status
+measurement: sensitivity of the self-reported Chronic Respi-
+ratory Questionnaire (CRQ-SR) in pulmonary rehabilitation.
+Thorax 2003 Jun;58(6):515e8.
+[33] Vincent E, Sewell L, Wagg K, Deacon S, Williams J, Singh S.
+Measuring a change in self-efﬁcacy following pulmonary
+rehabilitation: an evaluation of the PRAISE tool. Chest 2011
+Dec;140(6):1534e9.
+[34] Jaeschke R, Singer J, Guyatt GH. Measurement of health
+status. Ascertaining the minimal clinically important differ-
+ence. Control Clin Trials 1989 Dec;10(4):407e15.
+[35] Clatworthy J, Hankins M, Buick D, Weinman J, Horne R.
+Cluster analysis in illness perceptions research: a Monte Carlo
+study to identify the most appropriate method. Psychol
+Health 2007;22(2):123e42.
+[36] Petrie KJ, Cameron LD, Ellis CJ, Buick D, Weinman J. Changing
+illness perceptions after myocardial infarction: an early
+intervention randomized controlled trial. Psychosom Med
+2002 Jul;64(4):580e6.
+[37] Bailey PH. The dyspnea-anxiety-dyspnea cycleeCOPD pa-
+tients’ stories of breathlessness: it’s scary/when you can’t
+breathe. Qual Health Res 2004 Jul;14(6):760e78.
+[38] Katsenos S, Constantopoulos SH. Long-term oxygen therapy in
+COPD: factors affecting and ways of improving patient
+compliance. Pulm Med 2011;2011:325362.
+[39] Fischer M, Scharloo M, Abbink J, van ’t HA, van RD,
+Rudolphus A, et al. The dynamics of illness perceptions:
+testing assumptions of Leventhal’s common-sense model in a
+pulmonary rehabilitation setting. Br J Health Psychol 2010
+Nov;15(Pt 4):887e903.
+[40] Russell CK, Geraci T, Hooper A, Shull L, Gregory DM. Patients’
+explanatory models for heart failure and COPD exacerbations.
+Clin Nurs Res 1998 May;7(2):164e88.
+[41] Lazarus NR, Harridge SD. Inherent ageing in humans: the case
+for studying master athletes. Scand J Med Sci Sports 2007 Oct;
+17(5):461e3.
+[42] Brooks SK, Rimes KA, Chalder T. The role of acceptance in
+chronic fatigue syndrome. J Psychosom Res 2011 Dec;71(6):
+411e5.
+[43] Grossman P, Kappos L, Gensicke H, D’Souza M, Mohr DC,
+Penner IK, et al. MS quality of life, depression, and fatigue
+improve after mindfulness training: a randomized trial.
+Neurology 2010 Sep 28;75(13):1141e9.
+[44] Forman EM, Chapman JE, Herbert JD, Goetter EM, Yuen EK,
+Moitra E. Using session-by-session measurement to compare
+mechanisms of action for acceptance and commitment ther-
+apy and cognitive therapy. Behav Ther 2012 Jun;43(2):
+341e54.
+[45] Pbert L, Madison JM, Druker S, Olendzki N, Magner R, Reed G,
+et al. Effect of mindfulness training on asthma quality of life
+and lung function: a randomised controlled trial. Thorax 2012
+Sep;67(9):769e76.
+[46] Child A, Sanders J, Sigel P, Hunter MS. Meeting the psycho-
+logical needs of cardiac patients:an integrated stepped-care
+approach within a cardiac rehabilitation setting. Br J Cardiol
+2010;17(4):175e9.
+328
+S.L. Harrison et al.

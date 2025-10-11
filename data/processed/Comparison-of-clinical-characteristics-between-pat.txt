@@ -1,0 +1,825 @@
+Comparison of clinical characteristics
+between patients with ALK-positive and
+EGFR-positive lung adenocarcinoma
+Hyo Jae Kang a,1, Hyo-Jeong Lim a,b, Jong Sun Park a,b,
+Young-Jae Cho a,b, Ho-Il Yoon a,b, Jin-Haeng Chung c,
+Jae Ho Lee a,b, Choon-Taek Lee a,b,*
+a Division of Pulmonary and Critical Care Medicine, Department of Internal Medicine,
+Seoul National University Bundang Hospital, Seongnam 463-707, South Korea
+b Department of Internal Medicine, Seoul National University College of Medicine, Seoul, South Korea
+c Department of Pathology, Seoul National University Bundang Hospital, Seongnam 463-707,
+South Korea
+Received 14 June 2013; accepted 30 November 2013
+Available online 10 December 2013
+KEYWORDS
+Lung
+adenocarcinoma;
+EML4-ALK;
+EGFR;
+Bronchoscopy
+Summary
+Background: The discovery of the chromosomal fusion product of anaplastic lymphoma kinase
+(ALK) with echinoderm microtubule-associated protein-like 4 (EML4) (EML4-ALK) has changed
+the treatment paradigm of lung cancer. In this study, we analysed the clinical characteristics,
+including bronchoscopic ﬁndings, of patients with EML4-ALK-positive adenocarcinoma and
+compared them with those of EGFR mutation-positive patients.
+Materials and methods: In this retrospective cohort study, the clinical characteristics and
+bronchoscopic ﬁndings of patients with ALK fusion-positive lung cancers were compared to pa-
+tients with EGFR-mutant lung cancers.
+Results: Among the 440 patients with adenocarcinoma of lung screened for this study, 46
+(10.4%) harboured the EML4-ALK fusion, 90 (20.4%) harboured an activating EGFR mutation,
+and all had adenocarcinoma. In univariate analysis, ALK-positive patients were signiﬁcantly
+younger than EGFR-positive patients (p Z 0.004) and were more commonly male
+(p Z 0.021). An initial status of stage IV metastatic cancer was more frequently noted in
+EML4-ALK-positive patients (p Z 0.012), with initial brain metastasis frequently observed
+(p Z 0.007). Compared with EGFR-positive patients, EML4-ALK-positive patients were signiﬁ-
+cantly more likely to have positive bronchoscopic ﬁndings, which suggested a more centralized
+* Corresponding author. Department of Internal Medicine, Seoul National University Bundang Hospital, 173-82 Gumi-Ro, Bundang-Gu,
+Seongnam 463-707, South Korea. Tel.: þ82 31 787 7002; fax: þ82 31 787 4052.
+E-mail address: ctlee@snu.ac.kr (C.-T. Lee).
+1 Present address: Center for Lung Cancer, Research Institute and Hospital, National Cancer Center, Goyang, South Korea.
+0954-6111/$ - see front matter ª 2013 Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.rmed.2013.11.020
+Available online at www.sciencedirect.com
+ScienceDirect
+journal homepage: www.elsevier.com/locate/rmed
+Respiratory Medicine (2014) 108, 388e394
+origin (p Z 0.001). EML4-ALK patients also had signiﬁcantly more positive bronchoscopic ﬁnd-
+ings and were more commonly male in multivariate analysis.
+Conclusions: The EML4-ALK fusion deﬁnes a new molecular subset of NSCLC that has distinct
+clinical and bronchoscopic ﬁndings suggesting more proximal origin when compared to tumours
+harbouring EGFR mutations.
+ª 2013 Elsevier Ltd. All rights reserved.
+Introduction
+Lung cancer is a leading cause of cancer-related deaths
+worldwide, with most patients being diagnosed in an
+advanced stage of disease, when treatment is only pallia-
+tive [1]. Although various cytotoxic chemotherapeutic
+agents have been used to treat patients with lung cancer,
+the prognosis of these patients remains unsatisfactory [2].
+In the past several years, an increase in the under-
+standing of the molecular basis of lung cancer, especially
+non-small cell lung cancer (NSCLC) has led to a change in
+the treatment of the disease [3]. Personalized cancer
+therapy has attracted considerable attention as research
+into the number of oncogenic molecules has grown and
+speciﬁc molecular treatment strategies against these tar-
+gets have been developed. For example, a subset of NSCLC
+patients with mutations in the epidermal growth factor
+receptor
+(EGFR)
+gene
+(EGFR-positive)
+have
+a
+higher
+response rate when treated with EGFR tyrosine kinase in-
+hibitors (TKIs) [3].
+In 2007, the chromosomal fusion of anaplastic lymphoma
+kinase (ALK) with echinoderm microtubule-associated pro-
+tein-like 4 (EML4) was discovered by screening a retroviral,
+complementary DNA expression library [4,5]. This fusion
+results from an inversion within chromosome 2p, which
+leads to expression of a chimeric tyrosine kinase in which
+the N-terminal half of EML4 is fused to the intracellular
+kinase domain of ALK [6].
+Pharmacological approaches targeting ALK rearrange-
+ments in patients with NSCLC have been successful thus
+far, and encouraging results were recently observed with
+the ALK inhibitor, crizotinib (PF-02341066; Pﬁzer, New
+York, NY) [7]. Patients with advanced lung cancer, har-
+bouring the EML4-ALK fusion (ALK-positive), and treated
+with crizotinib showed a favourable treatment response in
+a phase I trial [7]. Following the phase I dose escalation
+study, 82 patients with advanced ALK-positive disease
+were identiﬁed from 1500 NSCLC patients to receive cri-
+zotinib treatment. The response rate of these patients
+was 57% (47 of 82), and 27 patients (33%) maintained
+stable disease. The high response rate and good safety
+proﬁle
+of
+crizotinib
+treatment
+among
+ALK-positive
+patients have led to the initiation of phase III clinical
+trials [7e9].
+While previous study designs of targeted agents for a
+speciﬁc genotype have focused on clinically enriched pop-
+ulations, we are moving into an era where genotype is more
+useful than clinical features in treatment, and clinical trials
+focus on molecularly enriched populations.
+Several studies have reported that ALK-positive patients
+are younger and have never smoked [10,11]. Pathologically,
+EML4-ALK-positive tumours are predominately adenocarci-
+nomas, and some tumours contain signet ring cells.
+Patients with lung adenocarcinoma harbouring EGFR
+mutation, another important oncogenic mutation, shared
+similar clinical characteristics, such as female predomi-
+nance, young age and no association with smoking [3].
+Furthermore, EML4-ALK fusions and activating EGFR
+mutations are mutually exclusive [11,12]. Although there is
+valuable preliminary data concerning EML4-ALK-positive
+tumours, previous studies have not provided precise infor-
+mation on the clinical characteristics of EML4-ALK-positive
+advanced NSCLCs. Moreover, there is little statistical power
+associated with these previous studies because the cohorts
+examined were small [13,14].
+In previous studies, no comments on the phenotypes of
+bronchoscopic ﬁndings in ALK-positive patients compared
+with EGFR-positive patients were made. In this study, based
+on the clinical overlap of the ALK-positive and EGFR-
+positive adenocarcinoma subgroups, we analysed the clin-
+ical characteristics, including bronchoscopic ﬁndings, of
+patients with ALK-positive adenocarcinomas and compared
+them with the characteristics of EGFR-positive patients.
+Study population and methods
+Eligibility criteria
+In this retrospective cohort study, we reviewed the clinical
+characteristics and pathological specimens from 440 pa-
+tients diagnosed with adenocarcinoma of lung who under-
+went pathological conﬁrmation at Seoul National University
+Bundang Hospital from May 2003 to June 2011, consecu-
+tively. Some of the patients overlapped with our previous
+study [15]. Inclusion criteria for this study were as follows:
+a diagnosis of pathologically conﬁrmed adenocarcinoma;
+complete analysis for EGFR mutations and ALK; and
+completion of all diagnostic and staging procedures, such as
+chest
+computed
+tomography
+(CT),
+positron
+emission
+tomography-CT (PET-CT), bronchoscopy, brain magnetic
+resonance imaging, percutaneous needle aspiration/biopsy,
+and
+endobronchial
+ultrasound,
+if
+clinically
+required.
+Tumour-node-metastasis (TNM) staging of the cancer was
+evaluated using the seventh edition of the staging system of
+International Association for the Study of Lung Cancer [16].
+If patients received curative surgical resection, patholog-
+ical staging was applied. If patients did not receive curative
+surgical resection, the clinical staging was used for ﬁnal
+staging.
+Smoking status was deﬁned as never-smokers (<100
+lifetime cigarettes) and smokers (current and ex-smokers).
+Comparison of ALK- and EGFR-positive lung cancer
+389
+Data extracted from the medical records of each patient
+included age, sex, smoking history, tumour histology,
+tumour size, surgical procedure, and metastasis status [7].
+Immunohistochemistry and ﬂuorescent in situ
+hybridization for EML4-ALK fusion
+Fluorescent in situ hybridization (FISH) for ALK is the
+standard method for diagnosis of ALK fusion; however, we
+used immunohistochemistry (IHC) to detect the ALK protein
+and screen tumour samples for their EML4-ALK fusion status
+because the frequency of ALK rearrangement is quite low,
+and FISH is expensive. ALK was classiﬁed as negative when
+either the IHC or the FISH result was negative [15,17]. We
+used the ‘SNUBH EGFR/ALK protocol for analysis of the
+EML4-ALK fusion [17]. For IHC of ALK, formalin-ﬁxed,
+parafﬁn-embedded tissues (FFPEs) were sectioned at a
+thickness of 4 mm and stained with an antibody against ALK
+(mouse monoclonal, clone 5A4, Novocastra, 1:30, New-
+castle, UK) using a Ventana automated immunostainer
+(Ventana Medical Systems, Tucson, AZ). IHC results for ALK
+were scored, and a 0 or þ1 score in intensity indicated a
+negative result for EML4-ALK fusion. If the IHC score for ALK
+was þ2 or þ3, FISH for ALK was performed for conﬁrmation.
+The patient was classiﬁed as ALK-positive only when FISH
+for ALK conﬁrmed the EML4-ALK fusion [15].
+EGFR mutation
+To determine mutations within the EGFR gene, we ampli-
+ﬁed exons 18e21 of EGFR by reverse transcription poly-
+merase chain reaction (RT-PCR) using a Qiagen OneStep RT-
+PCR Kit (Qiagen, Hilden, Germany). The cycle conditions for
+RT-PCR have been described previously [18].
+Bronchoscopic ﬁndings
+All patients underwent a bronchoscopic examination, per-
+formed by expert pulmonologists using an Olympus EVIS
+bronchovideoscope BF260 (Olympus, Tokyo, Japan). If no
+signiﬁcant endobronchial lesions were found in the most
+distal bronchi that can be examined by bronchoscope, the
+patient was classiﬁed as having ‘no endobronchial lesions’.
+If a tumour mass or inﬁltration was visible through the
+bronchoscope, the patient was classiﬁed as having a ‘visible
+tumour’. If a secondary compression effect due to a tumour
+was found, the patient was classiﬁed as having extrinsic
+compression (Fig. 1).
+Statistical analysis
+To assess the clinico-pathological characteristics of lung
+cancer patients harbouring the EML4-ALK fusion or EGFR
+mutation, we applied either the Student’s t test or the
+Fisher’s exact test, as appropriate. P values of <0.05 were
+considered statistically signiﬁcant. Multivariable analysis
+was performed using the logistic regression procedure to
+assess the relationship between the clinical characteristics
+of ALK- and EGFR-positive patients. All statistical analyses
+were performed with IBM SPSS software (version 19.0,
+Chicago, IL, USA).
+This study was approved by the Institutional Regulatory
+Board of Seoul National University Bundang Hospital (IRB B-
+1207-164-101).
+Results
+Clinical characteristics of ALK- and EGFR-positive
+patients
+Among the 440 screened patients with adenocarcinoma of
+lung, 46 (10.4%) patients harboured the EML4-ALK fusion
+(ALK-positive) and 90 (20.4%) patients harboured an acti-
+vating EGFR mutation (EGFR-positive). Patients without the
+EGFR gene mutation or the EML4-ALK fusion were excluded
+from the study due to possible heterogeneity of molecular
+abnormalities such as mutations in K-ras, MET, or RET.
+The clinical characteristics of the ALK- and EGFR-
+positive patients are summarized in Table 1. As the me-
+dian ages of the ALK-positive and EGFR-positive groups
+were 52 and 64 years, respectively, patients in the ALK-
+positive group were signiﬁcantly younger (p Z 0.004).
+Twenty-ﬁve (54.3%) of the ALK-positive patients were
+women, compared to 67 (74.4%) of the EGFR-positive pa-
+tients (p Z 0.021). Smoking status did not differ according
+to gene status; 56.5% of ALK-positive patients and 56.7% of
+EGFR-positive patients were never-smokers (p Z 1.000).
+Initial staging of ALK- and EGFR-positive patients
+TNM status of the cancer stage was compared between the
+2 groups (Table 2). There were no differences in the tumour
+status (T) (p Z 0.099) of the ALK-positive and EGFR-positive
+patients; however, the node status (N) in the ALK-positive
+group was more advanced than in the EGFR-positive group
+(p Z 0.001). ALK-positive patients also had a higher M1a
+and M1b metastasis status (M) (13 patients, 28.3%) than
+EGFR-positive patients (9 patients, 10%) (p Z 0.003) (Table
+2B).
+Analysis of metastasis in ALK- and EGFR-positive
+patients
+Upon initial lung cancer diagnosis, 13 patients (28.3%) in
+the ALK-positive group had metastases, compared with 9
+patients (10%) in the EGFR-positive group (p Z 0.012)
+(Table 3). In the ALK-positive group, 7 (15.2%) patients had
+brain metastasis and 5 (10.9%) had lung metastasis. ALK-
+positive patients had signiﬁcantly higher proportions of
+brain metastases at the time of diagnosis than EGFR-
+positive
+patients
+(15.2%
+versus
+2.2%,
+respectively,
+p Z 0.007).
+Bronchoscopic ﬁndings of ALK- and EGFR-positive
+patients
+In ALK-positive patients, 18 (39.1%) of the 46 patients had
+positive bronchoscopic ﬁndings, including visible tumour
+mass, inﬁltration, and extrinsic compression. Only 12
+(13.3%) EGFR-positive patients showed positive broncho-
+scopic lesions (Table 4). Interestingly, when compared with
+390
+H.J. Kang et al.
+Figure 1
+Classiﬁcation of bronchoscopic ﬁndings: Positive tumour ﬁndings.
+Comparison of ALK- and EGFR-positive lung cancer
+391
+EGFR-positive patients, ALK-positive patients were signiﬁ-
+cantly more likely to have positive bronchial lesions
+(p Z 0.001). This ﬁnding strongly suggests that tumours
+with EML4-ALK fusions occurred more proximally than
+EGFR-mutated tumours, even though all tumours were
+pathologically classiﬁed as adenocarcinomas.
+Multivariate analysis of the clinico-pathological
+characteristics of ALK-positive and EGFR-positive
+patients
+Results of the multivariate analyses of clinico-pathological
+features of ALK-positive and EGFR-positive patients are
+summarized in Table 5. In accordance with earlier statis-
+tical tests, the female/male ratio was lower in ALK-positive
+patients (odds ratio [OR], 0.279; 95% conﬁdence interval
+[CI], 0.105e0.742) than in EGFR-positive patients, but age
+was not a deﬁning characteristic of ALK-positive patients
+when compared to EGFR-positive patients. ALK-positive
+patients showed more positive bronchial lesions (OR,
+3215; 95% CI, 1.095e9.434), even after multivariate anal-
+ysis. The ﬁtness of this model was conﬁrmed with the
+HosmereLemeshow goodness of ﬁtness test (p Z 0.668;
+Table 5).
+Discussion
+Our present study population was comprised of NSCLC pa-
+tients with lung adenocarcinoma who had visited a single
+centre between May 2003 and June 2011. In previous
+studies, the incidences of EML4-ALK fusion were approxi-
+mately 5% in unselected populations of NSCLC patients
+[10,11,19]. In this study, we screened lung cancer tissues by
+IHC for ALK and followed with FISH for the conﬁrmation of
+ALK rearrangement as recommended by the College of
+Table 1
+Comparison of clinical characteristics of patients
+according to EML4-ALK fusion and EGFR mutation status.
+ALK (þ)
+EGFR (þ)
+p-Value
+N Z 46
+N Z 90
+Median age in
+years (range)
+52 (27e78)
+64 (28e80)
+0.004
+Gender
+0.021
+Male
+21 (45.7%)
+23 (25.6%)
+Female
+25 (54.3%)
+67 (74.4%)
+Smoking
+1.000
+Never-smoker
+26 (56.5%)
+51 (56.7%)
+Current/Ex-smoker
+20 (43.5%)
+39 (43.3%)
+Table 2
+Comparison of the initial TNM stage of tumours of
+ALK- and EGFR-positive patients.
+(A) Initial staging of patients’ tumours
+Stage group
+T
+N
+M
+ALKþ
+EGFRþ
+IA
+T1a,b
+N0
+M0
+8 (17.4%)
+25 (27.8%)
+IB
+T2a
+N0
+M0
+8 (17.4%)
+27 (31.1%)
+IIA
+T1a,b
+N1
+M0
+1 (2.2%)
+0 (0%)
+T2a
+N1
+M0
+0 (0%)
+7 (7.7%)
+T2b
+N0
+M0
+2 (4.4%)
+0 (0%)
+IIB
+T2b
+N1
+M0
+0 (0%)
+2 (2.2%)
+T3
+N0
+M0
+1 (2.2%)
+0 (0%)
+IIIA
+T1-3
+N2
+M0
+8 (17.4%)
+11 (22.2%)
+T3
+N1
+M0
+1 (2.2%)
+2 (2.2%)
+T4
+N0,1
+M0
+0 (0%)
+2 (2.2%)
+IIIB
+T4
+N2
+M0
+0 (0%)
+4 (4.4%)
+T1-4
+N3
+M0
+4 (8.8%)
+1 (1.1%)
+IV
+Tany
+Nany
+M1a,b
+13 (28.3%)
+9 (10%)
+(B) TNM staging of the patients’ tumours
+TNM status
+Stage
+group
+ALKþ
+EGFRþ
+p-Value
+n Z 46
+n Z 90
+T
+1a
+7 (15.2%)
+14 (15.6%)
+0.099
+1b
+6 (13.0%)
+12 (13.3%)
+2a
+21 (45.7%)
+46 (51.1%)
+2b
+7 (15.2%)
+6 (6.7%)
+3
+5 (10.9%)
+5 (5.6%)
+4
+0 (0%)
+7 (7.8%)
+N
+0
+21 (45.7%)
+55 (61.1%)
+0.001
+1
+2 (4.3%)
+15 (16.7%)
+2
+15 (32.6%)
+19 (21.1%)
+3
+8 (17.4%)
+1 (1.1%)
+M
+0
+33 (71.7%)
+81 (90.0%)
+0.003
+1a
+3 (6.5%)
+6 (6.7%)
+1b
+10 (21.7%)
+3 (3.3%)
+T: tumour status; N: nodal status; M: metastatic status.
+Table 3
+Metastasis analysis of ALK- and EGFR-positive
+patients.
+ALK þ
+EGFR þ
+p-Value
+n Z 46
+n Z 90
+Initial metastasis
+13 (28.3%)
+9 (10%)
+0.012
+Lung
+5 (10.9%)
+6 (6.7%)
+0.508
+Brain
+7 (15.2%)
+2 (2.2%)
+0.007
+Adrenal
+1 (2.2%)
+0 (0%)
+0.338
+Bone
+2 (4.3%)
+1 (1.1%)
+0.264
+Lymph node
+0 (0%)
+0 (%)
+1
+Pleura
+1 (2.2%)
+0 (0%)
+0.338
+Liver
+0 (0%)
+0 (0%)
+1
+Pancreas
+0 (0%)
+0 (0%)
+1
+Kidney
+0 (0%)
+0 (0%)
+1
+Data are presented as n (%).
+Table 4
+Comparison of bronchoscopic ﬁndings of ALK- and
+EGFR-positive patients.
+ALKþ
+EGFRþ
+p-Value
+n Z 46
+n Z 90
+Bronchoscopic ﬁnding
+0.001
+No endobronchial lesions
+28 (60.9%)
+78 (86.7%)
+Extrinsic compression/
+visible mass
+18 (39.1%)
+12 (13.3%)
+Data are presented as n (%).
+392
+H.J. Kang et al.
+American Pathologists, International Association for the
+Study of Lung Cancer, and Association for Molecular Pa-
+thology [20]. In our previous study, no tissues positive for
+ALK rearrangement were found by FISH in 680 NSCLC cases,
+with 0 in ALK-IHC and 20 cases with þ1 in ALK-IHC [17]. The
+percentage of ALK-positive patients presenting with lung
+adenocarcinoma, not NSCLC, was 10.4%.
+We observed signiﬁcant differences in demographics in
+the ALK-positive patients when compared with EGFR-
+positive patients in this study. ALK-positive patients had
+a lower median age than EGFR-positive patients (52 vs. 64
+years, respectively, p Z 0.004). A signiﬁcant gender dif-
+ference was also evident for ALK-positive patients (54.3%
+women) in contrast with EGFR-positive patients (74.4%
+women); EGFR mutations were more common in female
+patients (p Z 0.021). The proportion of never-smokers
+was not found to be statistically different between the 2
+groups (56.5% in ALK-positive and 56.7% in EGFR-positive,
+p Z 1.000). Koh et al. reported similar data in Korean
+patients with lung adenocarcinoma. ALK-positive patients
+were signiﬁcantly younger than EGFR-positive patients
+and those with wild type adenocarcinoma, with no sta-
+tistically signiﬁcant differences in gender or smoking
+status [9].
+In the initial cancer staging following diagnosis, the
+tumour status was not statistically different between the 2
+groups (p Z 0.099); however, the node status (p Z 0.001)
+and metastatic status (p Z 0.003) were more advanced in
+the ALK-positive patients. This suggests that ALK-positive
+adenocarcinoma is detected in an advanced stage. An
+initial status of stage IV metastatic cancer was more
+frequently found in ALK-positive patients than in EGFR-
+positive patients (28.3% vs. 10%, respectively, p Z 0.012).
+We subsequently found that initial brain metastasis was
+also signiﬁcantly different according to ALK and EGFR sta-
+tus (15.2% vs. 2.2%, respectively, p Z 0.007). This ﬁnding is
+consistent with previous report [21].
+Even though many studies have described the clinico-
+pathological
+characteristics
+of
+ALK-positive
+patients
+[9,11,14,22], initial bronchoscopic ﬁndings according to the
+gene status of ALK- and EGFR-positive patients were ﬁrst
+deﬁned
+in
+this
+study.
+ALK-positive
+patients
+were
+signiﬁcantly more likely than EGFR-positive patients to
+have positive bronchoscopic ﬁndings in both univariate and
+multivariate analyses. This ﬁnding is the most clinically
+important ﬁnding in this study. Positive bronchoscopy
+ﬁndings (visible tumour or extrinsic compression) in ALK-
+positive patients indicated that the origin of the ALK-
+positive tumours was more centralized than that of EGFR-
+positive tumours, even though both groups consisted of
+adenocarcinomas that are traditionally known as peripheral
+tumours rather than squamous cell or small cell carcinomas
+[23,24]. The reasoning as to why ALK-positive patients
+present with more positive ﬁndings in bronchoscopy should
+be determined through a future study with radiologic and
+pathologic examinations and we are planning the separate
+study to conﬁrm the central nature of ALK fusion-positive
+tumours by examining the radiographic features of these
+lung cancers.
+There are limitations in the present cohort study. This is
+a single centre study, and only patients with adenocarci-
+noma who underwent bronchoscopy and genetic evaluation
+were included, resulting in selection bias. However, we
+applied bronchoscopy in almost all lung cancer patients
+receiving diagnostic procedures, including chest CT and
+PET-CT. Furthermore, EGFR mutation and ALK-IHC analysis
+were conducted in all adenocarcinoma samples, regardless
+of TNM staging. Molecular testing guidelines for EGFR and
+ALK encourage molecular testing for EGFR and ALK in the
+early stages of lung adenocarcinoma as an expert consensus
+opinion [20] and our team has a lot of experience for mo-
+lecular analysis for EGFR and ALK. Therefore, selection bias
+should be minimal.
+In conclusion, the EML4-ALK fusion deﬁnes a new mo-
+lecular subset of adenocarcinoma with distinct clinical
+and bronchoscopic ﬁndings. ALK-positive patients are
+relatively younger and more often men than EGFR-positive
+patients. In contrast to adenocarcinomas harbouring EGFR
+mutations,
+ALK-positive
+tumours
+exhibited
+a
+greater
+metastatic
+ability,
+particularly
+with
+regard
+to
+brain
+metastasis. Moreover, ALK-positive patients had more
+positive bronchoscopic ﬁndings than EGFR-positive pa-
+tients, which suggested a more proximal origin. Further
+study must be performed to deﬁne the reasons for these
+ﬁndings.
+Disclosure
+The authors declare no conﬂict of interest.
+Author contribution
+Dr. Choon-Taek Lee had full access to all data in the study
+and takes responsibility for the integrity of the data and the
+accuracy of the data analysis.
+Dr. Hyo Jae Kang is the ﬁrst author and contributed to
+the concept and design of the study, interpretation of the
+data, and critical revisions of the manuscript.
+Dr. Jong Sun Park, Dr. Young-Jae Cho, Dr. Ho Il Yoon, Dr.
+Jin Haeng Chung, and Dr. Jae Ho Lee contributed to the
+concept and design of the study, the interpretation of data,
+and critical revisions of the manuscript.
+Table
+5
+Multivariate
+analysis
+of
+clinico-pathological
+characteristics of ALK- and EGFR-positive patients.
+Variables
+Adjusted
+odds ratio
+95% Conﬁdence
+interval
+p-Value
+Median age in
+years (range)a
+0.981
+0.944e1.018
+0.306
+Sexb
+0.279
+0.105e0.742
+0.011
+Current/ex-smoker
+0.578
+0.226e1.482
+0.254
+Initial brain
+metastasis
+2.415
+0.364e16.022
+0.361
+Positive
+bronchoscopic
+ﬁndings
+3.215
+1.095e9.434
+0.033
+HosmereLemeshow goodness of ﬁt (GOF): p-Value Z 0.668.
+a (xþ1 years vs. x years.)
+b Odds ratio for Female/male.
+Comparison of ALK- and EGFR-positive lung cancer
+393
+Conﬂict of interest statement
+The authors declare that they have no conﬂicts of interest
+and also don’t have any ﬁnancial or personal relationships
+that may inﬂuence or bias the results of the manuscripts.
+References
+[1] Thun MJ, DeLancey JO, Center MM, Jemal A, Ward EM. The
+global burden of cancer: priorities for prevention. Carcino-
+genesis 2010;31:100e10.
+[2] Schiller JH, Harrington D, Belani CP, Langer C,SandlerA, Krook J,
+et al. Comparison of four chemotherapy regimens for advanced
+non-small-cell lung cancer. N Engl J Med 2002;346:92e8.
+[3] Mok TS, Wu YL, Thongprasert S, Yang CH, Chu DT, Saijo N,
+et
+al.
+Geﬁtinib
+or
+carboplatin-paclitaxel
+in
+pulmonary
+adenocarcinoma. N Engl J Med 2009;361:947e57.
+[4] Soda M, Choi YL, Enomoto M, Takada S, Yamashita Y, Ishikawa S,
+et al. Identiﬁcation of the transforming EML4-ALK fusion gene
+in non-small-cell lung cancer. Nature 2007;448:561e6.
+[5] Koivunen JP, Mermel C, Zejnullahu K, Murphy C, Lifshits E,
+Holmes AJ, et al. EML4-ALK fusion gene and efﬁcacy of an ALK
+kinase inhibitor in lung cancer. Clin Cancer Res 2008;14:
+4275e83.
+[6] Chiarle R, Voena C, Ambrogio C, Piva R, Inghirami G. The
+anaplastic lymphoma kinase in the pathogenesis of cancer.
+Nat Rev Cancer 2008;8:11e23.
+[7] Kwak EL, Bang YJ, Camidge DR, Shaw AT, Solomon B, Maki RG,
+et al. Anaplastic lymphoma kinase inhibition in non-small-cell
+lung cancer. N Engl J Med 2010;363:1693e703.
+[8] Camidge DR, Bang YJ, Kwak EL, Iafrate AJ, Varella-Garcia M,
+Fox SB, et al. Activity and safety of crizotinib in patients with
+ALK-positive non-small-cell lung cancer: updated results from
+a phase 1 study. Lancet Oncol 2012;13:1011e9.
+[9] Koh Y, Kim DW, Kim TM, Lee SH, Jeon YK, Chung DH, et al.
+Clinicopathologic characteristics and outcomes of patients
+with anaplastic lymphoma kinase-positive advanced pulmo-
+nary adenocarcinoma: suggestion for an effective screening
+strategy for these tumors. J Thorac Oncol 2011;6:905e12.
+[10] Rodig SJ, Mino-Kenudson M, Dacic S, Yeap BY, Shaw A,
+Barletta JA, et al. Unique clinicopathologic features charac-
+terize ALK-rearranged lung adenocarcinoma in the western
+population. Clin Cancer Res 2009;15:5216e23.
+[11] Shaw
+AT,
+Yeap
+BY,
+Mino-Kenudson
+M,
+Digumarthy
+SR,
+Costa DB, Heist RS, et al. Clinical features and outcome of
+patients with non-small-cell lung cancer who harbor EML4-
+ALK. J Clin Oncol 2009 Sep;27:4247e53.
+[12] Inamura K, Takeuchi K, Togashi Y, Hatano S, Ninomiya H,
+Motoi N, et al. EML4-ALK lung cancers are characterized by
+rare other mutations, a TTF-1 cell lineage, an acinar histology,
+and young onset. Mod Pathol 2009;22:508e15.
+[13] Wong DW, Leung EL, So KK, Tam IY, Sihoe AD, Cheng LC, et al.
+The EML4-ALK fusion gene is involved in various histologic
+types of lung cancers from nonsmokers with wild-type EGFR
+and KRAS. Cancer 2009;115:1723e33.
+[14] Takahashi T, Sonobe M, Kobayashi M, Yoshizawa A, Menju T,
+Nakayama E, et al. Clinicopathologic features of non-small-
+cell lung cancer with EML4-ALK fusion gene. Ann Surg Oncol
+2010;17:889e97.
+[15] Paik JH, Choe G, Kim H, Choe JY, Lee HJ, Lee CT, et al.
+Screening of anaplastic lymphoma kinase rearrangement by
+immunohistochemistry in non-small cell lung cancer: corre-
+lation with ﬂuorescence in situ hybridization. J Thorac Oncol
+2011;6:466e72.
+[16] Detterbeck FC, Boffa DJ, Tanoue LT. The new lung cancer
+staging system. Chest 2009;136:260e71.
+[17] Paik JH, Choi CM, Kim H, Jang SJ, Choe G, Kim DK, et al.
+Clinicopathologic implication of ALK rearrangement in surgi-
+cally resected lung cancer: a proposal of diagnostic algorithm
+for ALK-rearranged adenocarcinoma. Lung Cancer 2012;76:
+403e9.
+[18] Chung JH, Choe G, Jheon S, Sung SW, Kim TJ, Lee KW, et al.
+Epidermal growth factor receptor mutation and pathologic-
+radiologic correlation between multiple lung nodules with
+ground-glass opacity differentiates multicentric origin from
+intrapulmonary spread. J Thorac Oncol 2009;4:1490e5.
+[19] Sasaki T, Rodig SJ, Chirieac LR, Janne PA. The biology and
+treatment of EML4-ALK non-small cell lung cancer. Eur J
+Cancer 2010;46:1773e80.
+[20] Lindeman NI, Cagle PT, Beasley MB, Chitale DA, Dacic S,
+Giaccone G, et al. Molecular testing guideline for selection of
+lung cancer patients for EGFR and ALK tyrosine kinase in-
+hibitors: guideline from the College of American Pathologists,
+International Association for the Study of Lung Cancer, and
+Association for Molecular Pathology. J Thorac Oncol 2013;8:
+823e59.
+[21] Yang P, Kulig K, Boland JM, Erickson-Johnson MR, Oliveira AM,
+Wampﬂer J, et al. Worse disease-free survival in never-
+smokers with ALKþ lung adenocarcinoma. J Thorac Oncol
+2012;7:90e7.
+[22] Fukui T, Yatabe Y, Kobayashi Y, Tomizawa K, Ito S, Hatooka S,
+et al. Clinicoradiologic characteristics of patients with lung
+adenocarcinoma harboring EML4-ALK fusion oncogene. Lung
+Cancer 2012;77:319e25.
+[23] Campobasso O. The characteristics of peripheral lung tumours
+that suggest their bronchiolo-alveolar origin. Br J Cancer
+1968;22:655e62.
+[24] Matthews MJ. Morphology of lung cancer. Semin Oncol 1974;1:
+175e82.
+394
+H.J. Kang et al.

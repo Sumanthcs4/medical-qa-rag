@@ -1,0 +1,1050 @@
+Pooled subpopulation analyses of the effects
+of roﬂumilast on exacerbations and lung
+function in COPD
+Nicola A. Hanania a,*, Peter M.A. Calverley b,
+Mark T. Dransﬁeld c, Jill P. Karpel d, Manja Brose e,
+Haiyuan Zhu f, Udo-Michael Goehring e, Paul Rowe f
+a Baylor College of Medicine, Houston, TX 77030, USA
+b University of Liverpool, Liverpool L69 3BX, England, UK
+c University of Alabama at Birmingham, Birmingham, AL 35233, USA
+d North Shore Medical Arts, Great Neck, NY 11021, USA
+e Takeda Pharmaceuticals International GmbH, Zu¨rich, Switzerland
+f Forest Research Institute, Jersey City, NJ 07311, USA
+Received 3 July 2013; accepted 21 September 2013
+Available online 30 September 2013
+KEYWORDS
+Chronic obstructive
+pulmonary disease;
+Roﬂumilast;
+Inhaled
+corticosteroids;
+Long-acting b2-
+agonists;
+Exacerbation;
+Lung function
+Summary
+Background: This post-hoc analysis examined the impact of roﬂumilast on chronic obstructive
+pulmonary disease (COPD) exacerbations and lung function in patients with COPD who received
+concomitant long-acting b2-agonists (LABA) with or without prior inhaled corticosteroid (ICS)
+and the inﬂuence of various demographic and clinical characteristics on these outcomes.
+Methods: Data were pooled from 2 double-blind, placebo-controlled, 52-week studies of once-
+daily roﬂumilast 500 mg in patients with COPD. Endpoints were mean rate of exacerbations and
+change from baseline in pre- and postbronchodilator FEV1.
+Results: In this pooled analysis (N Z 3091), addition of roﬂumilast to LABAs for 1 year in pa-
+tients who discontinued ICS prior to study entry (n Z 945) signiﬁcantly reduced the risk of
+COPD exacerbations vs. placebo by 19.2% (p < 0.05) and signiﬁcantly improved pre- and post-
+bronchodilator FEV1 by 40 mL and 34 mL, respectively (both, p < 0.01). Similar improvements
+were observed in patients who received concomitant LABAs but were not taking ICS prior to
+study entry (n Z 597). A signiﬁcant reduction in COPD exacerbation risk with roﬂumilast vs.
+placebo was observed regardless of age or smoking status, and in patients who had severe
+or very severe COPD. Signiﬁcantly improved lung function was observed with roﬂumilast in
+all the subgroups (p < 0.05), with the exception of patients with moderate COPD.
+* Corresponding author. Baylor College of Medicine, One Baylor Plaza e BCM621, Houston, TX 77030, USA. Tel.: þ1 713 798 2347; fax: þ1
+713 798 2679.
+E-mail address: hanania@bcm.edu (N.A. Hanania).
+0954-6111/$ - see front matter ª 2013 Published by Elsevier Ltd.
+http://dx.doi.org/10.1016/j.rmed.2013.09.018
+Available online at www.sciencedirect.com
+ScienceDirect
+journal homepage: www.elsevier.com/locate/rmed
+Respiratory Medicine (2014) 108, 366e375
+Conclusions: Roﬂumilast reduced exacerbation rates and improved lung function in patients
+with COPD who received concomitant LABA, regardless of prior ICS use, and across various pa-
+tient subgroups regardless of age and smoking status.
+ClinicalTrials.gov registration numbers: NCT00297102 (M2-124) and NCT00297115 (M2-125).
+ª 2013 Published by Elsevier Ltd.
+Introduction
+Recent
+updates
+to
+the
+Global
+Initiative
+for
+Chronic
+Obstructive Lung Disease (GOLD) recommendations have
+identiﬁed evaluation of exacerbation risk as a key compo-
+nent of effective disease management [1]. Severe and/or
+frequent exacerbations are associated with an accelerated
+decline in lung function and worsening of health status,
+contributing to increased hospitalization rates and health-
+care utilization and expenditure [1e7]. Prevention and
+reduction of the frequency of COPD exacerbations are
+important therapeutic goals in COPD management [1]
+Treatments with long-acting inhaled bronchodilators, with
+or
+without
+inhaled
+corticosteroids
+(ICS),
+or
+with
+a
+phosphodiesterase-4 (PDE4) inhibitor are interventions that
+reduce the number of exacerbations and hospitalizations [1].
+Roﬂumilast is an oral, once-daily, selective PDE4 inhibitor
+which reduces the risk of exacerbations in patients with
+severe COPD associated with chronic bronchitis and a history
+of exacerbations [9e11]. Two 12-month studies (M2-124/M2-
+125) demonstrated that compared with placebo, roﬂumilast
+reduced exacerbation rates and improved lung function in
+patients at risk for future exacerbations [10], independent
+of concomitant long-acting b2-agonist (LABA) treatment [9].
+Approximately 50% (1542/3091) of the patients in the
+roﬂumilast pivotal studies received concomitant LABA during
+the double-blind treatment period. Of these patients, 61%
+(945/1542) had been treated with ICS, which was dis-
+continued upon initiation of study treatment [10].
+Although ICS is an effective treatment option in COPD
+[1], concerns have arisen about their long-term use,
+including an increased risk of pneumonia, bone fractures
+[12], and adrenal insufﬁciency [13]. While stopping ICS
+treatment may alleviate such concerns, 1-year ICS with-
+drawal from an ICS/LABA treatment regimen has been
+shown to result in increased risk of exacerbations and a
+decline in pulmonary function in patients with COPD [14].
+Hence it is important to know if using roﬂumilast with
+concurrent LABA treatment can mitigate the expected in-
+crease in COPD exacerbations and diminished lung function
+resulting from ICS withdrawal. Furthermore, COPD is a
+heterogeneous disease with chronic bronchitis [15], history
+of exacerbations [8], age [5,16], smoking status [17,18],
+and COPD severity [5,19,20] as factors that may contribute
+to an increased risk of occurrence of COPD exacerbations.
+Due to differential access to healthcare and/or exposure to
+COPD risk factors [21], geographic differences may also
+result in disparities in exacerbation risk, further contrib-
+uting to the diverse epidemiology of the disease. It is also
+important to know if the positive treatment beneﬁt previ-
+ously associated with roﬂumilast [10] is modulated by these
+factors.
+In this post-hoc analysis of two pooled roﬂumilast
+studies, we examined the efﬁcacy outcomes in patients
+randomized
+to
+roﬂumilast
+or
+placebo
+who
+received
+concomitant LABA treatment with or without ICS treatment
+prior to entry in the studies. Additionally we assessed the
+inﬂuence of the patients’ age, smoking status, baseline
+COPD disease severity, and geographic region on exacer-
+bation rates and lung function.
+Methods
+Study design
+This pooled analysis included data from two identically
+designed, multicenter, placebo-controlled, double-blind
+studies with once-daily roﬂumilast 500 mg in patients with
+COPD (M2-124 [NCT00297102] and M2-125 [NCT00297115]).
+The methods have been previously published in detail, as
+have the main results [10]. In brief, key inclusion criteria
+consisted of the following: 40 years of age, smoking his-
+tory 20 pack-years, clinical diagnosis of COPD (conﬁrmed
+with a postbronchodilator forced expiratory volume in
+1 s [FEV1]/forced vital capacity [FVC] ratio 70%), chronic
+cough and sputum production, and postbronchodilator FEV1
+50% of predicted value. All patients had 1 recorded
+COPD exacerbation requiring systemic glucocorticosteroids
+or treatment in a hospital, or both, in the previous year.
+Key exclusion criteria included unresolved COPD exacer-
+bation within 4 weeks prior to baseline, asthma or other
+relevant lung disease, cardiopulmonary or laboratory ab-
+normalities, gastrointestinal disorders, HIV or hepatitis
+infection, cancer within last 5 years, a1-antitrypsin deﬁ-
+ciency, and positive stool occult blood test at baseline. The
+protocol was approved by the local ethics committees and
+all patients provided written informed consent.
+Each trial had a 4-week run-in period during which pa-
+tients took once-daily oral placebo followed by randomi-
+zation (1:1) to once-daily oral roﬂumilast 500 mg or placebo
+taken in the morning for 52 weeks. Long-acting anticho-
+linergic drugs and ICS were not allowed during the study.
+Patients who received LABAs, ﬁxed combinations of LABA
+and ICS, tiotropium, or sequential tiotropium/LABA for 12
+months prior to the study were allowed to continue LABA
+treatment only at appropriate stable doses during the
+study. Short-acting anticholinergics at appropriate stable
+doses were also allowed.
+The primary endpoints were the mean rate of exacer-
+bations (per patient/year), deﬁned as moderate if they
+required oral or parenteral corticosteroids or severe if they
+were associated with hospitalization or leading to death,
+and the change from baseline in prebronchodilator FEV1
+Pooled subpopulation analyses of roﬂumilast in COPD
+367
+during treatment. A key secondary outcome included
+change from baseline in postbronchodilator FEV1.
+Statistical analyses
+Subgroup analyses were conducted using data from patients
+in the intent-to-treat (ITT) population, deﬁned as all ran-
+domized patients from the two roﬂumilast studies taking at
+least one dose of study drug after randomization. Patients
+receiving concomitant LABA (salmeterol or formoterol)
+during the studies were classiﬁed into two subgroups: those
+who had received ICS prior to entering the study (þpre-ICS/
+þLABA) and those who had not received ICS pretreatment
+(pre-ICS/þLABA).
+Analyses were also performed on several other pre-
+deﬁned subgroups: age (65 or >65 years); smoking status
+(current or former smoker [cessation 1 year]); and base-
+line COPD disease severity by postbronchodilator FEV1
+(moderate [50% and <80% of predicted], severe [30%
+and <50% of predicted], or very severe [<30% of pre-
+dicted]). Subgroups were also deﬁned by geographic region
+as follows: North America (Canada, United States), Europe
+(Austria,
+France,
+Germany,
+Hungary,
+Italy,
+Poland,
+Romania, Russia, Spain, United Kingdom), or rest of the
+world ([ROW], Australia, India, New Zealand, South Africa).
+Estimated mean rates of moderate or severe COPD ex-
+acerbations per patient/year were based on a Poisson
+regression model. Changes from baseline in pre- and post-
+bronchodilator FEV1 were analyzed using a repeated-
+measures analysis of covariance (ANCOVA) [22]. For the
+ITT population and all subgroups, Poisson regression and
+ANCOVA analyses included the following factors: treat-
+ment, study, age, sex, smoking status (except in smoking
+status subgroups), and concomitant LABA (except in pre-
+ICS/þLABA subgroups). All Poisson analyses also included
+baseline FEV1 (% predicted) as a covariate and logarithm of
+treatment duration as an offset, and all ANCOVA analyses
+also included terms for baseline value, time (as a cate-
+gorical variable), and treatment-by-time interaction. The
+variance in Poisson analyses was adjusted using Pearson
+Chi-Square statistics.
+Results
+Patients
+As reported previously, the two studies had similar patient
+baseline
+characteristics
+between
+roﬂumilast
+500
+mg
+(n Z 1537) and placebo (n Z 1554) [10]. Baseline subgroup
+data are presented in Table 1. Of the 3091 patients
+included in this pooled analysis, 945 (30.6%) were pre-
+treated with ICS and received concomitant LABA during the
+randomized treatment period; an additional 597 (19.3%)
+patients also received concomitant LABA but were not
+pretreated with ICS. The average number of COPD exac-
+erbations in the 12-month period prior to study entry was
+1.43 for the þpre-ICS/þLABA group and 1.42 for the pre-
+ICS/þLABA group; the proportion of patients with 1 or 2
+prior exacerbations was also similar between these sub-
+groups (þpre-ICS/þLABA, 69% and 21%, respectively; pre-
+ICS/þLABA, 69% and 22%, respectively). Mean ages of
+patients were 57.3 and 72.4 years in the 65 years and >65
+subgroups, respectively.
+The smoking status subgroups comprised 1278 (41.3%)
+current smokers and 1813 (58.7%) former smokers. Although
+the inclusion criterion for these studies speciﬁed a post-
+bronchodilator FEV1 50%, the threshold for severe COPD,
+some patients who met this inclusion criterion at screening
+but classiﬁed as mild and moderate COPD based on FEV1 at
+randomization
+participated
+in
+the
+studies
+and
+were
+included in the analyses. In the pooled population pre-
+sented here, the COPD severity subgroups had 250 (8.1%),
+1932 (62.5%), and 903 (29.2%) patients with moderate, se-
+vere, and very severe COPD, respectively; due to small
+sample size, 6 patients with mild COPD at baseline were not
+included in these subgroup analyses. In the geographic re-
+gion subgroups, 786 (25.4%) and 1831 (59.2%) patients were
+from North America and Europe, respectively; 474 (15.3%)
+were from the ROW. Within each subgroup, patients
+treated with roﬂumilast and those receiving placebo had
+similar baseline characteristics (data not shown). A few
+notable differences were found across the COPD severity
+and geographic region subgroups. The European subgroup
+had fewer patients with very severe COPD (24.8%) than the
+other subgroups (North America, 34.0%; ROW, 38.2%), as
+well as more patients with prior ICS treatment (47.1%) than
+the other subgroups (North America, 38.8%, ROW, 29.5%).
+Rate of exacerbations
+After 52 weeks of treatment, roﬂumilast was associated
+with fewer moderate or severe exacerbations than placebo
+in all of the analyzed subgroups except those with
+moderate severity of COPD (Figs. 1 and 2). Among placebo-
+treated patients receiving concomitant LABA during the
+two studies, a higher mean rate of exacerbations was
+observed in those who discontinued ICS prior to entering
+the
+study
+(þpre-ICS/þLABA;
+1.67
+per
+patient/year)
+compared with those who did not receive ICS pretreatment
+(pre-ICS/þLABA;
+1.38
+per
+patient/year).
+Among
+roﬂumilast-treated patients, a reduction in exacerbation
+rates compared with placebo occurred regardless of ICS
+pretreatment
+(þpre-ICS/þLABA,
+19.2%;
+pre-ICS/
+þLABA, 24.0%; p < 0.05).
+The small increase in the exacerbation rate observed
+with ICS discontinuation was mitigated by roﬂumilast
+treatment, as demonstrated by the lower exacerbation rate
+in the roﬂumilast þpre-ICS/þLABA group of 1.34 per pa-
+tient/year, a signiﬁcant 19.2% reduction compared with
+placebo (þpre-ICS/þLABA, 1.67 per patient/year; risk ratio
+[RR] Z 0.81; 95% conﬁdence interval [CI] 0.68, 0.96;
+p Z 0.015). Similarly, patients treated with concomitant
+LABA without prior ICS experienced a 24.0% reduction in
+exacerbation rate, a signiﬁcant difference between treat-
+ment arms, in favor of roﬂumilast (RR Z 0.76; 95% CI 0.60,
+0.96; p Z 0.022).
+In patients who were 65 years or >65 years of age,
+treatment with roﬂumilast compared with placebo resulted
+in signiﬁcant reductions in exacerbations in both age groups
+(15.3% and 21.2%, respectively; both subgroups, p < 0.05
+vs. placebo). Roﬂumilast also provided superior control of
+exacerbations than placebo regardless of smoking status,
+368
+N.A. Hanania et al.
+Table 1
+Demographics and baseline characteristics in patient subgroups.
+Pretreatment/
+concomitant treatment
+Age
+Smoking status
+COPD severity
+Geographic region
+þICS/þ
+LABA
+n Z 945
+ICS/þ
+LABA
+n Z 597
+65 years
+n Z 1761
+>65 years
+n Z 1330
+Current
+n Z 1278
+Former
+n Z 1813
+Moderate
+n Z 250
+Severe
+n Z 1932
+Very
+severe
+n Z 903
+North
+America
+n Z 786
+Europe
+n Z 1831
+Rest of
+world
+n Z 474
+Age, mean
+years (SD)
+64.6 (9.1)
+64.2 (9.1)
+57.3 (5.8)
+72.4 (4.8)
+60.4 (8.4)
+66.2 (9.0)
+62.4 (9.6)
+64.4 (9.3)
+63.0 (8.7)
+64.9 (9.0)
+63.9 (9.2)
+61.3 (9.1)
+Male, n (%)
+696 (73.7)
+453 (75.9)
+1245 (70.7) 1091 (82.0)
+887 (69.4)
+1449 (79.9)
+159 (63.6)
+1425 (73.8)
+748 (82.8)
+480 (61.1) 1425 (77.8) 431 (90.9)
+Race, n (%)
+Asian
+38 (4.0)
+16 (2.7)
+246 (14.0)
+109 (8.2)
+107 (8.4)
+248 (13.7)
+25 (10.0)
+191 (9.9)
+136 (15.1)
+5 (0.6)
+3 (0.2)
+347 (73.2)
+Black
+7 (0.7)
+12 (2.0)
+30 (1.7)
+18 (1.4)
+20 (1.6)
+28 (1.5)
+5 (2.0)
+32 (1.7)
+11 (1.2)
+46 (5.9)
+2 (0.1)
+0 (0.0)
+White
+874 (92.5)
+559 (93.6)
+1415 (80.4) 1181 (88.8) 1119 (87.6)
+1477 (81.5)
+214 (85.6)
+1652 (85.5)
+727 (80.5)
+725 (92.2) 1791 (97.8)
+80 (16.9)
+Other
+26 (2.8)
+10 (1.7)
+70 (4.0)
+22 (1.7)
+32 (2.5)
+60 (3.3)
+6 (2.4)
+57 (3.0)
+29 (3.2)
+10 (1.3)
+35 (1.9)
+47 (9.9)
+Smoking status, n (%)
+Current
+344 (36.4)
+236 (39.5)
+928 (52.7)
+350 (26.3) 1278 (100.0)
+0 (0.0)
+126 (50.4)
+826 (42.8)
+323 (35.8)
+349 (44.4)
+781 (42.7) 148 (31.2)
+Former
+601 (63.6)
+361 (60.5)
+833 (47.3)
+980 (73.7)
+0 (0.0)
+1813 (100.0)
+124 (49.6)
+1106 (57.2)
+580 (64.2)
+437 (55.6) 1050 (57.3) 326 (68.8)
+COPD severity,
+n (%)
+Mild
+0 (0.0)
+0 (0.0)
+4 (0.2)
+2 (0.2)
+3 (0.2)
+3 (0.2)
+0 (0.0)
+0 (0.0)
+0 (0.0)
+0 (0.0)
+3 (0.2)
+3 (0.6)
+Moderate
+69 (7.3)
+35 (5.9)
+155 (8.8)
+95 (7.1)
+126 (9.9)
+124 (6.8)
+250 (100.0)
+0 (0.0)
+0 (0.0)
+68 (8.7)
+151 (8.2)
+31 (6.5)
+Severe
+602 (63.7)
+379 (63.5)
+1040 (59.1)
+892 (67.1)
+826 (64.6)
+1106 (61.0)
+0 (0.0)
+1932 (100.0)
+0 (0.0)
+451 (57.4) 1222 (66.7) 259 (54.6)
+Very severe
+274 (29.0)
+183 (30.7)
+562 (31.9)
+341 (25.6)
+323 (25.3)
+580 (32.0)
+0 (0.0)
+0 (0.0)
+903 (100.0)
+267 (34.0)
+455 (24.8) 181 (38.2)
+Lung function, mean (SD)
+Prebronchodilator
+FEV1, L
+1.02 (0.36)
+1.01 (0.35)
+1.04 (0.39) 0.97 (0.33) 1.07 (0.37)
+0.97 (0.35)
+1.50 (0.39)
+1.09 (0.29)
+0.70 (0.20)
+0.92 (0.36) 1.08 (0.35) 0.93 (0.38)
+Postbronchodilator
+FEV1, L
+1.10 (0.38)
+1.08 (0.36)
+1.14 (0.40) 1.06 (0.34) 1.16 (0.39)
+1.07 (0.37)
+1.67 (0.40)
+1.20 (0.29)
+0.75 (0.18)
+1.03 (0.36) 1.16 (0.37) 1.05 (0.40)
+Prebronchodilator
+FEV1,
+% predicted
+33.6 (9.8)
+32.8 (9.7)
+32.8 (10.8) 33.7 (9.9)
+34.5 (10.7)
+32.3 (10.2)
+50.4 (8.7)
+35.9 (6.6)
+22.3 (5.3)
+31.4 (11.2) 34.7 (9.6)
+30.2 (11.0)
+Postbronchodilator
+FEV1,
+% predicted
+36.2 (10.2)
+35.3 (9.9)
+35.9 (11.1) 36.7 (10.1) 37.4 (10.8)
+35.4 (10.5)
+55.9 (5.3)
+39.3 (5.5)
+23.8 (4.3)
+35.0 (10.9) 37.3 (10.1) 34.1 (11.9)
+Concomitant
+treatment
+with LABA, n (%)
+945 (100.0) 597 (100.0)
+847 (48.1)
+695 (52.3)
+580 (45.4)
+962 (53.1)
+104 (41.6)
+981 (50.8)
+457 (50.6)
+338 (43.0) 1125 (61.4)
+79 (16.7)
+Pretreatment
+with ICS, n (%)
+945 (100.0)
+0 (0.0)
+724 (41.1)
+583 (43.8)
+482 (37.7)
+825 (45.5)
+95 (38.0)
+838 (43.4)
+373 (41.3)
+305 (38.8)
+862 (47.1) 140 (29.5)
+COPD, chronic obstructive pulmonary disease; FEV1, forced expiratory volume in 1 s; ICS, inhaled corticosteroid; LABA, long-acting b2-agonist; SD, standard deviation.
+Pooled subpopulation analyses of roﬂumilast in COPD
+369
+with similar percent reductions relative to placebo found in
+current and former smokers (17.7% and 18.4%, respectively;
+both subgroups, p < 0.05 vs. placebo). Treatment with
+roﬂumilast relative to placebo signiﬁcantly reduced exac-
+erbation rates by 18.7% and 19.7% in the severe and very
+severe COPD groups, respectively (both subgroups, p < 0.05
+vs. placebo). In patients with moderate COPD, exacerba-
+tion rates were <1 per patient/year in both treatment
+groups, but no signiﬁcant differences between treatment
+groups were observed. This lack of statistical signiﬁcance in
+the moderate COPD subgroup may have been due in part to
+both the low frequency of COPD exacerbations reported in
+these studies for this subgroup, as well as its small patient
+number, resulting in a wide conﬁdence interval in its rate
+ratio vs. placebo. Analyses of mean exacerbation rates
+favored roﬂumilast over placebo in all geographic region
+subgroups, with exacerbations signiﬁcantly reduced in pa-
+tients from North America and ROW (21.7% and 25.8%,
+respectively; both subgroups, p < 0.05 vs. placebo).
+Lung function
+Both
+pre-
+and
+postbronchodilator
+FEV1
+signiﬁcantly
+improved
+with
+roﬂumilast
+compared
+with
+placebo
+(p < 0.01), irrespective of previous ICS use in patients
+receiving concomitant LABA (Figs. 3 and 4). Similar to the
+positive impact of roﬂumilast on exacerbation rates, lung
+function was also improved with roﬂumilast regardless of
+geographic region, age, or smoking status (Figs. 3 and 4).
+Lung function was signiﬁcantly improved with roﬂumilast
+compared with placebo in patients with severe or very
+severe
+COPD;
+however,
+no
+statistically
+signiﬁcant
+between-treatment-group differences in patients with
+moderate COPD were demonstrated. Similar to the results
+on the rate of exacerbations, this lack of statistical sig-
+niﬁcance in lung function in the moderate COPD subgroup
+may have been due in part to its smaller patient number,
+resulting in wider conﬁdence intervals for treatment
+differences vs. placebo compared with those of other
+subgroups of greater COPD severity.
+Discussion
+In
+this
+pooled
+analysis
+of
+two
+52-week
+randomized,
+placebo-controlled, double-blind studies, the addition of
+roﬂumilast to LABA therapy for one year in patients who
+discontinued ICS prior to study entry signiﬁcantly reduced
+the risk of COPD exacerbations and improved lung function.
+These results extend previous analyses of these studies,
+which demonstrated a similar treatment beneﬁt of roﬂu-
+milast in patients who received concomitant LABA treat-
+ment [9]. Replacement of ICS with roﬂumilast may thus be
+able to minimize the previously reported disease deterio-
+ration that is expected with ICS discontinuation from an
+ICS/LABA treatment regimen [14]. Although the exact
+mechanism of such an effect needs further exploration, our
+ﬁndings suggest that even though the mechanism of action
+by which roﬂumilast reduces airway inﬂammation [23,24] is
+different from that of an ICS [25,26], it may be able to
+prevent the rebound increase in exacerbation rate and thus
+the disease deterioration observed with ICS withdrawal.
+Roﬂumilast also signiﬁcantly reduced the rate of COPD ex-
+acerbations in patients with concomitant LABA treatment
+but who did not receive ICS prior to study entry (pre-ICS/
+þLABA), demonstrating a reduced risk of COPD exacerba-
+tions with roﬂumilast regardless of prior ICS treatment.
+It is worth noting that patients who discontinued ICS in
+these studies, in either the placebo or roﬂumilast groups,
+had a higher rate of COPD exacerbations compared with
+those who did not receive prior ICS treatment, similar to
+the slightly increased COPD exacerbation rate observed in a
+previous study of ICS withdrawal [14]. This result may
+reﬂect the possibility that patients who initially received
+ICS treatment may have been at greater risk for COPD ex-
+acerbations compared with those who did not receive
+previous ICS treatment. Risk of COPD exacerbations may be
+Figure 1
+Mean rate of moderate or severe COPD exacerbations per patient/year in the ITT population and subpopulations. COPD,
+chronic obstructive pulmonary disease; ICS, inhaled corticosteroid; ITT, intent to treat; LABA, long-acting b2-agonist; D indicates %
+change from placebo Z (rate ratio  1)*100.
+370
+N.A. Hanania et al.
+assessed using both COPD exacerbation history and severity
+of airﬂow obstruction. As the average frequency of COPD
+exacerbations prior to entering the studies for þpre-ICS/
+þLABA and pre-ICS/þLABA was similar for both sub-
+groups,
+the
+differences
+in
+COPD
+exacerbation
+rates
+observed between these subgroups during the studies are
+not likely due to patients’ exacerbation history. Further-
+more, lung function values at baseline were also compa-
+rable between these subgroups. It is possible that prior ICS
+treatment may have masked a difference in lung function
+at baseline between patients in the þpre-ICS/þLABA and
+pre-ICS/þLABA subgroups that could have contributed to
+the higher rate of exacerbations observed in patients who
+discontinued ICS during these studies. In addition, switch-
+ing from ICS/LABA to LABA monotherapy in the þpre-ICS/
+þLABA group compared with the absence of a similar
+change in treatment regimen in the pre-ICS/þLABA group
+may have also played a role in the difference in exacer-
+bation rates observed in these studies. However, switching
+from one inhaled therapy to another suggests that the
+impact of such a change would be minimal.
+Although roﬂumilast has no direct bronchodilator activ-
+ity, the improvement in pulmonary function observed here
+with roﬂumilast may also be due to its effects on sup-
+pressing airway inﬂammation. Other studies have reported
+similar improvements in lung function in patients treated
+with roﬂumilast either alone [11,27,28] or in combination
+with long-acting bronchodilators [29]. Roﬂumilast may
+therefore be considered an effective alternative to ICS for
+patients currently taking LABAs who are at risk for
+exacerbations.
+This pooled analysis of the two roﬂumilast studies also
+generally demonstrated a treatment beneﬁt with roﬂumi-
+last vs. placebo across all subgroups deﬁned by age (65
+years, >65 years), smoking status (current smokers, former
+smokers), COPD severity (moderate, severe, very severe),
+and geographic region (North America, Europe, ROW). As
+expected, the effects of roﬂumilast vs. placebo on reducing
+exacerbation rates were comparable in the subgroups of
+patients with severe COPD (RR Z 0.81) and very severe
+COPD (RR Z 0.80), supporting the recommended use of this
+medication for the management of exacerbations in severe
+COPD patients [30]. As the subgroup of patients with
+moderate COPD had fewer subjects (130 subjects for
+either roﬂumilast or placebo) and lower COPD exacerbation
+rates during the studies (<1 per patient/year) compared
+with the other subgroups of greater COPD severity, there
+may have been insufﬁcient data to appropriately evaluate
+the impact of roﬂumilast in this COPD subgroup.
+Signiﬁcant
+mean
+improvements
+in
+pre-
+and
+post-
+bronchodilator FEV1 were found with roﬂumilast in pa-
+tients regardless of age, smoking status, or geographic
+region. Roﬂumilast also reduced exacerbations in these
+subgroups, although this did not reach statistical signiﬁ-
+cance in the European subgroup (p Z 0.073). This may be
+due to the slightly healthier population of patients from
+Europe compared with those from other regions, as evi-
+denced by the higher FEV1 at baseline and lower propor-
+tion of patients with very severe COPD in Europe vs. North
+America
+or
+the
+ROW.
+Furthermore,
+among
+placebo-
+treated patients in different geographic regions, the
+lowest COPD exacerbation rate was reported in Europe.
+Figure 2
+Rate ratios and 95% conﬁdence intervals for reduction of moderate or severe COPD exacerbations in the ITT population
+and subpopulations. COPD, chronic obstructive pulmonary disease; ICS, inhaled corticosteroid; ITT, intent to treat; LABA, long-
+acting b2-agonist.
+Pooled subpopulation analyses of roﬂumilast in COPD
+371
+This may reﬂect regional differences in treatment prac-
+tice, as demonstrated by the highest rate of prior ICS use
+in the European subgroup (47.1%) compared with the
+North American or ROW subgroups (38.8% or 29.5%,
+respectively).
+In
+addition,
+since
+exacerbations
+were
+deﬁned based on healthcare utilization, differences in
+access to healthcare resources between the different
+geographic regions [21] may have also contributed to the
+lower rate of COPD exacerbations in Europe. Other factors
+that might have contributed to regional differences in
+exacerbation rates include the presence of comorbidities
+[5], number of prior hospitalizations [5,17], effects of
+seasonal changes [31], air quality [32], and genetic vari-
+ations [33e35]. However, without further analyses of
+these and other potential factors, no deﬁnitive explana-
+tion can be given for the statistically nonsigniﬁcant
+reduction on exacerbation rate in the European subgroup
+observed with roﬂumilast treatment.
+The major limitations of the roﬂumilast studies have
+been addressed in the primary report [10]. As was dis-
+cussed, no conclusions can be drawn regarding the synergy
+or interaction between ICS and LABA with added roﬂumi-
+last, since patients were required to discontinue ICS
+treatment prior to study entry. However, the current
+pooled analyses do indicate that roﬂumilast added to LABA
+is effective regardless of prior ICS treatment. It was also
+noted in the primary report that, in accordance with good
+clinical trial practice, recruitment for these 52-week
+studies focused on patients who were likely to adhere to
+treatment, and the results may not be generalizable to the
+general clinic population. This limitation also applies to the
+current pooled analysis, although these ﬁndings conﬁrm
+that many subgroups of patients with severe COPD and
+history of exacerbations may beneﬁt from roﬂumilast
+treatment,
+regardless
+of
+concomitant
+LABAs.
+Finally,
+although most of the subgroups in this report were deﬁned
+Figure 3
+Mean change from baseline in (A) pre- and (B) postbronchodilator FEV1 at Week 52 for placebo and roﬂumilast in the ITT
+population and subpopulations. COPD, chronic obstructive pulmonary disease; ICS, inhaled corticosteroid; ITT, intent to treat;
+LABA, long-acting b2-agonist. D indicates treatment difference from placebo.
+372
+N.A. Hanania et al.
+a priori, analyses of these subgroups were intended to
+be exploratory in nature. Thus, although this pooled anal-
+ysis indicates treatment effects with roﬂumilast across
+different patient subpopulations, the results presented
+above should be interpreted with some caution.
+Conclusions
+Results from this pooled analysis of two randomized,
+placebo-controlled,
+double-blind,
+52-week
+studies,
+demonstrated that roﬂumilast compared with placebo
+Figure 4
+Least squares (LS) mean differences between roﬂumilast and placebo in (A) pre- and (B) postbronchodilator FEV1 in the
+ITT population and subpopulations. COPD, chronic obstructive pulmonary disease; FEV1, forced expiratory volume in 1 s; ICS,
+inhaled corticosteroid; ITT, intent to treat; LABA, long-acting b2-agonist.
+Pooled subpopulation analyses of roﬂumilast in COPD
+373
+signiﬁcantly reduced exacerbation rates and improved lung
+function in patients with severe or very severe COPD who
+received concomitant LABA, regardless of prior ICS treat-
+ment. In addition to conﬁrming the efﬁcacy of roﬂumilast in
+patients with severe or very severe COPD, this analysis
+conﬁrmed the beneﬁts of treatment across various sub-
+groups regardless of age and smoking status.
+Funding source
+Studies were sponsored by Takeda Pharmaceuticals Inter-
+national GmbH. Analyses were funded by Takeda and by
+Forest Laboratories, Inc. All authors were involved in the
+creation and review of the manuscript, had full access to
+study data, and take full responsibility for data integrity
+and accuracy of all data analysis. The sponsor did not place
+any restriction on authors about the statements made in
+the ﬁnal paper.
+Conﬂict of interest
+N.A.H. has served as a consultant and on the Speaker Bu-
+reau for Forest Pharmaceuticals. His institution received
+research grant support from Forest Pharmaceuticals to
+conduct COPD studies.
+P.M.A.C. has received funding from several pharmaceu-
+tical companies to conduct clinical research trials in COPD,
+has led several large sponsored studies including those by
+GSK, Chiesi and Takeda, and has spoken at meetings sup-
+ported by these companies and by Astra-Zeneca and
+Boehringer Ingelheim.
+M.T.D. has served as a consultant to Boehringer Ingel-
+heim, GlaxoSmithKline, and Ikaria and his institution has
+received research support from the NIH, Aeris, Astra
+Zeneca, Boehringer Ingelheim, Boston Scientiﬁc, Centocor,
+Forest, GlaxoSmithKline, Ikaria, Medimmune, Otsuka, and
+Pﬁzer.
+J.P.K. has served as a consultant and on the Speaker
+Bureau for Forest.
+M.B. and U.-M.G. are employees of Takeda Pharmaceu-
+ticals International GmbH. H. Z. and P. R. are employees of
+Forest Research Institute, Inc., a wholly owned subsidiary
+for Forest Laboratories, Inc.
+Acknowledgments
+The authors would like to thank Joy Ramos, PhD and Morgan
+Hill, PhD of Prescott Medical Communications Group (Chi-
+cago, IL) for medical writing and editorial assistance funded
+by Forest Research Institute, Inc. (Jersey City, NJ, USA), a
+wholly owned subsidiary of Forest Laboratories, Inc. (New
+York, NY, USA).
+References
+[1] Vestbo J, Hurd SS, Agusti AG, Jones PW, Vogelmeier C,
+Anzueto A, et al. Global strategy for the diagnosis, manage-
+ment and prevention of chronic obstructive pulmonary dis-
+ease, GOLD executive summary. Am J Respir Crit Care Med
+2013;187(4):347e65.
+[2] Donaldson GC, Seemungal TA, Bhowmik A, Wedzicha JA.
+Relationship between exacerbation frequency and lung func-
+tion decline in chronic obstructive pulmonary disease. Thorax
+2002;57(10):847e52.
+[3] Spencer S, Calverley PM, Burge PS, Jones PW. Impact of pre-
+venting exacerbations on deterioration of health status in
+COPD. Eur Respir J 2004;23(5):698e702.
+[4] Chapman KR, Mannino DM, Soriano JB, Vermeire PA, Buist AS,
+Thun MJ, et al. Epidemiology and costs of chronic obstructive
+pulmonary disease. Eur Respir J 2006;27(1):188e207.
+[5] Niewoehner
+DE,
+Lokhnygina
+Y,
+Rice
+K,
+Kuschner
+WG,
+Sharafkhaneh A, Sarosi GA, et al. Risk indexes for exacerbations
+and hospitalizations due to COPD. Chest 2007;131(1):20e8.
+[6] Vestbo J, Edwards LD, Scanlon PD, Yates JC, Agusti A, Bakke P,
+et al. Changes in forced expiratory volume in 1 second over
+time in COPD. N Engl J Med 2011;365(13):1184e92.
+[7] Suissa S, Dell’Aniello S, Ernst P. Long-term natural history of
+chronic obstructive pulmonary disease: severe exacerbations
+and mortality. Thorax 2012;67(11):957e63.
+[8] Hurst JR, Vestbo J, Anzueto A, Locantore N, Mullerova H, Tal-
+Singer R, et al. Susceptibility to exacerbation in chronic
+obstructive pulmonary disease. N Engl J Med 2010;363(12):
+1128e38.
+[9] Bateman ED, Rabe KF, Calverley PM, Goehring UM, Brose M,
+Bredenbroker D, et al. Roﬂumilast with long-acting beta2-
+agonists for COPD: inﬂuence of exacerbation history. Eur
+Respir J 2011;38(3):553e60.
+[10] Calverley PM, Rabe KF, Goehring UM, Kristiansen S, Fabbri LM,
+Martinez FJ. Roﬂumilast in symptomatic chronic obstructive
+pulmonary disease: two randomised clinical trials. Lancet
+2009;374(9691):685e94.
+[11] Rennard SI, Calverley PM, Goehring UM, Bredenbroker D,
+Martinez FJ. Reduction of exacerbations by the PDE4 inhibitor
+roﬂumilast e the importance of deﬁning different subsets of
+patients with COPD. Respir Res 2011;12:18.
+[12] Loke YK, Cavallazzi R, Singh S. Risk of fractures with inhaled
+corticosteroids in COPD: systematic review and meta-analysis
+of randomised controlled trials and observational studies.
+Thorax 2011;66(8):699e708.
+[13] Lapi F, Kezouh A, Suissa S, Ernst P. The use of inhaled corti-
+costeroids and the risk of adrenal insufﬁciency. Eur Respir J
+2013;42(1):79e86.
+[14] Wouters EF, Postma DS, Fokkens B, Hop WC, Prins J,
+Kuipers AF, et al. Withdrawal of ﬂuticasone propionate from
+combined salmeterol/ﬂuticasone treatment in patients with
+COPD causes immediate and sustained disease deterioration:
+a randomised controlled trial. Thorax 2005;60(6):480e7.
+[15] Kim V, Han MK, Vance GB, Make BJ, Newell JD, Hokanson JE,
+et al. The chronic bronchitic phenotype of COPD: an analysis
+of the COPDGene Study. Chest;140(3):626e33.
+[16] Fan VS, Curtis JR, Tu SP, McDonell MB, Fihn SD. Using quality of
+life to predict hospitalization and mortality in patients with
+obstructive lung diseases. Chest 2002;122(2):429e36.
+[17] Garcia-Aymerich J, Monso E, Marrades RM, Escarrabill J,
+Felez MA, Sunyer J, et al. Risk factors for hospitalization for a
+chronic obstructive pulmonary disease exacerbation. EFRAM
+study. Am J Respir Crit Care Med 2001;164(6):1002e7.
+[18] Godtfredsen NS, Vestbo J, Osler M, Prescott E. Risk of hospital
+admission for COPD following smoking cessation and reduc-
+tion: a Danish population study. Thorax 2002;57(11):967e72.
+[19] Donaldson GC, Wedzicha JA. COPD exacerbations .1: Epide-
+miology. Thorax 2006;61(2):164e8.
+[20] Faganello
+MM,
+Tanni
+SE,
+Sanchez
+FF,
+Pelegrino
+NR,
+Lucheta PA, Godoy I. BODE index and GOLD staging as pre-
+dictors of 1-year exacerbation risk in chronic obstructive
+pulmonary disease. Am J Med Sci 2010;339(1):10e4.
+[21] Miravitlles M, Murio C, Tirado-Conde G, Levy G, Muellerova H,
+Soriano
+JB,
+et
+al.
+Geographic
+differences
+in
+clinical
+374
+N.A. Hanania et al.
+characteristics and management of COPD: the EPOCA study.
+Int J Chron Obstruct Pulmon Dis 2008;3(4):803e14.
+[22] Verbeke G, Molenberghs G. Linear mixed models for longitu-
+dinal data. New York, NY: Springer Verlag New York, LLC;
+2009.
+[23] Grootendorst
+DC,
+Gauw
+SA,
+Verhoosel
+RM,
+Sterk
+PJ,
+Hospers JJ, Bredenbroker D, et al. Reduction in sputum
+neutrophil and eosinophil numbers by the PDE4 inhibitor
+roﬂumilast
+in
+patients
+with
+COPD.
+Thorax
+2007;62(12):
+1081e7.
+[24] Hatzelmann A, Morcillo EJ, Lungarella G, Adnot S, Sanjar S,
+Beume R, et al. The preclinical pharmacology of roﬂumilast e
+a selective, oral phosphodiesterase 4 inhibitor in development
+for chronic obstructive pulmonary disease. Pulm Pharmacol
+Ther 2010;23(4):235e56.
+[25] Glaab T, Taube C. Effects of inhaled corticosteroids in stable
+chronic obstructive pulmonary disease. Pulm Pharmacol Ther
+2011;24(1):15e22.
+[26] Jen R, Rennard SI, Sin DD. Effects of inhaled corticosteroids on
+airway inﬂammation in chronic obstructive pulmonary dis-
+ease: a systematic review and meta-analysis. Int J Chron
+Obstruct Pulmon Dis 2012;7:587e95.
+[27] Calverley PM, Sanchez-Toril F, McIvor A, Teichmann P,
+Bredenbroeker D, Fabbri LM. Effect of 1-year treatment with
+roﬂumilast in severe chronic obstructive pulmonary disease.
+Am J Respir Crit Care Med 2007;176(2):154e61.
+[28] Rabe KF, Bateman ED, O’Donnell D, Witte S, Bredenbroker D,
+Bethke TD. Roﬂumilast e an oral anti-inﬂammatory treatment
+for chronic obstructive pulmonary disease: a randomised
+controlled trial. Lancet 2005;366(9485):563e71.
+[29] Fabbri LM, Calverley PM, Izquierdo-Alonso JL, Bundschuh DS,
+Brose M, Martinez FJ, et al. Roﬂumilast in moderate-to-severe
+chronic obstructive pulmonary disease treated with long-
+acting bronchodilators: two randomised clinical trials. Lancet
+2009;374(9691):695e703.
+[30] Ernst P, Gonzalez AV, Brassard P, Suissa S. Inhaled cortico-
+steroid use in chronic obstructive pulmonary disease and the
+risk of hospitalization for pneumonia. Am J Respir Crit Care
+Med 2007;176(2):162e6.
+[31] Jenkins CR, Celli B, Anderson JA, Ferguson GT, Jones PW,
+Vestbo J, et al. Seasonality and determinants of moderate and
+severe COPD exacerbations in the TORCH study. Eur Respir J
+2012;39(1):38e45.
+[32] Ling SH, van Eeden SF. Particulate matter air pollution expo-
+sure: role in the development and exacerbation of chronic
+obstructive pulmonary disease. Int J Chron Obstruct Pulmon
+Dis 2009;4:233e43.
+[33] Soler Artigas M, Wain LV, Repapi E, Obeidat M, Sayers I,
+Burton PR, et al. Effect of ﬁve genetic variants associated
+with lung function on the risk of chronic obstructive lung
+disease, and their joint effects on lung function. Am J Respir
+Crit Care Med 2011;184(7):786e95.
+[34] Berndt A, Leme AS, Shapiro SD. Emerging genetics of COPD.
+EMBO Mol Med 2012;4(11):1144e55.
+[35] Bosse Y. Updates on the COPD gene list. Int J Chron Obstruct
+Pulmon Dis 2012;7:607e31.
+Pooled subpopulation analyses of roﬂumilast in COPD
+375

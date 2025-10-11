@@ -1,0 +1,880 @@
+REVIEW
+Cough syncope
+Peter V. Dicpinigaitis*, Leonard Lim, Constantine Farmakidis
+Albert Einstein College of Medicine and Monteﬁore Medical Center, Bronx, New York, USA
+Received 25 September 2013; accepted 27 October 2013
+Available online 5 November 2013
+KEYWORDS
+Cough;
+Syncope;
+Obstructive lung
+disease
+Summary
+Loss of consciousness following cough was ﬁrst described in 1876 as “laryngeal vertigo”
+Since then, several hundred cases of what is now most commonly termed cough syncope
+have been reported, often in association with various medical conditions. Some early au-
+thors assumed this entity to be a form of epilepsy, but by the mid-20th century, general
+consensus reﬂected that post-tussive syncope was a consequence of markedly elevated
+intrathoracic pressures induced by coughing. A typical proﬁle of the cough syncope patient
+emerging from the literature is that of a middle-aged, large-framed or overweight male
+with obstructive airways disease. Presumably, such an individual would be more likely to
+generate the extremely high intrathoracic pressures associated with cough-induced faint-
+ing. The precise mechanism of cough syncope remains a matter of debate. Theories pro-
+posed include various consequences of the marked elevation of intrathoracic pressures
+induced by coughing: diminished cardiac output causing decreased systemic blood pressure
+and, consequently, cerebral hypoperfusion; increased cerebrospinal ﬂuid (CSF) pressure
+causing increased extravascular pressure around cranial vessels, resulting in diminished
+brain perfusion; or, a cerebral concussion-like effect from a rapid rise in CSF pressure. More
+recent mechanistic studies suggest a neurally mediated reﬂex vasodepressor-bradycardia
+response to cough. Since loss of consciousness is a direct and immediate result of cough,
+elimination of cough will eliminate the resultant syncopal episodes. Thus, the approach
+to the patient with cough syncope requires thorough evaluation and treatment of potential
+underlying causes of cough, as summarized in several recently published cough manage-
+ment guidelines.
+ª 2013 Elsevier Ltd. All rights reserved.
+* Corresponding author. Einstein Division, Monteﬁore Medical Center, 1825 Eastchester Road, Bronx, NY 10461, USA. Tel.: þ1 917 848 1728;
+fax: þ1 718 904 2880.
+E-mail address: pdicpin@gmail.com (P.V. Dicpinigaitis).
+0954-6111/$ - see front matter ª 2013 Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.rmed.2013.10.020
+Available online at www.sciencedirect.com
+ScienceDirect
+journal homepage: www.elsevier.com/locate/rmed
+Respiratory Medicine (2014) 108, 244e251
+Contents
+Introduction
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 245
+Methods
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 245
+Discussion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 245
+Demographics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 245
+Conditions associated with cough syncope . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 245
+Proposed mechanisms of cough syncope . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 246
+Approach to the patient with cough syncope . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 247
+Future directions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 249
+Conflict of interest
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 249
+References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 249
+Introduction
+Loss of consciousness following a cough or episode of
+coughing was ﬁrst described in 1876 by Charcot [1], who
+named the condition “laryngeal vertigo” Just twenty years
+later, a review paper summarized 77 similar cases reported
+in the literature [2]. The term “laryngeal epilepsy” was also
+used, reﬂecting initial opinion that this condition was pri-
+marily epileptic in nature [3e5]. However, even some of
+the earliest authors raised doubt that a neurogenic etiology
+satisfactorily explained all such cases, and speculated that
+other mechanisms may be relevant [2,4,6]. In 1949, the
+term “tussive syncope” was recommended as a more
+appropriate descriptor [5]. In 1953, Kerr and Derbes [7]
+described a series of 40 patients with the syndrome of
+“cough syncope,” which has remained the preferred term
+in the literature since.
+By the mid-19th century, a very consistent proﬁle of the
+typical cough syncope patient had emerged, that being of a
+middle-aged, overweight male smoker with obstructive lung
+disease. Discussion and debate regarding the mechanisms of
+cough syncope has continued to the present, with a number
+of elegant studies contributing to the understanding of the
+cardiopulmonary and cerebrovascular effects of cough, and
+their potential role in cough syncope. The purpose of this
+review is to summarize the literature on cough syncope to
+date, with particular attention paid to demographics, asso-
+ciated conditions and proposed mechanisms.
+Methods
+In July, 2013, we performed a National Library of Medicine
+(PubMed) search using the terms “cough” and “syncope”
+restricted to human studies written in English. The 131
+publications resulting from that search were reviewed and
+non-relevant papers were excluded. Non-relevant papers
+were those that were captured in the search because of the
+presence of the individual terms “cough” and “syncope,”
+but were not on the subject of cough syncope. Reference
+lists of articles were reviewed for additional relevant
+publications not captured by the initial database search. A
+subsequent search using the terms “tussive” and “syncope”
+yielded an additional four articles not initially identiﬁed,
+thus resulting in a total of 90 publications comprising the
+basis for this review [1e90].
+Discussion
+Demographics
+Of the 90 articles comprising our database, 74 reported a
+total of 430 adult cases of cough syncope. Six of the papers
+did not provide the gender of the patients described, thus
+leaving 68 articles reporting 392 patients, of whom 362
+(92.3%) were men, and 30 (7.7%) women. Since the majority
+of these patients were reported between 1876 and 1968,
+we examined more recently published data. In the past 25
+years (1988e2013), 40 articles reported and provided
+gender data for a total of 83 patients with cough syncope,
+76 (91.6%) male and 7 (8.4%) female, an almost identical
+gender distribution. Although the degree of speciﬁc patient
+information provided in these more recent articles varied
+greatly, a predominant characteristic was a history or
+physical examination consistent with obstructive airway
+disease, consistent with earlier reports.
+Six studies reported a total of 33 pediatric cases of
+cough syncope [16,19,22,38,49,52]. Five of those papers
+provided gender data for 30 children, 16 (53.3%) male and
+14 (46.7%) female. Thus, although the number of children
+reported is much less than that of adults, the signiﬁcant
+gender difference is not observed in this age group. Of the
+31 children for whom a diagnosis was provided, 28 (90.3%)
+were asthmatic, consistent with the common association of
+obstructive lung disease described in the adult population.
+Five articles reported series of adults presenting with
+syncope and provided the percentage of those in whom
+cough was determined to be the etiology [12,34,42,46,74].
+In
+total,
+3244
+patients
+evaluated
+for
+syncope
+were
+described, among whom were 84 cases of cough syncope
+(2.6%; range 0.9e4.2%). One prospective series of syncope
+in children reported 3 of 58 (5.2%) cases due to cough
+syncope [52].
+Conditions associated with cough syncope
+A variety of disorders of the central nervous system
+have been associated with the occurrence of cough syncope
+[14,24,28,30,31,37,48,49,56,61,73,81,82,89].
+These
+are
+listed in Table 1. Of note, most of the patients reported
+were
+described
+as
+having
+evidence
+of
+concomitant
+obstructive pulmonary disease. Table 2 summarizes the
+Cough syncope
+245
+numerous
+cardiovascular
+disorders
+that
+have
+been
+reported in association with cough syncope [25,29,33,
+35,40,41,45,59,65,67,71,75,76,85e88,90]. Other disorders
+or causes associated with cough syncope [16,19,32,38,44,
+47,50,53,55,62e64,66,69,77,80,83] are shown in Table 3.
+We found only one report of death resulting directly
+from cough, that of a 61-year-old man with history of COPD,
+cor pulmonale and right ventricular infarction, who devel-
+oped cardiac arrest during a coughing episode [43]. The
+patient had a history of multiple previous episodes of cough
+syncope.
+Numerous motor vehicle accidents resulting from cough
+syncope have been reported [3,13,42,47,50,57,68,69,73].
+These reports include the deaths of two drivers [68], in
+addition to three pedestrians [13,68].
+Proposed mechanisms of cough syncope
+Although epilepsy continued to be proposed as the under-
+lying mechanism of cough syncope until as late as 1953 [5],
+several earlier reports doubted this explanation and pro-
+posed circulatory changes as the relevant cause of loss of
+consciousness [2,4,6]. In 1984, DeMaria and colleagues [36]
+performed electroencephalograms (EEG) in subjects during
+episodes of cough syncope. They documented lack of
+epileptiform activity, even though several subjects dis-
+played jerking or rhythmic movements of the limbs in as-
+sociation
+with
+syncopal
+episodes,
+as
+had
+also
+been
+described by previous investigators [7,8,12,17,20]. Subjects
+demonstrated diffuse delta and theta slowing, similar to
+the pattern seen in other types of syncope, and with ce-
+rebral hypoperfusion [36]. Of note, in contrast to other
+forms of syncope, that following cough may occur in the
+supine patient [7,10,23].
+Subsequent explanations for cough syncope focused on
+the various effects of the signiﬁcant increase in intratho-
+racic and intraabdominal pressures that can occur with
+coughing. Early investigators [8,10] documented intratho-
+racic pressures reaching up to 300 mm Hg during cough
+episodes, thus supporting the concept that resultant
+decreased cardiac output (CO) leading to decreased cere-
+bral perfusion led to loss of consciousness. Of note, in his
+classic
+studies,
+Sharpey-Schafer
+[8,9]
+demonstrated
+a
+distinct pattern of vascular response depending on whether
+coughing was continuous or intermittent. With continuous
+coughing, circulatory effects were similar to, but more
+pronounced than, a Valsalva maneuver, due to a greater
+rise in intrathoracic pressure. Syncope would typically
+occur during the period of acute hypotension following
+cessation of coughing, with peripheral blood ﬂow records
+demonstrating vasoconstriction. In contrast, in subjects
+who coughed intermittently (i.e., a coughing episode in
+which an inspiratory effort followed each cough), periph-
+eral vasodilatation occurred, thought by the author to be
+due to the stimulation of baroreceptors by large, rapid
+ﬂuctuations in intrathoracic pressure, followed by arterial
+hypotension [8]. The occurrence of peripheral vasodilata-
+tion and decrease in arterial pressure upon the cessation of
+intermittent coughing was also demonstrated in healthy
+volunteers, who similarly showed an opposite, vasocon-
+strictor effect, after a Valsalva maneuver [9]. More than a
+half century later, these observations were conﬁrmed using
+pulse wave analysis, by the demonstration of a marked
+decrease in total peripheral resistance during episodes of
+cough syncope, even as CO remained unchanged or even
+increased [79].
+Table 1
+Central nervous system (CNS) disorders associ-
+ated with cough syncope.
+CNS disorder
+Reference
+Cerebral tumors (meningioma,
+glioblastoma)
+[14,82]
+Herniation of cerebellar tonsils
+(Type 1Arnold-Chiari malformation)
+[24,30,49,56]
+Hydrocephalus
+[28]
+Carotid and vertebral arterial occlusive
+disease
+[14,37,48]
+Basilar invagination
+[61]
+Autosomal dominant hereditary sensory
+neuropathy
+[73,81]
+Medullary infarction
+[89]
+Table 2
+Cardiovascular disorders associated with cough
+syncope.
+Cardiovascular disorder
+Reference
+Idiopathic hypertrophic subaortic stenosis
+[25]
+Hypersensitive carotid sinus syndrome
+[29]
+Atrio-ventricular conduction block
+[33,35,40,59]
+Impaired heart rate response to cough
+[41]
+Cor pulmonale
+[43]
+Sick sinus syndrome/sinus arrest
+[45,86]
+Constrictive pericarditis
+[65,90]
+Pulmonary hypertension
+[67]
+Abnormal reﬂex vasodepressor-
+bradycardia response to cough
+[71,85]
+Premature ventricular complexes
+[75]
+Internal jugular vein valve insufﬁciency
+[76]
+Pericardial effusion
+[87]
+Jugular venous reﬂux þ increased plasma
+endothelin-1
+[88]
+Table 3
+Other disorders/causes associated with cough
+syncope.
+Disorder
+Reference
+Asthma
+[16,19,38,64]
+Whooping cough/Pertussis
+[32,66]
+Cystic ﬁbrosis
+[44]
+Tracheobronchomalacia
+[47,55]
+Angiotensin-converting enzyme inhibitor
+[50]
+Gastroesophageal reﬂux disease
+[53,62,80]
+Herpetic tracheobronchitis
+[63]
+Inﬂuenza A infection
+[69]
+Solitary ﬁbrous tumor of pleura
+[77]
+Visceral larva migrans with pulmonary
+involvement
+[83]
+246
+P.V. Dicpinigaitis et al.
+In 1956, McIntosh and colleagues [10] studied 13 subjects
+with cough syncope and noted that their circulatory
+response to cough was qualitatively similar to that of
+normal subjects, but that they were able to cough more
+forcefully. Furthermore, paroxysms of cough, whether
+continuous or intermittent, led to a rise in intrathoracic
+pressure of greater magnitude than the associated rise in
+arterial pressure. The cerebrospinal ﬂuid (CSF) pressure
+rose to essentially the same level as did intrathoracic
+pressure, thus leading the authors to suggest that the
+increased CSF pressure, by increasing the extravascular
+pressure around the cranial arteries and veins, causes blood
+to be “squeezed” out of the cranium, rapidly causing
+hypoperfusion, with resultant anoxia and syncope. In 1961,
+Kerr and Eich [21] questioned whether the mechanisms
+proposed by Sharpey-Schafer [8,9] and McIntosh [10] could
+explain the vary rapid occurrence of syncope (within 3e5 s)
+after onset of cough in some subjects (even after a single
+cough), and before the documentation of a fall in periph-
+eral arterial pressure. They speculated that a cerebral
+concussion-like effect from the rapid rise in CSF pressure
+was responsible for the resultant syncope. Pederson and
+coworkers [15] countered the arguments of McIntosh [10]
+and Kerr [21] by documenting very rapid circulatory re-
+sponses to coughing, supporting the position that cough
+syncope is a direct result of diminution of cerebral blood
+ﬂow due to signiﬁcant changes in central circulation.
+More recent studies have clearly documented that cough
+diminishes cerebral blood ﬂow, both in healthy volunteers
+as well as in subjects with cough syncope. In a study uti-
+lizing a Doppler ultrasonic ﬂowmeter catheter, Desser et al.
+studied 91 coughing episodes in 16 healthy subjects [27].
+They demonstrated a signiﬁcant, cough-induced decline in
+peak carotid blood velocity that was immediate in onset
+and uniformly occurring within one second of each tussive
+effort. Notably, there was an insigniﬁcant, low degree of
+correlation between the level of simultaneously recorded
+mean right atrial pressure and percent decline in peak ca-
+rotid blood velocity, suggesting that impaired venous return
+was not the only factor responsible for the essentially
+instantaneous reduction in carotid artery blood velocity
+observed. Mattle and colleagues [54] used transcranial
+Doppler sonography (TCD) monitoring of middle cerebral
+artery ﬂow velocities to document a critical reduction of
+cerebral blood ﬂow in three patients with cough syncope.
+During
+coughing,
+transient
+cerebral
+circulatory
+arrest
+coinciding with loss of consciousness was observed in two of
+the subjects. Of note, systemic arterial blood pressure was
+preserved in one patient during a syncopal episode associ-
+ated
+with
+documented
+transient
+cerebral
+circulatory
+arrest.
+As early as 1953, a baroreﬂex mechanism was impli-
+cated in the etiology of cough syncope [8]. Over a half
+century later, Benditt and colleagues [71] shed further
+light on this issue by comparing the effects of a brief,
+volitional cough effort (requiring the induction of a tran-
+sient increase in systolic blood pressure to > 220 mm Hg)
+in subjects with a history of cough syncope and individuals
+with syncope of other etiologies. The investigators re-
+ported a number of signiﬁcant observations. Subjects with
+cough syncope demonstrated more profound hypotension
+for a longer duration than did the subjects with other
+forms of syncope. The expected positive chronotropic
+response accompanying cough-induced hypotension ten-
+ded to be suppressed in cough syncope subjects compared
+with the other subjects, regardless of whether they
+exhibited positive or negative results on head-up tilt test.
+Furthermore, the tendency to slower recovery of blood
+pressure following hypotension in cough syncope subjects
+compared with the other syncope subjects suggested an
+active vasodilation process consistent with a neural reﬂex
+mechanism (Fig. 1). Finally, subjects with cough syncope
+were not more sensitive to the effects of carotid sinus
+massage than were the other syncope subjects; indeed,
+none of the cough syncope subjects exhibited an abnormal
+response to carotid massage. From these experiments, the
+authors concluded that differences in neurally mediated
+reﬂex
+vasodepressor-bradycardia
+responses
+to
+cough
+stimuli appear to distinguish subjects with cough syncope
+from individuals with syncope of other causes. Further-
+more, they suggested that the neural reﬂex trigger sites
+inducing cough syncope differ from those associated with
+either carotid sinus syndrome or vasovagal syncope. A
+subsequently published case study utilizing autonomic and
+electrophysiological measurements also concluded that
+cough-induced vasodepressor hypotension was the basis of
+syncope in the evaluated subject [85].
+Simultaneous occurrence of multiple pathophysiological
+processes, as discussed above, may be required to induce
+cough syncope, or, different processes, alone or in combi-
+nation, may be relevant in different patients (Fig. 2).
+Regardless, a unifying theme among proposed mechanisms
+of cough syncope appears to be the required generation of
+very high intrathoracic pressures. This phenomenon likely
+explains the remarkably consistent proﬁle of the typical
+cough syncope patient described by numerous authors over
+more than a century. A large, male subject with obstructive
+airways disease would be more likely to generate extremely
+high intrathoracic pressures with coughing than would a
+woman or a child. When cough syncope has been reported
+in the pediatric population, the condition was noted to
+occur
+almost
+exclusively
+in
+children
+with
+asthma
+[16,19,22,38,49,52].
+Approach to the patient with cough syncope
+Since loss of consciousness in a patient with cough syncope
+is a direct and immediate result of cough, elimination of
+cough will therefore eliminate syncope. Thus, prompt
+evaluation and treatment of the underlying etiology of
+cough is essential. In the case of acute (<3 weeks duration)
+and subacute cough (3e8 weeks), the underlying cause is
+predominantly a viral upper respiratory tract infection.
+Hence, treatment is limited to symptomatic relief with
+antitussive therapies, the majority of which are not sup-
+ported by strong efﬁcacy data and/or are limited by intol-
+erable adverse effects at antitussive doses [91,92]. In
+contrast, the management of chronic cough depends on the
+establishment and treatment of the underlying etiology of
+cough. Guidelines published by multiple societies, including
+the European Respiratory Society [93] and American Col-
+lege of Chest Physicians [94] provide diagnostic-therapeutic
+algorithms for evaluation and management of chronic
+Cough syncope
+247
+cough. Multiple prospective studies have shown that in the
+vast majority of adult nonsmokers without evidence of
+active disease on chest radiograph, chronic cough will be
+due to one or more of the following etiologies: upper airway
+cough
+syndrome
+(formerly,
+postnasal
+drip
+syndrome);
+eosinophilic airway inﬂammation (asthma, non-asthmatic
+eosinophilic bronchitis); and, gastroesophageal reﬂux dis-
+ease [93,94]. However, the chronic cough of some patients
+will prove refractory despite thorough and appropriate
+evaluation and treatment. These patients may have un-
+derlying hypersensitivity of the cough reﬂex, a condition
+recently termed the Cough Hypersensitivity Syndrome
+[95e97]. In such difﬁcult cases of refractory cough, it may
+still be possible to eliminate or at least lessen the fre-
+quency of resultant syncopal episodes by reducing the
+magnitude and severity of individual cough events, as well
+as the duration of cough paroxysms. Doing so will minimize
+the
+intrathoracic
+pressures
+attained
+with
+a
+coughing
+Figure 1
+ECG (leads I, II, aVF, and V1) and arterial pressure recordings obtained during a cough test in patient 6. Baseline supine
+arterial pressure was approximately 120/75 mm Hg. Cough was associated with a fall in systolic arterial pressure of approximately
+60 mm Hg. The immediate post-cough value was 60/30 mm Hg. Full recovery to baseline arterial pressure, with the patient
+remaining in the supine position, required approximately 40 s (from ref. 71, with permission).
+Figure 2
+Proposed mechanisms of cough syncope. Simultaneous occurrence of multiple pathophysiological processes may be
+required to induce cough syncope. Alternatively, different processes, alone or in combination, may be relevant in different pa-
+tients. The amount and quality of published data supporting these various proposed mechanisms is highly variable (see discussion in
+text).
+248
+P.V. Dicpinigaitis et al.
+episode, thus ameliorating its cardiothoracic and cerebro-
+vascular effects.
+Patients in whom cough syncope is associated with
+identiﬁable conditions such as those listed in Tables 1e3
+provide the opportunity to speciﬁcally address the under-
+lying cause(s) of syncope. Surgical and non-surgical pro-
+cedures, as well as medical management of treatable
+conditions, may eliminate syncopal episodes resulting from
+cough.
+Therapeutic
+success
+has
+been
+achieved
+with
+appropriate
+treatment
+of
+neurological
+abnormalities
+[24,49,61,82], idiopathic hypertrophic subaortic stenosis
+[25], hypersensitive carotid sinus [29], atrio-ventricular
+conduction
+block
+[33,35,40,45,59,86],
+tracheo-
+bronchomalacia [47], carotid artery obstruction [37,48],
+post-tussive hypotension [39,85], constrictive pericarditis
+[65], premature ventricular complexes [75], and pleural
+tumor [77].
+Future directions
+Future clinical research in the ﬁeld of cough syncope is
+certainly needed, but investigators will continue to face
+the challenge of a relative dearth of patients in their quest
+to generate robust data sets. Thus, multicenter collabora-
+tions among referral centers will likely be required. As
+cough syncope appears to be the ﬁnal common pathway of
+several pathophysiologic processes, prospective trials could
+investigate, for example, whether different pathophysio-
+logical processes prevail in individual patients, or, whether
+cough syncope is the result of simultaneous contributory
+events. A further fascinating question is whether all in-
+dividuals are vulnerable to cough syncope under certain
+threshold conditions of elevated intrathoracic pressures, or
+whether the occurrence of syncope under similar conditions
+is limited to individuals somehow predisposed. Recent
+technological advances in the measurement of cardiac
+function, intrathoracic pressures, and cardiac rhythm could
+help elucidate these questions, and studies incorporating
+these new diagnostic modalities are eagerly awaited.
+Conﬂict of interest
+There are no conﬂicts of interest.
+References
+[1] Charcot JM. Statement to the Societe de Biologie. Gaz Med
+de Paris Nov 19 1876;1876(5):588e9.
+[2] Getchell AC. A contribution to the study of laryngeal vertigo.
+Boston Med Surg J 1896;85:466e8.
+[3] Whitty CWM. On the so called “laryngeal epilepsy”. Brain
+1943;66:43e54.
+[4] Rook AF.
+Coughing and unconsciousness: the so-called
+laryngeal epilepsy. Brain 1946;69:138e48.
+[5] O’Doherty DS. Tussive syncope and its relation to epilepsy.
+Neurology 1953;3:16e21.
+[6] McCann WS, Bruce RA, Lovejoy FW, et al. Tussive syncope;
+observations on the disease formerly called laryngeal epi-
+lepsy, with report of two cases. Arch Intern Med (Chic) 1949;
+84:845e56.
+[7] Kerr Jr A, Derbes VJ. The syndrome of cough syncope. Ann
+Intern Med 1953;39:1240e53.
+[8] Sharpey-Schafer
+EP.
+The
+mechanism
+of
+syncope
+after
+coughing. Br Med J 1953;2:860e3.
+[9] Sharpey-Schafer EP. Effects of coughing on intrathoracic
+pressure, arterial pressure and peripheral blood ﬂow. J
+Physiol 1953;122:351e7.
+[10] McIntosh HD, Estes EH, Warren JV. The mechanism of cough
+syncope. Am Heart J 1956;52:70e82.
+[11] Peters JT. Tussive unconsciousness. J La State Med Soc 1961;
+113:6e8.
+[12] Wayne HH. Syncope: physiological considerations and an
+analysis of the clinical characteristics in 510 patients. Am J
+Med 1961;30:418e38.
+[13] Symonds C. Cough syncope, frequent fainting, and epilepsy.
+Proc Roy Soc Med 1962;55:179e80.
+[14] Morgan-Hughes JA. Cough seizures in patients with cerebral
+lesions. Brit Med J 1966;2:494e6.
+[15] Pedersen A, Sandoe E, Hvidberg E, Schwartz M. Studies on
+the mechanism of tussive syncope. Acta Med Scand 1966;179:
+653e61.
+[16] Blue JA. Syncope in allergy. Ann Allergy 1968;26:561e8.
+[17] Skolnick JL, Dines DE. Tussive syncope. Minn Med 1969;52:
+1609e13.
+[18] Robin ED, Altman M. By a waterfall: “zone I and zone II
+phenomena” in obstructive lung disease. Am J Med Sci 1969;
+258:219e23.
+[19] Katz RM. Cough syncope in children with asthma. J Pediatr
+1970;77:48e51.
+[20] Aaronson DW, Rovner RN, Patterson R. Cough syncope: case
+presentation and review. J Allergy 1970;46:359e63.
+[21] Kerr Jr A, Eich RH. Cerebral concussion as a cause of cough
+syncope. Arch Intern Med 1961;108:248e52.
+[22] Jain AM. Cough syncope. Indian J Pediatr 1971;38:434e6.
+[23] Wright Jr KE, McIntosh HD. Syncope: a review of pathophysi-
+ological mechanisms. Prog Cardiovasc Dis 1971;13:580e94.
+[24] Larson SJ, Sances Jr A, Baker JB, Reigel DH. Herniated
+cerebellar tonsils and cough syncope. J Neurosurg 1974;40:
+524e8.
+[25] White CW, Zimmerman TJ, Ahmad M. Idiopathic hypertrophic
+subaortic stenosis presenting as cough syncope. Chest 1975;
+68:250e3.
+[26] Vaisrub S. Editorial: bizarre blackouts. JAMA 1975;233:452.
+[27] Desser KB, Harris CL, Benchimol A. Carotid blood velocity
+during cough studies in man. Stroke 1976;7:416e8.
+[28] Lindegaard KF, Skalpe IO, Sjaastad O. Cough syncope: the
+possible relation to hydrocephalus ex vacuo. Eur Neurol
+1977;15:340e4.
+[29] Wenger
+TL,
+Dohrmann
+ML,
+Strauss
+HC,
+Conley
+MJ,
+Wechsler AS, Wagner GS. Hypersensitive carotid sinus syn-
+drome manifested as cough syncope. Pacing Clin Electro-
+physiol 1980;3:332e9.
+[30] Williams B. Simultaneous cerebral and spinal ﬂuid pressure
+recordings. 2. Cerebrospinal dissociation with lesions at the
+foramen magnum. Acta Neurochir (Wien) 1981;59:123e42.
+[31] Williams B. Chronic herniation of the hindbrain. Ann R Coll
+Surg Engl 1981;63:9e17.
+[32] Jenkins P, Clarke SW. Cough syncope: a complication of adult
+whooping cough. Br J Dis Chest 1981;75:311e3.
+[33] Saito D, Matsuno S, Matsushita K, et al. Cough syncope due to
+atrio-ventricular conduction block. Jpn Heart J 1982;23:
+1015e20.
+[34] Silverstein
+MD,
+Singer
+DE,
+Mulley
+AG,
+Thibault
+GE,
+Barnett GO. Patients with syncope admitted to medical
+intensive care units. JAMA 1982;248:1185e9.
+[35] Hart G, Oldershaw PJ, Cull RE, Humphrey P, Ward D. Syncope
+caused by cough-induced complete atrioventricular block.
+Pacing Clin Electrophysiol 1982;5:564e6.
+[36] DeMaria Jr AA, Westmoreland BF, Sharbrough FW. EEG in
+cough syncope. Neurology 1984;34:371e4.
+Cough syncope
+249
+[37] Strauss MJ, Longstreth Jr WT, Thiele BL. Atypical cough
+syncope. JAMA 1984;251:1731.
+[38] Haslam RH, Freigang B. Cough syncope mimicking epilepsy in
+asthmatic children. Can J Neurol Sci 1985;12:45e7.
+[39] Chadda KD, Peters R, Bloomﬁeld B, Kops R. Cough syncope
+treated with a long-term vasoconstrictor. JAMA 1986;255:
+1289e91.
+[40] Baron SB, Huang SK. Cough syncope presenting as Mobitz
+type II atrioventricular blockean electrophysiologic correla-
+tion. Pacing Clin Electrophysiol 1987;10:65e9.
+[41] Maddens M, Lipsitz LA, Wei JY, Pluchino FC, Mark R. Impaired
+heart rate responses to cough and deep breathing in elderly
+patients with unexplained syncope. Am J Cardiol 1987;60:
+1368e72.
+[42] Bonekat HW, Miles RM, Staats BA. Smoking and cough syn-
+cope: follow-up in 45 cases. Int J Addict 1987;22:413e9.
+[43] Vincent JL, Pinsky MR. Cough-induced syncope. Intensive
+Care Med 1988;14:591e4.
+[44] Stern RC, Horwitz SJ, Doershuk CF. Neurologic symptoms
+during coughing paroxysms in cystic ﬁbrosis. J Pediatr 1988;
+112:909e12.
+[45] Choi YS, Kim JJ, Oh BH, Park YB, Seo JD, Lee YW. Cough
+syncope caused by sinus arrest in a patient with sick sinus
+syndrome. Pacing Clin Electrophysiol 1989;12:883e6.
+[46] Kapoor WN. Evaluation and outcome of patients with syn-
+cope. Medicine (Baltimore) 1990;69:160e75.
+[47] Hanawa T, Ikeda S, Funatsu T, et al. Development of a new
+surgical procedure for repairing tracheobronchomalacia. J
+Thorac Cardiovasc Surg 1990;100:587e94.
+[48] Linzer M, McFarland TA, Belkin M, Caplan L. Critical carotid
+and vertebral arterial occlusive disease and cough syncope.
+Stroke 1992;23:1017e20.
+[49] Palma V, Sinisi L, Andreone V, et al. Hindbrain hernia head-
+ache and syncope in type I Arnold-Chiari malformation. Acta
+Neurol (Napoli) 1993;15:457e61.
+[50] Jayarajan A, Prakash O. Cough syncope induced by enalapril.
+Chest 1993;103:327e8.
+[51] Tanaka T, Inoue H, Aizawa H, et al. Case of cough syncope
+with seizure. Respiration 1994;61:48e50.
+[52] Lerman-Sagie
+T,
+Lerman
+P,
+Mukamel
+M,
+Blieden
+L,
+Mimouni M. A prospective evaluation of pediatric patients
+with syncope. Clin Pediatr (Phila) 1994;33:67e70.
+[53] Puetz TR, Vakil N. Gastroesophageal reﬂux-induced cough
+syncope. Am J Gastroenterol 1995;90:2204e6.
+[54] Mattle HP, Nirkko AC, Baumgartner RW, Sturzenegger M.
+Transient cerebral circulatory arrest coincides with fainting
+in cough syncope. Neurology 1995;45:498e501.
+[55] Imaizumi H, Kaneko M, Mori K, Yamada K, Asakura K,
+Tamagawa M. Reversible acquired tracheobronchomalacia of
+a combined crescent type and saber-sheath type. J Emerg
+Med 1995;13:43e9.
+[56] Ireland
+PD,
+Mickelsen
+D,
+Rodenhouse
+TG,
+Bakos
+RS,
+Goldstein B. Evaluation of the autonomic cardiovascular
+response in Arnold-Chiari deformities and cough syncope
+syndrome. Arch Neurol 1996;53:526e31.
+[57] Fitzsimons MG. Case report: cough syncope in a U.S. Army
+aviator. Aviat Space Environ Med 1998;69:515e6.
+[58] Whims LA, Zappasodi SJ, Morley TF. Nebulized lidocaine in
+the treatment of refractory tussive syncope. J Am Osteopath
+Assoc 1998;98:170e2.
+[59] Lee D, Beldner S, Pollaro F, Jadonath R, Maccaro P,
+Goldner B. Cough-induced heart block. Pacing Clin Electro-
+physiol 1999;22:1270e1.
+[60] Ishizuka S, Yanai M, Yamaya M, Ohrui T, Sekizawa K, Sasaki H.
+Cough syncope treated with imidapril in an elderly patient
+with dysphagia. Chest 2000;118:279.
+[61] Pratiparnawatr P, Tiamkao S, Tanapaisal C, Kanpittaya J,
+Jitpimolmard
+S.
+Downbeating
+nystagmus
+and
+postural
+hypotension due to basilar invagination. J Med Assoc Thai
+2000;83:1530e4.
+[62] Maceri DR, Zim S. Laryngospasm: an atypical manifestation
+of severe gastroesophageal reﬂux disease (GERD). Laryngo-
+scope 2001;111:1976e9.
+[63] Awad J, Schiller O. Cough syncope with herpetic tracheo-
+bronchitis. Isr Med Assoc J 2001;3:284e5.
+[64] Beckman TJ. Syncope in an adult with uncontrolled asthma.
+South Med J 2002;95:369e70.
+[65] Dhar R, Duke RJ, Sealey BJ. Cough syncope from constrictive
+pericarditis: a case report. Can J Cardiol 2003;19:295e6.
+[66] Pertussis outbreak among adults at an oil reﬁneryeIllinois,
+AugusteOctober 2002. MMWR e Morb Mortal Wkly Rep 2003;
+52:1e4.
+[67] McElveen M, Walters D, Amoss JR, Lopez FA, deBoisblanc B.
+Post-tussive syncope in a 39-year-old intravenous drug user. J
+La State Med Soc 2003;155:22e5.
+[68] McCorry DJ, Chadwick DW, Barber P, Cooper PM, Wroe S.
+Cough syncope in heavy goods vehicle drivers. QJM 2004;97:
+631e2.
+[69] Marinella MA. A car crash complicating inﬂuenza. Mayo Clin
+Proc 2004;79:1087e8.
+[70] Melby DP, Cytron JA, Benditt DG. New approaches to the
+treatment and prevention of neurally mediated reﬂex (neu-
+rocardiogenic) syncope. Curr Cardiol Rep 2004;6:385e90.
+[71] Benditt DG, Samniah N, Pham S, et al. Effect of cough on
+heart rate and blood pressure in patients with “cough syn-
+cope”. Heart Rhythm 2005;2:807e13.
+[72] Brignole M. Neurally-mediated syncope. Ital Heart J 2005;6:
+249e55.
+[73] Spring PJ, Kok C, Nicholson GA, et al. Autosomal dominant
+hereditary sensory neuropathy with chronic cough and
+gastro-oesophageal reﬂux: clinical features in two families
+linked to chromosome 3p22ep24. Brain 2005;128:2797e810.
+[74] Chao AC, Lin RT, Liu CK, Wang PY, Hsu HY. Mechanisms of
+cough syncope as evaluated by valsalva maneuver. Kaohsiung
+J Med Sci 2007;23:55e62.
+[75] Stec S, Dabrowska M, Zaborska B, et al. Premature ventric-
+ular complex-induced chronic cough and cough syncope. Eur
+Respir J 2007;30:391e4.
+[76] Styczynski G, Dobosiewicz A, Abramczyk P, Styczynska M.
+Internal jugular vein valve insufﬁciency in cough syncope.
+Neurology 2008;70:812e3.
+[77] Santambrogio L, Nosotti M, Palleschi A, et al. Solitary ﬁbrous
+tumor of the pleura presenting with syncope episodes when
+coughing. World J Surg Oncol 2008;6:86.
+[78] Gelisse P, Genton P. Cough syncope misinterpreted as
+epileptic seizure. Epileptic Disord 2008;10:223e4.
+[79] Krediet CT, Wieling W, Edward P. Sharpey-Schafer was right:
+evidence for systemic vasodilatation as a mechanism of hy-
+potension in cough syncope. Europace 2008;10:486e8.
+[80] Kusuyama T, Iida H, Kino N, Shimodozono S, Kanazawa Y.
+Cough syncope induced by gastroesophageal reﬂux disease. J
+Cardiol 2009;54:300e3.
+[81] Lou E, Zuchner S, Vance J, Morgenlander J. A potential novel
+variant of hereditary sensory neuropathy in a 61-year-old
+man with cough-induced syncope and vertebral artery
+dissection. Mayo Clin Proc 2010;85:594e5.
+[82] Maznyczka A, Squire IB. Cough syncopeea diagnosis under
+pressure. Lancet 2010;376:486.
+[83] Kreitmann L, Collet F, Gouello JP, Lemyze M. Cough syncope
+and multiple pulmonary nodules. Intern Emerg Med 2011;6:
+377e9.
+[84] AriturkZ,AliciH,CakiciM,DavutogluV.Ararecauseofsyncope:
+cough. Eur Rev Med Pharmacol Sci 2012;16(Suppl. 1):71e2.
+[85] Dickinson O, Nijjar PS, Detloff BL, Benditt DG. Vasodepressor
+cough syncope masked by sleep apnea-induced asystole. J
+Cardiovasc Electrophysiol 2012;23:1024e7.
+250
+P.V. Dicpinigaitis et al.
+[86] Aliyev F, Kilickesmez KO, Celiker C, Turkoglu C. Cough-
+induced sinus arrest resulting in recurrent episodes of syn-
+cope: is it really transient? J Cardiovasc Med (Hagerstown)
+2012;13:468e70.
+[87] Saseedharan S, Kulkarni S, Pandit R, Karnad D. Unusual
+presentation of pericardial effusion. Indian J Crit Care Med
+2012;16:219e21.
+[88] Chung CP, Cheng CY, Zivadinov R, et al. Jugular venous reﬂux
+and plasma endothelin-1 are associated with cough syncope:
+a case control pilot study. BMC Neurol 2013;13:9.
+[89] Takazawa T, Ikeda K, Kano O, Kabuki T, Kawabe K, Iwasaki Y.
+A case of sinus arrest and post-hiccup cough syncope in
+medullary infarction. J Stroke Cerebrovasc Dis 2013 May 7.
+http://dx.doi.org/10.1016/jstrokecerebrovasdis.2013.04.
+016 [Epub ahead of print].
+[90] Zeng W, Deng H. Cough syncope: constrictive pericarditis.
+Intern Med 2013;52:463e5.
+[91] Dicpinigaitis PV, Colice GL, Goolsby MJ, Rogg GI, Spector SL,
+Winther B. Acute cough: a diagnostic and therapeutic chal-
+lenge. Cough 2009;5:11.
+[92] Dicpinigaitis PV. Cough: an unmet clinical need. Br J Phar-
+macol 2011;163:116e24.
+[93] Morice AH, Fontana GA, Sovijarvi AR, et al. European Res-
+piratory Society Task Force. The diagnosis and management
+of chronic cough. Eur Respir J 2004;24:481e92.
+[94] Irwin
+RS,
+Baumann
+MH,
+Bolser
+DC,
+et
+al.
+Diagnosis
+and management of cough executive summary: American
+College
+of
+Chest
+Physicians
+(ACCP)
+evidence-based
+clinical
+practice
+guidelines.
+Chest
+2006;129(Suppl.):
+1Se23S.
+[95] Chung KF. Chronic ‘cough hypersensitivity syndrome’: a more
+precise label for chronic cough. Pulm Pharmacol Ther 2011;
+24:267e71.
+[96] Morice AH, McGarvey LP, Dicpinigaitis PV. Cough hypersen-
+sitivity syndrome is an important clinical concept: a pro/con
+debate. Lung 2012;190:3e9.
+[97] Morice AH. Chronic cough hypersensitivity syndrome. Cough
+2013;9(1):14.
+Cough syncope
+251

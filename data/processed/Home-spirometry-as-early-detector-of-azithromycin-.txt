@@ -1,0 +1,832 @@
+Home spirometry as early detector of
+azithromycin refractory bronchiolitis
+obliterans syndrome in lung transplant
+recipients
+Claudia de Wall a,*, Dettmer Sabine b, Warnecke Gregor c,
+Greer Mark a, Haverich Axel c, Fuehner Thomas a,
+Welte Tobias a, Gottlieb Jens a
+a Department of Pulmonary Medicine, Hannover Medical School, Hannover, Germany
+b Department of Radiology, Hannover Medical School, Hannover, Germany
+c Department of Cardiothoracic, Transplantation and Vascular Surgery, Hannover Medical School,
+Hannover, Germany
+Received 8 September 2013; accepted 30 December 2013
+Available online 8 January 2014
+KEYWORDS
+Azithromycin;
+Bronchiolitis;
+Lung
+Summary
+Background: To evaluate the utility of home spirometry (HS) versus ofﬁce spirometry (OS) in
+assessing treatment response to azithromycin in bronchiolitis obliterans syndrome (BOS).
+Methods: 239 Lung transplant recipients were retrospectively studied. DFEV1  10% from FEV1
+at azithromycin initiation for 7 consecutive days in HS or 2 measures in OS were taken as
+cut-off for response or progression.
+Results: Based upon HS, 161/239 (67%) patients were progressive despite macrolide, 19 of who
+exhibited transient improvement in FEV1 (11%). Time to progression was 29 (13e96) days
+earlier with HS than in OS. Forty-six (19%) recipients responded in HS after median 81 (22
+e343) days, whilst 22% remained stable. Concordance in azithromycin treatment response be-
+tween OS and HS was observed in 210 of 239 patients (88%). Response or stabilization conferred
+signiﬁcant improvement in survival (p Z 0.005). Transient azithromycin responders demon-
+strated improved survival when compared to azithromycin refractory patients (p Z 0.034).
+Conclusions: HS identiﬁed azithromycin refractory patients signiﬁcantly earlier than OS,
+possibly facilitating aggressive treatment escalation that may improve long-term outcome.
+Abbreviations: BAL, bronchoalveolar lavage; BOS, bronchiolitis obliterans syndrome; FEV1, forced expiratory volume in one 1 s; HS, home
+spirometry; IQR, interquartile ranges; LTx, lung transplantation; OS, ofﬁce spirometry; RAS, restrictive allograft syndrome.
+* Corresponding author. Hannover Medical School, Department of Respiratory Medicine, Carl-Neuberg-Strasse 1, 30625 Hannover, Ger-
+many. Tel.: þ49 511 532 3560; fax: þ49 511 5328094.
+E-mail addresses: dewall.claudia@freenet.de, dewall.claudia@mh-hannover.de, claudia.andre@arcor.de (C. de Wall).
+0954-6111/$ - see front matter ª 2014 Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.rmed.2013.12.016
+Available online at www.sciencedirect.com
+ScienceDirect
+journal homepage: www.elsevier.com/locate/rmed
+Respiratory Medicine (2014) 108, 405e412
+Treatment response to azithromycin should be assessed 4 weeks after initiation. Responders
+demonstrated best survival, with even transient response conferring beneﬁt. Macrolide-
+refractory BOS carried the worst prognosis.
+ª 2014 Elsevier Ltd. All rights reserved.
+Introduction
+Lung transplantation (LTx) has become an accepted ther-
+apeutic option for selected patients with end-stage lung
+disease. Post-transplant survival continues to improve, but
+mean 5-year survival remains disappointingly low at 53%
+[1]. Bronchiolitis obliterans syndrome (BOS) remains the
+leading cause of death beyond the ﬁrst year after trans-
+plantation [1], affecting almost half of all patients within 5
+years. BOS is characterized by its unpredictable and vari-
+able clinical course, ranging from an insidious onset with
+gradual loss of pulmonary function over months to years, to
+an abrupt and severe decline in pulmonary function within
+a matter of weeks [2e4]. Whilst obliterative bronchiolitis is
+the presumed histopathological correlate, it is not consis-
+tently detectable by transbronchial biopsy and spirometry
+is routinely used as the agreed surrogate marker to di-
+agnose and stage BOS [5]. Current treatment strategies for
+BOS include aggressive management of known risk factors
+as well as early identiﬁcation of BOS and initiation of pro-
+posed treatments or re-transplantation.
+Long-term azithromycin has been shown to improve FEV1
+and survival in up to 40% of BOS patients in various single-
+center studies [6e10]. Current data however, does not
+provide insight beyond initial response, with little being
+known about whether initial responders relapse later or
+whether non-responders stabilize after azithromycin initi-
+ation. Early azithromycin initiation prior to development of
+BOS stage 2 has been associated with a signiﬁcant reduction
+in risk of death [9], suggesting the possibility of critical
+therapeutic
+windows
+for
+efﬁcacy
+of
+some
+treatment
+options.
+Given these issues, prompt assessment for therapeutic
+response with a view to treatment escalation in progressive
+patients is vital. Previous studies involving lung transplant
+recipients have demonstrated the beneﬁts of daily home
+spirometry (HS) in detecting early changes in graft function
+[11e16]. In the current study, home spirometry data was
+used to evaluate treatment response after commencing
+azithromycin in LTx patients with BOS to evaluate if
+macrolide-refractory progression could be identiﬁed earlier
+than the present system of ofﬁce spirometry (OS).
+Materials and methods
+A single-center retrospective analysis of all adult lung
+transplant recipients between 2003 and 2011 commenced
+on long-term azithromycin for bronchiolitis obliterans was
+performed.
+Only
+patients
+with
+adequate
+adherence
+to
+home
+spirometry (50% prescribed measures) and at least one
+follow-up visit after azithromycin initiation were included.
+Recipients with severe airway complications, unknown start
+or interrupted azithromycin treatment were excluded
+(Fig. 1). All patients were followed-up from azithromycin
+initiation until death, re-transplantation or to completion
+of the study on May 31, 2011.
+Home spirometry (HS)
+Patients were instructed on using a home spirometry device
+and asked to perform daily testing, ensuring that attempts
+were made at the same time each day. All patients used a
+handheld electronic spirometry system (VIASYS Health-
+care, Hoechberg, Germany) that collected and stored
+relevant expiratory ﬂowevolume parameters including
+FEV1. Following each attempt, a digital display on the
+spirometer indicated the current FEV1 value along with a
+direct comparison to the patient’s pre-programmed best
+FEV1. Based on a “trafﬁc light” system, the device displays
+green when 90% best FEV1 is achieved, yellow for <90%
+but 80% and red for <80% best FEV1. The device stores up
+to 450 measurements, which were routinely downloaded at
+each outpatient attendance and stored centrally in an
+electronic database. Patients were instructed to contact
+the transplant center within 24 h following a change in
+“colour” on the spirometer, regardless of symptoms.
+Routine follow-up
+Patients were followed-up at our specialized outpatient
+clinic with scheduled visits at 2- to 4- month intervals.
+Standard immunosuppression consisted of a triple-drug
+regimen including a calcineurin-inhibitor, prednisolone
+and either a cell-cycle-inhibitor or mTOR (mammalian
+target of rapamycin) inhibitor. After excluding alternate
+causes, azithromycin (as the standard neo-macrolide ther-
+apy) was commenced in all patients demonstrating a
+persistent deterioration in lung function below 80% base-
+line, with most patients receiving an initial loading dose of
+500 mg daily for 3 days before continuing with 250 mg three
+times per week thereafter. Routine follow-up attendances
+included clinical examination, spirometry, capillary blood
+gas analysis and a chest x-ray. Bronchoscopy was routinely
+performed, based on interpretation of these ﬁndings to
+investigate
+suspected
+rejection,
+infection
+or
+airway
+complication.
+BOS staging complied with the International Society of
+Heart and Lung Transplantation classiﬁcation of bronchio-
+litis obliterans syndrome (BOS) [17]. Baseline FEV1 was
+deﬁned as the average of the two highest measurements
+obtained at least 3 weeks apart during postoperative
+course.
+Restrictive allograft syndrome (RAS) was deﬁned ac-
+cording to Sato et al. [18]. If TLC data were not available,
+RAS was deﬁned by imaging (presence of parenchymal
+406
+C. de Wall et al.
+inﬁltrates) and the absence of an obstructive pattern in
+pulmonary function test (FEV/FVC > 0.7).
+Interpretation of macrolide response
+In home spirometry (HS), patients demonstrating a 10%
+FEV1 increase (compared to FEV1 at start of azithromycin)
+from the baseline value over a period of 7 consecutive days
+were termed responders. Patients with a 10% FEV1 loss
+over 7 consecutive days were classiﬁed as progressive. All
+remaining patients with FEV1 values between 91 and 109%
+were considered stabilized. Patients who initially fulﬁlled
+the responder criteria, but subsequently progressed to
+90%
+FEV1
+during
+follow-up,
+were
+termed
+transient
+responders.
+With regard to ofﬁce spirometry (OS), the same cut-off
+values in %FEV1 were used and considered relevant when
+arising in at least two consecutive OS measurements after
+excluding alternative causes. OS was performed in accor-
+dance to the published guidelines of the American Thoracic
+Society and European Respiratory Society [19].
+The date of progression or response in HS and OS was
+deﬁned as the ﬁrst occasion on which the cut-off values
+were reached.
+Statistical analysis
+Data are reported as medians with interquartile ranges
+(IQR) and all reported p values are two-sided unless
+otherwise stated. For all analyses, p-values <0.05 were
+considered statistically signiﬁcant. Category variables were
+analysed using either a chi-squared test or Fisher’s exact
+test. Medians were compared using the ManneWhitney test
+and the nonparametric KruskaleWallis-H test. Cohen’s
+kappa coefﬁcient was used as a measure of agreement for
+categorical items. Survival curves were constructed using
+Kaplan Meier method and compared using the log-rank test.
+Results
+Two hundred thirty-nine lung transplant recipients fulﬁlled
+inclusion criteria. Baseline characteristics of patients are
+listed in Table 1. Median follow-up was 22 (11e37) months.
+Median FEV1 at azithromycin initiation was 67% (54e77)
+baseline, 21% had a restrictive phenotype. Sixty-seven
+percent of patients (161/239) demonstrated progression
+in HS. Nineteen patients (19/239, 8%) had an initial
+response
+but
+progressed
+during
+follow-up
+after
+501
+(232e1334) days and were considered transient responders.
+No transient responder stabilized. Time to progression was
+61 (24e149) days according to HS and 90 (37e245) days
+according to OS. HS detected progression on average 29
+(13e96) days earlier than outpatient measures. Median loss
+of FEV1 in all progressive patients was 0.4 L (17%) at the
+ﬁrst visit deﬁning progress in OS.
+Nineteen percent of patients (46/239) responded to
+azithromycin after 81 (22e343) days on HS, compared to
+222 (64e551) days on OS. HS detected treatment response
+on average 141 (42e208) days earlier than ofﬁce measures.
+Twenty-two percent of patients (51/239) exhibited stabi-
+lized lung function after commencing macrolides. Classiﬁ-
+cation of azithromycin response was concordant between
+HS and OS in 210/239 (88%) patients (Fig. 2).
+Seven of 29 patients exhibiting disconcordance between
+HS an OS, demonstrated transient responses in HS. Of the
+remaining 22 patients, 5 were progressive and 17 were non-
+progressive.
+Sensitivity and speciﬁty of HS in detecting progressive
+patients resulted in p values of 0.800 and 0.962 respec-
+tively. Positive predictive value (PPV) and negative pre-
+dictive value (NPV) were p Z 0.863 and p Z 0.941.
+Sensitivity and speciﬁty of HS in detecting responder
+resulted in p values of 0.833 and 0.944 respectively. Posi-
+tive predictive value (PPV) and negative predictive value
+(NPV) were p Z 0.761 and p Z 0.964. Analysis of concor-
+dance between home and clinic spirometry resulted in K
+Figure 1
+Enrollement of Patients with azithromycin treatment for bronchiolitis obliterans syndrome (2003e2011). Treatment
+response based upon HS.
+Home spirometry in lung transplant recipients on azithromycin
+407
+values of 0.782 for progressive patients. K values for stable
+patients and responder indicated substantial agreement
+(k Z 0.782, k Z 0.749).
+Seventy patients (29%) died during follow-up after 490
+(258e1013) days, 59 (84%) in the HS-progressive group.
+Causes of death are shown in Table 1. Five of 239 (2%) pa-
+tients died from cardiovascular events (stroke n Z 1, ST-
+elevation myocardial infarction n Z 1, sudden cardiac
+death n Z 3). All patients dying following cardiac arrest
+had advanced chronic allograft dysfunction and were oxy-
+gen dependent. Thirteen patients (5%) underwent re-
+transplantation, all of whom had been HS-progressive. In
+HS-progressive patients, 44 (75%) died from respiratory
+failure after 450 (215e989) days.
+Median survival of all patients was 1952 (1228e3289)
+days after transplantation, 756 (379e1302) days after BOS
+onset and 673 (341e-1106) days after commencing azi-
+thromycin. KaplaneMeier survival estimates at 1 and 3
+years after initiation of azithromycin was 91% and 74% for
+responders
+versus
+69%
+and
+41%
+for
+non-responders
+(p Z 0.005). Overall survival of progressive and non-
+progressive patients is displayed Fig. 3.
+Worst survival occurred in the HS-progressive group with
+median survival of 1.0 (0.0e2.0) years. Transient azi-
+thromycin responders in HS demonstrated improved sur-
+vival when compared to azithromycin -refractory patients
+(2.0; IQR1.0e4.0) years, p Z 0.034).
+BOS onset of BOS was earlier in the progressive group,
+arising 31 (15e48) months post-transplant compared to 46
+(22e73)
+months
+amongst
+non-progressive
+patients
+(p < 0.05). FEV1 at azithromycin initiation was also lower
+65% Best FEV1 (IQR 51e75) vs. 70% (69e79) in the non-
+Table 1
+Baseline characteristics of patients.
+All patients
+N
+239
+Age
+Years
+52 (39e59)
+Female gender
+N (%)
+121 (51)
+Underlying disease
+Emphysema
+96 (40)
+Pulmonary Fibrosis
+48 (20)
+Cystic ﬁbrosis
+50 (21)
+Eisenmenger
+28 (12)
+Other
+17 (7)
+Transplant procedure
+N (%)
+Double lung
+184 (77)
+Single lung
+41 (17)
+Heart lung
+14 (6)
+Calcineur-ininhibitor
+N (%)
+Cyclosporine
+126 (53)
+Tacrolimus
+113 (47)
+Time between transplantation and inclusion
+Months
+39 (18e68)
+BOS stage at start of azithromycin
+N (%)
+0p
+37 (15)
+1
+97 (41)
+2
+62 (26)
+3
+43 (18)
+FEV1 at start of azithromycin
+% Baseline
+67 (54e77)
+Baseline FEV1
+% Predicted
+85 (68e100)
+Restrictive pattern
+N (%)
+49 (21)
+BOS onset post-transplant
+Months
+34 (16e58)
+Airway colonizationa
+N (%)
+71 (30)
+Follow-up after start of azithromycin
+Months
+22 (11e37)
+Rapid decliner before azithromycin
+(FEV1 decline  100 ml/month)
+N (%)
+108 (45)
+Death during follow-up
+N (%)
+70 (29)
+Causes of death
+N (%)
+- Respiratory failure
+41 (59)
+- Malignancy
+5 (7)
+- Cardiovascular disease
+5 (7)
+- Other
+19 (27)
+Re-transplantation during follow-up
+N (%)
+13 (5)
+Median (Interquartile Range).
+a Airway colonization with gram-negative bacteria (e.g. Pseudomonas aeruginosa).
+408
+C. de Wall et al.
+progressive group (p < 0.05). No signiﬁcant differences
+were observed in co-medication (steroid pulse or taper,
+anti-reﬂux or pro-kinetic treatments), use of azithromycin
+loading dose or gram-negative airway colonization between
+the response groups (Table 2).
+Discussion
+We describe the utility of home spirometry (HS) in the early
+detection of macrolide-refractory BOS. HS identiﬁed pro-
+gressive patients more than 4 weeks earlier than ofﬁce
+spirometry, whilst achieving acceptable concordance with
+ofﬁce spirometry in assessment of macrolide treatment
+response. Home spirometry has previously been validated
+in
+lung
+transplant
+populations,
+with
+various
+studies
+describing beneﬁts in detecting early changes in graft
+function [11e16]. In a study involving 45 LTx recipients,
+Finkelstein et al. diagnosed BOS 1 on average 341 days
+earlier than OS, with those progressing to BOS 2 and 3 being
+identiﬁed 144 days earlier [15]. Our ﬁndings conﬁrm high
+levels of concordance between home spirometry (HS) and
+ofﬁce spirometry (OS).
+Despite these ﬁndings, we continue to support control-
+ling OS 4 weeks after azithromycin initiation due to inad-
+equate HS adherence in some patients. Difﬁculties in
+performing the forced expiratory maneuver were suspected
+in 60% of patients showing greater variability in HS mea-
+surements. Although patients were trained in using the
+home spirometer, the measurements were performed un-
+supervised, in contrast to OS which was supervised by
+experienced personnel, allowing direct correction of false
+technique.
+In two thirds of observed discrepancies, trends in pul-
+monary function were not detected in HS. Additional
+training on how to perform HS when recipients are being
+prepared for hospital discharge may improve patient
+adherence and further improve concordance between HS
+and OS. We have previously observed greatest adherence
+Figure 3
+Survival after azithromycin initiation in BOS (ofﬁce spirometry data).
+Figure 2
+Comparison of home spirometry (HS) and ofﬁce
+spirometry (OS) measurements.
+Home spirometry in lung transplant recipients on azithromycin
+409
+rates with HS in the initial year following transplantation,
+with a subsequent decrease over time [20]. Annual training
+updates, reiterating the importance and technique of HS
+may improve adherence in long-term transplant recipients.
+Less than 5% of patients were identiﬁed as transient
+responders or stable in HS, while OS demonstrated pro-
+gression. It is unsurprising that OS proved less sensitive in
+identifying transient responders. Temporary improvements
+in pulmonary function occurring between visits could be
+potentially missed, in contrast to daily measurements in
+HS. In half of transient responders, increases in HS FEV1
+appeared implausible, suggesting alternative explanations
+including that another person may have performed HS on
+the device.
+According to various reports, approximately 35% of pa-
+tients in different BOS stages respond to macrolide treat-
+ment
+[6,7,21e25].
+There
+exists
+however
+no
+uniform
+deﬁnition of response, and most studies made no distinc-
+tion
+between
+long-term
+and
+transient
+response.
+Our
+response rates appear lower and a greater proportion
+treatment initiation in advanced BOS stages (2 or 3)
+compared to the largest study [8].
+Azithromycin was prescribed at 250 mg orally three
+times per week, in concordance with the majority of pub-
+lished studies [6,8,21,22], including our own experiences
+[25]. Very high tissue concentrations, high lipid solubility in
+combination with a long half-time allow such treatment
+protocols. To optimize patient adherence we recommended
+ﬁxed-dosing
+(MondayeWednesdayeFriday)
+rather
+than
+alternate days. Current experience in CF-populations has
+demonstrated, that if 250 mg is not effective, higher doses
+are also generally ineffective and resulted in increased
+side-effects [20]. Commonest side-effects included nausea,
+vomiting, diarrhea or abdominal pain. Gastrointestinal
+intolerance was greatest in daily treatment protocols [30].
+In our experience, prolonged use of azithromycin is well
+tolerated, with at most mild side-effects. No ventricular
+arrhythmias were observed in our cohort. This may be
+explained by LTx recipients being typically younger, with
+proven absence of cardiac disease in contrast to elderly
+patients with cardiovascular risk factors [31]. Nevertheless
+5/239 (2%) patients died from cardiovascular events (stroke
+n Z 1, ST-elevation myocardial infarction n Z 1, sudden
+cardiac death n Z 3). Currently we recommend QTc
+monitoring prior to initiation and regularly during long-term
+azithromycin along with avoidance of other QTc prolonging
+drugs.
+In accordance with previous studies, macrolide re-
+sponders demonstrate signiﬁcantly better overall survival
+compared to non-responders [8,9]. Interestingly, survival in
+patients exhibiting a sustained response was similar to
+those demonstrating a transient response and non-response
+with stable FEV1. This may reﬂect a more benign disease
+course. Our ﬁndings emphasize that even short-term
+response
+and
+stabilization
+confer
+patient
+beneﬁt.
+Improved
+functional
+reserve
+afforded
+by
+short-term
+response and lung function stabilization may facilitate a
+more favorable BOS course. In macrolide-refractory pa-
+tients alternative treatments such as extracorporeal pho-
+topheresis
+[26],
+total
+lymphoid
+irradiation
+[27],
+montelukast
+[28],
+anti-reﬂux
+treatment
+or
+re-
+transplantation
+remain
+possible
+treatment
+options.
+Regarding additional clinical risk factors such as gram-
+negative airway colonization or co-medication, no signiﬁ-
+cant differences between progressive and non-progressive
+patients were observed.
+Additional factors may limit the conclusions beyond the
+retrospective single-center nature of the study. Bias may
+exist in patient adherence due to selection criteria (pa-
+tients without HS and non-adherent patients were not
+evaluated). Addition of further BOS treatment options
+following
+macrolide
+initiation
+such
+as
+extracorporeal
+Table 2
+Characteristics of progressive and non-progressive patients based on home spirometry data.
+Progressive patients
+Non-progressive
+patients
+p-Value
+N (%)
+161 (67)
+78 (33)
+Age
+Years
+51 (38e58)
+53 (43e61)
+0.039
+Gender female
+N (%)
+81 (50)
+40 (51)
+0.888
+Cystic ﬁbrosis
+N (%)
+37 (23)
+13 (17)
+0.261
+Gram-negative airway colonization
+N (%)
+48 (30)
+23 (30)
+0.959
+Time between transplantation and initiation
+Months
+35 (18e64)
+43 (19e75)
+0.253
+Time since onset of BOS
+Months
+31 (15e48)
+46 (22e73)
+0.008
+BOS stage at inclusion
+N (%)
+0p or 1
+84 (52)
+50 (64)
+0.082
+2 or 3
+77 (48)
+28 (36)
+Baseline FEV1
+% Best
+65 (51e75)
+70 (60e79)
+0.032
+Use of proton pump inhibitor
+or H2 receptor blocker
+N (%)
+141 (88)
+66 (85)
+0.529
+Azithromycin loading dose
+N (%)
+55 (34)
+26 (33)
+0.899
+Follow-up after start of azithromycin
+Months
+22 (10e37)
+23 (12e36)
+0.606
+Re-transplantation during follow-up
+N (%)
+13 (8)
+0 (0)
+0.010
+Death during follow-up
+N (%)
+59 (37)
+11 (14)
+<0.001
+Median (interquartile range).
+Bold values represent that values are statistically signiﬁcant.
+410
+C. de Wall et al.
+photopheresis [26], total lymphoid irradiation [27] or
+montelukast [28] were not considered.
+In conclusion, HS appears to be a safe and reliable tool in
+facilitating assessment of treatment response in patients
+with
+BOS
+commenced
+on
+azithromycin.
+HS
+detects
+macrolide-refractory BOS signiﬁcantly earlier and might
+help optimize treatment escalation through other available
+treatments or consideration for re-transplantation. Pa-
+tients may be instructed to contact their transplant center
+when a signiﬁcant decline in FEV1 is evident on their HS
+device. Changes in HS should then be conﬁrmed by OS.
+When long-term use of macrolides is indicated, we recom-
+mend outpatient reassessment of treatment response 4
+weeks after treatment initiation. Patients with progressive
+lung function decline detected by OS or HS despite azi-
+thromycin therapy should be considered for early escala-
+tion
+of
+BOS
+therapy.
+It
+remains
+conceivable,
+that
+azithromycin also confers a more favorable BOS clinical
+course in these patients. Given that BOS is life-threatening,
+with no superior alternative treatment, we routinely
+continue long-term azithromycin in patients who stabilize
+and even in progressive patients if well tolerated. In gen-
+eral, patients decline treatment cessation due to anxiety of
+further acceleration in FEV1 decline.
+Authorship
+Acquisition of data: de Wall, Fuehner, Greer.
+Analysis and interpretation of data: de Wall, Dettmer,
+Welte, Haverich.
+Statistical analysis: de Wall, Gottlieb.
+Drafting of the manuscript: de Wall, Gottlieb.
+Critical revision of the manuscript: Gottlieb, Welte,
+Warnecke, Haverich, Greer.
+Funding sources/disclosure
+This work was supported by a grant from the German
+Federal Ministry of Education and Research (reference
+number: 01EO0802), the contents of this article are the sole
+responsibility of the authors. The authors of this manuscript
+have no conﬂicts of interest to disclose as described by
+Respiratory Medicine.
+Acknowledgments
+This work was supported by a grant from the German
+Federal Ministry of Education and Research (reference
+number: 01EO0802), the contents of this article are the sole
+responsibility of the authors.
+References
+[1] Yusen
+RD,
+Christie
+JD,
+Edwards
+LB,
+Kucheryavaya
+AY,
+Benden
+C,
+Dipchand
+AI,
+Dobbels
+F,
+Kirk
+R,
+Lund
+LH,
+Rahmel AO, Stehlik J. The Registry of the International Society
+for Heart and Lung Transplantation: thirtieth adult lung and
+heart-lung transplant report e 2013; focus theme: age. J
+Heart Lung Transpl 2013;32(10):965e78.
+[2] Jackson CH, Sharples LD, McNeil K. Acute and chronic onset of
+bronchiolitis obliterans syndrome (BOS): are they different
+enteties? J Heart Lung Transpl 2002;21:658e66.
+[3] Knoop C, Estenne M. Acute and chronic rejection after lung
+transplantation.
+Semin
+Respir
+Crit
+Care
+Med
+2006;27:
+521e33.
+[4] Lama VN, Murray S, Martinez FJ. Course of FEV1 after onset of
+bronchiolitis obliterans syndrome in lung transplant re-
+cipients. Am J Respir Crit Med 2007;175:1192e8.
+[5] Cooper JD, Billingham M, Yousen S. A working formulation for
+the standardization of nomenclature and for clinical staging of
+chronic dysfunction in lung allografts. International Society of
+Heart and Lung Transplantation. J Heart Lung Transpl 1993;12:
+713e6.
+[6] Gerhardt SG, McDyer JF, Orens JB. Maintenance azithromycin
+therapy for bronchiolitis obliterans syndrome: results of a
+pilot study. Am J Respir Crit Care Med 2003;168:121e5.
+[7] Verleden GM, Vanaudenaerde BM, Dupont LJ. Azithromycin
+reduces airway neutrophilia and Interleukin-8 in patients with
+bronchiolitis obliterans syndrome. Am J Respir Crit Care Med
+2006;174:566e70.
+[8] Vos R, Vanaudenaerde BM, Ottevaere A. Long-term azi-
+thromycin for bronchiolitis obliterans syndrome: divide and
+conquer? J Heart Lung Transpl 2010;29:1358.
+[9] Jain R, Hachem RR, Walter MJ. Azithromycin is associated
+with increased survival in lung transplant recipients with
+bronchiolitis obliterans syndrome. J Heart Lung Transpl 2010;
+29:531e7.
+[10] Vanaudenaerde BM, Vos R, Meyts I. A dichotomy in bronchio-
+litis obliterans syndrome after lung transplantation revealed
+by azithromycin therapy. Eur Respir J 2008;32:832.
+[11] Bjortuft O, Johansen B, Boe J. Daily home spirometry fa-
+cilitates early detection of rejection in single lung trans-
+plant recipients with emphysema. Eur Respir J 1993;6:
+705e8.
+[12] Lindgren BR, Finkelstein SM, Prasad B. Determination of reli-
+ability and validity in home monitoring data of pulmonary
+function tests following lung transplantation. Res Nurs Health
+1997;20:539e50.
+[13] Finkelstein SM, Lindgren BR, Prasad B. Reliability and validity
+of spirometry measurements in a paperless home monitoring
+program
+for
+lung
+transplantation.
+Heart
+Lung
+1993;22:
+523e33.
+[14] Finkelstein SM, Snyder M, Edin Stibbe C. Monitoring progress
+after lung transplantation from home: patient adherence. J
+Med Eng Technol 1996;20:203e10.
+[15] Finkelstein SM, Snyder M, Hertz MI. Staging of bronchiolitis
+obliterans syndrome using Home spirometry. Chest 2009;116:
+120e6.
+[16] Karl BC, Finkelstein SM, Robiner WN. The design of an
+internet-based system to maintain home monitoring adher-
+ence by lung transplant recipients. IEEE Trans Inform Technol
+Biomed 2006;10:66.
+[17] Estenne M, Maurer RJ, Boehler A. Bronchiolitis obliterans
+syndrome 2001: an update of the diagnostic criteria. J Heart
+Lung Transpl 2002;21:297.
+[18] Sato M, Waddell T, Keshavjee S. Restrictive allograft syndrome
+(RAS): a novel form of chronic organ dysfunction. J Heart Lung
+Transpl 2011;30:735e42.
+[19] Miller MR, Hankinson J, Brusasco V. Standardization of
+spirometry. Eur Respir J 2005;26:319.
+[20] Kugler C, Fuehner T, Gottlieb J. Effect of adherence to Home
+spirometry on bronchiolitis obliterans syndrome and graft
+survival after lung transplantation. Transplantation 2009;88:
+129e34.
+[21] Verleden GM, Dupont LJ. Azithromycin therapy for patients
+with bronchiolitis obliterans syndrome after lung trans-
+plantation. Transplantation 2004;77:1465e7.
+Home spirometry in lung transplant recipients on azithromycin
+411
+[22] Yates B, Murphy DM, Corris PA. Azithromycin reverses airﬂow
+obstruction in established bronchiolitis syndrome. Am J Respir
+Crit Care Med 2005;172:772e5.
+[23] Shitrit D, Bendayan D, Gidon S. Long-term azithromycin use
+for treatment of bronchiolitis obliterans syndrome in lung
+transplant recipients. J Heart Lung Transpl 2005;24:1440.
+[24] Porhownik NR, Batobara W, Kepron W. Effect of maintenance
+azithromycin on established bronchiolitis obliterans syndrome
+in lung transplant patients. Can Respir J 2008;15:199.
+[25] Gottlieb J, Szangolies J, Welte T. Long-term azithromycin for
+bronchiolitis obliterans syndrome after lung transplantation.
+Transplantation 2008;85:36e41.
+[26] Benden C, Speich R, Hofbauer GF. Extracorporeal photo-
+pheresis after lung transplantation: a 10-year single-center
+experience. Transplantation 2008;86:1625e7.
+[27] Verleden GM, Lievens Y, Vanaudenaerde BM. Efﬁciency of
+total lymphoid irradiation in azithromycin nonresponsive
+chronic allograft rejection after lung transplantation. Transpl
+Proc 2009;41:1816e20.
+[28] Verleden GM, Verleden SE, Vanaudenaerde BM. Montelukast
+for
+bronchiolitis
+obliterans
+syndrome
+after
+lung
+trans-
+plantation: a pilot study. Transpl Int 2011;24:651e6.
+[30] Grifﬁth DE, Brown BA, Girard WM, Grifﬁth BE, Couch LA,
+Wallace Jr RJ. Azithromycin-containing regimens for treat-
+ment of Mycobacterium avium complex lung disease. Clin
+Infect Dis 2001;32(11):1547e53.
+[31] Ray WA, Murray KT, Hall K, Arbogast PG, Stein CM. Azi-
+thromycin and the risk of cardiovascular death. N Engl J Med
+2012;366(20):1881e90.
+412
+C. de Wall et al.

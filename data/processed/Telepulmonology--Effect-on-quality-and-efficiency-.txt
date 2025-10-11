@@ -1,0 +1,551 @@
+Telepulmonology: Effect on quality and
+efﬁciency of care
+Leonie Thijssing a,b,*, Job P. van der Heijden b,
+Niels H. Chavannes c, Christian F. Melissant d,
+Monique W.M. Jaspers a, Leonard Witkamp b
+a Center of Human Factors Engineering of Health Information Technology HITlab, Department of
+Medical Informatics, Academic Medical Center-University of Amsterdam, Amsterdam, The Netherlands
+b KSYOS Health Management Research, Amstelveen, The Netherlands
+c Department of Public Health and Primary Care, Leiden University Medical Center, Leiden, The
+Netherlands
+d Department of Pulmonology, Spaarne Hospital, Hoofddorp, The Netherlands
+Received 24 April 2013; accepted 23 October 2013
+Available online 31 October 2013
+KEYWORDS
+Telemedicine;
+Pulmonary medicine;
+Quality improvement;
+Efﬁciency
+Summary
+Background: Interpreting spirometry results has proven challenging in primary care practice,
+among others potentially leading to under- and misdiagnosis of COPD. In telepulmonology a
+general practitioner (GP) digitally consults a pulmonologist to support the interpretation of
+spirometry results. This study assessed the effect of telepulmonology on quality and efﬁciency
+of care.
+Methods: Quality of care was measured by ﬁve indicators, among others the percentage of Tel-
+ePulmonology Consultations (TPCs) sent by GPs for advice, percentage of those TPCs resulting
+in a physical referral, and educational effect of telepulmonology as experienced by GPs. Efﬁ-
+ciency was deﬁned as the percentage of prevented unnecessary physical referrals of patients
+to the pulmonologist.
+Results: Between April 2009 and November 2012 1.958 TPCs were sent by 158 GPs to 32 pul-
+monologists. Sixty-nine percent of the TPCs were sent for advice. Based on the advice of
+the pulmonologist 18% of these TPCs led to a physical referral of patients who would not
+have been referred without telepulmonology. Thirty-one percent of the TPCs were intended
+to prevent a physical referral, 68% of these actually prevented a physical referral to a pulmo-
+nologist.
+Abbreviation list: GP, General Practitioner; TPC, TelePulmonology Consultation; COPD, Chronic Obstructive Pulmonary Disease.
+* Corresponding author. Department of Medical Informatics, AcademicMedicalCenter, University of Amsterdam, The Netherlands. Tel.:
+þ312 5666204.
+E-mail address: l.thijssing@amc.uva.nl (L. Thijssing).
+0954-6111/$ - see front matter ª 2013 Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.rmed.2013.10.017
+Available online at www.sciencedirect.com
+ScienceDirect
+journal homepage: www.elsevier.com/locate/rmed
+Respiratory Medicine (2014) 108, 314e318
+Conclusion: The results show telepulmonology can contribute to quality of care by supporting
+GPs and can additionally prevent unnecessary physical referrals.
+ª 2013 Elsevier Ltd. All rights reserved.
+Introduction
+Chronic Obstructive Pulmonary Disease (COPD) is a chronic
+lung disorder characterized by a not fully reversible airﬂow
+limitation that is usually progressive [1] and constitutes the
+fourth leading cause of death worldwide [2]. In the
+Netherlands the reported prevalence of diagnosed COPD is
+1.8% in men and 1.6% in women [3]. However, a recent
+study in the Netherlands found a prevalence of COPD
+almost as high as 25% in a random sample of a population
+aged over 40 years [4]. The actual prevalence of COPD is
+higher than the reported prevalence due to the fact that
+COPD is often under- and misdiagnosed [5e7].
+One of the reasons for the under- and misdiagnosis of
+COPD is that primary healthcare workers often have difﬁ-
+culty interpreting spirometry results [5,6]. Spirometry is a
+lung function test, resulting in a graph and lung function
+parameters required to diagnose COPD [8]. Spirometry is
+also used to detect and monitor other lung conditions such
+as asthma. White et al. identiﬁed clinically signiﬁcant
+disagreements between general practitioners (GPs) and
+pulmonologists in the interpretation of spirometry graphs
+and
+consequent
+diagnosis
+in
+49
+out
+of
+168
+tests
+(Kappa Z 0.39) and of quality of the spirometry test in 67
+out of 212 tests (Kappa Z 0.07) [9]. The main reason for
+disagreement on diagnosis was that COPD was not diag-
+nosed by GPs, while according to international criteria the
+test results indicated COPD. A study of Yawn et al. likewise
+found disagreements between GPs and pulmonologists on
+the interpretation of spirometry results in 88 out of 368
+tests (24%) [10]. Most common reasons for disagreement in
+this study were overreporting of airﬂow obstruction in
+patients with normal spirometry results by GPs, inter-
+preting restrictive patterns in people with poor effort and
+diagnosing COPD in absence of spirometry results indi-
+cating COPD. Validity of spirometric testing in the general
+practice was studied by Schermer et al. They concluded
+that with sufﬁcient training of the practice staff, per-
+forming of spirometric tests seemed justiﬁable [11].
+However, practice staff is not always sufﬁciently trained in
+performing spirometric tests and interpretation remains
+difﬁcult. Thus, as concluded by Poels et al., there is a need
+for ongoing support for spirometry interpretation among
+GPs [12].
+Telepulmonology is an implementation of telemedicine
+that could support general practitioners in interpreting
+spirometry results. In telepulmonology a GP digitally con-
+sults a pulmonologist to gain support in diagnosing patients
+or to gain treatment advice concerning all kinds of lung
+conditions. There are two types of telepulmonology: store-
+and-forward (time and place independent) and real-time
+telepulmonology (only place independent). Until now few
+studies have been published that assessed the effect of
+telepulmonology on quality and efﬁciency of care. Real-
+time telepulmonology, using videoconferencing technology,
+has proven effective in some studies [13,14]. In one study
+40 patients were seen by pulmonologists both face-to-face
+and via telepulmonology. For each condition, ﬁndings of the
+pulmonologists on the patient’s medical history, physical
+examination, diagnostic impression and evaluation and
+treatment plan were reported and later on compared by
+two
+independent
+pulmonologists.
+Agreement
+between
+ﬁndings in both settings was rated on a scale of 1e4 with 1
+representing complete agreement and 4 representing no
+agreement. Average agreement scores ranged from 1.32 to
+1.81 [13]. In another study the use of real-time tele-
+pulmonology at a local clinic prevented a physical referral
+for 92% of the patients. Thus, besides supporting GPs in
+diagnosing patients through consultation of a pulmonolo-
+gist, telepulmonology may also be used to prevent physical
+referrals of patients to the pulmonologist.
+In the Italian Alliance study the feasibility of store-and-
+forward telepulmonology via telephone lines was assessed.
+Telepulmonology was found to be well accepted and easily
+performed by a large number of GPs (n Z 937) [15]. Tele-
+pulmonology enabled pulmonologists to provide clinical
+information useful to GPs for decision making on diagnosis
+and clinical management of patients [16]. Another study
+concluded that the web-based remote support on inter-
+pretation of, and comment on the quality of, the spirom-
+etry results by pulmonologists to GPs generated a sustained
+increase in the quality of spirometry [17]. According to the
+participating GPs, pulmonologists’ advices helped them to
+improve their performance in conducting and interpreting
+spirometry tests. Thus, previous studies showed tele-
+pulmonology can support GPs in performing and interpret-
+ing spirometry tests. However, to our knowledge no
+previous study assessed the effect of store-and-forward
+telepulmonology implemented in daily general practice on
+different aspects of quality of care and on the number of
+prevented physical referrals.
+This study therefore focuses on the effect of store-and-
+forward telepulmonology implemented in daily practices of
+Dutch GPs, with regard to the quality of care and the
+number of prevented unnecessary physical referrals.
+Materials and methods
+Inclusion and exclusion criteria
+All GPs registered in the Netherlands and in possession of a
+spirometer that could be linked to a computer, were
+eligible to start using telepulmonology. Each GP who star-
+ted using the KSYOS TeleConsultation System (KSYOS Tele-
+Medical Centre, Amstelveen, The Netherlands)for the ﬁrst
+time received on-site training in the use of the system of
+approximately 1 h. GPs already working with the system
+Telepulmonology: Effect on quality and efﬁciency of care
+315
+received a less extensive training. Additionally they could
+contact a dedicated helpdesk. GPs who participated in this
+study decided whom of their patients they considered
+suitable for a telepulmonology consult (TPC). They were
+not advised on the type of conditions for which to use tel-
+epulmonology, except that patients demanding urgent care
+were not suitable for telepulmonology.
+Teleconsultation system
+All TPCs were sent between a GP and a pulmonologist via
+the hypertext transfer protocol secured, web-based tele-
+consultation system. Users could access the system through
+a combination of username and password, by using the
+Dutch Unique Healthcare Identiﬁcation card, or through a
+Single-Sign-On solution integrated in the GP information
+systems. Answers given by the pulmonologist were auto-
+matically and securely sent to the GP information system.
+The teleconsultation system also incorporated other tele-
+medicine
+services
+such
+as
+teledermatology,
+tele-
+ophthalmology and telecardiology.
+The telepulmonology consultation process
+GPs logged in to the web-based teleconsultation system,
+after which they ﬁlled in mandatory patient information.
+Subsequently they uploaded up to four PDF’s of the pa-
+tient’s spirometry results, ﬁlled in the patient’s medical
+history, added relevant medication of the patient and
+asked the pulmonologist for advice. Additionally more
+detailed information on the patient’s medical history could
+be added by the GP. The GP then sent the TPC to the local
+pulmonologist, who had to answer the TPC within two
+working days. Pulmonologists were reminded by e-mail and
+consequently by phone if they exceeded these two working
+days. The pulmonologist answered the TPC with regard to
+description of the ﬁndings, additional questions, diagnostic
+considerations and advice. In addition to this, the pulmo-
+nologist answered two mandatory questions: ‘Diagnosis
+COPD?’ (Answer categories: Yes, No, Unsure) and ‘Is a visit
+to the specialist required?’ (Answer categories: Yes, No,
+Inapplicable). After the GP had received the answer, the GP
+could start one more communication round with the pul-
+monologist. This round could be used by the GP to provide
+other (patient) information needed by the pulmonologist or
+to ask for clariﬁcation of the pulmonologist’s answer when
+needed.
+Data collection
+All data were gathered from routine clinical practice. Tel-
+epulmonology consults sent via the teleconsultation system
+were included in this study. Patients gave oral informed
+consent for the telepulmonology consultation. On sending
+and closing a TPC a GP was asked a number of mandatory
+questions that were used to measure the effect of tele-
+pulmonology on quality and on the number of prevented
+physical referrals. Questions asked to GPs are shown in
+Fig. 1. Timestamps of TPCs sent were saved to derive the
+mean response time of the pulmonologists.
+Quality of care
+Five indicators were used to measure quality of care. The
+percentage of TPCs sent by GPs for which advice of a pul-
+monologist was requested was the ﬁrst indicator. The second
+indicator was the percentage of patients physically referred
+by the GP to the pulmonologist, who would not have been
+referred without telepulmonology. This equaled the per-
+centage of TPCs where question 1 (Q1) was answered with
+‘No’ and question 2 (Q2) with ‘Yes’. Question 3 (Q3) could be
+answered with the following three answers ‘No’, ’Slightly’,
+’Yes’. The last two answers were considered an educational
+effect experienced by the GP which was the third indicator.
+The fourth indicator was the percentage of TPCs in which the
+GP was helped with the pulmonologist’s response (question 4
+(Q4) answered with ‘Slightly’ or ‘Yes’). The mean response
+time in working hours of the pulmonologists was the last in-
+dicator. Hours between 8.30 am and 5.30 pm on weekdays
+were counted as working hours.
+Efﬁciency of care
+Efﬁciency of care was expressed as the percentage of
+prevented physical referrals. The percentage of prevented
+unnecessary physical referrals in the group of patients that
+would
+have
+been
+physically
+referred
+without
+tele-
+pulmonology equaled the percentage of TPCs where Q1
+‘Without
+telepulmonology,
+would
+you
+have
+physically
+referred this patient?’ was answered with ‘Yes’ and Q2 ‘Do
+you refer this patient physically?’ was answered with ‘No’.
+The overall percentage of prevented physical referrals
+was calculated using Formula (1):
+Figure 1
+Questions asked to the GP during the TP process.
+1 
+Total number of patients physically referred
+Total number of patients that would have been referred without TP100%
+ð1Þ
+316
+L. Thijssing et al.
+The number of TPCs where Q1 was answered with ‘Yes’
+was considered the total number of patients that would
+have been referred without telepulmonology. The total
+number of patients physically referred was deﬁned as the
+number of TPCs where the answer to Q2 was ‘Yes’.
+The McNemar test was used to test whether the differ-
+ence between the number of patients physically referred
+using
+telepulmonology
+signiﬁcantly
+differed
+from
+the
+number
+of
+patients
+physically
+referred
+without
+tele-
+pulmonology. Statistical analyses were performed using the
+Statistical Package for Social Sciences SPSS (version 19).
+Results
+In total 1.958 TPCs of 1.828 patients were sent by 158 GPs
+and answered by 32 pulmonologists between April 2009 and
+November 2012. The mean age of the patients for whom a
+TPC was sent was 52.4 years. The youngest patient for
+whom a TPC was sent was 6 years; the oldest patient was 91
+years. Forty-seven percent (n Z 917) of the patients were
+male. Twenty-three percent (n Z 284) of the patients were
+diagnosed with COPD. The pulmonologist answered ‘Un-
+sure’ to the question ’Diagnosis COPD?’ in 16% (n Z 190)
+and with ‘No’ in 61% (n Z 750) of the cases. In 92.8% of the
+cases the pulmonologist’s advice, concerning physically
+referring or not physically referring the patient, was fol-
+lowed by the GP. Answers to the questions asked to the GP
+were not available for approximately 25% of the TPCs, the
+number of answers available varied per question.
+Quality of care
+Sixty-nine percent (n Z 939) of the teleconsultations were
+sent to gain advice, 18% (n Z 172) of these tele-
+consultations eventually lead to a physical referral (Fig. 2).
+Seventy-ﬁve percent (n Z 1.062) answered ‘Yes’ to the
+question
+‘Did
+you
+learn
+from
+the
+pulmonologist’s
+response?’, 17% (n Z 245) answered ‘Slightly’ and 8%
+(n Z 120) answered ‘No’. Therefore overall 92% of the GPs
+indicated they learned from the pulmonologist’s response.
+The question ‘Are you and your patient helped with the
+pulmonologist’s response?’ was answered with ‘Yes’ in 67%
+(n Z 947) of the TPCs, with ‘Slightly’ in 29% (n Z 417) of
+the cases and with ‘No’ in 4% (n Z 54) of the cases. Thus, in
+96% of the TPCs the GP or the patient was helped with the
+answer of the pulmonologist. Pulmonologists answered the
+TPCs on average after 18.2 working hours (n Z 1212).
+Efﬁciency of care
+Thirty-one percent (n Z 420) of the teleconsultations were
+intended to prevent a physical referral, 68% (n Z 285) of
+these
+teleconsultations
+actually
+prevented
+a
+physical
+referral. Without telepulmonology 420 patients would have
+been referred to the pulmonologist. With the imple-
+mentation of telepulmonology this number decreased to
+307 patients. The overall percentage of prevented physical
+referrals thus was 27%.
+The asymptotic signiﬁcance of the McNemar test for the
+difference in physical referrals with and without tele-
+pulmonology was 0.000 and Chi-square was 27.880, thus the
+difference was signiﬁcant.
+Discussion
+Telepulmonology facilitates the support of local pulmo-
+nologists to GPs in diagnosing patients, making decisions
+about
+their
+treatmentand
+deciding
+whether
+physical
+referral of patients might be required. The aim of the study
+was to identify the effect of telepulmonology on quality
+and efﬁciency of care. Results show that telepulmonology
+applied after patient selection by the GP triages additional
+patients to the pulmonologist and reduces physical re-
+ferrals in others, while the GPs learn during the process.
+Telepulmonology therefore helps to ensure that GPs refer
+the right patients to the pulmonologist.
+In this study, 18% of the patients who would normally not
+have been physically referred by a GP, now were physically
+referred after TPC on advice of the pulmonologist. This is
+likely to improve quality of care for these patients. Addi-
+tionally
+telepulmonology
+supports
+GPs
+in
+interpreting
+spirometry results, diagnosing patients and making treat-
+ment decisions. GPs indicated they learned from the TPC in
+over 90% of the cases, while an even higher percentage said
+they or their patients felt aided by the answer of the pul-
+monologist. Furthermore, the high number of TPCs sent by
+GPs to ask for advice conﬁrms the ﬁndings of Poels et al.
+that there is a need for ongoing support among GPs in
+interpreting
+spirometry
+results
+[12].
+Without
+tele-
+pulmonology, GPs would not have had the support of the
+pulmonologist, while this seems to aid in preventing under-
+and misdiagnosis of COPD.
+Within the group of TPCs sent by GPs with the aim to
+prevent a physical referral, 68% actually prevented a
+physical referral. Due to additional physical referrals of
+patients on advice of the pulmonologist, the overall decline
+in physical referrals was 27%. In the study of Raza et al. 92%
+of the patients did not need to be physically referred after
+telepulmonology consultation [14]. However, in this study it
+was not known whether the patients would have been
+physically referred without telepulmonology. It is therefore
+not clear how often telepulmonology actually prevented
+physical
+referrals
+in
+that
+study.
+Additionally
+tele-
+consultation did not take place at the GP’s practice, but at
+a small rural hospital where subspecialty care was not
+Figure 2
+Physical referrals. Column 1 shows the number of
+TPCs intended to prevent a physical referral, divided into TPCs
+that indeed did not result in a physical referral and TPCs that
+did not prevent a physical referral. Column 2 shows the number
+of TPCs sent to ask for advice, divided into TPCs that did not
+results in a physical referral and those that did.
+Telepulmonology: Effect on quality and efﬁciency of care
+317
+available. In our study, telepulmonology thus increased the
+efﬁciency of care substantially.
+This study has some limitations. First, results are based
+on answers given by the GPs. These might not always have
+been objective. In addition, no follow-up data on patients
+were collected. It is therefore not known whether patients
+for whom GPs indicated they were not physically referred
+to a pulmonologist, did indeed not visit a pulmonologist.
+The same argument holds, but vice versa, for patients for
+whom GPs indicated they were physically referred. Another
+limitation is that questions were only posed to the GP when
+a TPC was actively closed by the GP. Therefore answers of
+GPs were not available for approximately 25% of the TPCs.
+This may have biased the results as well. The cost-
+effectiveness of the implementation of telepulmonology
+was not assessed, this could be studied in future research.
+However, the strength of the study is that it identiﬁed ef-
+fects of telepulmonology implemented in daily general
+practice on quality and efﬁciency of care. To our knowl-
+edge these two aspects of telepulmonology have not been
+reported earlier. Another strength is that telepulmonology
+was implemented in real life daily general practice, not in a
+simulated research setting.
+Conclusion
+Telepulmonology provides a way to support the GPs in
+interpreting spirometry results, diagnosing patients and
+making decisions on the treatment of patients. GPs using
+telepulmonology experience an educational effect and they
+or their patients feel aided by the answer of the pulmo-
+nologist. Telepulmonology also ensures GPs physically refer
+the right patients to the pulmonologists. Additionally the
+results show that telepulmonology, by improving the
+communication between GP and pulmonologist, prevents
+unnecessary physical referrals. Thus, telepulmonology can
+contribute to a higher quality of care for COPD patients in a
+more efﬁcient way.
+Conﬂict of interest statement
+L. Thijssing and J.P. van der Heijden are employed by
+KSYOS Health Management Research, and L. Witkamp is the
+Director of KSYOS Health Management Research. The
+remaining authors state no conﬂicts of interest.
+Acknowledgements
+L. Thijssing contributed to the study design, data collec-
+tion, data analysis and interpretation and writing of the
+manuscript.
+J.P. van der Heijden contributed to the study design,
+data collection, data analysis, critical review of the
+manuscript and approval of the ﬁnal draft.
+N.H. Chavannes contributed to the study design, critical
+review of the manuscript and approval of the ﬁnal draft.
+C.F. Melissant contributed to the study design, critical
+review of the manuscript and approval of the ﬁnal draft.
+M.W.M. Jaspers contributed to the study design, critical
+review of the manuscript and approval of the ﬁnal draft.
+L.W. Witkamp contributed to the study design, critical
+review of the manuscript and approval of the ﬁnal draft.
+References
+[1] Smeele IJM, Van Weel C, Van Schayck CP, et al. NHG-stand-
+aard COPD. Huisarts Wet 2007;50(8):362e79.
+[2] World
+Health
+Organization.
+http://www.who.int/
+mediacentre/factsheets/fs310/en/ Date last updated: June
+2011. Date last accessed: October 30 2012.
+[3] NationaalKompas.
+http://www.nationaalkompas.nl/
+gezondheid-en-ziekte/ziekten-en-aandoeningen/
+ademhalingswegen/copd/cijfers-copd-prevalentie-
+incidentie-en-sterfte-uit-de-vtv-2010/.
+Date
+last
+updated:
+September 27 2012. Date last accessed: October 30 2012.
+[4] Vanﬂeteren LEGW, Franssen FME, Wesseling G, Wouters EFM.
+The prevalence of chronic obstructive pulmonary disease in
+Maastricht, The Netherlands. Respir Med 2012;106:871e4.
+[5] Sandelowsky
+H,
+Sta¨llberg
+B,
+Nager
+A,
+Hasselstro¨m
+J.
+The prevalence of undiagnosed chronic obstructive pulmo-
+nary disease in a primary care population with respiratory
+tract infections e a case ﬁnding study. BMC Fam Pract 2011;
+12:122.
+[6] Takahashi T, Ichinose M, Inoue H, Shirato K, Hattori T,
+Takishima T. Underdiagnosis and under treatment of COPD in
+primary care settings. Respirology 2003;8:504e8.
+[7] Bellamy D, Smith J. Role of primary care in early diagnosis and
+effective management of COPD. Int J Clin Pract 2007;61(8):
+1380e9.
+[8] Rabe KF, Hurd S, Anzueto A, et al. Global strategy for the
+diagnosis, management, and prevention of chronic obstructive
+pulmonary disease: GOLD executive summary. Am J Respir Crit
+Care Med 2007;176:532e55.
+[9] White P, Wong W, Fleming T, Gray B. Primary care spirometry:
+test quality and the feasibility and usefulness of specialist
+reporting. Br J Gen Pract 2007:701e5.
+[10] Yawn BP, Enright PL, Lemanske RF, et al. Spirometry can be
+done in family physicians’ ofﬁces and alters clinical de-
+cisions in management of asthma and COPD. Chest 2007;
+132:1162e8.
+[11] Schermer TR, Jacobs JE, Chavannes NH, et al. Validity of
+spirometric testing in a general practice population of pa-
+tients with chronic obstructive pulmonary disease (COPD).
+Thorax 2003;58:861e86.
+[12] Poels PJP, Schermer TRJ, Akkermans RP, et al. General prac-
+titioners’ needs for ongoing support for the interpretation of
+spirometry tests. Eur J Gen Pract 2007;13:16e9.
+[13] Pacht ER, Turner JW, Gailiun M, Violi LAD, Ralston D,
+Mehkjian HS, St. John RC. Effectiveness of telemedicine in the
+outpatient pulmonary clinic. Telemed J 1998;4(4):287e92.
+[14] Raza T, Joshi M, Schapira RM, Agha Z. Pulmonary telemedicine
+e a model to access the subspecialist services in underserved
+rural areas. Int J Med Inform 2009;78:53e9.
+[15] Bonavia M, Averame G, Canonica W, et al. Feasibility and
+validation of telespirometry in general practice: the Italian
+“Alliance” study. Respir Med 2009;103:1732e7.
+[16] Averame G, Bonavia M, Ferri P, et al. Ofﬁce spirometry can
+improve the diagnosis of obstructive airway disease in primary
+care setting. Respir Med 2009;103:866e72.
+[17] Burgos F, Disdier C, Lopez de Santamaria E, et al. Telemedi-
+cine enhances quality of forced spirometry in primary care.
+Eur Respir J 2012;39(6):1313e8.
+318
+L. Thijssing et al.

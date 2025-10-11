@@ -1,0 +1,680 @@
+Asthma control in patients on ﬁxed dose
+combination evaluated with mannitol
+challenge test
+Kerstin A.M. Romberg a,b,*, Anna-Carin Berggren c,
+Leif Bjermer b
+a Na¨sets La¨kargrupp Falsterbova¨gen, Hӧllviken, Sweden
+b Skane University Hospital, Department of Respiratory Medicine and Allergology, Lund, Sweden
+c Mundipharma AB, Mo¨lndalsva¨gen, Gӧteborg, Sweden
+Received 24 September 2013; accepted 14 December 2013
+Available online 22 December 2013
+KEYWORDS
+Beta2-agonist;
+Inﬂammation;
+Hyperresponsiveness;
+ACT;
+Spirometry
+Summary
+Asthma is often difﬁcult to control and it is likely that not all patients are optimally treated.
+This study aimed to explore asthma control in adults receiving ﬁxed dose combination (FDC)
+therapy. Control of asthma was assessed using the mannitol challenge test as a monitoring tool
+to see if this would give additional information compared to the asthma control test (ACT). The
+study was an open-label, prospective study on 98 adults prescribed with FDC therapies for at
+least three months.
+74 patients considered that their asthma was well controlled. However, 60 patients had a
+positive mannitol challenge test (PD15 < 635 mg), and when those with a positive response
+to the short-acting b2-agonist (15%) after the mannitol challenge test were included, this
+increased to 64 patients (65%). Exploratory analysis determined that the spirometry parame-
+ters; FEV1/FVC and FEV1% of predicted, were statistically signiﬁcant predictors of a positive
+mannitol challenge test. Co-morbid conditions such as concomitant upper airway involvement
+or eczema did not predict mannitol reactivity.
+Although most patients rated their asthma as well controlled, many provided a positive
+mannitol challenge test, suggesting the presence of underlying inﬂammation, despite treat-
+ment with ﬁxed dose combination therapy.
+* Corresponding author. University Hospital of Lund, Department of Respiratory Medicine and Allergology, Lund, Sweden. Tel.: þ46 (0) 708
+470 514.
+E-mail address: kro@nlg.nu (K.A.M. Romberg).
+0954-6111 ª 2013 The Authors. Published by Elsevier Ltd.
+http://dx.doi.org/10.1016/j.rmed.2013.12.005
+Available online at www.sciencedirect.com
+ScienceDirect
+journal homepage: www.elsevier.com/locate/rmed
+Respiratory Medicine (2014) 108, 264e270
+Open access under CC BY-NC-ND license.
+This study indicates that many asthma patients on ﬁxed dose combination therapy may not be
+optimally treated.
+ª 2013 The Authors. Published by Elsevier Ltd.
+Introduction
+Asthma is one of the most common chronic diseases in
+Sweden with a prevalence of about 8% in the adult popu-
+lation [1]. The strategy for treating asthma depends on
+what level of disease the patients have. A common medi-
+cation for treating asthma is a ﬁxed dose combination (FDC)
+of an inhaled corticosteroid with a long acting b2-agonist.
+The FDC’s available at the time of the study were bude-
+sonide/formoterol (Symbicort, AstraZeneca), ﬂuticasone/
+salmeterol (Seretide, GlaxoSmithKline) and beclometa-
+sone/formoterol (Innovair, Chiesi).
+Achieving and managing good control over asthma is
+difﬁcult. Adherence to therapy is a recognized problem.
+Moreover, it is clear that spirometry and lung function tests
+are not sufﬁcient objective methodologies for the detec-
+tion of uncontrolled disease with ongoing inﬂammation in
+the entire part of the lower airways. Here we tested the
+hypothesis that not all asthma patients are optimally
+treated.
+In the present study, we explored the prevalence of
+optimally treated asthma patients in primary care consec-
+utively attending at a single site in Sweden. Several
+different strategies were employed to evaluate the degree
+of clinical control over the asthma of real-life patients.
+These included spirometry, symptom questionnaires and a
+bronchial provocation test (mannitol challenge test). The
+mannitol challenge test is an indirect assessment that re-
+ﬂects ongoing disease in asthma with the added advantage
+that it provides information on disease activity and can be
+used to guide treatment decisions [2].
+Methods
+Study design and patient population
+This was an open-label study conducted at one primary care
+site in Sweden. The main objective of the study was to
+evaluate the real-life effectiveness of FDC asthma therapy.
+To participate in the study, patients had to have a previ-
+ously veriﬁed asthma diagnosis, aged 18e65 years, and
+been prescribed any FDC therapy available on a regular
+basis for at least three months and were not allowed to
+have taken oral corticosteroids within the 28 days leading
+up to the study. Enrolled patients were required to have a
+forced expiratory volume in the ﬁrst second (FEV1) of at
+least 70% of the predicted value according to the recom-
+mendations in the Summary of Product Characteristics
+(SmPC) for mannitol. Patients with other respiratory or
+obstructive disease, including recent infection or exacer-
+bation, were excluded from the study.
+Consecutive patients, attending their appointments at
+the primary care site, were enrolled at a ﬁrst visit for
+evaluating
+eligibility
+according
+the
+inclusion
+criteria.
+Eligible patients were asked to continue with their usual
+asthma medication until the second visit, which was up to 4
+weeks later. However, the patient’s normal FDC asthma
+therapy was to be withheld in the morning of visit 2. This
+was due to the observational study design, which was
+designed not to interfere with the patient’s ordinary
+medication except during the day of the test. At the second
+visit the inclusion criteria had to be conﬁrmed again before
+the asthma control test (ACT) and mannitol challenge test
+were performed. After the mannitol challenge test a
+reversibility test was performed. Following asthma evalu-
+ation, the patient’s usual asthma therapy was continued as
+normal.
+All patients provided written informed consent before
+participation. The study was approved by a local Ethics
+Committee and was conducted in accordance with the In-
+ternational Conference on Harmonization legislation of
+Good Clinical Practice (ICH GCP), the declaration of Hel-
+sinki, and all applicable regulatory requirements.
+Asthma assessments
+The ACT is an advocated tool to estimate clinical control
+[3]. The asthma severity of each participant was assessed
+two-fold: (1) Patients rated their own disease-control in the
+ACT; (2) The Investigator rated the frequency of symptoms
+experienced each week. The ACT was rated on a scale of
+0e25, where scores of 20e25 signiﬁed good asthma control
+(well-treated) and scores below 20 indicated that the pa-
+tient felt symptomatic.
+Asthma severity was assessed by evaluating the medi-
+cation each patient was prescribed by their usual physician.
+The Investigator also classiﬁed the frequency of symptoms
+experienced by the patient as A: No symptoms; B: Symp-
+toms 1e2 times per week; C: Symptoms 3e6 times per week
+and D: Daily symptoms.
+Mannitol challenge and reversibility tests
+Oral mannitol inhalation powder (Aridol/Osmohale) is a
+well-characterized indirect bronchial challenge test suit-
+able for use in a primary-care setting [4]. It is also stan-
+dardized, reproducible and correlate to the degree of
+inﬂammation in the airways. The mannitol challenge test
+was performed by step-wise administering the mannitol dry
+powder by inhalation in increasing doses (0, 5, 10, 20, 40,
+80, 160, 160 and 160 mg mannitol with cumulative doses of
+0, 5, 15, 35, 75, 155, 315, 475 and 635 mg mannitol in total
+at each administration). A direct positive test was deﬁned
+as the cumulative dose 635 mg inducing a drop in FEV by
+15% (PD15 FEV). Between each dose, the bronchial
+hyperresponsiveness of each patient was measured by
+spirometry. The challenge test was positive if the FEV1 fell
+Asthma control in patients on FDC
+265
+Open access under CC BY-NC-ND license.
+by 15% or more from baseline, or fell by at least 10% be-
+tween two consecutive doses [5].
+After mannitol provocation, a new spirometry according
+ATS/ERS guidelines was conducted 15 min after inhalation
+of a short-acting b2-agonist (terbutaline, 0.5 mg  2, or
+salbutamol, 0.2 mg  4). This procedure expedited recov-
+ery of the patients and detected those that may have had a
+negative response on the mannitol challenge test, but still
+obtained a reversibility of 15% from the last dose of
+mannitol. These patients were also classiﬁed as positive in
+this study.
+Safety assessments
+Adverse events (AEs) were recorded for the duration of the
+study and classiﬁed by system organ class and preferred
+term using MedDRA version 11. Vital signs, including dia-
+stolic blood pressure, systolic blood pressure and pulse
+rate, and physical examinations were performed before
+initiating of any study procedures.
+Statistical methods and analyses
+The changes in FEV1 were analyzed using the Wilcoxon
+Signed Rank test. Exploratory analyses for univariable and
+multivariable prediction of a positive outcome from the
+mannitol test was performed and presented with the odds
+ratio (OR), 95% conﬁdence intervals (CI) and area under the
+receiver operating characteristics curve (ROC-AUC) were
+calculated with associated p-values. All baseline variables
+were used as possible independent predictors in the uni-
+variable logistic regression model. Only statistically signif-
+icant independent predictors from these analyses were part
+of the selected multivariable logistic model. The best
+model was selected based on the highest AUC statistics.
+One patient was excluded from the exploratory analyses as
+she had not taken FDC for the desired full 3 months prior to
+study initiation, but was included in the ACT and mannitol
+challenge tests.
+Exploratory analysis of provocative dose for a fall in FEV1
+of 15% from baseline (PD15) was performed for all positive
+patients. For each patient PD15 was calculated according
+to equation (1), where the slope is the beta coefﬁcient
+obtained for each patient individually from the linear
+regression, with FEV1 over time as the dependent variable
+and the cumulative dose as the independent variable.
+PD15Zð0:85)Baseline FEV1  Baseline FEV1Þ=slope
+ð1Þ
+Results
+Patient disposition
+Out of 108 patients who fulﬁlled the inclusion criteria at the
+ﬁrst visit, 98 participated in the study. Ten patients did not
+fulﬁll the inclusion criteria (n Z 5: too old, FEV1 below 70%
+of predicted, not on regular FDC at visit 2, respiratory
+infection and uncontrolled hypertension, not able to attend
+the second visit during the study period (n Z 4), withdrawn
+consent (n Z 1)). All patients were treated with FDC in dry
+powder inhalers with an inhaled corticoid steroid (ICS) dose
+range of 160e1000 mg daily.
+Ninety-eight patients participated in the study: 37 male
+(38%) and 61 female (62%). Study participants were be-
+tween the ages of 18 and 62 years old (median age of 42
+years), with median height of 170.5 cm and median weight
+of 77.6 kg (Table 1). Excluding asthma, the most common
+co-morbid conditions were: symptoms of the upper airways
+(allergic rhinoconjunctivitis with or without nasal polyps),
+atopic
+dermatitis
+and
+psychiatric
+diseases
+(anxiety,
+depression, panic disorder, sleep disorder, social phobia)
+(Table 2).
+Asthma control tests and asthma scores
+Overall, patients considered that their asthma was well
+treated, producing a median ACT score of 22 out of 25
+(range: 9e25). 74 patients (75.5%) of the study participants
+contributed a high ACT score (20e25) indicating that their
+asthma was well controlled, while only 24 patients (24.5%)
+classiﬁed their asthma as symptomatic, providing an ACT
+score of less than 20.
+The frequency of the asthma symptoms were recorded
+and assigned to a category by the Investigator; 33 patients
+reported no symptoms, 49 patients had symptoms 1e2 days
+per week, 14 patients had symptoms 3e6 days per week
+and 2 patients had symptoms every day (Fig. 1).
+Mannitol challenge and reversibility tests
+The FEV1 of 60 patients fell by at least 15% from baseline, or
+10% between consecutive doses, during the mannitol chal-
+lenge test (Table 3). These patients were considered to
+have had a direct positive test.
+Out of all 60 patients with a direct positive test to
+mannitol, 49 also had a positive reversibility test deﬁned
+as an improvement in FEV1 of at least 15% from the last
+dose of mannitol. An additional four patients had a
+negative direct test but reversed 15%. These patients
+were also considered to have had a positive outcome, i.e.
+Table 1
+Patient demographics.
+Variable
+Total (n Z 98)
+Gender
+Male
+37 (37.8%)
+Female
+61 (62.2%)
+Age (in years)
+41.9 (18.1; 62.9)
+Height (in cm)
+170.5 (153; 193)
+Weight (in kg)
+77.6 (48.0; 126.4)
+Forced vital capacity (in L)
+4.08 (1.97; 6.81)
+FEV1 Max of Pre-dose
+and Dose 1 (0 mg) (in L)
+3.20 (1.70; 5.86)
+FEV1% (as FEV1/FVC)
+76.0 (55.0; 95.0)
+FEV1% of predicted
+95.5 (71.0; 128.0)
+All variables are presented as median (min, max), except for
+gender, which is presented as n(%).
+FEV1: forced expiratory volume in 1 s; FVC: forced vital ca-
+pacity.
+266
+K.A.M. Romberg et al.
+a positive reversibility test. Therefore, in total, 64 pa-
+tients were categorized as having a positive outcome in
+the mannitol challenge test, with or without the revers-
+ibility test (Table 3, Fig. 2).
+Exploratory analyses
+Examination revealed that FEV1 maximum of pre-dose and
+dose 1, FEV1/FVC and FEV1% of predicted were statistically
+signiﬁcant (p < 0.05) observed predictors of a positive
+mannitol challenge test (Table 4). Gender (p Z 0.96), age
+(p Z 0.72), height (p Z 0.57), weight (p Z 0.88) and forced
+vital capacity (p Z 0.45) were not signiﬁcant (p > 0.05) and
+therefore were not good predictors. Symptoms of the upper
+airways did not differ in the prediction of a positive or
+negative
+mannitol
+challenge
+test,
+but
+there
+was
+a
+discrepancy for atopic dermatitis (Table 2).
+The statistically signiﬁcant predictors with the highest
+ROC-AUC
+values
+were
+used
+in
+multivariable
+logistic
+regression for prediction of a positive result in the mannitol
+challenge test. FEV1/FVC and FEV1% of predicted had the
+highest ROC-AUC values of 0.71 and 0.68, respectively.
+Following multivariable logistic regression analysis, FEV1/
+FVC and FEV1% of predicted were both statistically signiﬁ-
+cant (p Z 0.0088 and 0.0319, respectively, Table 4).
+The mean PD15 of patients with bronchial hyper-
+responsiveness was 376 mg mannitol. The range of PD15
+varied greatly between patients from 6 mg to 635 mg
+mannitol powder (Fig. 3). In order to elucidate the severity
+of individuals’ disease, this wide range of doses of mannitol
+was
+sub-categorized
+into
+mild
+(>155
+mg),
+moderate
+(>35 mg to 155 mg) or severe (35 mg) bronchial hyper-
+responsiveness [6]. The majority of patients with a positive
+outcome in the mannitol challenge test were classiﬁed as
+having mild bronchial hyperresponsiveness (43 patients,
+67%). Approximately a quarter of patients were categorized
+as having moderate bronchial hyperresponsiveness (17 pa-
+tients, 27%), and 4 patients (6%) had severe bronchial
+hyperresponsiveness. However, no statistically signiﬁcant
+relationship
+between
+the
+ACT
+and
+bronchial
+hyper-
+responsiveness could be demonstrated.
+Safety analyses
+No SAEs were reported and no AEs led to premature
+termination of the test. The test procedure was well
+tolerated by all patients with only 13 patients reporting
+mild discomfort (such as throat irritation and cough). The
+most commonly reported AE, experienced by 9 patients,
+was ‘no therapeutic response’; a lack of immediate rescue
+by the short-acting bronchodilator that was given post-
+challenge.
+Discussion
+This study evaluated the real-life effectiveness of FDC
+therapies for asthma patients using the mannitol challenge
+test and asthma control assessments. The main ﬁnding of
+the present study demonstrates that a large fraction of
+patients prescribed FDC asthma medication by their usual
+physician were reactive to mannitol, indicating uncon-
+trolled underlying disease.
+Of the enrolled patients, the majority (76.3%) consid-
+ered that their asthma was well controlled (ACT score 20)
+and all of them were prescribed medication for moderate
+to severe asthma by their usual physician. However, the
+Table 2
+Incidence of predictor by outcome.
+Variable
+Total
+Negative
+(n Z 34)
+Positive
+(n Z 64)
+BMI Median (min, max)
+25.6 (20.2; 36.8)
+24.5
+(16.6; 45.5)
+Asthma Control Test (assessed by patient)
+Median (min, max)
+22.5 (9.0; 25.0)
+22.0
+(12.0; 25.0)
+Symptomatic
+(0e19) [n(%)]
+9 (26.5%)
+15 (23.4%)
+Well-treated
+(20e25) [n(%)]
+25 (73.5%)
+49 (76.6%)
+FEV1 Median (min, max)
+FEV1 (L) Pre-dose
+3.37 (1.70; 5.86)
+3.03
+(1.83; 5.37)
+FEV1% (FEV1/FVC)
+80.0 (70.0; 95.0)
+74.5
+(55.0; 93.0)
+FEV1% of predicted
+102.0
+(73.0; 128.0)
+92.5
+(71.0; 118.0)
+Selected medical history [n(%)]
+Symptoms of
+the upper airways
+26 (76.5%)
+54 (84.4%)
+Atopic dermatitis
+8 (23.5%)
+6 (9.4%)
+Psychiatric disorders
+5 (14.7%)
+8 (12.5%)
+BMI: body mass index; FEV1: forced expiratory volume in 1 s;
+FVC: forced vital capacity.
+Note: Symptoms of the upper airways includes nasal polyps,
+rhinitis allergic and rhinoconjunctivitis allergic; atopic derma-
+titis includes dermatitis atopic and eczema; psychiatric disor-
+ders includes anxiety, depression, panic disorder, sleep disorder
+and social phobia.
+Figure 1
+Asthma control test and asthma severity scores. (A)
+Asthma control test where the scores 0e19 represent symp-
+tomatic asthma and the scores 20e25 represent well-treated
+asthma. (B) Asthma score for the severity of asthma where A
+is no symptoms, B is symptoms 1e2 days/week, C is symptoms
+3e6 days per week and D is daily symptoms.
+Asthma control in patients on FDC
+267
+investigator classiﬁed half the patients as having symptoms
+1e2 times per week, suggesting that the patients them-
+selves over-estimated their own asthma control.
+Low ACT scores are thought to indicate uncontrolled
+inﬂammation in the lower airways, however the ACT is not
+without
+its
+draw-backs.
+The
+perception
+and
+self-
+assessment of a person’s disease is subjective and incon-
+sistent. Subtle subconscious adjustments of the patient to
+the disease may effectively reduce symptoms without
+actually
+increasing
+the
+disease
+control.
+Moreover,
+although the majority of patients rated their asthma as
+well-controlled, there was no difference between the ACT
+scores of those patients with a positive mannitol challenge
+test and those with a negative outcome. When the ACT
+scores were analyzed by outcome of the mannitol chal-
+lenge test, the median ACT scores were 22.0 out of 25 for
+patients with a positive outcome and 22.5 out of 25 for
+patients with a negative outcome. In addition, a similar
+fraction of patients rated their asthma as well-controlled
+between the groups: 76.6% of patients with a positive
+outcome and 73.5% of patients with a negative outcome
+(Table 4). Interestingly, when the mannitol challenge test
+results were presented to the patient, many admitted low
+adherence to therapy, and another common reﬂection
+was that they had adjusted their daily activity in order to
+avoid symptoms.
+Mannitol is in contrast to the more commonly used
+metacholine; an indirect test that exhibits its action by
+osmotic stimuli in the lower airways and mediates its
+effect by secondary immune mechanisms. Thus, hyper-
+responsiveness to mannitol is likely to reﬂect ongoing
+inﬂammation in the lower airways. Standard evaluation of
+the mannitol challenge test results include PD15 with an
+accumulated maximum dose of 635 mg mannitol. In a pre-
+vious study, we have shown that additional information may
+be achieved by evaluating the degree of variability/
+reversibility to a short acting b2-agonist after challenge [7].
+In 101 swimmers, we found evidence of more problematic
+asthma in those who displayed reversibility (15% FEV1)
+Table 3
+Asthma assessments.
+Variable
+N Z 98
+Mannitol direct positive þ reversible
+Negative [n(%)]
+34 (34.7%)
+Positive [n(%)]
+64 (65.3%)
+95% CI
+55.0%e74.6%
+Mannitol direct positive
+Negative [n(%)]
+38 (38.8%)
+Positive [n(%)]
+60 (61.2%)
+95% CI
+50.8%e70.9%
+Reversibility test positive
+Negative [n(%)]
+49 (50.0%)
+Positive [n(%)]
+49 (50.0%)
+95% CI
+39.7%e60.3%
+Asthma control test
+Median (Min; Max)
+22.0 (9.0; 25.0)
+Symptomatic (0e19) [n(%)]
+24 (24.5%)
+Well-controlled (20e25) [n(%)]
+74 (75.5%)
+CI: conﬁdence interval.
+Figure 2
+Results of the mannitol challenge and reversibility
+tests.
+Figure 3
+Change in forced expiratory volume in 1 s (FEV1)
+versus accumulated mannitol dose by patient and outcome.
+Individual patients FEV1 scores for (A) a negative primary
+outcome and (B) a positive primary outcome.
+268
+K.A.M. Romberg et al.
+with a short-acting b2-agonist, in the presence or absence
+of a positive mannitol challenge test [7]. In the present
+study, half the patients had a positive reversibility test
+after the mannitol challenge test and three patients were
+reversible and PD15 negative. In all, 65 out of 98 patients
+(65%) had a positive mannitol challenge test including the
+reversibility test. Overall, these results indicate a presence
+of underlying inﬂammation despite treatment with FDC
+therapy.
+The most probable reason for why symptoms of the
+upper airways did not differ in the prediction of a positive
+or negative mannitol challenge test is that patients treating
+themselves
+with
+over
+the
+counter
+products
+and
+not
+reporting them as pharmaceuticals in the same way.
+Furthermore, out of all the patients, only 3 were smokers; 2
+of which were regular smokers (<15 pack years and one
+<10 pack years), however, no smoking was permitted dur-
+ing the day of the test and this is unlikely to affect the
+overall results. Gender, age, vital signs, height, weight,
+BMI, forced vital capacity and FEV1 at pre-dose also did not
+predict mannitol reactivity.
+There were nine patients who did not respond to a
+normal dose of short-acting b2-agonist at the reversibility
+test, and an increased dose had to be given. This may be
+due to a down-regulation of the b2-receptors due to
+inﬂammation [8].
+A weakness of the present study might be that it is a
+single site study. However, this can also be seen as a
+strength since all patients were handled in a similar way,
+which may not always be the case in a multi-center study.
+It would have been a strength if FeNO and an ordinary
+spirometry with a reversibility test would have been eval-
+uated before the mannitol provocation. One of the biggest
+strengths in this study is the high number of consecutive
+ordinary patients, attending one primary care site for their
+ordinary asthma controls for an extended evaluation of
+their asthma.
+It is important for the healthcare system to continuously
+evaluate different treatments. This study was performed in
+a controlled manner and suggests that, although most pa-
+tients rated their asthma as well controlled, many provided
+a positive mannitol challenge test, which may indicate the
+presence of underlying inﬂammation despite treatment
+with FDC therapy. Therefore, many patients treated with
+an FDC are still not optimally treated. Thus, these data
+invite discussion and a possible reconsideration of the
+treatment strategy.
+Author’s contributions
+Involvement in the conception, hypotheses delineation and
+design of the study: KR, LB.
+Acquisition of the data or the analysis and interpretation
+of such information: KR, ACB, LB.
+Writing the article or substantial involvement in its
+revision prior to submission: KR, ACB, LB.
+Conﬂict of interest statement
+A-C. B. is an employee of Mundipharma AB, Sweden. Na¨sets
+La¨kargrupp received a grant from Mundipharma AB for
+carrying out this study. K.R. received fees for advisory
+board membership and lecture speaking. L.B. received fees
+for advisory board membership and lecture speaking. The
+mannitol provocation test kit used in this study was pro-
+vided by Nigaard Pharma, Malmo¨, Sweden. The manuscript
+preparation was funded by Mundipharma AB.
+Acknowledgments
+This study was conducted by Kerstin Romberg at Na¨sets
+La¨kargrupp under the sponsorship of Mundipharma AB. The
+study was approved by the Ethics Committee and con-
+ducted in accordance with Good Clinical Practice. The
+skillful assistance by dedicated staff Ann-Mari Ohrberg and
+Birgitta Wile´n was highly appreciated. Writing assistance
+was provided by Laura Ayling, PhD, Medical Writer (Mundi-
+pharma Research Limited), a member of the European
+Medical Writers Association (EMWA), in accordance with
+Good Publication Practice (GPP2) guidelines.
+References
+[1] Lo¨tvall J, Ekerljung L, Ro¨nmark EP, Wennergren G, Linde´n A,
+Ro¨nmark E, Tore´n K, Lundba¨ck B. West Sweden Asthma Study:
+prevalence trends over the last 18 years argues no recent in-
+crease in asthma. Respir Res 2009;10:94.
+[2] Leuppi JD, Salome CM, Jenkins CR, Anderson SD, Xuan W,
+Marks GB, Koskela H, Brannan JD, Freed R, Andersson M,
+Chan HK, Woolcock AJ. Predictive markers of asthma exac-
+erbation during stepwise dose reduction of inhaled cortico-
+steroids. Am J Respir Crit Care Med 2001;163(2):406e12.
+[3] Bateman ED, Bousquet J, Busse WW, Clark TJ, Gul N, Gibbs M,
+Pedersen S, GOAL Steering Committee and Investigators.
+Stability of asthma control with regular treatment: an analysis
+of the Gaining Optimal Asthma control(GOAL) study. Allergy
+2008;63(7):932e8.
+Table 4
+Predictors of a positive mannitol challenge test.
+Predictor
+Odds ratio
+(95% CI)
+P value
+ROC-Auc
+(95% CI)
+Univariable logistic
+regression
+FEV1 maximum of
+pre-dose and
+dose 1 (0 mg)
+0.60
+(0.36e0.99)
+0.0437
+0.64
+(0.52e0.75)
+FEV1% (FEV1/FVC)
+0.90
+(0.84e0.96)
+0.0009
+0.71
+(0.61e0.82)
+FEV1% of predicted
+0.95
+(0.92e0.98)
+0.0023
+0.68
+(0.57e0.79)
+Multivariable
+logistic regression
+FEV1% (FEV1/FVC)
+0.91
+(0.85e0.98)
+0.0088
+e
+FEV1% of predicted
+0.96
+(0.93e1.00)
+0.0319
+e
+CI: conﬁdence interval; FEV1: forced expiratory volume in 1 s;
+FVC: forced vital capacity; ROC-AUC: under the receiver oper-
+ating characteristics curve.
+Asthma control in patients on FDC
+269
+[4] Sverrild A, Porsbjerg C, Backer V. The use of inhaled mannitol
+in the diagnosis and management of asthma. Expert Opin
+Pharmacother 2012;13(1):115e23.
+[5] Aridol/Osmohale Inhalation Powder SPC.
+[6] Anderson SD, Brannan J, Spring J, Spalding N, Rodwell LT,
+Chan K, Gonda I, Walsh A, Clark AR. A new method for
+bronchial-provocation testing in asthmatic subjects using a
+dry powder of mannitol. Am J Respir Crit Care Med 1997;156(3
+pt 1):758e65.
+[7] Romberg K, Tufvesson E, Bjermer L. Extended diagnostic
+criteria used for indirect challenge testing in elite asthmatic
+swimmers. Respir Med 2012;106(1):15e24.
+[8] Bjermer L, Larsson L. Long-acting beta(2)-agonists: how are
+they used in an optimal way? Respir Med 1997;91(10):587e91.
+270
+K.A.M. Romberg et al.

@@ -1,1 +1,110 @@
 2025-10-10 10:20:31,630 - INFO - Logger working in project root!
+2025-10-10 12:50:03,304 - INFO - Processing 41572_2022_Article_370.pdf
+2025-10-10 12:50:03,580 - INFO - Saved extracted text to 41572_2022_Article_370.txt
+2025-10-10 12:50:03,580 - INFO - Processing Association-of-lung-function-measurements-and-visc.pdf
+2025-10-10 12:50:03,687 - INFO - Saved extracted text to Association-of-lung-function-measurements-and-visc.txt
+2025-10-10 12:50:03,688 - INFO - Processing Asthma-control-in-patients-on-fixed-dose-combinati.pdf
+2025-10-10 12:50:03,742 - INFO - Saved extracted text to Asthma-control-in-patients-on-fixed-dose-combinati.txt
+2025-10-10 12:50:03,742 - INFO - Processing Can-we-identify-patients-with-different-illness-sc.pdf
+2025-10-10 12:50:05,579 - INFO - Saved extracted text to Can-we-identify-patients-with-different-illness-sc.txt
+2025-10-10 12:50:05,579 - INFO - Processing Changes-in-oscillatory-impedance-and-nitrogen-wash.pdf
+2025-10-10 12:50:05,638 - INFO - Saved extracted text to Changes-in-oscillatory-impedance-and-nitrogen-wash.txt
+2025-10-10 12:50:05,638 - INFO - Processing Comparison-of-clinical-characteristics-between-pat.pdf
+2025-10-10 12:50:05,688 - INFO - Saved extracted text to Comparison-of-clinical-characteristics-between-pat.txt
+2025-10-10 12:50:05,688 - INFO - Processing Contrasting-breathing-retraining-and-helium–oxygen.pdf
+2025-10-10 12:50:05,738 - INFO - Saved extracted text to Contrasting-breathing-retraining-and-helium–oxygen.txt
+2025-10-10 12:50:05,738 - INFO - Processing Cough-suppression-disorders-spectrum_2014_yrmed.pdf
+2025-10-10 12:50:05,765 - INFO - Saved extracted text to Cough-suppression-disorders-spectrum_2014_yrmed.txt
+2025-10-10 12:50:05,765 - INFO - Processing Cough-syncope_2013_yrmed.pdf
+2025-10-10 12:50:05,844 - INFO - Saved extracted text to Cough-syncope_2013_yrmed.txt
+2025-10-10 12:50:05,844 - INFO - Processing Developing-an-item-bank-and-short-forms-that-asses.pdf
+2025-10-10 12:50:05,907 - INFO - Saved extracted text to Developing-an-item-bank-and-short-forms-that-asses.txt
+2025-10-10 12:50:05,907 - INFO - Processing Disease-associations-in-alpha-1-antitrypsin-defici.pdf
+2025-10-10 12:50:05,965 - INFO - Saved extracted text to Disease-associations-in-alpha-1-antitrypsin-defici.txt
+2025-10-10 12:50:05,966 - INFO - Processing Editorial-Board_yrmed.pdf
+2025-10-10 12:50:05,995 - INFO - Saved extracted text to Editorial-Board_yrmed.txt
+2025-10-10 12:50:05,995 - INFO - Processing Effect-of-indacaterol-on-arterial-blood-gases-in-p.pdf
+2025-10-10 12:50:06,048 - INFO - Saved extracted text to Effect-of-indacaterol-on-arterial-blood-gases-in-p.txt
+2025-10-10 12:50:06,049 - INFO - Processing Health-status-measurement-in-patients-with-severe-.pdf
+2025-10-10 12:50:06,102 - INFO - Saved extracted text to Health-status-measurement-in-patients-with-severe-.txt
+2025-10-10 12:50:06,102 - INFO - Processing HIRA-TAN--A-real-time-PCR-based-system-for-the-rap.pdf
+2025-10-10 12:50:06,157 - INFO - Saved extracted text to HIRA-TAN--A-real-time-PCR-based-system-for-the-rap.txt
+2025-10-10 12:50:06,157 - INFO - Processing Home-spirometry-as-early-detector-of-azithromycin-.pdf
+2025-10-10 12:50:06,228 - INFO - Saved extracted text to Home-spirometry-as-early-detector-of-azithromycin-.txt
+2025-10-10 12:50:06,229 - INFO - Processing Impact-of-patients'-satisfaction-with-their-inhale.pdf
+2025-10-10 12:50:06,278 - INFO - Saved extracted text to Impact-of-patients'-satisfaction-with-their-inhale.txt
+2025-10-10 12:50:06,278 - INFO - Processing Level-of-asthma-control-and-health-care-utilizatio.pdf
+2025-10-10 12:50:06,312 - INFO - Saved extracted text to Level-of-asthma-control-and-health-care-utilizatio.txt
+2025-10-10 12:50:06,312 - INFO - Processing main.pdf
+2025-10-10 12:50:06,390 - INFO - Saved extracted text to main.txt
+2025-10-10 12:50:06,390 - INFO - Processing Mortality-in-non-cystic-fibrosis-bronchiectasis--A.pdf
+2025-10-10 12:50:06,453 - INFO - Saved extracted text to Mortality-in-non-cystic-fibrosis-bronchiectasis--A.txt
+2025-10-10 12:50:06,453 - INFO - Processing Nocturnal-noninvasive-positive-pressure-ventilatio.pdf
+2025-10-10 12:50:06,516 - INFO - Saved extracted text to Nocturnal-noninvasive-positive-pressure-ventilatio.txt
+2025-10-10 12:50:06,516 - INFO - Processing Outcomes-in-idiopathic-pulmonary-fibrosis--A-meta-.pdf
+2025-10-10 12:50:06,588 - INFO - Saved extracted text to Outcomes-in-idiopathic-pulmonary-fibrosis--A-meta-.txt
+2025-10-10 12:50:06,588 - INFO - Processing Pooled-subpopulation-analyses-of-the-effects-of-ro.pdf
+2025-10-10 12:50:06,705 - INFO - Saved extracted text to Pooled-subpopulation-analyses-of-the-effects-of-ro.txt
+2025-10-10 12:50:06,705 - INFO - Processing pubmed fever1.pdf
+2025-10-10 12:50:06,750 - INFO - Saved extracted text to pubmed fever1.txt
+2025-10-10 12:50:06,750 - INFO - Processing Systematic-review-of-non-invasive-positive-pressur.pdf
+2025-10-10 12:50:06,835 - INFO - Saved extracted text to Systematic-review-of-non-invasive-positive-pressur.txt
+2025-10-10 12:50:06,836 - INFO - Processing Telepulmonology--Effect-on-quality-and-efficiency-.pdf
+2025-10-10 12:50:06,882 - INFO - Saved extracted text to Telepulmonology--Effect-on-quality-and-efficiency-.txt
+2025-10-10 12:50:06,882 - INFO - Processing The Scientific World Journal - 2010 - Bartfai - Fever.pdf
+2025-10-10 12:50:06,951 - INFO - Saved extracted text to The Scientific World Journal - 2010 - Bartfai - Fever.txt
+2025-10-10 21:01:05,313 - INFO - Processing file: 41572_2022_Article_370.txt
+2025-10-10 21:01:05,344 - INFO - Added 178 chunks from 41572_2022_Article_370.txt
+2025-10-10 21:01:05,344 - INFO - Processing file: Association-of-lung-function-measurements-and-visc.txt
+2025-10-10 21:01:05,346 - INFO - Added 35 chunks from Association-of-lung-function-measurements-and-visc.txt
+2025-10-10 21:01:05,346 - INFO - Processing file: Asthma-control-in-patients-on-fixed-dose-combinati.txt
+2025-10-10 21:01:05,360 - INFO - Added 34 chunks from Asthma-control-in-patients-on-fixed-dose-combinati.txt
+2025-10-10 21:01:05,360 - INFO - Processing file: Can-we-identify-patients-with-different-illness-sc.txt
+2025-10-10 21:01:05,376 - INFO - Added 56 chunks from Can-we-identify-patients-with-different-illness-sc.txt
+2025-10-10 21:01:05,376 - INFO - Processing file: Changes-in-oscillatory-impedance-and-nitrogen-wash.txt
+2025-10-10 21:01:05,393 - INFO - Added 41 chunks from Changes-in-oscillatory-impedance-and-nitrogen-wash.txt
+2025-10-10 21:01:05,393 - INFO - Processing file: Comparison-of-clinical-characteristics-between-pat.txt
+2025-10-10 21:01:05,407 - INFO - Added 36 chunks from Comparison-of-clinical-characteristics-between-pat.txt
+2025-10-10 21:01:05,407 - INFO - Processing file: Contrasting-breathing-retraining-and-helium–oxygen.txt
+2025-10-10 21:01:05,422 - INFO - Added 62 chunks from Contrasting-breathing-retraining-and-helium–oxygen.txt
+2025-10-10 21:01:05,422 - INFO - Processing file: Cough-suppression-disorders-spectrum_2014_yrmed.txt
+2025-10-10 21:01:05,438 - INFO - Added 13 chunks from Cough-suppression-disorders-spectrum_2014_yrmed.txt
+2025-10-10 21:01:05,438 - INFO - Processing file: Cough-syncope_2013_yrmed.txt
+2025-10-10 21:01:05,455 - INFO - Added 47 chunks from Cough-syncope_2013_yrmed.txt
+2025-10-10 21:01:05,456 - INFO - Processing file: Developing-an-item-bank-and-short-forms-that-asses.txt
+2025-10-10 21:01:05,474 - INFO - Added 65 chunks from Developing-an-item-bank-and-short-forms-that-asses.txt
+2025-10-10 21:01:05,475 - INFO - Processing file: Disease-associations-in-alpha-1-antitrypsin-defici.txt
+2025-10-10 21:01:05,485 - INFO - Added 35 chunks from Disease-associations-in-alpha-1-antitrypsin-defici.txt
+2025-10-10 21:01:05,485 - INFO - Processing file: Editorial-Board_yrmed.txt
+2025-10-10 21:01:05,500 - INFO - Added 4 chunks from Editorial-Board_yrmed.txt
+2025-10-10 21:01:05,500 - INFO - Processing file: Effect-of-indacaterol-on-arterial-blood-gases-in-p.txt
+2025-10-10 21:01:05,517 - INFO - Added 34 chunks from Effect-of-indacaterol-on-arterial-blood-gases-in-p.txt
+2025-10-10 21:01:05,517 - INFO - Processing file: Health-status-measurement-in-patients-with-severe-.txt
+2025-10-10 21:01:05,532 - INFO - Added 45 chunks from Health-status-measurement-in-patients-with-severe-.txt
+2025-10-10 21:01:05,532 - INFO - Processing file: HIRA-TAN--A-real-time-PCR-based-system-for-the-rap.txt
+2025-10-10 21:01:05,544 - INFO - Added 45 chunks from HIRA-TAN--A-real-time-PCR-based-system-for-the-rap.txt
+2025-10-10 21:01:05,548 - INFO - Processing file: Home-spirometry-as-early-detector-of-azithromycin-.txt
+2025-10-10 21:01:05,561 - INFO - Added 37 chunks from Home-spirometry-as-early-detector-of-azithromycin-.txt
+2025-10-10 21:01:05,561 - INFO - Processing file: Impact-of-patients'-satisfaction-with-their-inhale.txt
+2025-10-10 21:01:05,578 - INFO - Added 43 chunks from Impact-of-patients'-satisfaction-with-their-inhale.txt
+2025-10-10 21:01:05,578 - INFO - Processing file: Level-of-asthma-control-and-health-care-utilizatio.txt
+2025-10-10 21:01:05,594 - INFO - Added 36 chunks from Level-of-asthma-control-and-health-care-utilizatio.txt
+2025-10-10 21:01:05,594 - INFO - Processing file: main.txt
+2025-10-10 21:01:05,594 - INFO - Added 79 chunks from main.txt
+2025-10-10 21:01:05,594 - INFO - Processing file: Mortality-in-non-cystic-fibrosis-bronchiectasis--A.txt
+2025-10-10 21:01:05,618 - INFO - Added 53 chunks from Mortality-in-non-cystic-fibrosis-bronchiectasis--A.txt
+2025-10-10 21:01:05,618 - INFO - Processing file: Nocturnal-noninvasive-positive-pressure-ventilatio.txt
+2025-10-10 21:01:05,632 - INFO - Added 50 chunks from Nocturnal-noninvasive-positive-pressure-ventilatio.txt
+2025-10-10 21:01:05,632 - INFO - Processing file: Outcomes-in-idiopathic-pulmonary-fibrosis--A-meta-.txt
+2025-10-10 21:01:05,648 - INFO - Added 56 chunks from Outcomes-in-idiopathic-pulmonary-fibrosis--A-meta-.txt
+2025-10-10 21:01:05,648 - INFO - Processing file: Pooled-subpopulation-analyses-of-the-effects-of-ro.txt
+2025-10-10 21:01:05,669 - INFO - Added 48 chunks from Pooled-subpopulation-analyses-of-the-effects-of-ro.txt
+2025-10-10 21:01:05,669 - INFO - Processing file: pubmed fever1.txt
+2025-10-10 21:01:05,682 - INFO - Added 39 chunks from pubmed fever1.txt
+2025-10-10 21:01:05,682 - INFO - Processing file: Systematic-review-of-non-invasive-positive-pressur.txt
+2025-10-10 21:01:05,687 - INFO - Added 74 chunks from Systematic-review-of-non-invasive-positive-pressur.txt
+2025-10-10 21:01:05,687 - INFO - Processing file: Telepulmonology--Effect-on-quality-and-efficiency-.txt
+2025-10-10 21:01:05,713 - INFO - Added 31 chunks from Telepulmonology--Effect-on-quality-and-efficiency-.txt
+2025-10-10 21:01:05,713 - INFO - Processing file: The Scientific World Journal - 2010 - Bartfai - Fever.txt
+2025-10-10 21:01:05,728 - INFO - Added 69 chunks from The Scientific World Journal - 2010 - Bartfai - Fever.txt
+2025-10-10 21:01:05,728 - INFO -  Total chunks collected: 1345

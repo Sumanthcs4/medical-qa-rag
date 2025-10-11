@@ -1,0 +1,703 @@
+Association of lung function measurements
+and visceral fat in men with metabolic
+syndrome
+Willemien Thijs a,*, Reza Alizadeh Dehnavi b,
+Pieter S. Hiemstra a, Albert de Roos c, Christian F. Melissant d,
+Kirsten Janssen a, Jouke T. Tamsma b, Klaus F. Rabe e
+a Department of Pulmonology, Leiden University Medical Centre, Leiden, The Netherlands
+b Department of General Internal Medicine and Endocrinology, Leiden University Medical Centre,
+Leiden, The Netherlands
+c Department of Radiology, Leiden University Medical Centre, Leiden, The Netherlands
+d Department of Pulmonology, Spaarne Hospital, Hoofddorp, The Netherlands
+e DepartmentofPulmonologyandThoracicSurgery,KrankenhausGrosshansdorf,Grosshansdorf,Germany
+Received 2 June 2013; accepted 1 October 2013
+Available online 10 October 2013
+KEYWORDS
+Lung function;
+Obesity;
+Visceral fat;
+Metabolic syndrome
+Summary
+Background: Several studies have reported a positive relationship between lung function impair-
+ment and the metabolic syndrome. This is most usually explained by abdominal adiposity.
+We hypothesized that the main determinant of the association between lung function impair-
+ment and abdominal obesity is the presence of visceral fat.
+Methods: The present study is a cross-sectional analysis of 98 non-diabetic men aged between 50
+and 70 years with the metabolic syndrome. The amount of visceral and subcutaneous adipose tis-
+sue was determined by an MRI scan. The association between visceral fat and measures of lung
+function (FEV1, FVC, exhaled and NO) was assessed using linear regression.
+Results: 98 participants were included in this analysis. There was a linear inverse association be-
+tween visceral fat and both FEV1 and FVC. None of the other different fat-related measurements
+(subcutaneous fat, waist circumference and BMI) or features of the metabolic syndrome were
+found to be associated with these lung function measurements.
+Conclusion: In non-diabetic subjects with the metabolic syndrome and a lung function that is
+within the normal range, visceral fat is negatively correlated with FEV1 and FVC.
+ª 2013 Elsevier Ltd. All rights reserved.
+* Corresponding author. Leiden University Medical Center, Department of Pulmonology, PO Box 9600, 2300 RC Leiden, The Netherlands.
+Tel.: þ31 71 5263261; fax: þ31 71 5266927.
+E-mail addresses: w.thijs@lumc.nl, willemienthijs@hotmail.com (W. Thijs).
+0954-6111/$ - see front matter ª 2013 Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.rmed.2013.10.003
+Available online at www.sciencedirect.com
+ScienceDirect
+journal homepage: www.elsevier.com/locate/rmed
+Respiratory Medicine (2014) 108, 351e357
+Introduction
+Obesity is increasing and contributes to the overall burden
+of disease worldwide [1]. The prevention of this chronic
+disease is one of the priorities of the World Health Orga-
+nization [2]. In population studies there is an association
+between reduced FEV1 and cardiovascular events [3,4]. In
+addition, it is established that obesity is associated with
+reduced lung volumes [5].
+In obese patients the distribution of fat appears to be an
+important contributing factor to morbidity and healthy
+survival [6,7]. Especially an increase in visceral fat is
+associated with diabetes and the metabolic syndrome [8,9].
+Various studies have found an association between type 2
+diabetes mellitus and impaired lung function [10e14].
+Furthermore, in large population based studies a positive
+relationship
+has
+been
+found
+between
+lung
+function
+impairment and features of the metabolic syndrome, pre-
+dominantly abdominal adiposity [15e17].
+Since
+subcutaneous
+fat
+and
+visceral
+fat
+differ
+in
+composition and function, and both contribute to abdom-
+inal obesity [18], it is relevant to establish the contribution
+of each to the association between abdominal obesity and
+lung function. Recently, it has become clear that adipo-
+cytes
+present
+in
+visceral
+fat
+produce
+more
+pro-
+inﬂammatory mediators than adipocytes present in subcu-
+taneous fat [19]. In view of the major role of inﬂammation
+in
+lung
+function
+impairment
+[20],
+visceral
+fat
+could
+contribute to decreased lung function in central obesity by
+a different mechanism than the mechanical factors that
+have been suggested to explain the association between
+abdominal obesity and decreased lung volumes.
+We
+therefore
+hypothesized
+that
+in
+subjects
+with
+abdominal obesity the main determinant of lung function
+impairment is the presence of visceral fat. Therefore, it is
+important to gain insight in the association between
+visceral fat and lung function impairment. Since measure-
+ment of waist circumference does not allow us to estimate
+the amount of visceral fat, we [21,22] used Magnetic
+Resonance Imaging (MRI), an imaging technique that allows
+the direct measurement of visceral and subcutaneous fat
+distribution.
+We selected a male study group with the metabolic syn-
+drome according to the International Diabetes Federation
+[23] but without overt diabetes to minimize confounding by
+diabetes or gender (fat distribution and hormonal differ-
+ences). The aim of the present study was to examine the
+association of visceral fat as measured by MRI and lung
+function in non-diabetic men with the metabolic syndrome.
+Materials and methods
+We conducted a cross-sectional analysis of 98 male subjects
+aged between 50 and 70 years with the metabolic syndrome
+(deﬁned according to the International Diabetes Federation
+criteria but without diabetes). This study was an addendum
+to a trial study. The inclusion criteria for the participants
+were: a waist circumference >94 cm and at least two other
+metabolic syndrome criteria: TG 1.7 mmol/l, HDL-chol:
+<1.03 mmol/l, blood pressure 130/85 mmHg. Exclusion
+criteria were the presence of type 2 diabetes, overt car-
+diovascular disease, use of statins or ﬁbrates, and a BMI
+>40 kg/m2. For this study we used the measurements taken
+at the end of the trial.
+This study was an addendum to a double-blind placebo
+controlled randomized trial, testing the hypothesis that
+rosiglitazone 8 mg (4 mg bd) would prevent progression of
+atherosclerosis more than placebo in visceral obese male
+subjects with systemic inﬂammation. This was deﬁned by
+hs-CRP levels higher than 1.8 mg/L and in their control
+patients with the metabolic syndrome and a hs-CRP lower
+than 1.8 mg/L.
+After the placebo-controlled trial was ﬁnished 110 pa-
+tients were invited a visit the lung department and 98 pa-
+tients agreed to a lung function analysis which was
+performed after informed consent. The addendum to the
+protocol was approved by the local review board (LUMC, 14-
+5-2007 Protocol P04.232).
+Abbreviations
+BG
+blood glucose
+BMI
+body mass index
+COPD
+chronic obstructive pulmonary disease
+CVD
+cardiovascular diseases
+ERV
+expiratory reserve volume
+FEV1
+forced expiratory volume in one second
+FVC
+forced vital capacity
+HDL
+high-density lipoprotein cholesterol
+hs-CRP high sensitivity C-reactive protein
+MRI
+Magnetic Resonance Imaging
+NO
+exhaled nitric oxide
+TG
+triglyceride
+VC
+vital capacity
+352
+W. Thijs et al.
+Measurements
+Clinical assessments
+Clinical
+history,
+physical
+examination
+including
+blood
+pressure measurements, and anthropometry, and labora-
+tory assessments were performed at the clinical research
+unit at the end of the trial. Blood pressure was recorded in
+supine position after 15 min rest. Blood pressure was
+deﬁned as the mean value of 3 measurements taken with
+intervals of at least 2 min. Body weight and body length
+were measured. Waist circumference was measured in a
+horizontal plane between the lowest costal margin and the
+upper pelvic rim. Hip circumference is measured at the
+level of the major trochanters. Circumferences were
+recorded in centimeters.
+Laboratory measurements included fasting glucose, tri-
+glyceride, total- and HDL-cholesterol and hs-CRP levels,
+measured at the department of clinical chemistry.
+MRI measurements
+Subjects were positioned in the magnet in a supine position.
+The body coil was used for obtaining the images. A sagittal
+single shot gradient echo sequence survey scan was used for
+the imaging of the vertebral column in the lumbar region.
+Subsequently, a second single shot gradient echo sequence in
+the transversal plane was used for obtaining three contig-
+uous slices of 10 mm without angulations with the following
+parameters: echo time 3.7 ms (TE), repetition time7.5 ms
+(TR), pulse angle 45. Two signal averages were performed.
+The slices were centered at the intervertebral disk level
+between the fourth and ﬁfth lumbar vertebra. The images
+were obtained with three breath holds of 6 s. The ﬁeld of
+view was 500 mm. A voxel size of 1 mm  1.3 mm  10 mm
+was obtained. The measurements were taken at the end of
+the trial and images were assessed using the MASS software
+package allowing a semi-automated detection of subcu-
+taneous and visceral adipose tissue area.
+Flow volume curve and reversibility
+Flow-volume curves were recorded, after the placebo
+controlled Rosiglitazone trial ended, by pneumotachograph
+to obtain the vital capacity (VC), expiratory rest volume
+(ERV), forced expiratory volume in 1 s (FEV1) and the
+forced vital capacity (FVC). To test whether the obstruc-
+tion is reversible to bronchodilators, FEV1 and FVC (abso-
+lute values and percentage of predicted values) were
+measured before and 15 min after four single inhalations of
+100 mcg albuterol administered through a large volume
+spacer.
+Exhaled NO
+Exhaled NO measurements were measured with a chem-
+iluminescence analyzer (Aerocrine AB, Niox, Solna, Swe-
+den) according to a standardized procedure. After inhaling
+NO-free air, the subjects performed a slow expiratory vital
+capacity maneuver with a constant expiratory ﬂow of
+50 ml/s against a resistance of 10 cm H2O using online visual
+monitoring. Exhaled NO concentrations were determined at
+a 3 s-plateau and expressed as parts per billion (ppb). If the
+chemiluminescence analyzer was not available exhaled ni-
+tric oxide was measured using a portable analyzer, the NIOX
+MINO (Aerocrine AB, Solna, Sweden) following the manu-
+facturer’s instructions.
+Subjects performed a 10 s slow steady exhalation, which
+was assisted by visual and audio biofeedback systems
+located on the device. The two methods used give com-
+parable results [24]. Three successive recordings at 1-
+min intervals were made and the mean exhaled NO was
+used. Exhaled NO was considered to be elevated above
+25 ppb [25].
+Statistical analyses
+The data are presented as median and 25th and 75th
+percentile, or percentage. Triglycerides, exhaled nitric
+oxide and hs-CRP values were log transformed for statistical
+analysis
+due
+to
+their
+non-normal
+distribution.
+Linear
+regression was used to assess the association between lung
+function and the different features of fat and metabolic
+syndrome. Adjustments were made for age, pack years, hs-
+CRP, rosiglitazone, glucose, cholesterol and blood pressure.
+A restriction analysis that excluded participants with
+decreased lung function was performed. Results were
+considered signiﬁcant at p < 0.05 and the data were
+analyzed using the Statistical Package of Social Science
+(SPSS) version 20.0.
+Results
+All analyses were conducted on 98 participants. We
+included 81 men with metabolic syndrome and CRP levels
+higher than 1.8 mg/L (of which 40 participants used Rosi-
+glitazone) and 17 control patients with the metabolic syn-
+drome and hs-CRP levels lower than 1.8 mg/L.
+The characteristics of the study population after the
+trial are presented in Table 1. Most patients were found to
+have no signiﬁcant airway obstruction and no or little
+airway inﬂammation (as assessed by exhaled nitric oxide
+measurement), data presented in Table 2.
+In the linear regression no association was found be-
+tween any of the features of the metabolic syndrome and
+FEV1, FVC and exhaled nitric oxide. Rosiglitazone use was
+also not correlated with any of these lung function mea-
+surements. However, whereas BMI and features of the
+metabolic syndrome, including waist circumference, were
+not associated with FEV1 and FVC there was a signiﬁcant
+association between waist visceral fat, and FEV1 (beta
+0.023; 95% CI 0.041, 0.006); this means that an addi-
+tional 200 cm2 of visceral fat (the IQR within this study) is
+associated with a 4.6% decrease in FEV1 predicted. There
+was also an association with FVC (beta 0.024; 95% CI
+0.040, 0.008), but not between subcutaneous fat and
+FEV1 and FVC (Figs. 1 and 2).
+After adjustment for waist subcutaneous fat, age,
+height, waist circumference, pack years, rosiglitazone use,
+hs-CRP, glucose, cholesterol, triglyceride and blood pres-
+sure the association between visceral fat and FEV1 (beta
+0.055; 95% CI 0.085, 0.025) and FVC (beta 0.040; 95%
+CI 0.067, 0.014) remained.
+There was also a signiﬁcant association between waist
+visceral fat and ERV (beta 0.108; 95% CI 0.157, 0.058)
+and waist subcutaneous fat and ERV (beta 0.070; 95% CI
+0.108, 0.032). After adjustment for age, pack years,
+Lung function and visceral fat in men
+353
+rosiglitazone use, hs-CRP, glucose, cholesterol and blood
+pressure the association between visceral fat and ERV (beta
+0.116; 95% CI 0.181, 0.052) and subcutaneous fat and
+ERV (beta 0.059; 95% CI 0.105, 0.014) remained.
+To assess whether the association between visceral fat
+and FEV1 and FVC is explained by ERV we explored the as-
+sociation. ERV was associated with FEV1 (beta 1.1; 95% CI
+0.6, 1.6) and FVC (beta 1.4; 95% CI 0.8, 1.9). Eight partic-
+ipants had a FEV1 below 80% excluding these participants
+did not alter these results.
+Waist subcutaneous fat had a stronger association (beta
+19.6; 95% CI 16.1, 23.2) with waist circumference than
+visceral fat (beta 13.6; 95% CI 11.1, 16.2). Whereas hs-CRP
+showed a weak negative association with FEV1, after
+correction for waist visceral fat this was no longer signiﬁ-
+cant. No association was found between log hs-CRP and FVC
+and exhaled nitric oxide.
+Discussion
+The results of this study show that in men at an early stage
+of the metabolic syndrome (without overt diabetes) and a
+normal lung function there is a signiﬁcant linear inverse
+relation between visceral, but not subcutaneous fat, and
+FEV1 and FVC. In contrast, there was no correlation be-
+tween subcutaneous fat (or other fat measurements) and
+FEV1 and FVC. Exhaled nitric oxide was not correlated with
+the metabolic syndrome and the fat measurements. This
+indicates that in non-diabetic subjects with the metabolic
+syndrome, visceral fat appears to be a more sensitive
+parameter to assess the association between obesity and
+lung function impairment than subcutaneous fat or waist
+circumference.
+Our results are in line with those published by Leone
+et al. [16] and by Lam et al. [15], who reported a positive
+relationship between lung function impairment and meta-
+bolic syndrome, which was explained mainly by abdominal
+obesity and was independent of the body mass index. We
+did not ﬁnd such an association with abdominal obesity,
+which might be because our study focused on subjects with
+a high waist circumference and the other studies were
+population-based studies. We did ﬁnd a signiﬁcant associ-
+ation with visceral fat, which may be explained by the fact
+that waist circumference is predominantly an index of
+abdominal subcutaneous fat, and not of visceral fat [21].
+Table 1
+Baseline characteristics.
+All participants
+Participants in
+Rosiglitazone
+arm trial
+Participants in
+placebo arm trial
+Participants in
+control arm
+with lower hs-CRP
+Age (years)
+62 (57e64)
+62 (57e64)
+62 (59e65)
+61 (57e64)
+PY (years)
+15 (0.3e29)
+16 (2e30)
+15 (1.5e27)
+7 (0e21)
+BMI (kg/m2)
+28.9 (26.4e30.7)
+28.1 (26.5e30.7)
+28.1 (26.1e30.8)
+27.8 (26.3e30.8)
+BP systolic (mmHg)
+139 (129e152)
+137 (127e144)
+134 (125e149)
+149 (137e164)
+BP diastolic (mmHg)
+82 (74e88)
+79 (63e68)
+80 (74e84)
+92 (84e97)
+Waist circumference (cm)
+102 (96e109)
+100 (94e112)
+100 (96e108)
+104 (101e109)
+Glucose (mmol/l)
+5.0 (4.6e5.3)
+4.9 (4.4e5.3)
+4.9 (4.6e5.4)
+5.2 (4.7e5.4)
+Triglyceride (mmol/l)
+1.7 (0.8e2.1)
+1.2 (0.8e1.8)
+1.2 (0.8e2.1)
+2.6 (1.5e3.5)
+HDL-Cholesterol (mmol/l)
+1.4 (1.1e1.6)
+1.5 (1.2e1.7)
+1.3 (1.1e1.5)
+1.1 (1.0e1.2)
+hs-CRP (mg/l)
+1.4 (0.7e2.6)
+1 (0.6e2.5)
+2.2 (1.4e3.1)
+0.9 (0.6e1.3)
+Waist visceral fat (cm2)
+343 (288e486)
+338 (272e575)
+328 (287e436)
+386 (300e502)
+Waist subcutaneous fat (cm2)
+700 (610e885)
+736 (623e911)
+739 (596e914)
+649 (520e807)
+Values are median (25th, 75th percentiles). PY is pack years, BMI is body mass index and BP is blood pressure.
+Table 2
+Pulmonary function.
+All participants
+Participants in
+Rosiglitazone
+arm trial
+Participants in
+placebo
+arm trial
+Participants in
+control arm with
+lower hs-CRP
+FEV1 post pred (%)
+105 (96e118)
+104 (92e114)
+106 (97e127)
+109 (91e124)
+FVC post pred (%)
+108 (95e118)
+106 (94e113)
+111 (98e121)
+109 (93e117)
+FEV1/FVC (%)
+79 (73e84)
+78 (73e83)
+82 (73e85)
+79 (73e83)
+VC (%)
+109 (96e118)
+108 (96e115)
+109 (100e121)
+110 (97e123)
+ERV (%)
+88 (61e124)
+85 (56e115)
+97 (68e128)
+94 (62e129)
+NO (ppb)
+16 (11e24)
+15 (9e28)
+17 (11e22)
+15 (12e27)
+Values are means, median (25th, 75th percentiles). FEV1 is forced expiratory volume in 1 s, FVC is forced vital capacity post predicted,
+VC is vital capacity post predicted, ERV is expiratory reserve volume and NO is exhaled Nitric oxide.
+354
+W. Thijs et al.
+Figure 1
+The correlation between visceral fat (cm2), subcutaneous fat (cm2), waist circumference (cm), BMI (kg/m2) and
+FEV1 (%). The Pearson correlation: visceral fat (cm2) and FEV1 (%) r Z 0.180 p Z 0.038, subcutaneous fat (cm2) and FEV1 (%)
+r Z 0.009 p Z 0.463, waist circumference (cm) and FEV1 (%) r Z 0.037 p Z 0.357, BMI (kg/m2) and FEV1 (%) r Z 0.027 p Z 0.401.
+Figure 2
+The correlation between visceral fat (cm2), subcutaneous fat (cm2), waist circumference (cm), BMI (kg/m2) and FVC
+(%). The Pearson correlation between: visceral fat (cm2) and FVC (%) r Z 0.200 p Z 0.025, subcutaneous fat (cm2) and FVC (%)
+r Z 0.069 p Z 0.251, waist circumference (cm) and FVC (%) r Z 0.038 p Z 0.355, BMI (kg/m2) and FVC (%) r Z 0.031 p Z 0.387.
+Lung function and visceral fat in men
+355
+Indeed, in our study the relation between subcutaneous fat
+and waist circumference was stronger than the association
+between visceral fat and waist circumference.
+How do we interpret the present ﬁndings? Obesity may
+limit lung expansion due to the mechanical pressure of the
+abdomen and cause restriction. Although we can not
+formally exclude that the association between visceral fat
+and lung function impairment is also explained by me-
+chanical factors, it is important to note that in this small
+selected group no relation with waist circumference or BMI
+was found. Therefore, visceral fat appears to be a more
+selective marker in the relationship of abdominal obesity
+and lung function impairment.
+This
+higher
+selectivity
+may
+be
+explained
+by
+the
+observation that adipocytes present in visceral fat are a
+more important source of pro-inﬂammatory mediators
+than adipocytes present in subcutaneous fat [19]. In some
+studies, visceral fat was found to be correlated with
+levels of CRP, which is mainly liver derived [26,27]. Al-
+though this indicates that increased inﬂammation result-
+ing from an increase in visceral fat may contribute to
+lung function impairment, it needs to be noted that we
+did not ﬁnd a correlation between markers of inﬂamma-
+tion (exhaled NO and hs-CRP) and visceral fat. However,
+we
+did
+not
+measure
+other
+(adipocyte-derived)
+pro-
+inﬂammatory
+mediators
+such
+as
+leptin
+that
+may
+be
+related to visceral fact.
+Our study was subject to some limitations. Firstly, the
+majority of subjects was recruited after ﬁnishing a ran-
+domized controlled trial with Rosiglitazone, and therefore
+half of the subjects received Rosiglitazone 8 mg during a
+year previous to our lung function measurements. However,
+it is unlikely that this treatment affected the outcome of
+the present study, since similar results were found after
+statistical adjustment for use of Rosiglitazone. Secondly,
+whereas the patients that participated in the Rosaglitazone
+trial all were characterized by a hs-CRP >1.8 mg/L, an
+additional group was studied with metabolic syndrome but a
+hs-CRP <1.8 mg/L. Furthermore, we used the measure-
+ments taken after the trial which were closer to each other.
+This resulted in a study group with heterogeneous CRP
+levels. This is unlikely to have inﬂuenced our results
+because these were identical after adjustment for hs-CRP.
+Finally, due to the cross-sectional design of our study no
+follow-up lung-function data or parameters of the meta-
+bolic syndrome were available.
+The observed association between visceral fat and lung
+function measurement impairment was found despite the
+fact that the study subjects all had increased waist
+circumference (and therefore likely increased visceral fat)
+and a lung function that was within a normal range. Further
+studies are needed to clarify the link between visceral fat,
+inﬂammation and lung function impairment and should
+include study groups with a larger range of visceral fat and
+lung function. We hypothesize that in such groups the
+observed association may even be stronger. In addition,
+measurements of a range of adipocyte-derived pro-inﬂam-
+matory mediators such as leptin would contribute to our
+understanding.
+In conclusion, we have shown an association between
+lung function impairment and visceral fat in non-diabetic
+men with the metabolic syndrome and a normal range of
+lung function. The observation that such an association
+with lung function impairment was not found with other
+parameters of obesity indicates that visceral fat is a more
+sensitive parameter to assess the association between
+abdominal obesity (a component of the metabolic syn-
+drome) and lung function impairment.
+Conﬂict of interest
+None.
+References
+[1] Field AE, Coakley EH, Must A, Spadano JL, Laird N, Dietz WH,
+Rimm E, Colditz GA. Impact of overweight on the risk of
+developing common chronic diseases during a 10-year period.
+Arch Intern Med 2001;161:1581e6.
+[2] World Health Organization and WHO global report. Preventing
+chronic diseases: a vital investment; 2010. Ref Type: Generic.
+[3] Hole DJ, Watt GC, Davey-Smith G, Hart CL, Gillis CR,
+Hawthorne VM. Impaired lung function and mortality risk in
+men and women: ﬁndings from the Renfrew and Paisley pro-
+spective population study. Br Med J 1996;313:711e5.
+[4] Schroeder EB, Welch VL, Couper D, Nieto FJ, Liao D,
+Rosamond WD, Heiss G. Lung function and incident coronary
+heart disease: the Atherosclerosis Risk in Communities Study.
+Am J Epidemiol 2003;158:1171e81.
+[5] Jones RL, Nzekwu MM. The effects of body mass index on lung
+volumes. Chest 2006;130:827e33.
+[6] Lee CM, Huxley RR, Wildman RP, Woodward M. Indices of
+abdominal obesity are better discriminators of cardiovascular
+risk factors than BMI: a meta-analysis. J Clin Epidemiol 2008;
+61:646e53.
+[7] Sun Q, Townsend MK, Okereke OI, Franco OH, Hu FB,
+Grodstein F. Adiposity and weight change in mid-life in rela-
+tion to healthy survival after age 70 in women: prospective
+cohort study. Br Med J 2009;339:b3796.
+[8] Fox CS, Massaro JM, Hoffmann U, Pou KM, Maurovich-Horvat P,
+Liu CY, Vasan RS, Murabito JM, Meigs JB, Cupples LA, et al.
+Abdominal visceral and subcutaneous adipose tissue com-
+partments: association with metabolic risk factors in the
+Framingham Heart Study. Circulation 2007;116:39e48.
+[9] Oka R, Kobayashi J, Inazu A, Yagi K, Miyamoto S, Sakurai M,
+Nakamura K, Miura K, Nakagawa H, Yamagishi M. Contri-
+bution of visceral adiposity and insulin resistance to meta-
+bolic risk factors in Japanese men. Metabolism 2010;59:
+748e54.
+[10] Bolton CE, Evans M, Ionescu AA, Edwards SM, Morris RH,
+Dunseath G, Luzio SD, Owens DR, Shale DJ. Insulin resistance
+and inﬂammation e a further systemic complication of COPD.
+COPD 2007;4:121e6.
+[11] Lin WY, Yao CA, Wang HC, Huang KC. Impaired lung function is
+associated with obesity and metabolic syndrome in adults.
+Obesity (Silver Spring) 2006;14:1654e61.
+[12] McKeever TM, Weston PJ, Hubbard R, Fogarty A. Lung function
+and glucose metabolism: an analysis of data from the Third
+National Health and Nutrition Examination Survey. Am J Epi-
+demiol 2005;161:546e56.
+[13] Yeh HC, Punjabi NM, Wang NY, Pankow JS, Duncan BB, Cox CE,
+Selvin E, Brancati FL. Cross-sectional and prospective study of
+lung function in adults with type 2 diabetes: the Atheroscle-
+rosis Risk in Communities (ARIC) study. Diabetes Care 2008;31:
+741e6.
+[14] Davis WA, Knuiman M, Kendall P, Grange V, Davis TM. Glycemic
+exposure is associated with reduced pulmonary function in
+356
+W. Thijs et al.
+type 2 diabetes: the Fremantle Diabetes Study. Diabetes Care
+2004;27:752e7.
+[15] Lam KB, Jordan RE, Jiang CQ, Thomas GN, Miller MR,
+Zhang WS, Lam TH, Cheng KK, Adab P. Airﬂow obstruction and
+the metabolic syndrome: the Guangzhou Biobank Cohort
+Study.
+Eur
+Respir
+J
+2010
+Feb;35(2):317e23.
+http:
+//dx.doi.org/10.1183/09031936.00024709. Epub 2009 Jul 2.
+[16] Leone N, Courbon D, Thomas F, Bean K, Jego B, Leynaert B,
+Guize L, Zureik M. Lung function impairment and metabolic
+syndrome: the critical role of abdominal obesity. Am J Respir
+Crit Care Med 2009;179:509e16.
+[17] Park HY, Lim SY, Hwang JH, Choi JH, Koh WJ, Sung J, Suh GY,
+Chung MP, Kim H, Choe YH, et al. Lung function, coronary
+artery calciﬁcation, and metabolic syndrome in 4905 Korean
+males.
+Respir
+Med
+2010
+Sep;104(9):1326e35.
+http:
+//dx.doi.org/10.1016/j.rmed.2010.02.024. Epub 2010 Mar 23.
+[18] Hajer GR, van Haeften TW, Visseren FL. Adipose tissue
+dysfunction in obesity, diabetes, and vascular diseases. Eur
+Heart J 2008;29:2959e71.
+[19] Lafontan M, Girard J. Impact of visceral adipose tissue on liver
+metabolism. Part I: heterogeneity of adipose tissue and
+functional properties of visceral adipose tissue. Diabetes
+Metab 2008;34:317e27.
+[20] Broekhuizen R, Wouters EF, Creutzberg EC, Schols AM. Raised
+CRP levels mark metabolic and functional impairment in
+advanced COPD. Thorax 2006;61:17e22.
+[21] Bosy-Westphal A, Booke CA, Blocker T, Kossel E, Goele K,
+Later W, Hitze B, Heller M, Gluer CC, Muller MJ. Measurement
+site for waist circumference affects its accuracy as an index of
+visceral and abdominal subcutaneous fat in a Caucasian pop-
+ulation. J Nutr 2010;140:954e61.
+[22] Berker D, Koparal S, Isik S, Pasaoglu L, Aydin Y, Erol K,
+Delibasi T, Guler S. Compatibility of different methods for the
+measurement of visceral fat in different body mass index
+strata. Diagn Interv Radiol 2010 Jun;16(2):99e105. http:
+//dx.doi.org/10.4261/1305-3825.DIR.2749-09.1.
+Epub
+2010
+Feb 18.
+[23] Alberti KG, Zimmet P, Shaw J. Metabolic syndrome e a new
+world-wide deﬁnition. A Consensus Statement from the In-
+ternational
+Diabetes
+Federation.
+Diabet
+Med
+2006;23:
+469e80.
+[24] Alving K, Janson C, Nordvall L. Performance of a new hand-
+held device for exhaled nitric oxide measurement in adults
+and children. Respir Res 2006;7:67.
+[25] Taylor DR, Pijnenburg MW, Smith AD, De Jongste JC. Exhaled
+nitric oxide measurements: clinical application and interpre-
+tation. Thorax 2006;61:817e27.
+[26] Faber DR, van der Graaf Y, Westerink J, Visseren FL. Increased
+visceral adipose tissue mass is associated with increased C-
+reactive protein in patients with manifest vascular diseases.
+Atherosclerosis
+2010
+Sep;212(1):274e80.
+http://dx.doi.
+org/10.1016/j.atherosclerosis.2010.04.029. Epub 2010 May 21.
+[27] Cartier A, Cote M, Lemieux I, Perusse L, Tremblay A,
+Bouchard C, Despres JP. Sex differences in inﬂammatory
+markers: what is the contribution of visceral adiposity? Am J
+Clin Nutr 2009;89:1307e14.
+Lung function and visceral fat in men
+357

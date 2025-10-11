@@ -1,0 +1,1291 @@
+Contrasting breathing retraining and
+heliumeoxygen during pulmonary
+rehabilitation in COPD: A randomized
+clinical trial
+Eileen G. Collins a,b,*, Christine Jelinek a, Susan O’Connell a,
+Jolene Butler a, Conor McBurney a, Christopher Gozali a,
+Domenic Reda c,d, Franco Laghi a,e
+a Center for Management of Complex Chronic Care, Physical Performance Laboratory,
+Research & Development Service, Edward Hines Jr. Veterans Affairs Hospital, Hines, IL, USA
+b Department of Biobehavioral Health Science, College of Nursing, University of Illinois at Chicago,
+Chicago, IL, USA
+c VA Cooperative Studies Program Coordinating Center, Edward Hines Jr. Veterans Affairs Hospital,
+Hines, IL, USA
+d School of Public Health, University of Illinois at Chicago, Chicago, IL, USA
+e Loyola University, Stritch School of Medicine, Maywood, IL, USA
+Received 17 April 2013; accepted 27 October 2013
+Available online 5 November 2013
+KEYWORDS
+COPD;
+Exercise;
+Rehabilitation
+Summary
+Background: Breathing-retraining and heliumeoxygen (heliox) have been used to improve ex-
+ercise tolerance in COPD. We hypothesized that, in patients with COPD, exercise duration after
+exercise-training plus breathing-retraining and oxygen would be longer than after exercise-
+training plus heliox or after exercise-training plus oxygen alone. We also explored the short-
+term maintenance of gains in exercise duration after using each technique.
+Methods: Of 192 COPD patients recruited, 103 were randomly assigned to exercise-training
+plus heliox (n Z 33), exercise-training plus breathing-retraining and oxygen (n Z 35) and
+exercise-training and oxygen (n Z 35). FiO2 was 0.30 during testing and training in all groups.
+Patients exercised on a treadmill thrice-weekly for eight weeks. Before, at completion of
+training, and six-weeks later, patients underwent constant-load treadmill testing.
+* Corresponding author. Research and Development (151), Edward Hines Jr. VA Hospital, Hines, IL 60141, USA. Tel.: þ1 (708) 202 3525; fax:
+þ1 (708) 202 3609.
+E-mail addresses: eileen.collins@va.gov, ecollins@uic.edu (E.G. Collins).
+0954-6111/$ - see front matter Published by Elsevier Ltd.
+http://dx.doi.org/10.1016/j.rmed.2013.10.023
+Available online at www.sciencedirect.com
+ScienceDirect
+journal homepage: www.elsevier.com/locate/rmed
+Respiratory Medicine (2014) 108, 297e306
+Results: At completion of training, improvements in exercise duration in the heliox and
+breathing-retraining groups were not signiﬁcantly different. Compared to the exercise-
+training plus oxygen group, exercise duration improved more in the breathing-retraining group
+(P Z 0.008) but not in the heliox group (P Z 0.142). Hyperinﬂation was reduced with
+breathing-retraining plus oxygen compared to the other two groups. Six-weeks later, improve-
+ments in exercise duration were still greater with breathing-retraining than with exercise-
+training (P Z 0.015). In contrast, improvements in exercise duration with heliox did not differ
+from those in the other two groups.
+Conclusions: In moderate-to-severe COPD, exercise-training combined with either heliox or
+with breathing-retraining yielded not signiﬁcantly different improvements in exercise dura-
+tion e with only the latter being superior to exercise-training. Six-weeks after training,
+these improvements were still greater after exercise-training plus breathing-retraining than
+after exercise-training.
+Trial registry: ClinicalTrials.gov; No.: NCT00123422.
+Published by Elsevier Ltd.
+Introduction
+In patients with chronic obstructive pulmonary disease
+(COPD), exercise training can reduce exertional dyspnea,
+and improve exercise capacity and health status [1,2]. Pa-
+tients with severe dyspnea, however, experience less
+consistent improvements because severe dyspnea limits
+training intensity [3] and negatively impacts adherence to it
+[4]. A contributing mechanism to the manifested dyspnea is
+development of dynamic hyperinﬂation [5]. This occur-
+rence has triggered interest in strategies designed to limit
+dynamic hyperinﬂation and dyspnea during exercise in
+COPD [6e13]. Breathing retraining is one such strategy
+[6,7].
+Breathing retraining is designed to decrease respiratory
+frequency and prolong exhalation using a computerized
+visual-feedback system [7]. Using this system, we were able
+to limit development of exercise-induced dynamic hyper-
+inﬂation and augment the beneﬁt of exercise training in
+patients with COPD [6,7].
+A second strategy consists of administering helium-
+eoxygen mixtures (heliox) during exercise [8e13]. Heliox
+mixtures decrease turbulence within medium to large air-
+ways and increase expiratory ﬂow rate [14]. These favor-
+able effects can reduce inspiratory effort, respiratory
+drive, exercise-induced dynamic hyperinﬂation and dys-
+pnea [8]. In addition, heliox mixtures can augment oxygen
+delivery to the contracting locomotor muscles [15e17]. The
+result is an acute increase in exercise tolerance in selected
+patients with COPD [8,9].
+Combining heliox breathing with exercise training has
+given inconsistent results [18e20]. Johnson et al. [20] re-
+ported no advantage in using heliox during exercise
+training in patients with COPD. As recognized by the in-
+vestigators [20], the lack of effect could have resulted
+from the insufﬁcient supply of the gas mixture during
+training. More recently, Eves et al. [18] overcame this
+problem by allowing patients to breathe from a 100-L non-
+diffusing
+bag
+ﬁlled
+with
+heliox.
+Patients
+receiving
+exercise-training plus heliox achieved greater exercise
+duration than patients receiving exercise-training alone.
+These
+results,
+however,
+were
+not
+corroborated
+by
+Scorsone et al. [19] who used a heliox supply system
+similar to that of Eves et al. [18].
+To date, no investigation has directly compared the
+beneﬁts of exercise training alone with the beneﬁts of ex-
+ercise training combined with either heliox or breathing-
+retraining. Accordingly, the primary objective of this study
+was to explore the effects of three exercise training in-
+terventions in patients with COPD on exercise duration. All
+groups participated in the same treadmill exercise training
+program and all were tested while maintaining fractional
+inspired oxygen (FiO2) at 0.30 [21]. One group received a
+breathing-retraining
+program
+in
+addition
+to
+exercise-
+training and supplemental oxygen (exercise-training plus
+breathing-retraining and oxygen group), one received 70%
+helium combined with 30% oxygen in addition to oxygen
+(exercise-training
+plus
+heliox
+group),
+and
+one
+group
+received exercise and supplemental oxygen (exercise-
+training plus oxygen group). In view of the consistent suc-
+cesses of breathing-retraining plus exercise [6,7] and the
+variable results of heliox [18e20], we speciﬁcally hypoth-
+esized that, in patients with moderate-to-severe COPD,
+exercise duration after exercise-training plus breathing-
+retraining
+and
+oxygen
+would
+be
+longer
+than
+after
+exercise-training plus heliox and after exercise-training
+plus
+oxygen
+alone
+The
+secondary
+objective
+was
+to
+compare the short-term maintenance (six weeks post
+training) of gains in exercise duration achieved with each
+technique.
+Materials and methods
+(See the Online supplement for additional details)
+Patients with moderate-to-severe COPD were recruited
+into the study. Inclusion criteria were: diagnosis of COPD
+with a ratio of forced expiratory volume in one second to
+forced vital capacity (FEV1/FVC) < 70%, FEV1  70% pre-
+dicted
+[22],
+ratio
+of
+residual
+volume
+to
+total
+lung
+capacity > 120% predicted [22], stable clinical condition
+without exacerbation for at least four weeks prior to
+randomization and ability to walk on a treadmill. Patients
+who had participated in a formal exercise program within
+the previous 12 weeks, and those who had signiﬁcant
+298
+E.G. Collins et al.
+cardiovascular, neuromuscular, or orthopedic impairments
+that could have interfered with exercise testing were
+excluded from the study [7]. The study was approved by the
+Institutional Review Board of Hines VA Hospital, and written
+informed consent was obtained.
+Once enrolled, patients completed the Chronic Respi-
+ratory Disease Questionnaire (CRDQ) [23,24]. Patients next
+completed an incremental-load treadmill test and, at least
+two days later, a constant-load treadmill test. Both tests
+were carried out while maintaining FiO2 at 0.30 [21].
+The purpose of the incremental treadmill test was two-
+fold: to screen patients for potential cardiac problems and
+to determine the patient’s baseline peak-oxygen uptake
+(VO2peak) while walking. The purpose of the constant-load
+treadmill test was to determine baseline exercise dura-
+tion, respiratory pattern, extent of exercise-induced dy-
+namic hyperinﬂation, dyspnea and leg fatigue (see Online
+supplement).
+The
+constant-load
+test
+began
+with
+the
+treadmill set at 0% grade and at a speed of 1.8 mph for
+2 min, followed by an increase in grade and speed to the
+corresponding values recorded when patients had reached
+85% of baseline VO2peak.
+Following the constant-load test, patients were assigned
+to exercise plus breathing-retraining and oxygen, exercise
+plus heliox and exercise plus oxygen using permuted block
+randomization. The rationale of using supplemental oxygen
+in all patients was based on the observation that supple-
+mental oxygen can increase the beneﬁcial effects of
+training even in patients who do not desaturate during
+exercise [25]. Accordingly, to avoid the confounding factor
+of administering supplemental oxygen only to patients
+randomized to exercise-training plus heliox, FiO2 was set at
+0.30 during training and testing in all three groups. During
+training and testing, the designated gas was supplied from
+covered gas cylinders into a 100-L non-diffusing bag con-
+nected to the patient’s inhalation circuit [8].
+After randomization, 14 patients (14%) withdrew or were
+withdrawn from the study before completing training. Six
+additional patients withdrew or were withdrawn before the
+six-week follow-up testing (Fig. 1). Characteristics of pa-
+tients who did and did not complete the study were not
+different (data not shown).
+Exercise training was conducted in the research labo-
+ratory under the supervision of an investigator. Patients
+exercised on a treadmill thrice-weekly for eight weeks. In
+all patients, exercise intensity (interval exercise training)
+was set as a percentage of baseline VO2peak e the starting
+exercise intensity was 60% VO2peak, followed by progressive
+increase to 85% of VO2peak [6] (Fig. 2). Patients began
+training for 25 min and progressed as tolerated up to
+45 min of exercise. In addition to treadmill training, all
+patients
+completed
+supervised
+upper
+body
+resistance
+training twice weekly (Fig. 2) [6].
+In
+addition
+to
+exercise-training
+(Fig.
+2),
+patients
+assigned to exercise plus breathing-retraining and oxygen
+underwent
+also
+breathing-retraining
+as
+previously
+described [6,7]. Brieﬂy, the breathing-retraining system
+consisted of a pneumotachometer interfaced to a computer
+[6,26]. Duration of inhalation (TI) and exhalation (TE) were
+displayed on the computer’s screen. Goals of TI and TE were
+shown as “targets” on that screen. TI and TE goals, and
+thus, respiratory frequency goals for breathing-retraining
+were based on the breathing pattern recorded during the
+baseline incremental-load test [6] (see Online supplement).
+The progression of treadmill training was the same in all
+patients (Fig. 2). Training sessions during the last week of
+training lasted 39.1  6.0 (SD) minutes with exercise-
+training
+plus
+breathing-retraining
+and
+oxygen,
+39.3  7.1 min with exercise-training plus heliox, and
+38.8  6.7 min with exercise-training plus oxygen. Upon
+completion
+of training, patients were encouraged to
+continue exercising at home at the same frequency and
+duration as their last training session. Patients in the
+breathing-retraining group were encouraged to use the
+breathing strategies learned during the training program.
+Oxygen and helium supplementation were not supplied
+after training.
+To determine the impact of group assignment on exer-
+cise duration, extent of exercise dynamic hyperinﬂation,
+and breathing pattern, patients repeated the constant-load
+treadmill test set at 85% of baseline VO2peak at the
+completion of training, and six weeks later. The purpose of
+the test performed at six weeks after training was to assess
+the short-term sustainability of the changes in physiologic
+variables e including exercise duration and breathing
+pattern e following training.
+Statistical analysis
+The primary outcome variable was duration of constant-
+load treadmill test after the eight weeks of training. Intent-
+to-treat analyses using the last observation carried forward
+were used [27]. To detect a 0.75 effect size [28], it was
+estimated that 35 patients were needed in each group (80%
+power, a Z 0.05). Data at different time periods between
+groups were compared by one-way analysis of co-variance
+(ANCOVA) with the baseline variable serving as the covari-
+ate. When the ANCOVA was signiﬁcant, protected Fisher’s
+LSD post-hoc multiple comparison testing was performed
+[29].
+The respiratory pattern and severity of dynamic hyper-
+inﬂation during baseline constant-load test were compared
+with the corresponding isotime values after training. Iso-
+time was deﬁned as time elapsed from the beginning of the
+constant-load treadmill test to the last set of measure-
+ments before completion of the test that was of shortest
+duration [6]. Statistical tests were 2-sided, and P  0.5 was
+criterion for statistical signiﬁcance.
+Results
+One hundred ninety-two patients with COPD (95% male)
+were enrolled in the study (Fig. 1). Of these, 103 were
+randomized
+to
+three
+training
+groups:
+exercise
+plus
+breathing-retraining and oxygen (n Z 35), exercise plus
+heliox (n Z 33) and exercise plus oxygen (n Z 35) (Table 1).
+Exercise intensity, duration and adherence were similar
+amongst the three groups.
+Effect of training on constant-load test
+At baseline, exercise duration on the constant-load test
+was similar in the three groups (Table 2). At the end of
+Respiratory adjuncts during rehabilitation in COPD
+299
+training, exercise duration on the constant-load treadmill
+test had improved by 11.1  12.6 min after exercise-
+training
+plus
+breathing-retraining
+and
+oxygen,
+8.0  9.6 min after exercise-training plus heliox and
+4.9
+
+7.3
+min
+after
+exercise-training
+plus
+oxygen.
+Improvement in exercise duration differed among the
+three groups (P Z 0.022, ANCOVA), being greater after
+exercise-training plus breathing-retraining and oxygen
+than after exercise-training plus oxygen (P Z 0.008,
+Fisher’s LSD). In contrast, the improvement in exercise
+duration
+after
+exercise-training
+plus
+heliox
+was
+not
+signiﬁcantly different from the corresponding values in
+the other two groups.
+Six weeks after training, exercise duration on the
+constant-load treadmill test was 10.1  12.8 min longer
+than
+baseline
+in
+the
+breathing-retraining
+group,
+6.4  8.6 min longer than baseline in the heliox group,
+and 3.1  5.9 min longer than baseline in the exercise
+plus oxygen group (P Z 0.015, ANCOVA). The improve-
+ment in exercise duration from baseline to six weeks after
+training was greater after breathing-retraining plus oxy-
+gen than after exercise plus oxygen (P Z 0.004, Fisher’s
+LSD). The corresponding improvement after exercise-
+training plus heliox was not signiﬁcantly different from
+the improvement recorded after exercise-training plus
+oxygen
+or
+after
+exercise-training
+plus
+breathing-
+retraining and oxygen (P Z 0.112 and P Z 0.194,
+respectively; Fisher’s LSD).
+Isotime responses
+Compared
+with
+baseline,
+isotime
+respiratory
+pattern
+demonstrated a magnitude of change immediately after
+exercise-training plus breathing-retraining and oxygen that
+was, for the most part, not observed in the other two
+groups (Table 2).
+At the end of training and 6 weeks later, isotime tidal
+volume, breathing frequency, TE and inspiratory capacity
+were greater in the exercise plus breathing-retraining and
+oxygen group than in the exercise plus oxygen group.
+Additionally, tidal volume was greater at the end of training
+and 6 weeks later, and inspiratory capacity was greater 6
+weeks after training in the breathing-retraining group than
+in the exercise plus heliox group (Table 2). No differences
+between the groups were identiﬁed in changes in heart rate
+or dyspnea at isotime.
+Health-related quality of life (CRDQ)
+There were no between-group differences in training-
+induced changes of the four CRDQ domains. To explore
+the impact of severity of airway obstruction on improve-
+ments in mastery, we performed a post-hoc analysis by
+dividing the sample based on percent predicted FEV1 50%
+and >50% [6]. In patients with FEV1 50%, improvement in
+mastery at the end of training differed among the three
+Figure 1
+Consort Diagram. Out of 130 randomized patients, seven patients had previously participated in pulmonary rehabili-
+tation. In those seven patients, the time since completing rehabilitation to starting our program ranged from 3 to 6 years (4.4  1.0
+years).
+300
+E.G. Collins et al.
+groups (P Z 0.031, ANOVA). This improvement was greater
+after exercise plus breathing-retraining and oxygen than
+after exercise plus oxygen (P Z 0.009, Fisher’s LSD).
+Discussion
+This is the ﬁrst controlled trial designed to compare the
+beneﬁts of pulmonary rehabilitation in COPD carried out
+with exercise-training plus breathing-retraining and oxy-
+gen, exercise-training plus heliox and exercise-training plus
+oxygen. Improvements in exercise duration immediately
+after rehabilitation were greater with exercise-training
+plus breathing-retraining and oxygen than after exercise-
+training plus oxygen. Contrary to our hypothesis, improve-
+ments in exercise duration with exercise-training plus
+breathing retraining and oxygen were not signiﬁcantly
+different from those with exercise-training plus heliox. In
+addition, there was no advantage in adding helium to
+exercise training plus oxygen in terms of improvements in
+exercise duration and quality of life. The study contains
+two additional ﬁndings. First, exercise-induced dynamic
+hyperinﬂation
+was
+less
+after
+exercise-training
+plus
+breathing-retraining and oxygen than in the other two
+groups. Second, six weeks after training, improvements in
+exercise duration were still greater after exercise-training
+plus breathing-retraining and oxygen than after exercise-
+training plus oxygen alone. In contrast, improvements in
+exercise duration after exercise-training plus heliox were
+not signiﬁcantly different from the corresponding im-
+provements in the other two groups.
+Exercise duration at the conclusion of training
+Several factors may account for the unexpected not signiﬁ-
+cantly different improvement in exercise duration at the
+conclusion of training in the exercise-training plus breathing-
+Figure 2
+Training protocol. In all patients, exercise training was performed on a treadmill. During treadmill training, exercise
+loads were set as a function of VO2 recorded during baseline incremental-load treadmill test. (See text for details). Deﬁnition of
+abbreviations: VO2 Z oxygen uptake, VO2peak Z oxygen uptake at peak exercise recorded during the incremental-load treadmill
+test at baseline.
+Respiratory adjuncts during rehabilitation in COPD
+301
+retraining and oxygen group versus the exercise-training plus
+heliox group. First, by study design, we overcame limitations
+in delivery of heliox during exercise training encountered by
+other investigators [20]. Second, the decrease in minute
+ventilation required to perform the same work (deﬁnition of
+isotime)
+following
+exercise-training
+plus
+breathing-
+retraining and oxygen and following exercise-training plus
+heliox were similar (Table 2). This observation suggests a
+similarimprovement inthe delivery to and inthe efﬁciency of
+oxygen consumption by the locomotor muscles [30,31]. Ox-
+ygen supplementation during training [25] could have
+contributed, by itself, to the not signiﬁcantly different
+improvement in exercise duration in the group assigned to
+exercise plus breathing-retraining and oxygen compared to
+the group assigned to exercise plus heliox. This is supported
+by two considerations. One, the improvement in exercise
+duration
+after
+exercise-training
+plus
+heliox
+and
+the
+improvement in exercise duration after exercise-training
+plus oxygen e both of which were conducted with an FiO2
+of 0.30 e were similar. Two, the improvement in exercise
+duration after breathing-retraining plus exercise in the cur-
+rent investigation where training was carried out for eight
+weeks while supplementing an FiO2 of 0.30 was similar to the
+improvement we recorded in our previous investigation [6]
+where training was carried out for 12 weeks with oxygen
+supplement provided only to patients who desaturated dur-
+ing exercise [6].
+Exercise duration improved more after exercise training
+combined with breathing-retraining and oxygen than after
+exercise-training combined with oxygen. Several factors
+may account for this ﬁnding. First, exercise-training plus
+breathing-retraining and oxygen yielded greater reductions
+in respiratory frequency and dynamic hyperinﬂation than
+exercise-training plus oxygen (Table 2). More favorable
+pulmonary
+mechanics
+(smaller
+reduction
+in
+exercise-
+associated dynamic compliance caused by the reduction
+in respiratory frequency) and more favorable length-
+tension relationships of the inspiratory muscles (less dy-
+namic hyperinﬂation) could have decreased the work of
+breathing and increased the efﬁciency of oxygen use by the
+respiratory muscles after exercise-training plus breathing-
+retraining and oxygen. Second, slower respiratory fre-
+quency could have improved matching of ventilation and
+perfusion and, thus, it could have decreased deadspace
+ventilation and ventilatory needs after exercise-training
+plus breathing-retraining and oxygen. Third, the pur-
+ported decreases in the work of breathing and deadspace
+ventilation with exercise-training plus breathing-retraining
+and oxygen could have promoted oxygen delivery to the
+contracting locomotor muscles [17,32]. Fourth, it has been
+reported that patients in whom the extent of exercise-
+induced dynamic hyperinﬂation is decreased while pursed
+lip breathing, experience an increase in the inspiratory
+ratio of pleural pressure to the static inspiratory pressure-
+Table 1
+Characteristics of patients and their responses to incremental-load treadmill test at baseline.
+Exercise-Training plus
+Breathing-Retraining and
+Oxygen (n Z 35)
+Exercise-Training plus
+HeliumeOxygen (n Z 33)
+Exercise-Training plus
+Oxygen (n Z 35)
+Characteristic
+Age (yr)
+68  10
+70  9
+69  7
+BMI (kg/m2)
+29.5  4.9
+28.5  6.0
+29.0  6.0
+Smoking (pack year)
+62  37
+67  40
+68  48
+Co-morbidity score
+1  1
+1  1
+1  1
+Pulmonary Function
+FEV1 (L) [% pred]
+1.37  0.52 [45  14]
+1.26  0.43 [46  14]
+1.23  0.49 [41  13]
+FEV1/FVC %
+47  11
+43  10
+41  12
+TLC [% pred]
+7.42  1.47 [122  22]
+7.00  1.45 [123  21]
+7.34  1.46 [121  21]
+RV/TLC [% pred]
+58  10 [165  27]
+57  8 [158  24]
+56  9 [161  24]
+DLCO, % pred
+77  31
+71  28
+66  27
+pHa
+7.42  0.03
+7.41  0.02
+7.42  0.02
+PaCO2, mm Hg
+41  9
+42  7
+42  4
+PaO2, mm Hg
+73  11
+69  10
+73  10
+Incremental-Load Test (end-exercise values)
+VO2peak (mL min1)
+1.8  0.5
+1.6  0.5
+1.7  0.5
+VO2peak (mL kg1 min1)
+19  5
+19  5
+19  5
+VE peak (L min1)
+45  13
+40  12
+41  13
+VT peak (L)
+1.6  0.5
+1.4  0.4
+1.5  0.4
+fR peak (b min1)
+28  6
+29  6
+27  5
+HR peak (b min1)
+129  26
+121  18
+121  16
+Deﬁnition of abbreviations: BMI Z body mass index [weight (kg) O height (m)2]; FEV1 Z forced expiratory volume in one second; [%
+pred] Z percent predicted; FVC Z forced vital capacity; TLC Z total lung capacity; RV/TLC Z residual volume/total lung capacity;
+DLCO Z diffusing capacity; PaCO2 Z partial pressure of arterial carbon dioxide, PaO2 Z partial pressure of arterial oxygen; VO2
+peak Z oxygen uptake at peak exercise; VEpeak Z minute ventilation at peak exercise; VTpeak Z tidal volume at peak exercise;
+fRpeak Z respiratory frequency at peak exercise; HRpeak Z heart rate at peak exercise.
+No signiﬁcant differences were identiﬁed between the groups. Values are mean  standard deviation.
+a Arterial blood gasses were obtained in 93 patients (90% of sample).
+302
+E.G. Collins et al.
+generating capacity measured with an esophageal balloon
+and increased dyspnea [33]. This observation raises the
+possibility that the patients in the breathing-retraining and
+oxygen group commanded a sufﬁcient load on the respira-
+tory muscles to induce a training effect in them. In turn,
+this speculative training effect on the respiratory muscles,
+if it occurred at all, might have contributed to the greater
+exercise duration at the end of training with breathing
+retraining plus oxygen than in the exercise plus oxygen
+group. Lastly, we also cannot exclude that breathing-
+retraining e per se e could have desensitized patients to
+dyspnea and thus, contributed to improved exercise ca-
+pacity as it has been described following inspiratory resis-
+tance training [34].
+Improvement in exercise duration after exercise-training
+combined with heliox was not greater than after exercise-
+training plus oxygen. Several factors may account for this
+negative ﬁnding. First, the beneﬁts of heliumeoxygen
+breathing can take place as long as airway pathology e
+speciﬁcally expiratory ﬂow limitation e is located in the
+central airways [35]. If expiratory ﬂow limitation in our
+patients predominantly affected the peripheral airways,
+then the use of heliox would have had limited impact on
+pulmonary mechanics and respiratory load during exercise
+training.
+Second, resistive work of breathing with heliox could
+have remained unchanged because the counterbalancing
+effect of helium’s higher viscosity over its lower density
+[14]. This, however, would be contrary to the numerous
+reports of improved physical performance and pulmonary
+adaptation
+when
+patients
+with
+COPD
+exercise
+while
+inhaling heliumeoxygen mixtures [8,10,12,18].
+Third, the increased oxygen tension in the mixture of
+helium and oxygen could have hindered skeletal muscle
+metabolism through a decreased rate of phosphocreatine
+utilization [36]. This, however, is improbable. When in-
+vestigators reported a decrease in phosphocreatine utili-
+zation during exercise (healthy subjects) [36], FiO2 was set
+at 0.60 and not 0.30 as in our study. In addition, Scorsone
+et al. [19] reported no difference in exercise capacity when
+patients trained while inhaling a normoxic heliumeoxygen
+mixture (helium 80%, oxygen 20%) or hyperoxic helium-
+eoxygen mixture (helium 60%, oxygen 40%).
+Lastly, FiO2 during training with or without heliox was
+0.30. According to some [25] but not all investigators
+[19,39], supplemental oxygen can increase the beneﬁts of
+training in COPD. This observation raises two possibilities.
+One, heliox has no effect on exercise training in unselected
+patients
+with
+moderate-to-severe
+COPD.
+Two,
+the
+improvement of skeletal muscle performance was already
+maximal with supplemental oxygen because of the high
+level of training achieved with our protocol. This explana-
+tion for the non-superiority of exercise-training plus heliox
+over exercise-training plus oxygen in our study is supported
+by the negative study of Scorsone et al. [19].
+Quality of life
+After training, there were no between group differences.
+On post-hoc analysis we observed that breathing-retraining
+was associated with a greater improvement in mastery over
+disease in patients with a percent predicted FEV1 50%.
+These between group differences were not present in pa-
+tients with a percent predicted FEV1 >50%. We plan to
+systematically
+investigate
+this
+hypothesis-generating
+ﬁnding in the future. Whether improvements in mastery
+with breathing-retraining contribute to improved exercise
+capacity (i.e., improved patients’ feeling of control over
+Table 2
+Constant-load treadmill test: Hemodynamic and respiratory variables recorded at baseline, after completion of
+training and six weeks later (at corresponding isotime).
+Exercise Training plus Breathing-
+Retraining
+Exercise Training plus Helium
+eOxygen
+Exercise Training plus Oxygen
+Baseline
+End of
+training
+Six weeks
+post
+training
+Baseline
+End of
+training
+Six weeks
+post
+training
+Baseline
+End of
+training
+Six weeks
+post
+training
+Duration (min) 7.9  3.4 19.0  13.2 18.1  13.4 8.0  4.7 16.0  10.6 14.5  10.7
+8.4  3.3 13.4  8.3b 11.5  7.0b
+HR (b min1)
+121  22
+112  20
+112  20
+116  18
+110  16
+111  18
+117  16
+112  15
+112  17
+VT (L)
+1.7  0.5
+1.8  0.6
+1.8  0.6
+1.4  0.5
+1.4  0.4b
+1.3  0.3b
+1.5  0.5
+1.5  0.5b
+1.5  0.5b
+fR (b min1)
+26  5
+21  6
+22  6
+28  7
+25  7
+25  6
+26  5
+25  7c
+25  6b
+VE (L min1)
+43  13
+39  13
+30  13
+38  11
+34  9
+34  9
+39  11
+38  11
+37  11
+TI (s)
+0.8  0.2
+0.9  0.3
+0.9  0.3
+0.7  0.2
+0.8  0.4
+0.8  0.3
+0. 8  0.2
+0.8  0.2
+0.8  0.2
+TE (s)
+1.6  0.3
+2.1  0.9
+1.9  0.8
+1.6  0.4
+1.8  0.7
+1.8  0.7
+1.6  0.4
+1.7  0.5b
+1.7  0.5b
+IC (L)
+2.2  0.6
+2.4  0.7
+2.4  0.7
+1.9  0.6
+2.0  0.7
+2.0  0.6a
+2.1  0.7
+2.0  0.6b
+2.1  0.7a
+Dyspnea score
+4.5  3.0
+2.2  2.7
+2.0  2.5
+4.9  3.7
+2.5  3.0
+2.6  2.7
+4.1  2.5
+2.7  2.5
+2.7  2.2
+Deﬁnition of abbreviations: HR Z heart rate; VT Z tidal volume, fR Z respiratory frequency, TI Z inspiratory time, TE Z expiratory
+time, IC Z inspiratory capacity. Values are mean  SD. ANCOVA statistics were used to compare between group differences. The
+baseline value was used as the co-variate in all analyses. All signiﬁcant post-hoc comparisons were between the Exercise Training plus
+Breathing Retraining group. No post-hoc comparisons between the Exercise Training plus HeliumeOxygen and Exercise Training plus
+Oxygen were signiﬁcantly different.
+a P  0.05 between-group differences, Fischer’s LSD.
+b P  0.01 between-group differences, Fischer’s LSD.
+c P  0.001 between-group differences, Fischer’s LSD.
+Respiratory adjuncts during rehabilitation in COPD
+303
+their disease) or are a result of the improved exercise ca-
+pacity (i.e., improved efﬁciency in oxygen consumption by
+the locomotor muscles) remains also to be determined.
+Short-term maintenance of training-induced gains
+in exercise duration
+Six weeks after training, improvements in exercise duration
+from baseline, albeit less than immediately after training
+were still greater after exercise-training plus breathing-
+retraining and oxygen than after exercise-training and ox-
+ygen. In contrast, improvements in exercise duration after
+exercise-training plus heliox did not differ from the corre-
+sponding improvements in the other two groups. These
+results raise several considerations. First, as previously
+reported, exercise gains achieved after exercise training in
+patients with COPD decreased over time [40e42]. Second,
+exercise-training plus breathing-retraining and oxygen may
+be superior to exercise-training plus heliox in terms of
+short-term carryover of the gains in exercise tolerance.
+Such an enhanced carryover effect raises the possibility
+that, following exercise-training plus breathing-retraining
+and oxygen, patients are capable to carry out more phys-
+ical activity than after training with or without heliox.
+Finally, whether a systematic reinforcement of improve-
+ments in self-efﬁcacy [43] (quantiﬁed terms of mastery)
+recorded with breathing-retraining could limit the loss in
+exercise gains achieved after pulmonary rehabilitation over
+time remains to be determined.
+Limitations
+The use of 30% oxygen in the three experimental conditions
+could have caused improved exercise capacity [44,45]
+through
+several
+mechanisms
+including
+reductions
+in
+airway resistance [46], respiratory drive, respiratory fre-
+quency [9,44], dyspnea, exercise-induced hyperinﬂation
+[44] and exercise-induced pulmonary hypertension [47]. In
+addition, oxygen supplementation could have enhanced
+oxygen delivery to the exercising muscles [48]. The beneﬁts
+of supplemental oxygen are particularly evident in patient
+with severe COPD [47]. These considerations raise two
+points. First, the generalizability of the ﬁndings depends on
+the selection of experimental settings and severity of
+obstruction. Second, that combining breathing-retraining
+and oxygen during exercise-training increased exercise
+tolerance more than exercise-training plus oxygen un-
+derscores the unique/true additional beneﬁt of breathing-
+retraining.
+Although the standard deviation of the improvements in
+exercise duration from baseline in the three groups was
+substantial, we were still able to detect differences in ex-
+ercise duration between the exercise plus breathing-
+retraining and oxygen group and the exercise plus oxygen
+group. Despite this positive result, we cannot exclude a
+Type II error for the lack of signiﬁcant differences in the
+other between-group comparisons.
+It has been recently reported that patients with COPD
+who develop quadriceps fatigue during training experience
+greater improvements in exercise capacity at the conclu-
+sion of 12 weeks of pulmonary rehabilitation than patients
+who do not develop quadriceps fatigue [37]. These bene-
+ﬁcial effects occur despite similar intensity of training
+during rehabilitation [37]. Whether enhanced respiratory
+muscle pressure output during breathing retraining [33] can
+trigger active limb vasoconstriction e with resultant higher
+likelihood of developing fatigue [38] and greater possibility
+of beneﬁting from pulmonary rehabilitation [37] e remains
+to be determined.
+When comparing different interventions, a double-blind
+design is often preferred. Blinding, however, is difﬁcult to
+perform in this type of research. As a result, our investi-
+gation was only partially blinded: during training, patient
+and exercise technician knew whether breathing-retraining
+was used. The partial blinding is likely offset by several
+factors. No one, including the investigators present during
+constant-load testing, was aware of exercise duration
+achieved by patients during any previous testing. The ex-
+ercise physiologist who supervised the constant-load test
+was blinded to group assignment. During each constant-
+load test, standardized verbal encouragement was given at
+the same time interval. Fourth, patients were not told
+which gas mixture they inhaled when assigned to exercise-
+training
+plus
+heliox
+or
+exercise-training
+plus
+oxygen.
+Finally, patients refrained from talking while breathing
+through the mouthpiece before, during and for at least one
+minute following treadmill training to avoid detecting any
+change in voice resonance (if patients had been randomized
+to heliox) [8].
+In clinical practice, patients with COPD enrolled in ex-
+ercise
+programs
+who
+require
+oxygen
+supplementation
+receive the gas with nasal cannulae or Venturi masks. In
+our study, as done by other investigators [19], all patients
+trained with a mouthpiece in place. It is unknown whether
+mouthpieces interfere with walking on a treadmill during
+exercise-training.
+Nevertheless,
+we
+decided
+to
+use
+mouthpieces in all three groups to avoid the confounding
+factor of using mouthpieces only in the breathing-retaining
+or heliox groups and not in the exercise-training plus oxy-
+gen group.
+Clinical implications
+Which strategy should be used to achieve the greatest
+beneﬁts from pulmonary rehabilitation in terms of exer-
+cise duration? The data in the current investigation indi-
+cate that exercise-training plus breathing-retraining and
+oxygen yields greater improvements in exercise duration
+than exercise-training plus oxygen alone. In addition,
+improvements in exercise duration with exercise-training
+plus
+heliox
+are
+neither
+signiﬁcantly
+less
+than
+with
+breathing-retraining plus oxygen nor signiﬁcantly greater
+than with exercise plus oxygen alone. The disappointing
+performance of heliox as an adjunct in pulmonary reha-
+bilitation detracts from the ease with which the gas
+mixture can be used. Moreover, heliox is expensive. (We
+estimate that the administration of heliox during an 8-
+week training program would add approximately $500-700
+to the cost of rehabilitation per patient). In addition,
+world supplies of helium are limited, and no current
+technology is available to produce this noble gas de novo.
+Accordingly, in unselected patients with COPD, we cannot
+304
+E.G. Collins et al.
+recommend
+heliox
+as
+an
+adjunct
+in
+pulmonary
+rehabilitation.
+In contrast to heliox, breathing-retraining does not
+present supply problems, and requires only a limited
+upfront investment in the breathing-retraining device.
+Whether the extra expense and additional time required in
+training exercise technicians in the use of the breathing-
+retraining device, in preparing individualized breathing-
+retraining prescriptions, and coaching patients during pul-
+monary rehabilitation are outweighed by the greater im-
+provements in exercise duration obtained with this strategy
+remains to be determined. Finally, whether combining
+breathing-retraining and heliox to exercise training in se-
+vere COPD could yield better rehabilitation results than
+using either adjunct on its own needs to be examined in the
+future.
+Conclusion
+In
+patients
+with
+moderate-to-severe
+COPD,
+exercise-
+training combined with heliox or breathing-retraining yiel-
+ded not signiﬁcantly different improvements in exercise
+duration e with only the latter being superior to exercise-
+training combined with oxygen. In the short-term, im-
+provements in exercise duration were still greater after
+exercise-training plus breathing-retraining and oxygen than
+after exercise-training and oxygen.
+Funding
+Supported by grants by the Department of Veterans Affairs,
+Veterans Health Administration, Ofﬁce of Research &
+Development, Rehabilitation Research & Development,
+Department
+of
+Veterans
+Affairs,
+Merit
+Review
+Grant
+#F3845R and Research Career Scientist Award.
+Conﬂict of interest
+The authors were supported by grants from the Department
+of Veterans Affairs, Rehabilitation Research and Develop-
+ment. No other conﬂicts of interest are declared.
+Acknowledgments
+Other contributions: The authors gratefully thank Dr.
+Martin J. Tobin for helpful comments about the manuscript,
+Ms. Mary Reidy for her editorial assistance, and all the
+Veterans who enthusiastically took part in this project.
+Appendix A. Supplementary data
+Supplementary data related to this article can be found at
+http://dx.doi.org/10.1016/j.rmed.2013.10.023.
+References
+[1] Nici L, Donner C, Wouters E, Zuwallack R, Ambrosino N,
+Bourbeau J, et al. American Thoracic Society/European
+Respiratory Society statement on pulmonary rehabilitation.
+Am J Respir Crit Care Med 2006 Jun 15;173(12):1390e413
+[PubMed PMID: 16760357].
+[2] Ries AL, Bauldoff GS, Carlin BW, Casaburi R, Emery CF,
+Mahler
+DA,
+et
+al.
+Pulmonary
+Rehabilitation:
+Joint
+ACCP/AACVPR Evidence-Based Clinical Practice Guidelines.
+Chest
+2007
+May;131(5
+Suppl.):4Se42S
+[PubMed
+PMID:
+17494825. eng].
+[3] Wedzicha JA, Bestall JC, Garrod R, Garnham R, Paul EA,
+Jones PW. Randomized controlled trial of pulmonary rehabil-
+itation in severe chronic obstructive pulmonary disease pa-
+tients, stratiﬁed with the MRC dyspnoea scale. Eur Respir J
+1998 Aug;12(2):363e9 [PubMed PMID: 9727786].
+[4] Sabit R, Grifﬁths TL, Watkins AJ, Evans W, Bolton CE, Shale DJ,
+et al. Predictors of poor attendance at an outpatient pulmo-
+nary rehabilitation programme. Respir Med 2008 Jun;102(6):
+819e24 [PubMed PMID: 18337077].
+[5] O’Donnell DE, Webb KA. The major limitation to exercise
+performance in COPD is dynamic hyperinﬂation. J Appl Phys
+2008
+Aug;105(2):753e5
+[discussion
+5e7.
+PubMed
+PMID:
+18678624].
+[6] Collins EG, Langbein WE, Fehr L, O’Connell S, Jelinek C,
+Hagarty E, et al. Can ventilation-feedback training augment
+exercise tolerance in patients with chronic obstructive pul-
+monary disease? Am J Respir Crit Care Med 2008 Apr 15;177(8):
+844e52 [PubMed PMID: 18202351. Epub 2008/01/19. eng].
+[7] Collins EG, Fehr L, Bammert C, O’Connell S, Laghi F, Hanson K,
+et al. Effect of ventilation-feedback training on endurance
+and perceived breathlessness during constant work-rate leg-
+cycle exercise in patients with COPD. J Rehabil R D 2003
+SepeOct;40(5 Suppl. 2):35e44 [PubMed PMID: 15074452. Epub
+2004/04/13. eng].
+[8] Hussain O, Collins EG, Adiguzel N, Langbein WE, Tobin MJ,
+Laghi F. Contrasting pressure-support ventilation and helium-
+oxygen during exercise in severe COPD. Respir Med 2011 Mar;
+105(3):494e505 [PubMed PMID: 20851591. Epub 2010/09/21.
+eng].
+[9] Eves ND, Petersen SR, Haykowsky MJ, Wong EY, Jones RL.
+Helium-hyperoxia, exercise, and respiratory mechanics in
+chronic obstructive pulmonary disease. Am J Respir Crit Care
+Med 2006 Oct 1;174(7):763e71 [PubMed PMID: 16840742].
+[10] Laude EA, Duffy NC, Baveystock C, Dougill B, Campbell MJ,
+Lawson R, et al. The effect of helium and oxygen on exercise
+performance in chronic obstructive pulmonary disease: a
+randomized crossover trial. Am J Respir Crit Care Med 2006
+Apr 15;173(8):865e70 [PubMed PMID: 16439720].
+[11] Oelberg DA, Kacmarek RM, Pappagianopoulos PP, Ginns LC,
+Systrom DM. Ventilatory and cardiovascular responses to
+inspired He-O2 during exercise in chronic obstructive pulmo-
+nary disease. Am J Respir Crit Care Med 1998 Dec;158(6):
+1876e82 [PubMed PMID: 9847281].
+[12] Palange P, Valli G, Onorati P, Antonucci R, Paoletti P,
+Rosato A, et al. Effect of heliox on lung dynamic hyperinﬂa-
+tion, dyspnea, and exercise endurance capacity in COPD pa-
+tients. J Appl Phys 2004 Nov;97(5):1637e42 [PubMed PMID:
+15234959].
+[13] Richardson RS, Sheldon J, Poole DC, Hopkins SR, Ries AL,
+Wagner PD. Evidence of skeletal muscle metabolic reserve
+during whole body exercise in patients with chronic obstruc-
+tive pulmonary disease. Am J Respir Crit Care Med 1999 Mar;
+159(3):881e5 [PubMed PMID: 10051266].
+[14] Pegelow DF, Drazen JM. Aerodynamic theory. In: Macklem PT,
+Mead J, editors. Handbook of physiology: the respiratory
+system III. Bethesda, MD: American Physiological Society;
+1986. p. 41e54.
+[15] Vogiatzis I, Habazettl H, Aliverti A, Athanasopoulos D,
+Louvaris Z, LoMauro A, et al. Effect of helium breathing on
+intercostal and quadriceps muscle blood ﬂow during exercise
+Respiratory adjuncts during rehabilitation in COPD
+305
+in COPD patients. Am J Physiol Regul Integr Comp Physiol 2011
+Jun;300(6):R1549e59 [PubMed PMID: 21411767].
+[16] Amann M, Regan MS, Kobitary M, Eldridge MW, Boutellier U,
+Pegelow DF, et al. Impact of pulmonary system limitations on
+locomotor muscle fatigue in patients with COPD. Am J Physiol
+Regul Integr Comp Physiol 2010 Jul;299(1):R314e24 [PubMed
+PMID: 20445160. PubMed Central PMCID: 2904150].
+[17] Chiappa
+GR,
+Queiroga
+Jr
+F,
+Meda
+E,
+Ferreira
+LF,
+Diefenthaeler F, Nunes M, et al. Heliox improves oxygen de-
+livery and utilization during dynamic exercise in patients with
+chronic obstructive pulmonary disease. Am J Respir Crit Care
+Med 2009 Jun 1;179(11):1004e10 [PubMed PMID: 19299497].
+[18] Eves ND, Sandmeyer LC, Wong EY, Jones LW, MacDonald GF,
+Ford GT, et al. Helium-hyperoxia: a novel intervention to
+improve the beneﬁts of pulmonary rehabilitation for patients
+with COPD. Chest 2009 Mar;135(3):609e18 [PubMed PMID:
+19017883].
+[19] Scorsone D, Bartolini S, Saporiti R, Braido F, Barofﬁo M,
+Pellegrino R, et al. Does a low-density gas mixture or oxygen
+supplementation improve exercise training in COPD? Chest
+2010 Nov;138(5):1133e9 [PubMed PMID: 20495110].
+[20] Johnson JE, Gavin DJ, Adams-Dramiga S. Effects of training
+with heliox and noninvasive positive pressure ventilation on
+exercise ability in patients with severe COPD. Chest 2002;122:
+464e72.
+[21] Fishman A, Martinez F, Naunheim K, Piantadosi S, Wise R,
+Ries A, et al. A randomized trial comparing lung-volume-
+reduction surgery with medical therapy for severe emphy-
+sema. N Engl J Med 2003 May 22;348(21):2059e73 [PubMed
+PMID: 12759479].
+[22] Knudson RJ, Slatin RC, Lebowitz MD, Burrows B. The maximal
+expiratory ﬂow-volume curve. Normal standards, variability,
+and effects of age. Am Rev Respir Dis 1976 May;113(5):
+587e600 [PubMed PMID: 1267262].
+[23] Guyatt
+GH,
+Berman
+LB,
+Townsend
+M,
+Pugsley
+SO,
+Chambers LW. A measure of quality of life for clinical trials in
+chronic lung disease. Thorax 1987;42:773e8.
+[24] Redelmeier DA, Guyatt GH, Goldstein RS. Assessing the mini-
+mal important difference in symptoms: a comparison of two
+techniques. J Clin Epidemiol 1996;49(11):1215e9.
+[25] Emtner M, Porszasz J, Burns M, Somfay A, Casaburi R. Beneﬁts
+of supplemental oxygen in exercise training in nonhypoxemic
+chronic obstructive pulmonary disease patients. Am J Respir
+Crit Care Med 2003;168:1034e42.
+[26] Collins EG, Langbein WE, Fehr L, Maloney C. Breathing pattern
+retraining and exercise in persons with chronic obstructive
+pulmonary disease. AACN Clin Issues 2001 May;12(2):202e9
+[PubMed PMID: 11759548. Epub 2002/01/05. eng].
+[27] Lachin JM. Statistical considerations in the intent-to-treat
+principle. Control Clin Trials 2000 Jun;21(3):167e89 [PubMed
+PMID: 10822117].
+[28] Cohen J. Statistical power analysis for the behavioral sci-
+ences. Hillside, New Jersey: Lawrence Erlbaum Associates,
+Inc.; 1988.
+[29] Cardinal RN, Aitken MRF. Anova for the behavioural sciences
+research. New Jersey: Lawrence Erlbaum Associates, LTD;
+2005.
+[30] Maltais F, Leblanc P, Simard C, Jobin J, Berube C, Bruneau J,
+et al. Skeletal muscle adaptation to endurance training in
+patients with chronic obstructive pulmonary disease. Am J
+Respir Crit Care Med 1996;154:442e7.
+[31] Vogiatzis
+I,
+Terzis
+G,
+Stratakos
+G,
+Cherouveim
+E,
+Athanasopoulos D, Spetsioti S, et al. Effect of pulmonary
+rehabilitation on peripheral muscle ﬁber remodeling in pa-
+tients with COPD in GOLD stages II to IV. Chest 2011 Sep;
+140(3):744e52 [PubMed PMID: 21493697].
+[32] Borghi-Silva A, Oliveira CC, Carrascosa C, Maia J, Berton DC,
+Queiroga Jr F, et al. Respiratory muscle unloading improves
+leg muscle oxygenation during exercise in patients with COPD.
+Thorax 2008 Oct;63(10):910e5 [PubMed PMID: 18492743].
+[33] Spahija J, de Marchie M, Grassino A. Effects of imposed
+pursed-lips breathing on respiratory mechanics and dyspnea
+at rest and during exercise in COPD. Chest 2005 Aug;128(2):
+640e50 [PubMed PMID: 16100149].
+[34] Cooper CB. Desensitization to dyspnea in COPD with speci-
+ﬁcity for exercise training mode. Int J Chron Obstruct Pulmon
+Dis 2009;4:33e43 [PubMed PMID: 19436684. PubMed Central
+PMCID: 2672788].
+[35] Pecchairi M, Pelucchi A, D’Angelo E, Foresi A, Milic-Emili J,
+D’Angelo E. Effect of heliox breathing on dynamic hyperin-
+ﬂation in COPD patients. Chest 2004;125:2075e82.
+[36] Stellingwerff T, Leblanc PJ, Hollidge MG, Heigenhauser GJ,
+Spriet LL. Hyperoxia decreases muscle glycogenolysis, lactate
+production, and lactate efﬂux during steady-state exercise.
+Am J Physiol Endocrinol Metab 2006 Jun;290(6):E1180e90
+[PubMed PMID: 16403777].
+[37] Burtin C, Saey D, Saglam M, Langer D, Gosselink R, Janssens W,
+et al. Effectiveness of exercise training in patients with COPD:
+the role of muscle fatigue. Eur Respir J 2012 Aug;40(2):338e44
+[PubMed PMID: 22135284].
+[38] McConnell AK, Lomax M. The inﬂuence of inspiratory muscle
+work history and speciﬁc inspiratory muscle training upon
+human limb muscle fatigue. J Physiol 2006 Nov 15;577(Pt 1):
+445e57 [PubMed PMID: 16973699. Pubmed Central PMCID:
+2000686].
+[39] Garrod R, Paul EA, Wedzicha JA. Supplemental oxygen during
+pulmonary rehabilitation in patients with COPD with exercise
+hypoxaemia. Thorax 2000 Jul;55(7):539e43 [PubMed PMID:
+10856310. Pubmed Central PMCID: 1745814].
+[40] Engstrom CP, Persson LO, Larsson S, Sullivan M. Long-term
+effects of a pulmonary rehabilitation programme in out-
+patients with chronic obstructive pulmonary disease: a ran-
+domized controlled study. Scand J Rehabil Med 1999 Dec;
+31(4):207e13 [PubMed PMID: 10599897].
+[41] Guell R, Casan P, Belda J, Sangenis M, Morante F, Guyatt GH,
+et al. Long-term effects of outpatient rehabilitation of COPD:
+a randomized trial. Chest 2000 Apr;117(4):976e83 [PubMed
+PMID: 10767227].
+[42] Steele
+BG,
+Belza
+B,
+Cain
+KC,
+Coppersmith
+J,
+Lakshminarayan S, Howard J, et al. A randomized clinical trial
+of an activity and exercise adherence intervention in chronic
+pulmonary disease. Arch Phys Med Rehabil 2008 Mar;89(3):
+404e12 [PubMed PMID: 18295615].
+[43] Heppner PS, Morgan C, Kaplan RM, Ries AL. Regular walking
+and long-term maintenance of outcomes after pulmonary
+rehabilitation. J Cardiopulm Rehabil 2006 JaneFeb;26(1):
+44e53 [PubMed PMID: 16617228].
+[44] O’Donnell DE, D’Arsigny C, Webb KA. Effects of hyperoxia on
+ventilatory limitation during exercise in advanced chronic
+obstructive pulmonary disease. Am J Respir Crit Care Med
+2001;163:892e8.
+[45] Somfay A, Porszasz J, Lee SM, Casaburi R. Dose-response ef-
+fect of oxygen on hyperinﬂation and exercise endurance in
+nonhypoxaemic COPD patients. Eur Respir J 2001 Jul;18(1):
+77e84 [PubMed PMID: 11510809].
+[46] Libby DM, Briscoe WA, King TK. Relief of hypoxia-related
+bronchoconstriction by breathing 30 per cent oxygen. Am Rev
+Respir Dis 1981 Feb;123(2):171e5 [PubMed PMID: 7235355].
+[47] Fujimoto K, Matsuzawa Y, Yamaguchi S, Koizumi T, Kubo K.
+Beneﬁts of oxygen on exercise performance and pulmonary
+hemodynamics in patients with COPD with mild hypoxemia.
+Chest 2002 Aug;122(2):457e63 [PubMed PMID: 12171817].
+[48] Maltais F, Simon M, Jobin J, Desmeules M, Sullivan MJ,
+Belanger M, et al. Effects of oxygen on lower limb blood ﬂow
+and O2 uptake during exercise in COPD. Med Sci Sports Exerc
+2001 Jun;33(6):916e22 [PubMed PMID: 11404656].
+306
+E.G. Collins et al.
