@@ -46,4 +46,19 @@ class VectorDatabase:
             
         except Exception as e:
             logger.error(f"Error loading FAISS index: {str(e)}")
-            self.index = None    
+            self.index = None
+            
+    def query(self, query_embedding, top_k=5):
+        try:
+            if self.index is None or self.text_chunks is None:
+                logger.error("FAISS index or text chunks not loaded.")
+                return []
+            query_vector = np.array(query_embedding).astype("float32").reshape(1, -1)
+            distances, indices = self.index.search(query_vector, top_k)
+            results = [(self.text_chunks[idx], distances[0][i]) for i, idx in enumerate(indices[0]) if idx != -1]
+            retreved_chunks = [res[0] for res in results]
+            logger.info(f"Retrieved {len(retreved_chunks)} chunks for the query.")
+            return retreved_chunks
+        except Exception as e:
+            logger.error(f"Error during query: {str(e)}")
+            return []
