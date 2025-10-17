@@ -16,8 +16,12 @@ tqdm
 scikit-learn
 nltk
 PyMuPDF
-langchain
 sentence-transformers
 peft
 bitsandbytes
 sentence-transformers
+langchain
+langchain-community
+langchain-core
+huggingface-hub
+pydantic
