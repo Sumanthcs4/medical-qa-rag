@@ -1,7 +1,7 @@
 # app.py
 
 import streamlit as st
-from pipeline.inference_pipeline import InferencePipeline
+from src.pipeline.inference_pipeline import InferencePipeline
 
 # --- 1. The Caching Function (Crucial for Performance) ---
 # This decorator tells Streamlit to run this function ONLY ONCE.

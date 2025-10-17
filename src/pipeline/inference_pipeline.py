@@ -4,7 +4,7 @@ from src.core.vector_database import VectorDatabase
 from src.core.llm_handler import LlmHandler
 from src.core.rag_system import RagSystem
 from src.utils.logger import setup_logger
-from src.pipeline.train_pipeline import run_training_pipeline  # New import
+from src.pipeline.training_pipeline import run_training_pipeline  # New import
 
 logger = setup_logger()
 
