@@ -1,8 +1,11 @@
 import os, sys 
+
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "../../")))
+from config import EMBEDDING_MODEL_NAME
+
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from sentence_transformers import SentenceTransformer
 
-from config import EMBEDDING_MODEL_NAME
 from src.utils.logger import setup_logger
 logger = setup_logger()
 class EmbeddingEngine:
