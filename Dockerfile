@@ -9,7 +9,11 @@ RUN apt-get update && apt-get install -y \
     && rm -rf /var/lib/apt/lists/*
 
 COPY requirements.txt ./requirements.txt
-COPY streamlit_app.py ./        # ✅ Add this line
+
+# ✅ Copy Streamlit app file into container
+COPY streamlit_app.py ./
+
+# ✅ Copy source code folder
 COPY src/ ./src/
 
 RUN pip3 install -r requirements.txt
