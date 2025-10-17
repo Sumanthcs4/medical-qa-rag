@@ -20,3 +20,4 @@ langchain
 sentence-transformers
 peft
 bitsandbytes
+sentence-transformers
