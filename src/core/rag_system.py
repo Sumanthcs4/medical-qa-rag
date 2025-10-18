@@ -5,7 +5,7 @@ class RagSystem:
         
         
     def retriever(self,query):
-        query_embedding = self.embedding_engine.generate_embedding([query])[0]
+        query_embedding = self.embedding_engine.generate_embeddings([query])[0]
         retrieved_chunks = self.vector_database.search(query_embedding, top_k=5)
         return retrieved_chunks
         
