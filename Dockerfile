@@ -13,6 +13,9 @@ COPY config.py ./
 COPY streamlit_app.py ./
 COPY src/ ./src/
 
+# ✅ Copy your PDFs for document processing
+COPY data/raw/rag_source/ /data/raw/rag_source/
+
 RUN pip3 install -r requirements.txt
 
 EXPOSE 8501
