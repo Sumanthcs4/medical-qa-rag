@@ -1,10 +1,11 @@
 # src/core/vector_database.py
 
-import os
+import os, sys
 import faiss
 import numpy as np
 import pickle
 from src.utils.logger import setup_logger
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "../../")))
 from config import FAISS_INDEX_PATH, TEXT_CHUNKS_PATH
 
 logger = setup_logger()

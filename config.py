@@ -1,4 +1,6 @@
 import os, sys
+import os, sys
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "../../..")))
 EMBEDDING_MODEL_NAME = 'all-MiniLM-L6-v2'
 FAISS_INDEX_PATH = "artifacts/vector_store/faiss_index.idx"
 TEXT_CHUNKS_PATH = 'artifacts/vector_store/chunks.pkl'

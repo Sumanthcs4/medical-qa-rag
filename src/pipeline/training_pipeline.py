@@ -1,8 +1,10 @@
 # src/pipeline/train_pipeline.py
+import os, sys
 from src.utils.logger import setup_logger
 from src.core.document_processor import DocumentProcessor
 from src.core.embedding_engine import EmbeddingEngine
 from src.core.vector_database import VectorDatabase
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "../../")))
 from config import RAW_DATA_PATH
 
 logger = setup_logger()

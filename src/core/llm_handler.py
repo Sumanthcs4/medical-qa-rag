@@ -1,6 +1,7 @@
 # In src/core/llm_handler.py
-
+import sys, os
 from transformers import AutoModelForCausalLM, AutoTokenizer
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "../../")))
 from config import LLM_MODEL_NAME
 from src.utils.logger import setup_logger
 
