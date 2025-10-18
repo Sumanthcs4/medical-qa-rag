@@ -1,7 +1,4 @@
-# streamlit_app.py
-
-import sys, os
-# 👇 Add this to make sure Python can find the 'src' folder
+import os, sys
 sys.path.append(os.path.abspath("src"))
 
 import streamlit as st
