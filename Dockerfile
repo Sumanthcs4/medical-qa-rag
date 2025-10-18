@@ -1,3 +1,5 @@
+FROM python:3.13.5-slim
+
 WORKDIR /app
 
 RUN apt-get update && apt-get install -y \
@@ -6,16 +8,9 @@ RUN apt-get update && apt-get install -y \
     git \
     && rm -rf /var/lib/apt/lists/*
 
-
 COPY requirements.txt ./
-
-# Copy config.py
 COPY config.py ./
-
-# Copy Streamlit app file
 COPY streamlit_app.py ./
-
-# Copy source code folder
 COPY src/ ./src/
 
 RUN pip3 install -r requirements.txt
