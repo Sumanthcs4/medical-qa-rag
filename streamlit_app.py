@@ -1,6 +1,10 @@
 # streamlit_app.py
 import os, sys
-sys.path.append(os.path.abspath("."))  # "." is project root
+
+# Ensure project root is in path
+ROOT_DIR = os.path.abspath(".")
+if ROOT_DIR not in sys.path:
+    sys.path.append(ROOT_DIR)
 
 import streamlit as st
 from src.pipeline.inference_pipeline import InferencePipeline
