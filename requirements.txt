@@ -25,3 +25,4 @@ langchain-community
 langchain-core
 huggingface-hub
 pydantic
+langchain-text-splitters

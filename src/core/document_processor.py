@@ -3,7 +3,8 @@
 # --- 1. IMPORTS ---
 # We keep all the necessary imports from your script.
 from pathlib import Path
-from langchain.text_splitters import RecursiveCharacterTextSplitter
+from langchain_text_splitters import RecursiveCharacterTextSplitter
+
 import fitz  # PyMuPDF
 from src.utils.logger import setup_logger
 
