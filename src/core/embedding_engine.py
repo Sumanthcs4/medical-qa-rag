@@ -21,7 +21,7 @@ class EmbeddingEngine:
         self.model = SentenceTransformer(model_name)
         logger.info(f"Loaded embedding model: {model_name}")
 
-    def generate_embedding(self, text_chunks):
+    def generate_embeddings(self, text_chunks):
         embeddings = self.model.encode(text_chunks)
         logger.info(f"Generated embeddings for {len(text_chunks)} text chunks")
         return embeddings
