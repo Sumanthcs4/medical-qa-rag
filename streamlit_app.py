@@ -3,7 +3,7 @@ import os, sys
 sys.path.append(os.path.abspath("."))  # "." is project root
 
 import streamlit as st
-from pipeline.inference_pipeline import InferencePipeline
+from src.pipeline.inference_pipeline import InferencePipeline
 
 # --- 1. The Caching Function (Crucial for Performance) ---
 @st.cache_resource
