@@ -1,12 +1,20 @@
 import os, sys
 
-# ✅ Add this to make root imports (like `config`) work
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "../../..")))
+# ✅ Add project root to sys.path so imports like `from config import ...` work
+ROOT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../"))
+if ROOT_DIR not in sys.path:
+    sys.path.append(ROOT_DIR)
 
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from sentence_transformers import SentenceTransformer
 
-from config import EMBEDDING_MODEL_NAME  # Works now
+try:
+    from config import EMBEDDING_MODEL_NAME  # should work now
+except ModuleNotFoundError as e:
+    raise ModuleNotFoundError(
+        f"Failed to import config. sys.path={sys.path}, error={e}"
+    )
+
 from src.utils.logger import setup_logger
 
 logger = setup_logger()
