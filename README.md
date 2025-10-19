@@ -4,11 +4,13 @@
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20-Open%20in%20Spaces-blue.svg)](https://huggingface.co/spaces/Sumanth4/medical-qa-rag)
 [![Python](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/)
 
+
+![Medical QA RAG System Screenshot](assets/app_screenshot.png)
 ---
 
 ## 🌟 Project Overview
 
-An intelligent **Medical Question-Answering System** that combines domain expertise with real-time knowledge retrieval to deliver accurate, contextually grounded medical information.
+An end-to-end Medical RAG system. This application uses a custom-trained Llama 2 model to understand medical queries and retrieves factual context from a FAISS vector database to generate accurate, evidence-based answers.
 
 ### Core Capabilities
 
@@ -98,7 +100,7 @@ medical-qa-rag/
 │   └── vector_store/                # FAISS index + chunks
 │
 ├── notebooks/
-│   └── 3_model_finetuning.ipynb     # Training notebook
+│   └── model_finetuning.ipynb     # Training notebook
 │
 └── src/
     ├── core/                         # Core functionality
