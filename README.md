@@ -261,6 +261,7 @@ Contributions are welcome! Please feel free to submit issues, fork the repositor
 
 **Project Maintainer**: Sumanth  
 **Hugging Face**: [@Sumanth4](https://huggingface.co/Sumanth4)
+**Email**: [@Sumanth C S](mailto:ssumanth510@gmail.com)
 
 ---
 
