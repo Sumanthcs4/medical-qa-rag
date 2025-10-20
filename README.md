@@ -1,4 +1,4 @@
-# 🩺 Medical Question-Answering with RAG and Fine-Tuned Llama 2
+#  Medical Question-Answering with RAG and Fine-Tuned Llama 2
 
 [![License: Llama 2](https://img.shields.io/badge/License-Llama%202-yellow.svg)](https://ai.meta.com/resources/models-and-libraries/llama-downloads/)
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20-Open%20in%20Spaces-blue.svg)](https://huggingface.co/spaces/Sumanth4/medical-qa-rag)
@@ -8,7 +8,7 @@
 ![Medical QA RAG System Screenshot](assets/app_screenshot.png)
 ---
 
-## 🌟 Project Overview
+##  Project Overview
 
 An end-to-end Medical RAG system. This application uses a custom-trained Llama 2 model to understand medical queries and retrieves factual context from a FAISS vector database to generate accurate, evidence-based answers.
 
@@ -19,23 +19,23 @@ An end-to-end Medical RAG system. This application uses a custom-trained Llama 2
 - **Instant Access**: Query a comprehensive knowledge base of medical research papers in real-time
 - **Production-Ready**: Deployed on Hugging Face Spaces with Streamlit interface
 
-> 💡 **Key Insight:** This system functions like an expert physician with both specialized training and instant access to a complete medical library, ensuring responses are both knowledgeable and evidence-based.
+>  **Key Insight:** This system functions like an expert physician with both specialized training and instant access to a complete medical library, ensuring responses are both knowledgeable and evidence-based.
 
 ---
 
-## ✨ Live Demo
+##  Live Demo
 
 Experience the system in action with our deployed demo using TinyLlama for accessibility:
 
-**[➡️ Try the Live Demo](https://huggingface.co/spaces/Sumanth4/medical-qa-rag)**
+**[ Try the Live Demo](https://huggingface.co/spaces/Sumanth4/medical-qa-rag)**
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 The system is built on **three interconnected pipelines**:
 
-### 1️⃣ Fine-Tuning Pipeline
+###  Fine-Tuning Pipeline
 Transforms the base LLM into a medical domain expert through specialized training.
 
 ```mermaid
@@ -49,7 +49,7 @@ graph TD;
 
 **Purpose**: Teaches the model medical terminology, reasoning patterns, and response styles
 
-### 2️⃣ RAG Indexing Pipeline
+###  RAG Indexing Pipeline
 Creates a searchable vector database from medical literature.
 
 ```mermaid
@@ -63,7 +63,7 @@ graph TD;
 
 **Purpose**: Builds the knowledge base for contextual retrieval during inference
 
-### 3️⃣ Inference Pipeline
+###  Inference Pipeline
 Combines fine-tuned intelligence with retrieved context for optimal answers.
 
 ```mermaid
@@ -81,7 +81,7 @@ graph TD;
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 medical-qa-rag/
@@ -120,7 +120,7 @@ medical-qa-rag/
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 ### AI/ML Framework
 - **Deep Learning**: PyTorch, Transformers (Hugging Face)
@@ -149,7 +149,7 @@ medical-qa-rag/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Python 3.11+
@@ -201,7 +201,7 @@ Access the application at `http://localhost:8501`
 
 ---
 
-## 📊 Model Performance
+##  Model Performance
 
 Evaluation metrics on the `medical_meadow_medqa` test split:
 
@@ -219,7 +219,7 @@ Evaluation metrics on the `medical_meadow_medqa` test split:
 
 ---
 
-## 🔮 Roadmap & Future Enhancements
+##  Roadmap & Future Enhancements
 
 ### Evaluation & Metrics
 - [ ] Implement RAG retrieval evaluation (Hit Rate, MRR)
@@ -245,19 +245,19 @@ Evaluation metrics on the `medical_meadow_medqa` test split:
 
 ---
 
-## 📝 License
+##  License
 
 This project uses the Llama 2 model, which is subject to Meta's Llama 2 Community License Agreement. See the [official license](https://ai.meta.com/resources/models-and-libraries/llama-downloads/) for details.
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please feel free to submit issues, fork the repository, and create pull requests.
 
 ---
 
-## 📧 Contact
+##  Contact
 
 **Project Maintainer**: Sumanth  
 **Hugging Face**: [@Sumanth4](https://huggingface.co/Sumanth4)
@@ -265,7 +265,7 @@ Contributions are welcome! Please feel free to submit issues, fork the repositor
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Meta AI for the Llama 2 model
 - Hugging Face for infrastructure and model hosting
@@ -273,4 +273,4 @@ Contributions are welcome! Please feel free to submit issues, fork the repositor
 
 ---
 
-**⭐ If you find this project useful, please consider giving it a star!**
+** If you find this project useful, please consider giving it a star!**
